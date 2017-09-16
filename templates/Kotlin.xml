@@ -1,0 +1,9 @@
+<templateSet group="Kotlin">
+  <template name="singleton" value="object $Name$ : Parcelable {&#10;&#10;    override fun writeToParcel(dest: Parcel?, flags: Int) {}&#10;&#10;    override fun describeContents(): Int = 0&#10;&#10;    @JvmField&#10;    val CREATOR: Parcelable.Creator&lt;$Name$&gt; = object : Parcelable.Creator&lt;$Name$&gt; {&#10;        override fun createFromParcel(source: Parcel): $Name$ = $Name$&#10;&#10;        override fun newArray(size: Int): Array&lt;$Name$&gt; = arrayOf()&#10;    }&#10;&#10;    $END$&#10;}" description="Create a singleton in kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
