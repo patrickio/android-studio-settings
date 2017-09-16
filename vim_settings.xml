@@ -51,6 +51,12 @@
         <mark key="." line="66" column="30" />
         <mark key="^" line="62" column="70" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505547054838">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/BigQuestionDecoder.java" timestamp="1505381205396">
         <mark key="'" line="114" column="21" />
         <mark key="[" line="107" column="86" />
@@ -115,6 +121,7 @@
         <mark key="." line="257" column="52" />
         <mark key="^" line="257" column="52" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/LoggableFutureTask.kt" timestamp="1505547045611" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1505438440115">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="53" column="34" />
@@ -212,7 +219,6 @@
         <mark key="." line="34" column="105" />
         <mark key="^" line="34" column="105" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseCenterFragment.kt" timestamp="1505468846012" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="13" />
