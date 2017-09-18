@@ -120,16 +120,16 @@
         <mark key="." line="152" column="37" />
         <mark key="^" line="152" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs_live_player.xml" timestamp="1505727582515">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs_live_player.xml" timestamp="1505728031404">
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="3" column="71" />
+        <mark key="." line="3" column="71" />
+        <mark key="^" line="3" column="71" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505534198431">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505728143358">
         <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="29" />
-        <mark key="^" line="35" column="29" />
-        <mark key="." line="35" column="29" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/Decoder.java" timestamp="1505378513762">
         <mark key="'" line="0" column="0" />
@@ -497,37 +497,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0icHJlZl8iIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0icHJlZl8iIAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxMaXN0UHJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxQcmUK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0icHJlZl8iIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcCAK</text>
+        <text encoding="base64">ICAgIDxMaXN0UHJlZmVyZW5jZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJTU1hbmFnZXIuZ3JvdXBUaXBMaXN0ZW5lciA9Cg==</text>
+        <text encoding="base64">ICAgIDxQcmUK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG9iamVjdCA6IElNR3JvdXBUaXBMaXN0ZW5lciB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkJhbkNoYXQoaXNXaG9sZUxlc3NvbjogQm9vbGVhbiwgZHVyYXRpb246IExvbmcpIHsKICAgICAgICAgICAgICAgIGlmICghZW1pdHRlci5pc0Rpc3Bvc2VkKQogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KExpdmVDaGF0QmFuKGlzV2hvbGVMZXNzb24sIGR1cmF0aW9uKSkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgcCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJTU1hbmFnZXIuZ3JvdXBUaXBMaXN0ZW5lciA9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAi5ZOI5ZOIIgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IG9iamVjdCA6IElNR3JvdXBUaXBMaXN0ZW5lciB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkJhbkNoYXQoaXNXaG9sZUxlc3NvbjogQm9vbGVhbiwgZHVyYXRpb246IExvbmcpIHsKICAgICAgICAgICAgICAgIGlmICghZW1pdHRlci5pc0Rpc3Bvc2VkKQogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KExpdmVDaGF0QmFuKGlzV2hvbGVMZXNzb24sIGR1cmF0aW9uKSkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU1NYW5hZ2VyLm1lc3NhZ2VMaXN0ZW5lciA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pager</text>
