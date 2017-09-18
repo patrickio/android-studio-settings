@@ -333,11 +333,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505699722009">
-        <mark key="[" line="46" column="44" />
-        <mark key="]" line="46" column="48" />
-        <mark key="^" line="46" column="48" />
-        <mark key="." line="46" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505727887536">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/LongFillBlankDecoder.java" timestamp="1505380548454">
         <mark key="'" line="40" column="6" />
@@ -466,39 +466,39 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Education</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPuWQjeW4iOWcqOe6v+ivvjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPuWQjeW4iOWcqOe6v+ivvjwvc3RyaW5nPgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CiAgICBvCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>model?.apply {
             
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gUG9sbGluZyB0aGUgY2hhdCByb29tIGluZm8ob25saW5lIG51bWJlciBhbmQgc2lsZW5jZSkgd2hlbiBlbnRlcgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3QK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Education</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>app_name</text>
