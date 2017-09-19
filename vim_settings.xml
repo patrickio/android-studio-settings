@@ -123,11 +123,12 @@
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1505822148144">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1505823671152">
+        <mark key="'" line="51" column="21" />
+        <mark key="[" line="67" column="1" />
+        <mark key="]" line="69" column="70" />
+        <mark key="." line="69" column="70" />
+        <mark key="^" line="69" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1505788650574">
         <mark key="'" line="23" column="0" />
@@ -427,6 +428,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1505525984178">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1505725085722">
         <mark key="'" line="300" column="8" />
         <mark key="[" line="287" column="0" />
@@ -523,10 +527,11 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
+      <file name="/fragment.java" timestamp="1505823216082">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SortingQuestionDecoder.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="8" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="12" column="46" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="16" column="38" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
@@ -625,62 +630,42 @@
       <jump line="171" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="265" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="156" column="73" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
+      <jump line="34" column="29" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
+      <jump line="50" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>/**
- * TODO: Add some description here
- *
- * @author finke
- */</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGF0YSBjbGFzcyBTdHVkZW4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/**
- * TODO: Add some description here
- *
- * @author finke
- */</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGF0YSBjbGFzcyBTdHVkZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIK</text>
+        <text encoding="base64">ICAgICAgICBwYXJjZWwud3JpdGVTdHJpbmcoUnRtcExpdmVVcmxzKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29tcGFuaW9uIG9iamVjdCBDUkVBVE9SIHsKCiAgICAgICAgZnVuIGNyZWF0ZUZyb21QYXJjZWwocGFyY2VsOiBQYXJjZWwpOiBMaXZlUlRNUEJlYW4gPSBMaXZlUlRNUEJlYW4ocGFyY2VsKQoKICAgICAgICBmdW4gbmV3QXJyYXkoc2l6ZTogSW50KTogQXJyYXk8TGl2ZVJUTVBCZWFuPz4gPSBhcnJheU9mTnVsbHMoc2l6ZSkKCiAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29tcGFuaW9uIG9iamVjdCBDUkVBVE9SIHsKCiAgICAgICAgZnVuIGNyZWF0ZUZyb21QYXJjZWwocGFyY2VsOiBQYXJjZWwpOiBMaXZlUlRNUEJlYW4gPSBMaXZlUlRNUEJlYW4ocGFyY2VsKQoKICAgICAgICBmdW4gbmV3QXJyYXkoc2l6ZTogSW50KTogQXJyYXk8TGl2ZVJUTVBCZWFuPz4gPSBhcnJheU9mTnVsbHMoc2l6ZSkKCiAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEVTVCIsICJwYWNrYWdlTmFtZSAkcGFja2FnZU5hbWUiKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29tcGFuaW9uIG9iamVjdCBDUkVBVE9SIHsKCiAgICAgICAgZnVuIGNyZWF0ZUZyb21QYXJjZWwocGFyY2VsOiBQYXJjZWwpOiBMaXZlUlRNUEJlYW4gPSBMaXZlUlRNUEJlYW4ocGFyY2VsKQoKICAgICAgICBmdW4gbmV3QXJyYXkoc2l6ZTogSW50KTogQXJyYXk8TGl2ZVJUTVBCZWFuPz4gPSBhcnJheU9mTnVsbHMoc2l6ZSkKCiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmdW4gY3JlYXRlRnJvbVBhcmNlbChwYXJjZWw6IFBhcmNlbCkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.subscribeBy {
-                        debug { &quot;receive group chat ban message: $it&quot; }
-                        isBanned = true
-                        view?.onBanInfoChanged(true, it)
-                        // release the ban after the specified delay
-                        releaseBanTimer(it)
-                    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.subscribeOn(Schedulers.newThread())
-                    .observeOn(AndroidSchedulers.mainThread())
-                    .subscribeBy {
-                        debug { &quot;receive group chat ban message: $it&quot; }
-                        isBanned = true
-                        view?.onBanInfoChanged(true, it)
-                        // release the ban after the specified delay
-                        releaseBanTimer(it)
-                    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyY2VsLnJlYWRTdHJpbmcoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>RtmpLiveUrl</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
