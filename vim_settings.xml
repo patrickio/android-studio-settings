@@ -133,7 +133,7 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505534198431">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505790135432">
         <mark key="[" line="35" column="26" />
         <mark key="]" line="35" column="29" />
         <mark key="." line="35" column="29" />
@@ -211,6 +211,13 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" timestamp="1505790989002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="182" column="52" />
+        <mark key="]" line="183" column="8" />
+        <mark key="^" line="183" column="8" />
+        <mark key="." line="183" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MultipleChoiceDecoder.java" timestamp="1505381011705">
         <mark key="'" line="65" column="34" />
@@ -307,6 +314,12 @@
         <mark key="." line="26" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/3aefd78a813244e8dcc3910e96a1e0a5/res/values/values.xml" timestamp="1505786112827" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1505531286239">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="33" column="64" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1505459373546">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="18" column="0" />
@@ -391,6 +404,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1505530532083">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505547054838">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="35" column="0" />
@@ -410,6 +429,9 @@
         <mark key="]" line="88" column="34" />
         <mark key="^" line="88" column="34" />
         <mark key="." line="88" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1505790710532">
+        <mark key="'" line="161" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/FillBlankDecoder.java" timestamp="1505382150695">
         <mark key="'" line="32" column="6" />
@@ -433,9 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="6" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/LongFillBlankDecoder.java" />
-      <jump line="33" column="13" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
-      <jump line="60" column="62" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
       <jump line="87" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
       <jump line="50" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
       <jump line="237" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
@@ -533,6 +552,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" />
       <jump line="68" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" />
       <jump line="106" column="24" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="161" column="54" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -569,13 +591,13 @@
         <text>2000</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>setVisibility</text>
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>setVisibility</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>setVisibility</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>decoder</entry>
         <entry>decode</entry>
         <entry>getDecode</entry>
         <entry>exercise</entry>
@@ -603,6 +624,7 @@
         <entry>pager</entry>
         <entry>exception</entry>
         <entry>stop</entry>
+        <entry>setVisibility</entry>
       </history-search>
       <history-cmd />
       <history-expr />
