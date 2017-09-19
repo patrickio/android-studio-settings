@@ -123,6 +123,12 @@
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="46" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1505822148144">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1505788650574">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="33" column="45" />
@@ -621,25 +627,36 @@
       <jump line="156" column="73" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIK</text>
+      <register name="1" type="4">
+        <text>/**
+ * TODO: Add some description here
+ *
+ * @author finke
+ */</text>
       </register>
       <register name="&quot;" type="4">
-        <text>android</text>
+        <text>/**
+ * TODO: Add some description here
+ *
+ * @author finke
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEVTVCIsICJwYWNrYWdlTmFtZSAkcGFja2FnZU5hbWUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEVTVCIsICJwYWNrYWdlTmFtZSAkcGFja2FnZU5hbWUiKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.subscribeBy {
                         debug { &quot;receive group chat ban message: $it&quot; }
                         isBanned = true
@@ -648,7 +665,7 @@
                         releaseBanTimer(it)
                     }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.subscribeOn(Schedulers.newThread())
                     .observeOn(AndroidSchedulers.mainThread())
                     .subscribeBy {
@@ -659,11 +676,8 @@
                         releaseBanTimer(it)
                     }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">T2JzZXJ2YWJsZS5jcmVhdGU8TGl2ZUNoYXRCYW4+IHsgZW1pdHRlciAtPgogICAgICAgIElNTWFuYWdlci5ncm91cFRpcExpc3RlbmVyID0gV2Vha1JlZmVyZW5jZSgKICAgICAgICAgICAgICAgIG9iamVjdCA6IElNR3JvdXBUaXBMaXN0ZW5lciB7CiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQmFuQ2hhdChpc1dob2xlTGVzc29uOiBCb29sZWFuLCBkdXJhdGlvbjogTG9uZykgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KExpdmVDaGF0QmFuKGlzV2hvbGVMZXNzb24sIGR1cmF0aW9uKSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgKQogICAgfS5kb09uRGlzcG9zZSB7CiAgICAgICAgSU1NYW5hZ2VyLmdyb3VwVGlwTGlzdGVuZXIgPSBudWxsCiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>android</text>
