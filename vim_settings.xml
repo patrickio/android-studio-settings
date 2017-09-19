@@ -35,12 +35,12 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" timestamp="1505524864839">
-        <mark key="'" line="70" column="31" />
-        <mark key="[" line="94" column="84" />
-        <mark key="]" line="95" column="20" />
-        <mark key="^" line="95" column="20" />
-        <mark key="." line="95" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" timestamp="1505789194869">
+        <mark key="'" line="108" column="24" />
+        <mark key="[" line="123" column="23" />
+        <mark key="]" line="124" column="22" />
+        <mark key="^" line="124" column="22" />
+        <mark key="." line="124" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_emoticon.xml" timestamp="1505391554924">
         <mark key="[" line="9" column="34" />
@@ -266,12 +266,12 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1505788325218">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1505788650574">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="7" />
-        <mark key="^" line="49" column="7" />
-        <mark key="." line="49" column="7" />
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="58" />
+        <mark key="^" line="33" column="58" />
+        <mark key="." line="33" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505787045076">
         <mark key="[" line="14" column="38" />
@@ -433,8 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" />
-      <jump line="73" column="71" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" />
       <jump line="39" column="6" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/LongFillBlankDecoder.java" />
       <jump line="33" column="13" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
       <jump line="60" column="62" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
@@ -533,13 +531,15 @@
       <jump line="13" column="7" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" />
       <jump line="34" column="44" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" />
+      <jump line="68" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" />
+      <jump line="106" column="24" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0biIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgogICAgPGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdQYWdlcgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlld1BhZ2VyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tyle</text>
+        <text>2000</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZyYWdtZW50Lk9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyCg==</text>
@@ -566,25 +566,23 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>tyle</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>stop</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>stop</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern>stop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendMessage</entry>
-        <entry>onSend</entry>
         <entry>decoder</entry>
         <entry>decode</entry>
         <entry>getDecode</entry>
@@ -603,6 +601,8 @@
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry>viewpager</entry>
         <entry>pager</entry>
+        <entry>exception</entry>
+        <entry>stop</entry>
       </history-search>
       <history-cmd />
       <history-expr />
