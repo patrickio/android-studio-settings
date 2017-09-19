@@ -24,12 +24,12 @@
         <mark key="^" line="46" column="38" />
         <mark key="." line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1505805958922">
-        <mark key="'" line="178" column="16" />
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="54" />
-        <mark key="." line="67" column="54" />
-        <mark key="^" line="67" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1505806683017">
+        <mark key="'" line="157" column="73" />
+        <mark key="[" line="158" column="46" />
+        <mark key="]" line="158" column="40" />
+        <mark key="." line="158" column="40" />
+        <mark key="^" line="158" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
@@ -280,7 +280,7 @@
         <mark key="i" line="74" column="4" />
         <mark key="[" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/processors/PublishProcessor.java" timestamp="1505806094773" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/processors/PublishProcessor.java" timestamp="1505806139887" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_in_anim.xml" timestamp="1505436936572">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="4" />
@@ -539,8 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/BigQuestionDecoder.java" />
-      <jump line="255" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SortingQuestionDecoder.java" />
       <jump line="260" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SortingQuestionDecoder.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="8" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
@@ -639,40 +637,42 @@
       <jump line="29" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
       <jump line="45" column="71" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" />
       <jump line="171" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
+      <jump line="265" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
+      <jump line="156" column="73" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZlcgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0OiBDb250ZXh0LCBwZXJzb246IExpdmVQZXJzb24sIHZhbCBjb3Vyc2VJZDogU3RyaW5nKSA6IExpdmVCYXNlTW9kZWwoY29udGV4dCwgcGVyc29uKSwgSUxpdmVDaGF0TW9kZWwsIElNTWVzc2FnZUxpc3RlbmVyIHsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBUaGUgcHVibGlzaGVyIHdvdWxkIHB1Ymxpc2ggbmV3IG1lc3NhZ2UgdG8gaXQncyBzdWJzY3JpYmVycwogICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0OiBDb250ZXh0LCBwZXJzb246IExpdmVQZXJzb24sIHZhbCBjb3Vyc2VJZDogU3RyaW5nKSA6IExpdmVCYXNlTW9kZWwoY29udGV4dCwgcGVyc29uKSwgSUxpdmVDaGF0TW9kZWwsIElNTWVzc2FnZUxpc3RlbmVyIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG5ld01lc3NhZ2VDb25uZWN0aW9uOiBEaXNwb3NhYmxlPyA9IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdNZXNzYWdlUHVibGlzaGVyPy5vbm5leAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG5ld01lc3NhZ2VPYnNlcnZhYmxlOiBPYnNlcnZhYmxlPEFycmF5PElNTWVzc2FnZT4+PyA9IG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm5ldHdvcmsuY29yZS5OZXR3b3JrCg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YXIgbmV3TWVzc2FnZVB1Ymxpc2hlcjogQ29ubmVjdGFibGVPYnNlcnZhYmxlPEFycmF5PElNTWVzc2FnZT4+PyA9IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGF0dGVudGlvbkJlYW46IExpdmVBdHRlbnRpb25CZWFuPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBuZXdNZXNzYWdlQ29ubmVjdGlvbj8uZGlzcG9zZUlmTm90KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5mdW5jdGlvbnMuQ29uc3VtZXIK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkaXNjb25uZWN0IHRoZSBwdWJsaXNoZXIsIGRpc3Bvc2UgaXQncyByZXNvdXJjZSBhbmQgbWVtb3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm5ldHdvcmsuY29yZS5OZXR3b3JrCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICBjb250ZXh0</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
