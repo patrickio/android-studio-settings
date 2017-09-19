@@ -296,6 +296,11 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/core/NetworkConstant.kt" timestamp="1505793490308">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/LongFillBlankDecoder.java" timestamp="1505380548454">
         <mark key="'" line="40" column="6" />
         <mark key="[" line="76" column="49" />
@@ -561,38 +566,38 @@
       <jump line="77" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkSubmittedFragment.kt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0biIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgogICAgPGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdQYWdlcgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlld1BhZ2VyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>2000</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZyYWdtZW50Lk9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZyYWdtZW50LkJhc2VGcmFnbWVudAo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICB9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0biIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgogICAgPGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdQYWdlcgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlld1BhZ2VyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZyYWdtZW50Lk9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ki8KICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZyYWdtZW50LkJhc2VGcmFnbWVudAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
