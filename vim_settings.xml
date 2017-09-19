@@ -405,6 +405,12 @@
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" timestamp="1505809731039">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_normal_message.xml" timestamp="1505808676968">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="28" />
@@ -618,8 +624,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjVkcCIK</text>
+      <register name="&quot;" type="4">
+        <text>android</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCIK</text>
@@ -660,7 +666,7 @@
         <text encoding="base64">T2JzZXJ2YWJsZS5jcmVhdGU8TGl2ZUNoYXRCYW4+IHsgZW1pdHRlciAtPgogICAgICAgIElNTWFuYWdlci5ncm91cFRpcExpc3RlbmVyID0gV2Vha1JlZmVyZW5jZSgKICAgICAgICAgICAgICAgIG9iamVjdCA6IElNR3JvdXBUaXBMaXN0ZW5lciB7CiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQmFuQ2hhdChpc1dob2xlTGVzc29uOiBCb29sZWFuLCBkdXJhdGlvbjogTG9uZykgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KExpdmVDaGF0QmFuKGlzV2hvbGVMZXNzb24sIGR1cmF0aW9uKSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgKQogICAgfS5kb09uRGlzcG9zZSB7CiAgICAgICAgSU1NYW5hZ2VyLmdyb3VwVGlwTGlzdGVuZXIgPSBudWxsCiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
