@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/26.0.2/ea2c1d3863413e64c17479312ee5e81c83ed35e9/support-compat-26.0.2-sources.jar!/android/support/v4/net/ConnectivityManagerCompat.java" timestamp="1505551236782" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SortingQuestionDecoder.java" timestamp="1505381454251">
         <mark key="'" line="261" column="20" />
         <mark key="[" line="152" column="37" />
@@ -128,6 +129,7 @@
         <mark key="." line="106" column="37" />
         <mark key="^" line="106" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/LoggableFutureTask.kt" timestamp="1505547045611" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1505438440115">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="53" column="34" />
@@ -231,12 +233,11 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1505698203470">
-        <mark key="'" line="31" column="34" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1505530532083">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1505443035248">
         <mark key="'" line="191" column="17" />
@@ -327,17 +328,18 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/net/ConnectivityManager.class" timestamp="1505551027631" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1505393436982">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505727887536">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505534198431">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="29" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="35" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/LongFillBlankDecoder.java" timestamp="1505380548454">
         <mark key="'" line="40" column="6" />
@@ -353,16 +355,13 @@
         <mark key="^" line="95" column="20" />
         <mark key="." line="95" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/strings.xml" timestamp="1505699054974">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1505455172790">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="36" column="6" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
+      <jump line="296" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
       <jump line="30" column="6" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" />
       <jump line="63" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" />
       <jump line="73" column="71" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" />
@@ -461,56 +460,54 @@
       <jump line="219" column="33" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="460" column="86" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="468" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
-      <jump line="30" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
-      <jump line="2" column="18" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIHRydWUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPuWQjeW4iOWcqOe6v+ivvjwvc3RyaW5nPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CiAgICBvCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>model?.apply {
             
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gUG9sbGluZyB0aGUgY2hhdCByb29tIGluZm8ob25saW5lIG51bWJlciBhbmQgc2lsZW5jZSkgd2hlbiBlbnRlcgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3QK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG0K</text>
+      </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>app_name</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>app_name</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>app_name</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -534,7 +531,6 @@
         <entry>mAlertDialog</entry>
         <entry>fetchChatRoomInfo</entry>
         <entry encoding="base64">XDwpXD4=</entry>
-        <entry>app_name</entry>
       </history-search>
       <history-cmd />
       <history-expr />
