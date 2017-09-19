@@ -22,6 +22,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4-commons/0.10.1/1ca648df4297db080be8cde9f2c19f4961d6c84f/anko-support-v4-commons-0.10.1-sources.jar!/SupportDialogs.kt" timestamp="1505792188787" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/BigQuestionDecoder.java" timestamp="1505381205396">
         <mark key="'" line="114" column="21" />
         <mark key="[" line="107" column="86" />
@@ -152,6 +153,9 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkSubmittedFragment.kt" timestamp="1505792000645">
+        <mark key="'" line="77" column="1" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/TextbookSolution/Tutor/src/main/java/com/readboy/tool/AppConfig.java" timestamp="1505786631985">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="80" column="5" />
@@ -245,6 +249,12 @@
         <mark key="]" line="62" column="33" />
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="130" column="29" />
+        <mark key="^" line="130" column="29" />
+        <mark key="." line="130" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1505787052725">
         <mark key="'" line="2" column="0" />
@@ -344,12 +354,6 @@
         <mark key="]" line="21" column="62" />
         <mark key="^" line="21" column="62" />
         <mark key="." line="21" column="62" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1505725085722">
-        <mark key="'" line="300" column="8" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/widget/ExerciseCheckBox.java" timestamp="1505380971308">
         <mark key="'" line="21" column="13" />
@@ -455,8 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
-      <jump line="50" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
       <jump line="237" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
       <jump line="32" column="6" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MultipleChoiceDecoder.java" />
       <jump line="57" column="62" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MultipleChoiceDecoder.java" />
@@ -555,6 +557,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="161" column="54" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkSubmittedFragment.kt" />
+      <jump line="77" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkSubmittedFragment.kt" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -591,13 +595,13 @@
         <text>2000</text>
       </register>
       <register name="/" type="4">
-        <text>setVisibility</text>
+        <text>size</text>
       </register>
     </registers>
     <search>
-      <last-search>setVisibility</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern>setVisibility</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -605,8 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>decode</entry>
-        <entry>getDecode</entry>
         <entry>exercise</entry>
         <entry>ExerciseLayout</entry>
         <entry>view?.onExer</entry>
@@ -625,6 +627,8 @@
         <entry>exception</entry>
         <entry>stop</entry>
         <entry>setVisibility</entry>
+        <entry>size()</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -660,6 +664,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
