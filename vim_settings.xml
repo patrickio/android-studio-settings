@@ -249,6 +249,7 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Android/Sdk/sources/android-22/android/support/v4/widget/NestedScrollView.java" timestamp="1505898366967" />
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1505467598789">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -291,11 +292,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" timestamp="1505893467259">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" timestamp="1505898866143">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1505894521239">
         <mark key="[" line="98" column="57" />
@@ -343,6 +344,12 @@
         <mark key="]" line="21" column="39" />
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1505898736296">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="60" column="28" />
+        <mark key="." line="56" column="12" />
+        <mark key="^" line="56" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
@@ -464,40 +471,40 @@
       <jump line="48" column="39" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRlc3Ryb3koKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IDxpbnRlbnQtZmlsdGVyPgogICAgICAgICAgICAgICAgPGFjdGlvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmFjdGlvbi5NQUlOIiAvPgoKICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIiAvPgogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>W</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm5ldHdvcmsuY29yZS5OZXR3b3JrCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRlc3Ryb3koKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm5ldHdvcmsuY29yZS5OZXR3b3JrCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCA5YTcxMDA0NjZlMDY4ZmM1ZGNhZTYzYmRhZGExM2Y2NzNiNzBkZAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>16
         titleTextView.text = grade.F_name
 =======</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBGaXggY3Jhc2ggaXNzdWUgd2hlbiB1c2VyY2VudGVyIG5vdCBsb2dpbgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUU6IFJlcGxhY2Ugd2l0aCB0aGUgcmVhbCBjb3Vyc2UgaWQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUV4ZXJjaXNlRnJhZ21lbnQgPSBMaXZlRXhlcmNpc2VGcmFnbWVudC5uZXdJbnN0YW5jZShwZXJzb24hISwgIjAxMjAxNjA1MjgxNjA2NDA1MjY0IikK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IHVpZENoYW5nZWQoKQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
         <text>ExerciseLayout</text>
