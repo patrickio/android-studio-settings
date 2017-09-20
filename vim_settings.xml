@@ -235,11 +235,12 @@
         <mark key="^" line="343" column="49" />
         <mark key="." line="427" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1505887139002">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1505889812501">
+        <mark key="'" line="161" column="16" />
+        <mark key="[" line="132" column="18" />
+        <mark key="]" line="132" column="18" />
+        <mark key="." line="132" column="18" />
+        <mark key="^" line="132" column="135" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -335,12 +336,6 @@
         <mark key="^" line="80" column="64" />
         <mark key="." line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" timestamp="1505872913908">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1505824423177">
         <mark key="'" line="51" column="21" />
         <mark key="[" line="163" column="22" />
@@ -393,10 +388,10 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1505887045697">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1505889756975">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveChatBean.kt" timestamp="1505877324696">
         <mark key="[" line="5" column="39" />
@@ -574,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" />
       <jump line="83" column="47" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="93" column="9" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="49" column="44" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/layout_chat_input.xml" />
@@ -674,42 +668,47 @@
       <jump line="185" column="68" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="193" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
+      <jump line="159" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjI0ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRyYXdhYmxlRW5kPSJAZHJhd2FibGUvaWNfZXhwYW5kX21vcmVfYmxhY2tfMjRkcCIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>24</text>
+        <text>setCompoundDrawablesRelative</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnByZXNlbnRlci5MaXZlU3RhdHVzUHJlc2VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm1vZGVsLkxpdmVTdGF0dXNNb2RlbAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuTG9vcGVyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlcgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXciLz4K</text>
       </register>
-      <register name="8" type="4">
-        <text>override fun onPause() {
-        super.onPause()
-    }</text>
+      <register name="5" type="4">
+        <text>w
+        android:layout_width=&quot;wrap_content&quot;
+        android:layout_height=&quot;wrap_content&quot;
+        app:srcCompat=&quot;@drawable/ic_expand_more_black_24dp&quot;
+        app:layout_constraintStart_toEndOf=&quot;@id/titleTextView&quot;
+        app:layout_constraintTop_toTopOf=&quot;@id/titleTextView&quot;
+        app:layout_constraintBottom_toBottomOf=&quot;@id/titleTextVie</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJnaW5TCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2dvbmVNYXJnaW5TdGFydD0iMjBkcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtTGl2ZVN0YXR1c1ByZXNlbnRlcj8uc3RvcExpdmVTdGF0dXNQb2xsaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjI0ZHAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text>setCompoundDrawablesRelative</text>
       </register>
       <register name="/" type="4">
         <text>leave</text>
