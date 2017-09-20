@@ -436,6 +436,12 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/menu/menu_main_activity.xml" timestamp="1505878887578">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveChatApis.kt" timestamp="1505825167676">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -660,33 +666,33 @@
       <jump line="245" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19zZSIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19zZSIK</text>
+      </register>
+      <register name="2" type="4">
         <text>parent&quot;
         app:layout_constraintTop_toTopOf</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>actionbar_text_color7</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5yZXRyeURlbGF5Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIVRlKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2IK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmV0cnlEZWxheShJTGl2ZVByZXNlbnRlci5QT0xMSU5HX0lOVEVSVkFMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmV0cnlEZWxheShJTGl2ZVByZXNlbnRlci5QT0xMSU5HX0lOVEVSVkFMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpCg==</text>
