@@ -143,10 +143,10 @@
         <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/Prefrence.kt" timestamp="1505890363847">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="11" />
-        <mark key="^" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1505824423177">
         <mark key="'" line="51" column="21" />
@@ -417,13 +417,6 @@
         <mark key="^" line="343" column="49" />
         <mark key="." line="427" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1505891820997">
-        <mark key="'" line="168" column="16" />
-        <mark key="[" line="68" column="44" />
-        <mark key="]" line="68" column="44" />
-        <mark key="." line="68" column="44" />
-        <mark key="^" line="68" column="44" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="28" />
@@ -475,11 +468,11 @@
         <mark key="^" line="80" column="64" />
         <mark key="." line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" timestamp="1505810694441">
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" timestamp="1505893467259">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_normal_message.xml" timestamp="1505808676968">
         <mark key="[" line="7" column="27" />
@@ -566,11 +559,6 @@
         <mark key="]" line="88" column="34" />
         <mark key="^" line="88" column="34" />
         <mark key="." line="88" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1505890512862">
-        <mark key="[" line="73" column="75" />
-        <mark key="]" line="73" column="75" />
-        <mark key="." line="73" column="75" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/FillBlankDecoder.java" timestamp="1505382150695">
         <mark key="'" line="32" column="6" />
@@ -699,8 +687,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>双师在线课</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBnZXQoKSA9IHVpZENoYW5nZWQoKQo=</text>
@@ -727,7 +715,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>双师在线课</text>
       </register>
       <register name="/" type="4">
         <text>leave</text>
