@@ -141,6 +141,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/WeChatSDK_sample_Android/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java" timestamp="1505975212337" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SettingsActivity.kt" timestamp="1505734957271">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -170,6 +171,11 @@
         <mark key="]" line="62" column="33" />
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/build.gradle" timestamp="1505974652131">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
@@ -467,7 +473,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>compile</text>
+        <text>.0.2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -494,7 +500,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbiIK</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>.0.2</text>
       </register>
       <register name="/" type="4">
         <text>Nested</text>
