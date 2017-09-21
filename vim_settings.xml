@@ -75,11 +75,11 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505957016286">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-        <mark key="^" line="32" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505964584934">
+        <mark key="[" line="99" column="4" />
+        <mark key="]" line="99" column="4" />
+        <mark key="." line="99" column="4" />
+        <mark key="^" line="99" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1505959796781">
         <mark key="'" line="147" column="38" />
@@ -246,6 +246,7 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/WeChatSDK_sample_Android/app/src/main/AndroidManifest.xml" timestamp="1505965065668" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1505459373546">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="18" column="0" />
@@ -461,8 +462,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>compile</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -489,7 +490,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbiIK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VzXD4=</text>
