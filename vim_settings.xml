@@ -338,6 +338,9 @@
         <mark key="^" line="37" column="30" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" timestamp="1505965306216">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1505872387099">
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="81" />
@@ -357,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/dialog_live_scoring.xml" />
       <jump line="38" column="68" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
       <jump line="22" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
       <jump line="85" column="31" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
@@ -457,6 +459,7 @@
       <jump line="147" column="38" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
       <jump line="21" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="23" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -493,21 +496,20 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VzXD4=</text>
+        <text>Nested</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VzXD4=</last-search>
+      <last-search>Nested</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VzXD4=</last-pattern>
+      <last-pattern>Nested</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry>viewpager</entry>
         <entry>pager</entry>
@@ -527,6 +529,7 @@
         <entry>ExerciseLayout</entry>
         <entry>intent</entry>
         <entry encoding="base64">XDx1c2VzXD4=</entry>
+        <entry>Nested</entry>
       </history-search>
       <history-cmd />
       <history-expr />
