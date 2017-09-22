@@ -85,11 +85,11 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1505984719151">
-        <mark key="[" line="100" column="4" />
-        <mark key="]" line="100" column="17" />
-        <mark key="." line="100" column="17" />
-        <mark key="^" line="100" column="17" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1506041958995">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="57" column="58" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1505959796781">
         <mark key="'" line="147" column="38" />
@@ -171,7 +171,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/WeChatSDK_sample_Android/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java" timestamp="1505975212337" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/dependencies.gradle" timestamp="1505976721116">
         <mark key="'" line="29" column="3" />
         <mark key="[" line="0" column="0" />
@@ -196,7 +195,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/SDKs/AndroidDemo_2.0(SDK_15.4.1)/AndroidDemo_2.0/alipay_demo/app/src/main/java/com/alipay/sdk/pay/demo/Base64.java" timestamp="1505973185973" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_order.xml" timestamp="1505982463368">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -257,12 +255,6 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1505959287073">
-        <mark key="[" line="58" column="22" />
-        <mark key="]" line="60" column="53" />
-        <mark key="^" line="60" column="53" />
-        <mark key="." line="60" column="53" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -286,7 +278,6 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Android/Sdk/platforms/android-26/android.jar!/android/util/Log.class" timestamp="1505976194354" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1505891193802">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -304,7 +295,6 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/WeChatSDK_sample_Android/app/src/main/AndroidManifest.xml" timestamp="1505965065668" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1505459373546">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="18" column="0" />
@@ -412,17 +402,16 @@
         <mark key="]" line="78" column="54" />
         <mark key="." line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1505981375518">
-        <mark key="[" line="137" column="34" />
-        <mark key="]" line="137" column="47" />
-        <mark key="." line="137" column="47" />
-        <mark key="^" line="137" column="47" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="37" column="30" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506042135989">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" timestamp="1505965306216">
         <mark key="'" line="0" column="0" />
@@ -552,37 +541,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLioK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmFjdGl2aXR5LioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZW1vdmUgdW51c2VkIGJlYW4gY2xhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBkY2YwNTkzZjI0NzliNjJlMGFiNzM1OTAxNTI4OTBhMWY0MzczMzAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IumcgOaUr+S7mO+8mu+/pTc5OS4wIgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i5oql5ZCN6aKE57qm5oiQ5Yqf77yM6K+35ZyoMzYwMOenkuWGheWujOaIkOaUr+S7mCIK</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZW1vdmUgdW51c2VkIGJlYW4gY2xhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3N2X29yZGVyIgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmJlYW4uUHVzaE1lc3NhZ2VCZWFuOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgCiAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgIAogICAgCiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBkY2YwNTkzZjI0NzliNjJlMGFiNzM1OTAxNTI4OTBhMWY0MzczMzAyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>x.y.z</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
