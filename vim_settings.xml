@@ -15,6 +15,13 @@
         <mark key="^" line="46" column="38" />
         <mark key="." line="46" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1505877355256">
+        <mark key="'" line="258" column="0" />
+        <mark key="[" line="230" column="35" />
+        <mark key="]" line="230" column="36" />
+        <mark key="." line="230" column="36" />
+        <mark key="^" line="101" column="12" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
         <mark key="]" line="53" column="27" />
@@ -69,11 +76,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/ReactiveXExt.kt" timestamp="1506050951632">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="75" column="44" />
-        <mark key="." line="75" column="44" />
-        <mark key="^" line="75" column="44" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/ReactiveXExt.kt" timestamp="1506060173779">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveStatusModel.kt" timestamp="1505873014946">
         <mark key="[" line="34" column="69" />
@@ -106,12 +112,12 @@
         <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose-kotlin/0.2.0/5ec3a47cbdc23ada39d140d006687c44d584bb95/autodispose-kotlin-0.2.0-sources.jar!/com/uber/autodispose/kotlin/autodispose.kt" timestamp="1506050348436" />
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1506052314575">
-        <mark key="'" line="41" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="34" column="65" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1506059900671">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="28" column="64" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -132,6 +138,7 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxkotlin/2.1.0/bb2fb2c19137ee668730e201d2fef3c87604c457/rxkotlin-2.1.0-sources.jar!/io/reactivex/rxkotlin/subscribers.kt" timestamp="1506060029495" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1505891193802">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -150,13 +157,34 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1505877090654">
+        <mark key="'" line="260" column="89" />
+        <mark key="[" line="260" column="77" />
+        <mark key="]" line="260" column="77" />
+        <mark key="." line="260" column="77" />
+        <mark key="^" line="259" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/menu/menu_main_activity.xml" timestamp="1505878944375">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/wxapi/WXEntryActivity.kt" timestamp="1505977284634">
+        <mark key="'" line="0" column="38" />
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="^" line="27" column="64" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose-kotlin/0.2.0/22f415ee71571c17fd5229b3c8c07dd25da95b17/autodispose-kotlin-0.2.0.jar!/com/uber/autodispose/kotlin/AutodisposeKt.class" timestamp="1506046411818" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1505873581741">
+        <mark key="'" line="13" column="36" />
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="23" column="53" />
+        <mark key="." line="9" column="56" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/DecoderInterface.java" timestamp="1505380190663">
         <mark key="[" line="23" column="61" />
         <mark key="]" line="23" column="63" />
@@ -221,7 +249,7 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose/0.2.0/525b16bfe1cca4699d77111c2630d8c434312f9d/autodispose-0.2.0-sources.jar!/com/uber/autodispose/AutoDisposingObserverImpl.java" timestamp="1506047829584" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose/0.2.0/525b16bfe1cca4699d77111c2630d8c434312f9d/autodispose-0.2.0-sources.jar!/com/uber/autodispose/AutoDisposingObserverImpl.java" timestamp="1506052951742" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_emoticon.xml" timestamp="1505391554924">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="5" column="50" />
@@ -240,17 +268,23 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/LifecycleEventsObservable.kt" timestamp="1506051873079">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/LifecycleEventsObservable.kt" timestamp="1506059595052">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" timestamp="1505874192289">
+        <mark key="'" line="57" column="71" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1505467598789">
         <mark key="[" line="3" column="4" />
@@ -263,6 +297,13 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1505886907454">
+        <mark key="'" line="343" column="49" />
+        <mark key="[" line="427" column="58" />
+        <mark key="]" line="427" column="58" />
+        <mark key="^" line="343" column="49" />
+        <mark key="." line="427" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506042902901">
         <mark key="[" line="17" column="34" />
@@ -280,6 +321,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/dependencies.gradle" timestamp="1505976721116">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CachedStudentBean.kt" timestamp="1505824757987">
         <mark key="[" line="5" column="22" />
@@ -328,6 +376,7 @@
         <mark key="]" line="98" column="57" />
         <mark key="." line="98" column="57" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observer.java" timestamp="1506059532540" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_normal_message.xml" timestamp="1505808676968">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="28" />
@@ -339,11 +388,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506050237555">
-        <mark key="[" line="86" column="24" />
-        <mark key="]" line="87" column="39" />
-        <mark key="." line="86" column="24" />
-        <mark key="^" line="86" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="76" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveStatusPresenter.kt" timestamp="1505874212913">
         <mark key="[" line="6" column="0" />
@@ -502,39 +551,39 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuTGlmZWN5Y2xlCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5yeGtvdGxpbi5PbkVycm9yTm90SW1wbGVtZQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXJjaC5saWZlY3ljbGUuTGlmZWN5Y2xlCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5yeGtvdGxpbi5PbkVycm9yTm90SW1wbGVtZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50Lm1tLm9wZW5zZGsudXRpbHMuTG9nCg==</text>
+      <register name="2" type="4">
+        <text>ntedException
+import io.reactivex.rxkotlin.subscribeBy
+import io.reactivex.subjects.Subject</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmUoImVycm9yOiAiKSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlRFU1QiLCAib25OZXh0IikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRFU1QiLCAiZXJyb3I6ICRpdCIpCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-                        Log.d(&quot;TEST&quot;, &quot;onComplete&quot;)
-                    })</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpCiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">cml2YXRlIHZhbCBvbkNvbXBsZXRlU3R1YjogKCkgLT4gVW5pdCA9IHt9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSB2YWwgb25OZXh0U3R1YjogKEFueSkgLT4gVW5pdCA9IHt9CnByaXZhdGUgdmFsIG9uRXJyb3JTdHViOiAoVGhyb3dhYmxlKSAtPiBVbml0ID0geyB0aHJvdyBPbkVycm9yTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oaXQpIH0KcA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW50ZXJuYWwgZmJlKG9uTmV4dCwgb25FcnJvciwgb25Db21wbGV0ZSkK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">dW4gPFQ6IEFueT4gT2JzZXJ2YWJsZVN1YnNjcmliZVByb3h5LnN1YnNjcmliZUJ5KAogICAgICAgIG9uRXJyb3I6IChUaHJvd2FibGUpIC0+IFVuaXQgPSBvbkVycm9yU3R1YiwKICAgICAgICBvbkNvbXBsZXRlOiAoKSAtPiBVbml0ID0gb25Db21wbGV0ZVN0dWIsCiAgICAgICAgb25OZXh0OiAoVCkgLT4gVW5pdCA9IG9uTmV4dFN0dWIKKSA9IHN1YnNjcmk=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5NYXliZUVtaXR0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEVTVCIsICJvbkRlc3RvcnkiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5NYXliZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ON_START</text>
+        <text>io</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
