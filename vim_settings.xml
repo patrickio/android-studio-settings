@@ -119,6 +119,7 @@
         <mark key="." line="47" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose-android/0.2.0/d387b28e12b3771bc97a016b0c9c18b92bb719c8/autodispose-android-0.2.0-sources.jar!/com/uber/autodispose/android/ViewScopeProvider.java" timestamp="1506045582701" />
+      <file name="$USER_HOME$/AndroidStudioProjs/EducationCopy/app/src/main/res/layout/activity_subject_detail.xml" timestamp="1506072516277" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="47" />
@@ -339,6 +340,7 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/EducationCopy/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1506072640350" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Maybe.java" timestamp="1506047762594" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1505459373546">
         <mark key="[" line="17" column="35" />
