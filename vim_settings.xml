@@ -302,6 +302,11 @@
         <mark key="^" line="89" column="58" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MessageReceiver.kt" timestamp="1506067080028">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/build.gradle" timestamp="1506065647909">
         <mark key="'" line="3" column="3" />
         <mark key="[" line="25" column="0" />
@@ -511,34 +516,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmJlYW4uUHVzaE1lc3NhZ2VCZWFuCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmJlYW4uUHVzaE1lc3NhZ2VCZWFuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50ZXJuYWwgZnVuIDxUIDogQW55PiBPYnNlcnZhYmxlU3Vic2NyaWJlUHJveHkudGVzdCgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCA3NGQ1NGI1MDIzYTc5ZDE0ZGExM2NhYzk2NjBmNTlmOTgxMjFhYjA2OmFwcC9zcmMvbWFpbi9qYXZhL2NvbS9yZWFkYm95L2xpdmUvZWR1Y2F0aW9uL2JlYW4vc3ViamVjdC9Db3Vyc2VEYXRhc0JlYW4uamF2YQo=</text>
+        <text encoding="base64">aW50ZXJuYWwgZnVuIDxUIDogQW55PiBPYnNlcnZhYmxlU3Vic2NyaWJlUHJveHkudGVzdCgpIHsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCA3NGQ1NGI1MDIzYTc5ZDE0ZGExM2NhYzk2NjBmNTlmOTgxMjFhYjA2OmFwcC9zcmMvbWFpbi9qYXZhL2NvbS9yZWFkYm95L2xpdmUvZWR1Y2F0aW9uL2JlYW4vc3ViamVjdC9Db3Vyc2VEYXRhc0JlYW4uamF2YQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">PT09PT4+IFJlbW92ZSB1bnVzZWQgYmVhbiBjbGFzczphcHAvc3JjL21haW4vamF2YS9jb20vcmVhZGJveS9saXZlL2VkdWNhdGlvbi9kYXRhL0NvdXJzZURhdGFzQmVhbi5qYXZhCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PT09CiAgICAgICAgaW4ucmVhZFN0cmluZygpOwogICAgICAgIGluLnJlYWRTdHJpbmcoKTsKICAgICAgICBpbi5yZWFkSW50KCk7CiAgICAgICAgaW4ucmVhZEludCgpOwogICAgICAgIGluLnJlYWRJbnQoKTsKICAgICAgICBpbi5yZWFkSW50KCk7CiAgICAgICAgaW4ucmVhZEludCgpOwogICAgICAgIGluLnJlYWRJbnQoKTsKICAgICAgICBpZihGX3NlcnZpY2VzIT1udWxsKSB7CiAgICAgICAgICAgIGluLnJlYWRTdHJpbmdMaXN0KEZfc2VydmljZXMpOwogICAgICAgIH0KLy8gICAgICAgIGlmKExpdmVBc3Npc3RhbnRJbmZvQmVhbi5jbGFzcy5nZXRDbGFzc0xvYWRlcigpIT1udWxsKSB7Ci8vICAgICAgICAgICAgaW4ucmVhZFBhcmNlbGFibGUoTGl2ZUFzc2lzdGFudEluZm9CZWFuLmNsYXNzLmdldENsYXNzTG9hZGVyKCkpOwovLyAgICAgICAgfQogICAgfQogICAgcHVibGljIHN0YXRpYyBmaW5hbCBQYXJjZWxhYmxlLkNyZWF0b3I8Q291cnNlRGF0YXNCZWFuPiBDUkVBVE9SID0gbmV3IENyZWF0b3I8Q291cnNlRGF0YXNCZWFuPigpCiAgICB7Cj4+Pj4+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCA3NGQ1NGI1MDIzYTc5ZDE0ZGExM2NhYzk2NjBmNTlmOTgxMjFhYjA2Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZW1vdmUgdW51c2VkIGJlYW4gY2xhc3MK</text>
+        <text encoding="base64">PDw8PDw8PCA3NGQ1NGI1MDIzYTc5ZDE0ZGExM2NhYzk2NjBmNTlmOTgxMjFhYjA2Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
