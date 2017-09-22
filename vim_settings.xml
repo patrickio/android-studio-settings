@@ -33,7 +33,7 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose/0.2.0/525b16bfe1cca4699d77111c2630d8c434312f9d/autodispose-0.2.0-sources.jar!/com/uber/autodispose/AutoDisposingObserverImpl.java" timestamp="1506047725532" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose/0.2.0/525b16bfe1cca4699d77111c2630d8c434312f9d/autodispose-0.2.0-sources.jar!/com/uber/autodispose/AutoDisposingObserverImpl.java" timestamp="1506047829584" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
         <mark key="[" line="46" column="41" />
         <mark key="]" line="46" column="38" />
@@ -225,11 +225,10 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1506047025271">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="75" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1506048422223">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -496,37 +495,45 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG8oT2JzZXJ2YWJsZVNjb3BlcjxMb25nPihBbmRyb2lkTGlmZWN5Y2xlU2NvcGVQcm92aWRlci5mcm9tKHRoaXMpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG8oT2JzZXJ2YWJsZVNjb3BlcjxMb25nPihBbmRyb2lkTGlmZWN5Y2xlU2NvcGVQcm92aWRlci5mcm9tKHRoaXMpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3ViCg==</text>
+      <register name="2" type="4">
+        <text>.subscribe {
+                        
+                    }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3ViCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlRFU1QiLCAiJHt0aW1lckNvbnN1bWVyPy5pc0Rpc3Bvc2VkfSIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcC5zdWIK</text>
+      <register name="5" type="4">
+        <text>isTimer = true
+                        if (!isPaused) {
+                            launchMainScene()
+                        }
+                        Log.d(&quot;TEST&quot;, &quot;${timerConsumer?.isDisposed}&quot;)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG8geyBqa09ic2VydmFibGVTY29wZXI8TG9uZz4oTWF5YmUuZW1wdHk8TG9uZz4oKSkgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3ViCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKCJURVNUIiwgIiR7dGltZXJDb25zdW1lcj8uaXNEaXNwb3NlZH0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlJlc3RyaWN0VG8K</text>
+      <register name="9" type="4">
+        <text>.subscribeBy {
+                       
+                    }</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
