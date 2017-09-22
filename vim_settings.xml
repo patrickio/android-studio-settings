@@ -225,10 +225,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1506048422223">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1506049391932">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -283,15 +284,10 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/colors.xml" timestamp="1505981225124">
-        <mark key="'" line="94" column="4" />
-        <mark key="[" line="126" column="47" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506045075299">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="15" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506050157103">
+        <mark key="[" line="72" column="76" />
+        <mark key="]" line="84" column="76" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveStatusPresenter.kt" timestamp="1505874212913">
         <mark key="[" line="6" column="0" />
@@ -390,6 +386,7 @@
         <mark key="^" line="112" column="44" />
         <mark key="." line="112" column="44" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose-android/0.2.0/d387b28e12b3771bc97a016b0c9c18b92bb719c8/autodispose-android-0.2.0-sources.jar!/com/uber/autodispose/android/ViewAttachEventsObservable.java" timestamp="1506049328370" />
     </filemarks>
     <jumps>
       <jump line="338" column="42" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
@@ -495,45 +492,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gZXZlbnQgdGhlIHNwZWNpZmllZCBldmVudCB0byBkaXNwb3NlIHRoZSBzb3VyY2Ugb2JzZXJ2YWJsZQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gZXZlbnQgdGhlIHNwZWNpZmllZCBldmVudCB0byBkaXNwb3NlIHRoZSBzb3VyY2Ugb2JzZXJ2YWJsZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.subscribe {
-                        
-                    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnQgPzogQ09SUkVTUE9ORElOR19FVkVOVFMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlRFU1QiLCAiJHt0aW1lckNvbnN1bWVyPy5pc0Rpc3Bvc2VkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCAK</text>
       </register>
-      <register name="5" type="4">
-        <text>isTimer = true
-                        if (!isPaused) {
-                            launchMainScene()
-                        }
-                        Log.d(&quot;TEST&quot;, &quot;${timerConsumer?.isDisposed}&quot;)</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKCJURVNUIiwgIiR7dGltZXJDb25zdW1lcj8uaXNEaXNwb3NlZH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>.subscribeBy {
-                       
-                    }</text>
+        <text encoding="base64">cHJpdmF0ZSB2YWwgU1BFQ0lGSUVEX0VWRU5UUyA9IEZ1bmN0aW9uPExpZmVjeWNsZS5FdmVudCwgTGlmZWN5Y2xlLkV2ZW50PiB7IGxhc3RFdmVudCAtPgogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
