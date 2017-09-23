@@ -1,0 +1,11 @@
+<templateSet group="Android">
+  <template name="creator" value="constructor(parcel: Parcel) : this(TODO())&#10;&#10;override fun writeToParcel(parcel: Parcel, flag: Int) {&#10;    TODO()&#10;}&#10;&#10;override fun describeContents(): Int = 0&#10;&#10;companion object CREATOR {&#10;    &#10;    fun createFromParcel(parcel: Parcel): $class$ = $class$(parcel)&#10;    &#10;    fun newArray(size: Int): Array&lt;$class$?&gt; = arrayOfNulls(size)&#10;&#10;}" description="Create a CREATOR in Parcelble subclass" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>
