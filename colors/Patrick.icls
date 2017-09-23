@@ -1,22 +1,22 @@
 <scheme name="Patrick" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-09-11T22:03:08</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.13</property>
-    <property name="modified">2017-09-18T09:45:39</property>
+    <property name="modified">2017-09-23T20:42:51</property>
     <property name="originalScheme">Finke</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <attributes>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
