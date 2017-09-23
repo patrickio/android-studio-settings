@@ -63,6 +63,13 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/build.gradle" timestamp="1506173976558">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="65" />
+        <mark key="^" line="34" column="65" />
+        <mark key="." line="34" column="65" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/BigQuestionDecoder.java" timestamp="1505381205396">
         <mark key="'" line="114" column="21" />
         <mark key="[" line="107" column="86" />
@@ -95,12 +102,12 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/java/com/example/patrick/appbardemo/CollapsingTextLayout.kt" timestamp="1506173752277">
-        <mark key="'" line="44" column="60" />
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="44" column="60" />
-        <mark key="." line="44" column="60" />
-        <mark key="^" line="44" column="60" />
+      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/java/com/example/patrick/appbardemo/CollapsingTextLayout.kt" timestamp="1506174459447">
+        <mark key="'" line="23" column="44" />
+        <mark key="[" line="27" column="86" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1505467598789">
         <mark key="[" line="3" column="4" />
@@ -135,12 +142,11 @@
         <mark key="." line="106" column="37" />
         <mark key="^" line="106" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/res/layout/activity_scrolling.xml" timestamp="1506173792714">
-        <mark key="'" line="55" column="47" />
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="34" column="59" />
-        <mark key="." line="34" column="59" />
-        <mark key="^" line="34" column="59" />
+      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/res/layout/activity_scrolling.xml" timestamp="1506174441089">
+        <mark key="'" line="35" column="46" />
+        <mark key="[" line="56" column="68" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1505438440115">
         <mark key="'" line="17" column="8" />
@@ -245,8 +251,8 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" timestamp="1506172386348">
-        <mark key="'" line="135" column="23" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" timestamp="1506174134854">
+        <mark key="'" line="289" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1505530532083">
         <mark key="[" line="37" column="0" />
@@ -374,13 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
-      <jump line="50" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
-      <jump line="237" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MatchingQuestionDecoder.java" />
-      <jump line="32" column="6" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MultipleChoiceDecoder.java" />
-      <jump line="57" column="62" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MultipleChoiceDecoder.java" />
-      <jump line="65" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/MultipleChoiceDecoder.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/widget/ExerciseCheckBox.java" />
       <jump line="79" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/NoAnswerFillBlankDecoder.java" />
       <jump line="107" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/NoAnswerFillBlankDecoder.java" />
       <jump line="80" column="56" filename="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/NoAnswerFillBlankDecoder.java" />
@@ -474,79 +473,56 @@
       <jump line="33" column="0" filename="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/java/com/example/patrick/appbardemo/CollapsingTextLayout.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/java/com/example/patrick/appbardemo/CollapsingTextLayout.kt" />
       <jump line="43" column="60" filename="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/java/com/example/patrick/appbardemo/CollapsingTextLayout.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/build.gradle" />
+      <jump line="109" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" />
+      <jump line="110" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" />
+      <jump line="216" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" />
+      <jump line="289" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" />
+      <jump line="22" column="44" filename="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/java/com/example/patrick/appbardemo/CollapsingTextLayout.kt" />
+      <jump line="35" column="46" filename="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/res/layout/activity_scrolling.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">QXBwQmFyTGF5b3V0Lk9uT2Zmc2V0Q2hhbmdlZExpc3RlbmVyIHsgYXBwQmFyTGF5b3V0LCB2ZXJ0aWNhbE9mZnNldCAtPiAKICAgICAgICAKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdHZfdGl0bGUiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjIwZHAiIC8+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>class CollapsingTextLayout(
-        context: Context,
-        attrs: AttributeSet?,
-        defStyleAttr: Int
-): FrameLayout(context, attrs, defStyleAttr) {
-
-    constructor(context: Context) : this(context, null)
-
-    constructor(context: Context, attrs: AttributeSet?) : this(context, attrs, 0)
-
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMDBkcCIK</text>
       </register>
-      <register name="5" type="4">
-        <text>class CollapsingTextLayout(
-        context: Context,
-        attrs: AttributeSet?, 
-        defStyleAttr: Int
-): FrameLayout(context, attrs, defStyleAttr) {
-    
-    constructor(context: Context) : this(context, null)
-    
-    constructor(context: Context, attrs: AttributeSet?) : this(context, attrs, 0)
-    
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjIwZHAiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMDBkcCIK</text>
       </register>
-      <register name="7" type="4">
-        <text>class CollapsingTextLayout(
-        context: Context,
-        attrs: AttributeSet?, 
-        defStyleAttr: Int
-): FrameLayout(context, attrs, defStyleAttr) {
-    
-    constructor(context: Context) : this(context, null)
-    
-    constructor(context: Context, attrs: AttributeSet?) : this(context, attrs, 0)
-    
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9zY3JvbGxGbGFncz0ic2Nyb2xsfGV4aXRVbnRpbENvbGxhcHNlZCIvPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">QXBwQmFyTGF5b3V0Lk9uT2Zmc2V0Q2hhbmdlZExpc3RlbmVyIHsgYXBwQmFyTGF5b3V0LCB2ZXJ0aWNhbE9mZnNldCAtPiAKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9zY3JvbGxGbGFncz0ic2Nyb2xsfGV4aXRVbnRpbENvbGxhcHNlZCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>mLastInsets</text>
+        <text>mToolbar</text>
       </register>
     </registers>
     <search>
-      <last-search>mLastInsets</last-search>
+      <last-search>mToolbar</last-search>
       <last-offset />
-      <last-pattern>mLastInsets</last-pattern>
+      <last-pattern>mToolbar</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -554,7 +530,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isTeacher</entry>
         <entry>sendMessage</entry>
         <entry>onSend</entry>
         <entry>decoder</entry>
@@ -574,6 +549,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>mOnOff</entry>
         <entry>mLastInsets</entry>
+        <entry>mToolbar</entry>
       </history-search>
       <history-cmd />
       <history-expr />
