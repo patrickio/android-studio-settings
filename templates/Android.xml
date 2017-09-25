@@ -8,4 +8,12 @@
       <option name="KOTLIN_TOPLEVEL" value="false" />
     </context>
   </template>
+  <template name="viewg" value="class $SubViewGroup$(&#10;        context: Context,&#10;        attrs: AttributeSet?,&#10;        defStyleAttr: Int&#10;): $SuperViewGroup$(context, attrs, defStyleAttr) {&#10;&#10;    constructor(context: Context) : this(context, null)&#10;&#10;    constructor(context: Context, attrs: AttributeSet?) : this(context, attrs, 0)&#10;&#10;}" description="Create custom view and subclass of the specified view group." toReformat="false" toShortenFQNames="true">
+    <variable name="SubViewGroup" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SuperViewGroup" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
