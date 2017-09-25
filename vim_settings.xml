@@ -54,6 +54,12 @@
         <mark key="^" line="53" column="27" />
         <mark key="." line="53" column="27" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/dimens.xml" timestamp="1506307762117">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MessageReceiver.java" timestamp="1506061957894">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -140,8 +146,9 @@
         <mark key="]" line="28" column="23" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506306075297">
-        <mark key="'" line="73" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506308613397">
+        <mark key="'" line="76" column="45" />
+        <mark key="[" line="72" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -223,11 +230,11 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/styles.xml" timestamp="1505981354533">
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="31" column="69" />
-        <mark key="^" line="31" column="69" />
-        <mark key="." line="31" column="69" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/styles.xml" timestamp="1506308526659">
+        <mark key="[" line="38" column="68" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+        <mark key="^" line="39" column="59" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1505976798944">
         <mark key="[" line="51" column="41" />
@@ -258,17 +265,20 @@
         <mark key="]" line="98" column="57" />
         <mark key="." line="98" column="57" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/26.1.0/2b34456c30d6b6e5db5fa3e8fa02f6cebd5531fd/appcompat-v7-26.1.0-sources.jar!/android/support/v7/widget/Toolbar.java" timestamp="1506308560626">
+        <mark key="'" line="92" column="27" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="47" />
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1505891193802">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1506308603929">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveChatBean.kt" timestamp="1505877324696">
         <mark key="[" line="5" column="39" />
@@ -308,6 +318,9 @@
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506307927090">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
@@ -371,6 +384,12 @@
         <mark key="]" line="78" column="54" />
         <mark key="." line="78" column="54" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1506308700958">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="40" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -378,7 +397,7 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/subjects/BehaviorSubject.java" timestamp="1506304785427" />
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506042135989">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506307123435">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -403,8 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
-      <jump line="59" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="103" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="244" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="220" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
@@ -503,49 +520,51 @@
       <jump line="227" column="27" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="226" column="37" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="73" column="45" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
+      <jump line="139" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/26.1.0/2b34456c30d6b6e5db5fa3e8fa02f6cebd5531fd/appcompat-v7-26.1.0-sources.jar!/android/support/v7/widget/Toolbar.java" />
+      <jump line="92" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/26.1.0/2b34456c30d6b6e5db5fa3e8fa02f6cebd5531fd/appcompat-v7-26.1.0-sources.jar!/android/support/v7/widget/Toolbar.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmJlYW4uUHVzaE1lc3NhZ2VCZWFuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>AppBase</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgc3R5bGU9IkBzdHlsZS9Db21wYXRJbWFnZUJ1dHRvbiIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9zZXR0aW5ncyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTBkcCIKICAgICAgICBhcHA6c3JjQ29tcGF0PSJAZHJhd2FibGUvcHVzaF9tZXNzYWdlX2ljb24iCiAgICAgICAgYW5kcm9pZDp0aW50PSJAYW5kcm9pZDpjb2xvci9kYXJrZXJfZ3JheSIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQCtpZC90YWJMYXlvdXQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkAraWQvdGFiTGF5b3V0Ii8+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2lzX3JlY2VpdmVfbWVzc2FnZSIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PEJ1dHRvbgogICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tcGF0QnV0dG9uLkJvcmRlcmxlc3MiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idG5fZ3JhZGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQCtpZC90YWJMYXlvdXQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkAraWQvdGFiTGF5b3V0IiAvPgoKICAgIDxJbWFnZUJ1dHRvbgogICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tcGF0SW1hZ2VCdXR0b24iCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idG5fc2V0dGluZ3MiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCiAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGRyYXdhYmxlL3B1c2hfbWVzc2FnZV9pY29uIgogICAgICAgIGFuZHJvaWQ6dGludD0iQGFuZHJvaWQ6Y29sb3IvZGFya2VyX2dyYXkiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIyMGRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkAraWQvdGFiTGF5b3V0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAK2lkL3RhYkxheW91dCIvPgogICAgPEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaXNfcmVjZWl2ZV9tZXNzYWdlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIxMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIzMmRwIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iI2Y1MDgwOCIKICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50ZXJuYWwgZnVuIDxUIDogQW55PiBPYnNlcnZhYmxlU3Vic2NyaWJlUHJveHkudGVzdCgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCA3NGQ1NGI1MDIzYTc5ZDE0ZGExM2NhYzk2NjBmNTlmOTgxMjFhYjA2OmFwcC9zcmMvbWFpbi9qYXZhL2NvbS9yZWFkYm95L2xpdmUvZWR1Y2F0aW9uL2JlYW4vc3ViamVjdC9Db3Vyc2VEYXRhc0JlYW4uamF2YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT4+IFJlbW92ZSB1bnVzZWQgYmVhbiBjbGFzczphcHAvc3JjL21haW4vamF2YS9jb20vcmVhZGJveS9saXZlL2VkdWNhdGlvbi9kYXRhL0NvdXJzZURhdGFzQmVhbi5qYXZhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT09CiAgICAgICAgaW4ucmVhZFN0cmluZygpOwogICAgICAgIGluLnJlYWRTdHJpbmcoKTsKICAgICAgICBpbi5yZWFkSW50KCk7CiAgICAgICAgaW4ucmVhZEludCgpOwogICAgICAgIGluLnJlYWRJbnQoKTsKICAgICAgICBpbi5yZWFkSW50KCk7CiAgICAgICAgaW4ucmVhZEludCgpOwogICAgICAgIGluLnJlYWRJbnQoKTsKICAgICAgICBpZihGX3NlcnZpY2VzIT1udWxsKSB7CiAgICAgICAgICAgIGluLnJlYWRTdHJpbmdMaXN0KEZfc2VydmljZXMpOwogICAgICAgIH0KLy8gICAgICAgIGlmKExpdmVBc3Npc3RhbnRJbmZvQmVhbi5jbGFzcy5nZXRDbGFzc0xvYWRlcigpIT1udWxsKSB7Ci8vICAgICAgICAgICAgaW4ucmVhZFBhcmNlbGFibGUoTGl2ZUFzc2lzdGFudEluZm9CZWFuLmNsYXNzLmdldENsYXNzTG9hZGVyKCkpOwovLyAgICAgICAgfQogICAgfQogICAgcHVibGljIHN0YXRpYyBmaW5hbCBQYXJjZWxhYmxlLkNyZWF0b3I8Q291cnNlRGF0YXNCZWFuPiBDUkVBVE9SID0gbmV3IENyZWF0b3I8Q291cnNlRGF0YXNCZWFuPigpCiAgICB7Cj4+Pj4+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCA3NGQ1NGI1MDIzYTc5ZDE0ZGExM2NhYzk2NjBmNTlmOTgxMjFhYjA2Cg==</text>
+        <text encoding="base64">ICAgIDwvYW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyPiAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>AppBase</text>
       </register>
       <register name="/" type="4">
-        <text>tab</text>
+        <text>custom</text>
       </register>
     </registers>
     <search>
-      <last-search>tab</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>tab</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -553,8 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setVisibility</entry>
-        <entry>size()</entry>
         <entry>size</entry>
         <entry>getChatRoomInfo</entry>
         <entry>courseName</entry>
@@ -573,6 +590,8 @@
         <entry>mul</entry>
         <entry>selectedFragment</entry>
         <entry>tab</entry>
+        <entry>ToolBarTheme</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd />
       <history-expr />
