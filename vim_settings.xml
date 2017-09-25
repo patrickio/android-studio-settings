@@ -284,11 +284,11 @@
         <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/app/src/main/res/values/styles.xml" timestamp="1506322525790" />
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1506326133177">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_main.xml" timestamp="1506328616362">
         <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="18" column="55" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveChatBean.kt" timestamp="1505877324696">
         <mark key="[" line="5" column="39" />
@@ -312,6 +312,7 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/BottomNavigationView.java" timestamp="1506328685694" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -573,13 +574,13 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>btn_grade</text>
+        <text>adapter</text>
       </register>
     </registers>
     <search>
-      <last-search>btn_grade</last-search>
+      <last-search>adapter</last-search>
       <last-offset />
-      <last-pattern>btn_grade</last-pattern>
+      <last-pattern>adapter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -587,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>courseName</entry>
         <entry>fetch rtmp url com</entry>
         <entry>https:</entry>
         <entry>fetchLivePushLong</entry>
@@ -607,6 +607,7 @@
         <entry>custom</entry>
         <entry>Login</entry>
         <entry>btn_grade</entry>
+        <entry>adapter</entry>
       </history-search>
       <history-cmd />
       <history-expr />
