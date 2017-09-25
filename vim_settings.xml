@@ -142,11 +142,11 @@
         <mark key="." line="106" column="37" />
         <mark key="^" line="106" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/res/layout/activity_scrolling.xml" timestamp="1506174441089">
+      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/res/layout/activity_scrolling.xml" timestamp="1506323126587">
         <mark key="'" line="35" column="46" />
-        <mark key="[" line="56" column="68" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1505438440115">
         <mark key="'" line="17" column="8" />
@@ -288,6 +288,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1505525984178">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/AppBarDemo/app/src/main/res/layout/content_scrolling.xml" timestamp="1506323312676">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_in_anim.xml" timestamp="1505436936572">
         <mark key="'" line="0" column="0" />
@@ -483,37 +488,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2FuY2hvcj0iQGlkL2FwcF9iYXIiCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>android</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdHZfdGl0bGUiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjIwZHAiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdHZfdGl0bGUiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMDBkcCIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjIwZHAiIC8+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMDBkcCIK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjIwZHAiIC8+Cg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMDBkcCIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">QXBwQmFyTGF5b3V0Lk9uT2Zmc2V0Q2hhbmdlZExpc3RlbmVyIHsgYXBwQmFyTGF5b3V0LCB2ZXJ0aWNhbE9mZnNldCAtPiAKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>mToolbar</text>
