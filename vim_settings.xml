@@ -140,8 +140,8 @@
         <mark key="]" line="28" column="23" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506304556747">
-        <mark key="'" line="226" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506306075297">
+        <mark key="'" line="73" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -403,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="60" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="59" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="103" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
@@ -503,6 +502,7 @@
       <jump line="129" column="31" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="227" column="27" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="226" column="37" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
+      <jump line="73" column="45" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -539,13 +539,13 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>selectedFragment</text>
+        <text>tab</text>
       </register>
     </registers>
     <search>
-      <last-search>selectedFragment</last-search>
+      <last-search>tab</last-search>
       <last-offset />
-      <last-pattern>selectedFragment</last-pattern>
+      <last-pattern>tab</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stop</entry>
         <entry>setVisibility</entry>
         <entry>size()</entry>
         <entry>size</entry>
@@ -573,6 +572,7 @@
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry>mul</entry>
         <entry>selectedFragment</entry>
+        <entry>tab</entry>
       </history-search>
       <history-cmd />
       <history-expr />
