@@ -48,6 +48,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkReadyFragment.kt" timestamp="1506410888967" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
         <mark key="]" line="53" column="27" />
@@ -118,6 +119,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1506410256459" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -191,6 +193,9 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" timestamp="1506410702121">
+        <mark key="'" line="107" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/ReactiveXExt.kt" timestamp="1506065333490">
         <mark key="[" line="86" column="0" />
@@ -478,11 +483,12 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506407367270">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506410290002">
+        <mark key="'" line="282" column="16" />
         <mark key="[" line="199" column="97" />
-        <mark key="]" line="199" column="87" />
-        <mark key="^" line="199" column="87" />
-        <mark key="." line="199" column="87" />
+        <mark key="]" line="248" column="78" />
+        <mark key="^" line="248" column="78" />
+        <mark key="." line="248" column="78" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1505872387099">
         <mark key="[" line="21" column="78" />
@@ -504,20 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
-      <jump line="45" column="71" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" />
-      <jump line="171" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="265" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="156" column="73" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="34" column="29" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
-      <jump line="50" column="21" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
-      <jump line="32" column="74" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
-      <jump line="22" column="51" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" />
-      <jump line="27" column="36" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="207" column="35" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="16" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
-      <jump line="593" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="735" column="70" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="67" column="39" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
       <jump line="236" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
@@ -604,6 +596,20 @@
       <jump line="23" column="79" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/Presenter.kt" />
       <jump line="49" column="46" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/Presenter.kt" />
       <jump line="28" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/PresenterLifecycleScopeProvider.kt" />
+      <jump line="248" column="78" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="206" column="68" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="258" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="268" column="66" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="271" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="274" column="22" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="277" column="22" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="282" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="288" column="68" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="31" column="37" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="32" column="26" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="90" column="50" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="93" column="50" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="107" column="32" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -640,13 +646,13 @@
         <text>BaseModel</text>
       </register>
       <register name="/" type="4">
-        <text>color_gray</text>
+        <text>toast</text>
       </register>
     </registers>
     <search>
-      <last-search>color_gray</last-search>
+      <last-search>toast</last-search>
       <last-offset />
-      <last-pattern>color_gray</last-pattern>
+      <last-pattern>toast</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -654,8 +660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetchLivePushLong</entry>
-        <entry>fetchRTMP</entry>
         <entry>leave</entry>
         <entry>exercise</entry>
         <entry>ExerciseLayout</entry>
@@ -674,6 +678,8 @@
         <entry>adapter</entry>
         <entry>Dialog</entry>
         <entry>color_gray</entry>
+        <entry>tags</entry>
+        <entry>toast</entry>
       </history-search>
       <history-cmd />
       <history-expr />
