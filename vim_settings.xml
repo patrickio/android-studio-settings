@@ -34,6 +34,11 @@
         <mark key="^" line="41" column="61" />
         <mark key="." line="41" column="61" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_middle.xml" timestamp="1506414955775">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1506300452345">
         <mark key="'" line="30" column="8" />
         <mark key="[" line="26" column="20" />
@@ -45,6 +50,11 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_box_left.xml" timestamp="1506414945007">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
@@ -86,6 +96,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_right.xml" timestamp="1506414895240">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveStatusModel.kt" timestamp="1505873014946">
         <mark key="[" line="34" column="69" />
         <mark key="]" line="36" column="0" />
@@ -122,6 +137,7 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1506414857018" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -162,6 +178,11 @@
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_left.xml" timestamp="1506414886977">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/PresenterLifecycleEventObservable.kt" timestamp="1506397352283">
         <mark key="[" line="3" column="0" />
@@ -238,11 +259,11 @@
         <mark key="^" line="112" column="44" />
         <mark key="." line="112" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/tab_item.xml" timestamp="1506414215804">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/tab_item.xml" timestamp="1506415559979">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CachedUserService.kt" timestamp="1505801934475">
         <mark key="[" line="11" column="11" />
@@ -339,8 +360,8 @@
         <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1506406802008" />
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506411551018">
-        <mark key="[" line="177" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506415154975">
+        <mark key="[" line="124" column="32" />
         <mark key="]" line="177" column="42" />
         <mark key="." line="177" column="42" />
       </file>
@@ -455,16 +476,16 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1506396660781">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_box_right.xml" timestamp="1506415616991">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveChatApis.kt" timestamp="1505825167676">
         <mark key="[" line="2" column="0" />
