@@ -42,6 +42,12 @@
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1506478724917">
+        <mark key="[" line="94" column="66" />
+        <mark key="]" line="75" column="31" />
+        <mark key="^" line="75" column="31" />
+        <mark key="." line="75" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_box_left.xml" timestamp="1506416209534">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="24" />
@@ -78,9 +84,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" timestamp="1506410702121">
-        <mark key="'" line="107" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/ReactiveXExt.kt" timestamp="1506065333490">
         <mark key="[" line="86" column="0" />
@@ -271,11 +274,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
-        <mark key="[" line="2" column="68" />
-        <mark key="]" line="2" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1506477756646">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
         <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_emoticon.xml" timestamp="1505391554924">
         <mark key="[" line="9" column="34" />
@@ -298,6 +301,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_in_anim.xml" timestamp="1506477750536">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/widget/EducationAlertDialog.kt" timestamp="1506476852634">
         <mark key="[" line="21" column="10" />
@@ -403,7 +411,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/styles.xml" timestamp="1506476513691">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/styles.xml" timestamp="1506477717079">
         <mark key="[" line="108" column="69" />
         <mark key="]" line="109" column="49" />
         <mark key="^" line="109" column="49" />
@@ -514,12 +522,12 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506474961702">
-        <mark key="'" line="282" column="16" />
-        <mark key="[" line="199" column="97" />
-        <mark key="]" line="248" column="78" />
-        <mark key="^" line="248" column="78" />
-        <mark key="." line="248" column="78" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506478324455">
+        <mark key="'" line="281" column="16" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="247" column="78" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" timestamp="1506411411394">
         <mark key="[" line="4" column="32" />
@@ -643,37 +651,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gcG9zaXRpb24gJSAoZGF0YT8uc2l6ZSA/OiAwKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Dialog_EducationAlert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gcG9zaXRpb24gJSAoZGF0YT8uc2l6ZSA/OiAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3c/LmFwcGx5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0R3Jhdml0eShHcmF2aXR5LkNFTlRFUikK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3c/LmFwcGx5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0R3Jhdml0eShHcmF2aXR5LkNFTlRFUikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0QmFja2dyb3VuZERyYXdhYmxlKENvbG9yRHJhd2FibGUoQ29sb3IuVFJBTlNQQVJFTlQpKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0V2luZG93QW5pbWF0aW9ucyhSLnN0eWxlLkRpYWxvZ19FZHVjYXRpb25BbGVydCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0QmFja2dyb3VuZERyYXdhYmxlKENvbG9yRHJhd2FibGUoQ29sb3IuVFJBTlNQQVJFTlQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0V2luZG93RmVhdHVyZShXaW5kb3cuRkVBVFVSRV9OT19USVRMRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0V2luZG93QW5pbWF0aW9ucyhSLnN0eWxlLkRpYWxvZ19FZHVjYXRpb25BbGVydCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0V2luZG93RmVhdHVyZShXaW5kb3cuRkVBVFVSRV9OT19USVRMRSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Dialog_EducationAlert</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dialog</text>
