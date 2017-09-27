@@ -32,10 +32,11 @@
         <mark key="^" line="41" column="61" />
         <mark key="." line="41" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1506484899339">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1506492853792">
+        <mark key="[" line="136" column="36" />
+        <mark key="]" line="136" column="42" />
+        <mark key="." line="136" column="42" />
+        <mark key="^" line="136" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_middle.xml" timestamp="1506480114627">
         <mark key="[" line="3" column="0" />
@@ -716,37 +717,45 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9jbF9saXZlX2FjdGlvbmJhciIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVzZXQgdGhlIGF1dG8gaGlkZSB0aW1lciBvZiBhY3Rpb25iYXIKICAgICAgICAgICAgbUFjdGlvbkJhckFuaW1hdG9yPy5hdXRvSGlkZSgp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIK</text>
+      <register name="4" type="4">
+        <text>ValueAnimator.ofFloat(cl_live_actionbar.height.toFloat(), 0f).apply { 
+                                    addUpdateListener { 
+                                        fl_left_container.layoutParams = (fl_left_container.layoutParams as? ConstraintLayout.LayoutParams)?.apply {
+                                             topMargin = (it.animatedValue as Float).toInt()
+                                        }
+                                    }  
+                                },</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+      <register name="5" type="4">
+        <text>fl_left_container.layoutParams = (fl_left_container.layoutParams as? ConstraintLayout.LayoutParams)?.apply {
+                                             marginEnd = (it.animatedValue as Float).toInt()
+                                        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWYWx1ZUFuaW1hdG9yLm9mRmxvYXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3BNYXJnaW4gPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9jbF9saXZlX2FjdGlvbmJhciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>17</text>
+        <text>cl_live_actionbar</text>
       </register>
       <register name="/" type="4">
         <text>Progress</text>
