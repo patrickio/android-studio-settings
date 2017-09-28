@@ -143,12 +143,12 @@
         <mark key="^" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1506581776154">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1506583547971">
         <mark key="'" line="50" column="47" />
-        <mark key="[" line="131" column="77" />
-        <mark key="]" line="131" column="77" />
-        <mark key="." line="131" column="77" />
-        <mark key="^" line="131" column="77" />
+        <mark key="[" line="132" column="129" />
+        <mark key="]" line="132" column="128" />
+        <mark key="." line="132" column="128" />
+        <mark key="^" line="132" column="128" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
@@ -528,11 +528,7 @@
         <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1506494358779">
-        <mark key="'" line="100" column="24" />
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="56" column="17" />
+        <mark key="'" line="119" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_normal_message.xml" timestamp="1505808676968">
         <mark key="[" line="7" column="27" />
@@ -626,7 +622,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506580377067">
-        <mark key="^" line="224" column="134" />
+        <mark key="^" line="221" column="134" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" timestamp="1506411411394">
         <mark key="[" line="4" column="32" />
@@ -634,7 +630,7 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1505872387099">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1506582431968">
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="81" />
         <mark key="." line="21" column="81" />
@@ -750,21 +746,24 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoQW5zd2VyQmVhbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWRkKEFuc3dlckJlYW4oIiIsICgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>first</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjU3ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoQW5zd2VyQmVhbigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iNTdkcCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjU3ZHAiCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iNTdkcCIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyB3b3JrIGZvciAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Android 4.4 below
         btn_grade.setCompoundDrawables(
                 null,
@@ -774,20 +773,17 @@
                 },
                 null)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj5AZGltZW4vbm9ybWFsVGV4dFNpemU8L2l0ZW0+Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGl0ZW0gbmFtZT0iYW5kcm9pZDp3aW5kb3dGdWxsc2NyZWVuIj50cnVlPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93VHJhbnNsdWNlbnRTdGF0dXMiPnRydWU8L2l0ZW0+CiAgICAgICAgPCEtLWZvciBzZXR0aW5ncyBwcmVmZXJlbmNlIHRoZW1lIC0tPgogICAgICAgIDxpdGVtIG5hbWU9InByZWZlcmVuY2VUaGVtZSI+QHN0eWxlL1ByZWZlcmVuY2VUaGVtZU92ZXJsYXk8L2l0ZW0+</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text>mDecoder</text>
