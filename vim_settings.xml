@@ -143,6 +143,13 @@
         <mark key="^" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1506581776154">
+        <mark key="'" line="50" column="47" />
+        <mark key="[" line="131" column="77" />
+        <mark key="]" line="131" column="77" />
+        <mark key="." line="131" column="77" />
+        <mark key="^" line="131" column="77" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="29" />
@@ -640,14 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="28" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
-      <jump line="146" column="24" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
-      <jump line="147" column="38" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
-      <jump line="21" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
-      <jump line="23" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/BabyPlan/app/src/main/AndroidManifest.xml" />
-      <jump line="90" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="16" column="3" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/wxapi/WXEntryActivity.kt" />
       <jump line="3" column="3" filename="$USER_HOME$/AndroidStudioProjs/Education/build.gradle" />
       <jump line="31" column="28" filename="$USER_HOME$/AndroidStudioProjs/Education/dependencies.gradle" />
@@ -740,21 +739,32 @@
       <jump line="98" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" />
       <jump line="146" column="36" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" />
       <jump line="147" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" />
+      <jump line="134" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="158" column="12" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="159" column="12" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="171" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="172" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="176" column="37" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="25" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="50" column="47" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjU3ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoQW5zd2VyQmVhbigpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iNTdkcCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjU3ZHAiCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iNTdkcCIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyB3b3JrIGZvciAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Android 4.4 below
         btn_grade.setCompoundDrawables(
                 null,
@@ -764,32 +774,29 @@
                 },
                 null)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj5AZGltZW4vbm9ybWFsVGV4dFNpemU8L2l0ZW0+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PGl0ZW0gbmFtZT0iYW5kcm9pZDp3aW5kb3dGdWxsc2NyZWVuIj50cnVlPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93VHJhbnNsdWNlbnRTdGF0dXMiPnRydWU8L2l0ZW0+CiAgICAgICAgPCEtLWZvciBzZXR0aW5ncyBwcmVmZXJlbmNlIHRoZW1lIC0tPgogICAgICAgIDxpdGVtIG5hbWU9InByZWZlcmVuY2VUaGVtZSI+QHN0eWxlL1ByZWZlcmVuY2VUaGVtZU92ZXJsYXk8L2l0ZW0+</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dBY3Rpb25CYXIiPmZhbHNlPC9pdGVtCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>F_less</text>
+        <text>mDecoder</text>
       </register>
     </registers>
     <search>
-      <last-search>F_less</last-search>
+      <last-search>mDecoder</last-search>
       <last-offset />
-      <last-pattern>F_less</last-pattern>
+      <last-pattern>mDecoder</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>toast</last-substitute>
       <last-dir>1</last-dir>
@@ -797,7 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WX</entry>
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry>mul</entry>
         <entry>selectedFragment</entry>
@@ -817,6 +823,7 @@
         <entry>AppBase</entry>
         <entry>grades</entry>
         <entry>F_less</entry>
+        <entry>mDecoder</entry>
       </history-search>
       <history-cmd />
       <history-expr />
