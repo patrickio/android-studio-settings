@@ -397,6 +397,7 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1506580659926" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
@@ -433,10 +434,10 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506569493364">
         <mark key="'" line="59" column="39" />
-        <mark key="[" line="241" column="35" />
-        <mark key="]" line="242" column="42" />
-        <mark key="." line="242" column="42" />
-        <mark key="^" line="242" column="42" />
+        <mark key="[" line="249" column="35" />
+        <mark key="]" line="250" column="42" />
+        <mark key="." line="250" column="42" />
+        <mark key="^" line="250" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1506579229554">
         <mark key="[" line="52" column="69" />
@@ -592,6 +593,9 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" timestamp="1506580430490">
+        <mark key="'" line="147" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1505870846724">
         <mark key="[" line="21" column="42" />
         <mark key="]" line="21" column="39" />
@@ -614,12 +618,8 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506570126478">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-        <mark key="^" line="231" column="134" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506580377067">
+        <mark key="^" line="224" column="134" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" timestamp="1506411411394">
         <mark key="[" line="4" column="32" />
@@ -640,9 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" />
-      <jump line="49" column="23" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
-      <jump line="52" column="23" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
       <jump line="145" column="28" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
       <jump line="146" column="24" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
       <jump line="147" column="38" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
@@ -740,6 +737,9 @@
       <jump line="92" column="32" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
       <jump line="59" column="39" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="147" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="98" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" />
+      <jump line="146" column="36" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" />
+      <jump line="147" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/SubjectDatasBean.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -783,13 +783,13 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>grades</text>
+        <text>F_less</text>
       </register>
     </registers>
     <search>
-      <last-search>grades</last-search>
+      <last-search>F_less</last-search>
       <last-offset />
-      <last-pattern>grades</last-pattern>
+      <last-pattern>F_less</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>toast</last-substitute>
       <last-dir>1</last-dir>
@@ -797,7 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Nested</entry>
         <entry>WX</entry>
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry>mul</entry>
@@ -817,6 +816,7 @@
         <entry>toast</entry>
         <entry>AppBase</entry>
         <entry>grades</entry>
+        <entry>F_less</entry>
       </history-search>
       <history-cmd />
       <history-expr />
