@@ -425,13 +425,6 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506585306988">
-        <mark key="'" line="146" column="24" />
-        <mark key="[" line="156" column="25" />
-        <mark key="]" line="156" column="31" />
-        <mark key="." line="156" column="31" />
-        <mark key="^" line="156" column="31" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1506579229554">
         <mark key="[" line="52" column="69" />
         <mark key="]" line="52" column="69" />
@@ -608,7 +601,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506580377067">
-        <mark key="^" line="221" column="134" />
+        <mark key="^" line="219" column="134" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" timestamp="1506411411394">
         <mark key="[" line="4" column="32" />
