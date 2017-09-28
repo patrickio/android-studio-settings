@@ -437,12 +437,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506567694196">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506569493364">
         <mark key="'" line="59" column="39" />
         <mark key="[" line="241" column="35" />
-        <mark key="]" line="242" column="30" />
-        <mark key="." line="242" column="30" />
-        <mark key="^" line="242" column="30" />
+        <mark key="]" line="242" column="42" />
+        <mark key="." line="242" column="42" />
+        <mark key="^" line="242" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -502,11 +502,11 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1505976798944">
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="54" column="37" />
-        <mark key="^" line="54" column="37" />
-        <mark key="." line="54" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1506569565491">
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="4" />
+        <mark key="^" line="69" column="4" />
+        <mark key="." line="69" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" timestamp="1506484006123">
         <mark key="[" line="30" column="67" />
