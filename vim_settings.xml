@@ -600,8 +600,11 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1506580377067">
-        <mark key="^" line="219" column="134" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1507431191562">
+        <mark key="[" line="245" column="12" />
+        <mark key="]" line="245" column="15" />
+        <mark key="." line="245" column="15" />
+        <mark key="^" line="245" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" timestamp="1506411411394">
         <mark key="[" line="4" column="32" />
@@ -725,30 +728,33 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ3JhZGVzID09IG51bGwpIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGEpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>gr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ3JhZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ3JhZGVzID09IG51bGwpIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWRkKEFuc3dlckJlYW4oIiIsICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ3JhZGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoQW5zd2VyQmVhbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWRkKEFuc3dlckJlYW4oIiIsICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjU3ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoQW5zd2VyQmVhbigpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iNTdkcCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdFbmQ9IjU3ZHAiCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iNTdkcCIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyB3b3JrIGZvciAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Android 4.4 below
         btn_grade.setCompoundDrawables(
                 null,
@@ -757,9 +763,6 @@
                     setBounds(0, 0, 36, 36)
                 },
                 null)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>gr</text>
