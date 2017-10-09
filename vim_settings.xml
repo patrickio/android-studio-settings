@@ -29,16 +29,22 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1506394921378">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="61" />
-        <mark key="^" line="41" column="61" />
-        <mark key="." line="41" column="61" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1507515185001">
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1506497299022">
         <mark key="[" line="384" column="8" />
         <mark key="]" line="393" column="9" />
         <mark key="." line="384" column="8" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/widget/EmoticonPanel.kt" timestamp="1507514992493">
+        <mark key="[" line="190" column="62" />
+        <mark key="]" line="190" column="64" />
+        <mark key="^" line="190" column="64" />
+        <mark key="." line="190" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable/rect_blue_middle.xml" timestamp="1506480114627">
         <mark key="[" line="3" column="0" />
@@ -439,11 +445,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1506579229554">
-        <mark key="[" line="52" column="69" />
-        <mark key="]" line="52" column="69" />
-        <mark key="^" line="52" column="15" />
-        <mark key="." line="52" column="69" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507515200459">
+        <mark key="[" line="597" column="0" />
+        <mark key="]" line="597" column="0" />
+        <mark key="." line="597" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -750,39 +755,38 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdC5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdC5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRJbnB1dFZpZXcoKTogRWRpdFRleHQgPSBldF9jaGF0X2lucHV0Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvciB7ICJmZXRjaCBsaXZlIGxvbmcgZXJyb3I6ICRpdCIgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblBhdXNlKCkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>{
-        super.onPause()
-    }</text>
+        <text encoding="base64">c2NlbmUKICAgICAgICAgICAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIChjb250ZXh0IGFzPyBBY3Rpdml0eSk/LmN1cnJlbnRGb2N1cz8uY2xlYXJGb2N1cygpCg==</text>
+      <register name="6" type="4">
+        <text>// present loading animation when enter live scene
+            view?.onLoadingStream(true)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaXZfY2hhdF9pbnB1dC5nZXRJbnB1dFZpZXcoKS5yZXF1ZXN0Rm9jdXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZUluVG91Y2hNb2RlPSJmYWxzZSIK</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRJbnB1dFZpZXcoKTogRWRpdFRleHQgPSBldF9jaGF0X2lucHV0Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
