@@ -234,6 +234,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1507537128805">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="67" column="1" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/menu/menu_main_activity.xml" timestamp="1505878944375">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="7" column="9" />
@@ -341,18 +346,21 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1507536729416">
+        <mark key="'" line="153" column="14" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/widget/ExerciseRadioButton.java" timestamp="1505379706012">
         <mark key="[" line="59" column="5" />
         <mark key="]" line="62" column="33" />
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507534832625">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507536998834">
         <mark key="'" line="668" column="56" />
-        <mark key="[" line="717" column="55" />
-        <mark key="]" line="717" column="53" />
-        <mark key="." line="717" column="53" />
-        <mark key="^" line="717" column="53" />
+        <mark key="[" line="602" column="64" />
+        <mark key="]" line="811" column="25" />
+        <mark key="." line="811" column="25" />
+        <mark key="^" line="811" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
@@ -454,10 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="54" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkSubmittedFragment.kt" />
-      <jump line="77" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/HomeworkSubmittedFragment.kt" />
       <jump line="75" column="3" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/LiveService.kt" />
       <jump line="19" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/LiveService.kt" />
       <jump line="51" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/HomeworkBean.kt" />
@@ -554,49 +558,53 @@
       <jump line="204" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="5" column="20" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="668" column="56" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="57" column="31" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
+      <jump line="150" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
+      <jump line="118" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
+      <jump line="153" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX0VYRVJDSVNFIC0+IExpdmVTdGFnZS5NSURETEVfRVhFUkNJU0UvKndhaXQgdGhlIGV4ZXJjaXNlIHRvIHN1Ym1pdCAob3IgZm9yY2Ugc3VibWl0IGl0KSovCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW50ZXJuYWwgZnVuIExvbmcuZm9ybWF0VG9DaGF0RGF0ZVN0cmluZyhjb250ZXh0OiBDb250ZXh0KTogU3RyaW5nIHsKICAgICAgICB2YWwgc2RmID0gU2ltcGxlRGF0ZUZvcm1hdCgiIiwgQXBwQ29uZmlnLmdldEN1cnJlbnRMb2NhbGUoKSkKCiAgICAgICAgdmFsIGlucHV0Q2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZShBcHBDb25maWcuZ2V0Q3VycmVudExvY2FsZSgpKQogICAgICAgIGlucHV0Q2FsZW5kYXIudGltZUluTWlsbGlzID0gdGhpcwogICAgICAgIHZhbCBpbnB1dERhdGUgPSBpbnB1dENhbGVuZGFyLnRpbWUKCiAgICAgICAgdmFsIGN1ckNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKQogICAgd2hlbiB7CiAgICAgICAgY3VyQ2FsZW5kYXIuZ2V0KENhbGVuZGFyLllFQVIpID4gaW5wdXRDYWxlbmRhci5nZXQoQ2FsZW5kYXIuWUVBUikgLT4gc2RmLmFwcGx5UGF0dGVybihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5kYXRhX2Zvcm1hdF9tc2dfZnVsbCkpCiAgICAgICAgY3VyQ2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1PTlRIKSA+IGlucHV0Q2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1PTlRIKSAtPiBzZGYuYXBwbHlQYXR0ZXJuKGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmRhdGFfZm9ybWF0X21zZ19mdWxsKSkKICAgICAgICBjdXJDYWxlbmRhci5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKSA+IGlucHV0Q2FsZW5kYXIuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCkgLT4gc2RmLmFwcGx5UGF0dGVybihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5kYXRhX2Zvcm1hdF9tc2dfZnVsbCkpCiAgICAgICAgZWxzZSAtPiBzZGYuYXBwbHlQYXR0ZXJuKGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmRhdGFfZm9ybWF0X21zZ19ub25hKSkKICAgIH0KCiAgICAgICAgcmV0dXJuIHNkZi5mb3JtYXQoaW5wdXREYXRlKQp9</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX0VYRVJDSVNFIC0+IExpdmVTdGFnZS5NSURETEVfRVhFUkNJU0UvKndhaXQgdGhlIGV4ZXJjaXNlIHRvIHN1Ym1pdCAob3IgZm9yY2Ugc3VibWl0IGl0KSovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50ZXJuYWwgZnVuIExvbmcuZm9ybWF0VG9DaGF0RGF0ZVN0cmluZyhjb250ZXh0OiBDb250ZXh0KTogU3RyaW5nIHsKICAgICAgICB2YWwgc2RmID0gU2ltcGxlRGF0ZUZvcm1hdCgiIiwgQXBwQ29uZmlnLmdldEN1cnJlbnRMb2NhbGUoKSkKCiAgICAgICAgdmFsIGlucHV0Q2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZShBcHBDb25maWcuZ2V0Q3VycmVudExvY2FsZSgpKQogICAgICAgIGlucHV0Q2FsZW5kYXIudGltZUluTWlsbGlzID0gdGhpcwogICAgICAgIHZhbCBpbnB1dERhdGUgPSBpbnB1dENhbGVuZGFyLnRpbWUKCiAgICAgICAgdmFsIGN1ckNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKQogICAgd2hlbiB7CiAgICAgICAgY3VyQ2FsZW5kYXIuZ2V0KENhbGVuZGFyLllFQVIpID4gaW5wdXRDYWxlbmRhci5nZXQoQ2FsZW5kYXIuWUVBUikgLT4gc2RmLmFwcGx5UGF0dGVybihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5kYXRhX2Zvcm1hdF9tc2dfZnVsbCkpCiAgICAgICAgY3VyQ2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1PTlRIKSA+IGlucHV0Q2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1PTlRIKSAtPiBzZGYuYXBwbHlQYXR0ZXJuKGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmRhdGFfZm9ybWF0X21zZ19mdWxsKSkKICAgICAgICBjdXJDYWxlbmRhci5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKSA+IGlucHV0Q2FsZW5kYXIuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCkgLT4gc2RmLmFwcGx5UGF0dGVybihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5kYXRhX2Zvcm1hdF9tc2dfZnVsbCkpCiAgICAgICAgZWxzZSAtPiBzZGYuYXBwbHlQYXR0ZXJuKGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmRhdGFfZm9ybWF0X21zZ19ub25hKSkKICAgIH0KCiAgICAgICAgcmV0dXJuIHNkZi5mb3JtYXQoaW5wdXREYXRlKQp9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX0VYRVJDSVNFIC0+IExpdmVTdGFnZS5NSURETEVfRVhFUkNJU0UvKndhaXQgdGhlIGV4ZXJjaXNlIHRvIHN1Ym1pdCAob3IgZm9yY2Ugc3VibWl0IGl0KSovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZWZvcmVMaXZlQ291bnRkb3duQ29uc3VtZXI/LmRpc3Bvc2VJZk5vdCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyB7ICJmZXRjaFJUTVBDb25zdW1lcj8uaXNEaXNwb3NlZCAke2ZldGNoUlRNUENvbnN1bWVyPy5pc0Rpc3Bvc2VkIH0iIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnIHsgInRoZSBsaXZlIHN0YXJ0IHRpbWUgaGFzIGJlZW4gcmVhY2giIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnIHsgInN0YXJ0IGxpdmUgY291bnRkb3duIGZvciBpbnRlcnZhbCAkaW50ZXJ2YWwiIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvV1hFbnRyeVRoZW1lIiAvPgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZWZvcmVMaXZlQ291bnRkb3duQ29uc3VtZXI/LmRpc3Bvc2VJZk5vdCgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGFjdGl2aXR5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLnd4YXBpLldYRW50cnlBY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbiIKICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0ic2Vuc29yTGFuZHNjYXBlIgogICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyB7ICJmZXRjaFJUTVBDb25zdW1lcj8uaXNEaXNwb3NlZCAke2ZldGNoUlRNUENvbnN1bWVyPy5pc0Rpc3Bvc2VkIH0iIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnIHsgInRoZSBsaXZlIHN0YXJ0IHRpbWUgaGFzIGJlZW4gcmVhY2giIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnIHsgInN0YXJ0IGxpdmUgY291bnRkb3duIGZvciBpbnRlcnZhbCAkaW50ZXJ2YWwiIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvV1hFbnRyeVRoZW1lIiAvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>WXApi</text>
+        <text>exception</text>
       </register>
     </registers>
     <search>
-      <last-search>WXApi</last-search>
+      <last-search>exception</last-search>
       <last-offset />
-      <last-pattern>WXApi</last-pattern>
+      <last-pattern>exception</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -604,9 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>https:</entry>
-        <entry>fetchLivePushLong</entry>
-        <entry>fetchRTMP</entry>
         <entry>leave</entry>
         <entry>exercise</entry>
         <entry>ExerciseLayout</entry>
@@ -624,6 +629,9 @@
         <entry>btn_grade</entry>
         <entry>adapter</entry>
         <entry>WXApi</entry>
+        <entry>liveLong</entry>
+        <entry>pushlong</entry>
+        <entry>exception</entry>
       </history-search>
       <history-cmd />
       <history-expr />
