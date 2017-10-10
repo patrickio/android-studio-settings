@@ -281,14 +281,14 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1507608117415">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1507615499820">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506325640256">
-        <mark key="'" line="204" column="8" />
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507615540598">
+        <mark key="'" line="203" column="8" />
+        <mark key="[" line="91" column="18" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
@@ -314,9 +314,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/operators/observable/ObservableDelay.java" timestamp="1507599630140">
         <mark key="'" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1507602401971">
-        <mark key="'" line="227" column="50" />
-        <mark key="[" line="31" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1507615924676">
+        <mark key="'" line="226" column="50" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LIveStudentFeature.kt" timestamp="1505874167263">
         <mark key="[" line="2" column="0" />
@@ -595,36 +597,36 @@
     </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0ibGFuZHNjYXBlIgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0ibGFuZHNjYXBlIgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICh0aGlzIC8gQzMpLgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>run {
         
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKHRoaXMgPiAwKSB7CiAgICAgICAgICAgIHZhbCBkYXkgPSB0aGlzIC8gQzYKICAgICAgICAgICAgdmFsIGhvdXIgPSAodGhpcyAtIGRheSAqIEM2KSAvIEM1CiAgICAgICAgICAgIHZhbCBtaW51dGUgPSAodGhpcyAtIGRheSAqIEM2IC0gaG91ciAqIEM1KSAvIEM0CiAgICAgICAgICAgIHZhbCBzZWNvbmQgPSAodGhpcyAtIGRheSAqIEM2IC0gaG91ciAqIEM1IC0gbWludXRlICogQzQpCiAgICAgICAgICAgIHJldHVybiBTdHJpbmdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgICAgICAgICAgYXBwZW5kKGRheSkuYXBwZW5kKCLlpKkgIikKICAgICAgICAgICAgICAgIGFwcGVuZChob3VyKS5hcHBlbmQoIuWwj+aXtiIpCiAgICAgICAgICAgICAgICBhcHBlbmQobWludXRlKS5hcHBlbmQoIuWIhumSnyIpCiAgICAgICAgICAgICAgICBhcHBlbmQoc2Vjb25kKS5hcHBlbmQoIuenkiIpCiAgICAgICAgICAgIH0udG9TdHJpbmcoKQogICAgICAgIH0KICAgICAgICByZXR1cm4gIiI=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJpdmF0ZSB2YWwgQzIgPSBDMSAqIDEwMDBMCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">cHJpdmF0ZSB2YWwgQzEgPSBDMCAqIDEwMDBMCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGRheXMgPSB0aGlzICUgKFRpbWVVbml0LkRBWVMudG9TZWNvbmRzKDEpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGhvdXJzID0gKHRoaXMgLSBkYXlzKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNlY29uZCA9IHRoaXMgLSBkYXlzIC0gaG91cnMgLSBtaW51dGUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1pbnV0ZSA9ICh0aGlzIC0gZGF5cyAtIGhvdXJzKSAlIDYwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGhvdXJzID0gKHRoaXMgLSBkYXlzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
