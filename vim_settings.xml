@@ -114,6 +114,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1507621650306">
+        <mark key="[" line="140" column="35" />
+        <mark key="]" line="140" column="38" />
+        <mark key="^" line="140" column="38" />
+        <mark key="." line="140" column="38" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/OrderActivity.kt" timestamp="1505984317061">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -299,7 +305,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-26/java/util/concurrent/TimeUnit.java" timestamp="1507600283828" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="13" />
@@ -610,39 +615,39 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0ibGFuZHNjYXBlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2VMaXN0LmZpbHRlcgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CourseDatasBean</text>
+        <text>tru</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgICAgIGlzTWVzc2FnZVZpc2libGUoaXQpCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICh0aGlzIC8gQzMpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVscwo=</text>
       </register>
       <register name="4" type="4">
-        <text>run {
-        
-    }</text>
+        <text>e {
+                    
+                }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKHRoaXMgPiAwKSB7CiAgICAgICAgICAgIHZhbCBkYXkgPSB0aGlzIC8gQzYKICAgICAgICAgICAgdmFsIGhvdXIgPSAodGhpcyAtIGRheSAqIEM2KSAvIEM1CiAgICAgICAgICAgIHZhbCBtaW51dGUgPSAodGhpcyAtIGRheSAqIEM2IC0gaG91ciAqIEM1KSAvIEM0CiAgICAgICAgICAgIHZhbCBzZWNvbmQgPSAodGhpcyAtIGRheSAqIEM2IC0gaG91ciAqIEM1IC0gbWludXRlICogQzQpCiAgICAgICAgICAgIHJldHVybiBTdHJpbmdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgICAgICAgICAgYXBwZW5kKGRheSkuYXBwZW5kKCLlpKkgIikKICAgICAgICAgICAgICAgIGFwcGVuZChob3VyKS5hcHBlbmQoIuWwj+aXtiIpCiAgICAgICAgICAgICAgICBhcHBlbmQobWludXRlKS5hcHBlbmQoIuWIhumSnyIpCiAgICAgICAgICAgICAgICBhcHBlbmQoc2Vjb25kKS5hcHBlbmQoIuenkiIpCiAgICAgICAgICAgIH0udG9TdHJpbmcoKQogICAgICAgIH0KICAgICAgICByZXR1cm4gIiI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2YWwgQzIgPSBDMSAqIDEwMDBMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCkgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2YWwgQzEgPSBDMCAqIDEwMDBMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRheXMgPSB0aGlzICUgKFRpbWVVbml0LkRBWVMudG9TZWNvbmRzKDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZUxpc3QuZmlsdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGhvdXJzID0gKHRoaXMgLSBkYXlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZUxpc3QuZmlsdGUK</text>
       </register>
       <register name="-" type="4">
-        <text>CourseDatasBean</text>
+        <text>tru</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
