@@ -259,11 +259,11 @@
         <mark key="^" line="23" column="63" />
         <mark key="." line="23" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/styles.xml" timestamp="1506321406708">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/styles.xml" timestamp="1507602274712">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="55" />
+        <mark key="^" line="19" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1505894521239">
         <mark key="[" line="98" column="57" />
@@ -309,11 +309,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/operators/observable/ObservableDelay.java" timestamp="1507599630140">
         <mark key="'" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1507538485149">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1507602401971">
         <mark key="'" line="227" column="50" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LIveStudentFeature.kt" timestamp="1505874167263">
         <mark key="[" line="2" column="0" />
