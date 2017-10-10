@@ -206,6 +206,11 @@
         <mark key="]" line="78" column="54" />
         <mark key="." line="78" column="54" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourselistsBean.java" timestamp="1507607732234">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/build.gradle" timestamp="1506065647909">
         <mark key="'" line="3" column="3" />
         <mark key="[" line="25" column="0" />
@@ -592,8 +597,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICh0aGlzIC8gQzMpLgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICh0aGlzIC8gQzMpLgo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
         <text>run {
@@ -622,7 +627,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIG1pbnV0ZSA9ICh0aGlzIC0gZGF5cyAtIGhvdXJzKSAlIDYwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1000L</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>unit</text>
