@@ -114,11 +114,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1507621650306">
-        <mark key="[" line="140" column="35" />
-        <mark key="]" line="140" column="38" />
-        <mark key="^" line="140" column="38" />
-        <mark key="." line="140" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1507622125532">
+        <mark key="[" line="141" column="21" />
+        <mark key="]" line="143" column="45" />
+        <mark key="." line="143" column="45" />
+        <mark key="^" line="143" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/OrderActivity.kt" timestamp="1505984317061">
         <mark key="[" line="29" column="0" />
@@ -615,39 +615,39 @@
     </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2VMaXN0LmZpbHRlcgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tru</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHsKICAgICAgICAgICAgICAgIGlzTWVzc2FnZVZpc2libGUoaXQpCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVscwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>e {
                     
                 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCkgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZUxpc3QuZmlsdGVyCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZUxpc3QuZmlsdGUK</text>
-      </register>
       <register name="-" type="4">
-        <text>tru</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
