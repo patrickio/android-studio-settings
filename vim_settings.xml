@@ -359,12 +359,12 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507537934006">
+      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507598127233">
         <mark key="'" line="669" column="56" />
-        <mark key="[" line="785" column="59" />
-        <mark key="]" line="785" column="59" />
-        <mark key="." line="785" column="59" />
-        <mark key="^" line="778" column="78" />
+        <mark key="[" line="785" column="56" />
+        <mark key="]" line="778" column="55" />
+        <mark key="." line="778" column="55" />
+        <mark key="^" line="778" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
