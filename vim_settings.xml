@@ -273,10 +273,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507713592373">
-        <mark key="[" line="152" column="41" />
-        <mark key="]" line="152" column="44" />
-        <mark key="." line="152" column="44" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507719452768">
+        <mark key="[" line="153" column="45" />
+        <mark key="]" line="153" column="45" />
+        <mark key="." line="153" column="45" />
         <mark key="^" line="152" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
@@ -652,7 +652,7 @@
         <text encoding="base64">ICAgICAgICBtZW51SW5mbGF0ZXIuaW5mbGF0ZShSLm1lbnUubWVudV9tYWluLCBtZW51KQogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnUpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">5oKo6Ieq5a6a5LmJcHJvdmlkZXIg</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgbWVudT8ucnVuIHsKICAgICAgICAgICAgZmluZEl0ZW0oUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSk/LnJ1biB7CiAgICAgICAgICAgICAgICBpc1Zpc2libGUgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgICAgICBpc0VuYWJsZWQgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
@@ -685,7 +685,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">5oKo6Ieq5a6a5LmJcHJvdmlkZXIg</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
