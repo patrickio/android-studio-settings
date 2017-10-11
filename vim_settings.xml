@@ -245,8 +245,10 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/.AndroidStudioPreview3.0/studio64.vmoptions" timestamp="1507693413289">
-        <mark key="[" line="0" column="101" />
+      <file name="$USER_HOME$/.AndroidStudioPreview3.0/studio64.vmoptions" timestamp="1507710275301">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CachedUserService.kt" timestamp="1505801934475">
         <mark key="[" line="11" column="11" />
@@ -643,7 +645,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4b6e8877dfcc2462bedb37dcf66b6d87</text>
+        <text>2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGFwcGxpY2EK</text>
@@ -670,7 +672,7 @@
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25NZW51VGV4dENvbG9yIj5AYW5kcm9pZDpjb2xvci9ibGFjazwvaXRlbT4K</text>
       </register>
       <register name="-" type="4">
-        <text>4b6e8877dfcc2462bedb37dcf66b6d87</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
