@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/menu/menu_main.xml" timestamp="1507706298434">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/menu/menu_main.xml" timestamp="1507713506615">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="9" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" timestamp="1505961929671">
         <mark key="[" line="2" column="0" />
@@ -273,11 +273,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507712921706">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="176" column="53" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="183" column="48" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507713592373">
+        <mark key="[" line="152" column="41" />
+        <mark key="]" line="152" column="44" />
+        <mark key="." line="152" column="44" />
+        <mark key="^" line="152" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
@@ -648,38 +648,44 @@
       <jump line="227" column="50" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">PG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9IlBHWUVSX0FQUElEIgogICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSJiZTMxYzViNGY3NzFlNDY4OWU0OGQwYTMwNDJlZTQwZCIgPgogICAgICAgIDwvbWV0YS1kYXRhPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtZW51SW5mbGF0ZXIuaW5mbGF0ZShSLm1lbnUubWVudV9tYWluLCBtZW51KQogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnUpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9IlBHWUVSX0FQUElEIgogICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSJiZTMxYzViNGY3NzFlNDY4OWU0OGQwYTMwNDJlZTQwZCIgPgogICAgICAgIDwvbWV0YS1kYXRhPg==</text>
+        <text>false</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgbWVudT8ucnVuIHsKICAgICAgICAgICAgZmluZEl0ZW0oUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSk/LnJ1biB7CiAgICAgICAgICAgICAgICBpc1Zpc2libGUgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgICAgICBpc0VuYWJsZWQgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSAtPiAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dGlvblZhcmlhbnRzLmFsbCB7IHZhcmlhbnQgLT4KICAgICAgICB2YXJpYW50Lm91dHB1dHMuZWFjaCB7IG91dHB1dCAtPgogICAgICAgICAgICBkZWYgZmlsZSA9IG91dHB1dC5vdXRwdXRGaWxlCiAgICAgICAgICAgIGRlZiBhcHBJZCA9IGFuZHJvaWQuZGVmYXVsdENvbmZpZy5hcHBsaWNhdGlvbklkCiAgICAgICAgICAgIGRlZiBmaWxlTmFtZSA9IGFwcElkICsgIi0iICsgdmFyaWFudC5idWlsZFR5cGUubmFtZSArIi5hcGsiCiAgICAgICAgICAgIG91dHB1dC5vdXRwdXRGaWxlID0gbmV3IEZpbGUoZmlsZS5wYXJlbnQsIGZpbGVOYW1lKQogICAgICAgIH0KICAgIH0=</text>
+        <text>{
+                PgyUpdateManager.setIsForced(true) //设置是否强制更新。true为强制更新；false为不强制更新（默认值）。
+                PgyUpdateManager.register(this, &quot;cn.dream.live.education.fileprovider&quot;)
+            }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">YXBwbGljYXRpb25WYXJpYW50cy5hbGwgeyB2YXJpYW50IC0+CiAgICAgICAgCiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFyaWFudC5vdXRwdXRzLmVhY2ggeyBvdXRwdXQgLT4KICAgICAgICAgICAgZGVmIGZpbGUgPSBvdXRwdXQub3V0cHV0RmlsZQogICAgICAgICAgICBkZWYgYXBwSWQgPSBhbmRyb2lkLmRlZmF1bHRDb25maWcuYXBwbGljYXRpb25JZAogICAgICAgICAgICBkZWYgZmlsZU5hbWUgPSBhcHBJZCArICItIiArIHZhcmlhbnQuYnVpbGRUeXBlLm5hbWUgKyIuYXBrIgogICAgICAgICAgICBvdXRwdXQub3V0cHV0RmlsZSA9IG5ldyBGaWxlKGZpbGUucGFyZW50LCBmaWxlTmFtZSkKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxpdGVpb249Im5ldmVyIiAvPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5leHQuc2V0KCJhcmNoaXZlc05hbWUiLCByb290UHJvamVjdC5nZXROYW1lKCkgKyAiLWJldGEiKQo=</text>
+      <register name="7" type="4">
+        <text>m
+        android:id=&quot;@+id/action_bar_check_for_beta_update&quot;
+        android:title=&quot;@string/check_for_beta_update&quot;
+        app:showAsAct</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5leHQuc2V0KCJhcmNoaXZlc05hbWUiLCByb290UHJvamVjdC5nZXROYW1lKCkgKyAiLWZvcm1hbCIpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9IlBHWUVSX0FQUElEIgogICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSJiZTMxYzViNGY3NzFlNDY4OWU0OGQwYTMwNDJlZTQwZCIgPgogICAgICAgIDwvbWV0YS1kYXRhPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5leHQuc2V0KCJhcmNoaXZlc0Jhc2VOYW1lIiwgcm9vdFByb2plY3QuZ2V0TmFtZSgpICsgImZvcm1hbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
