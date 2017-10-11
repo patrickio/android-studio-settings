@@ -14,9 +14,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/app/src/main/AndroidManifest.xml" timestamp="1506321277682">
-        <mark key="'" line="199" column="61" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
         <mark key="[" line="46" column="41" />
         <mark key="]" line="46" column="38" />
@@ -124,8 +121,11 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1507536729416">
-        <mark key="'" line="153" column="14" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/ci.gradle" timestamp="1507708490406">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -138,9 +138,6 @@
         <mark key="]" line="47" column="22" />
         <mark key="^" line="47" column="22" />
         <mark key="." line="47" column="22" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/26.1.0/2b34456c30d6b6e5db5fa3e8fa02f6cebd5531fd/appcompat-v7-26.1.0-sources.jar!/android/support/v7/widget/Toolbar.java" timestamp="1506308560626">
-        <mark key="'" line="92" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1507537781354">
         <mark key="[" line="81" column="69" />
@@ -455,10 +452,10 @@
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1507705049105">
         <mark key="[" line="369" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1507705686714">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1507708243183">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1506061623922">
         <mark key="[" line="218" column="0" />
@@ -643,37 +640,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25NZW51VGV4dENvbG9yIj5AYW5kcm9pZDpjb2xvci9ibGFjazwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25NZW51VGV4dENvbG9yIj5AYW5kcm9pZDpjb2xvci9ibGFjazwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmFjdGlvbk1lbnVUZXh0Q29sb3IiPkBhbmRyb2lkOmNvbG9yL2JsYWNrPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgIGFwcGxpY2EK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvclNlY29uZGFyeSI+QGFuZHJvaWQ6Y29sb3IvYmxhY2s8L2l0ZW0+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">dGlvblZhcmlhbnRzLmFsbCB7IHZhcmlhbnQgLT4KICAgICAgICB2YXJpYW50Lm91dHB1dHMuZWFjaCB7IG91dHB1dCAtPgogICAgICAgICAgICBkZWYgZmlsZSA9IG91dHB1dC5vdXRwdXRGaWxlCiAgICAgICAgICAgIGRlZiBhcHBJZCA9IGFuZHJvaWQuZGVmYXVsdENvbmZpZy5hcHBsaWNhdGlvbklkCiAgICAgICAgICAgIGRlZiBmaWxlTmFtZSA9IGFwcElkICsgIi0iICsgdmFyaWFudC5idWlsZFR5cGUubmFtZSArIi5hcGsiCiAgICAgICAgICAgIG91dHB1dC5vdXRwdXRGaWxlID0gbmV3IEZpbGUoZmlsZS5wYXJlbnQsIGZpbGVOYW1lKQogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmFjdGlvbk1lbnVUZXh0Q29sb3IiPkBhbmRyb2lkOmNvbG9yL2JsYWNrPC9pdGVtPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">YXBwbGljYXRpb25WYXJpYW50cy5hbGwgeyB2YXJpYW50IC0+CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c3RhcnRBY3Rpdml0eTxQdXNoTWVzc2FnZUFjdGl2aXR5PigpCiAgICAgICAgICAgIGlzX3JlY2VpdmVfbWVzc2FnZS52aXNpYmlsaXR5ID0gVmlldy5HT05F</text>
+        <text encoding="base64">dmFyaWFudC5vdXRwdXRzLmVhY2ggeyBvdXRwdXQgLT4KICAgICAgICAgICAgZGVmIGZpbGUgPSBvdXRwdXQub3V0cHV0RmlsZQogICAgICAgICAgICBkZWYgYXBwSWQgPSBhbmRyb2lkLmRlZmF1bHRDb25maWcuYXBwbGljYXRpb25JZAogICAgICAgICAgICBkZWYgZmlsZU5hbWUgPSBhcHBJZCArICItIiArIHZhcmlhbnQuYnVpbGRUeXBlLm5hbWUgKyIuYXBrIgogICAgICAgICAgICBvdXRwdXQub3V0cHV0RmlsZSA9IG5ldyBGaWxlKGZpbGUucGFyZW50LCBmaWxlTmFtZSkKICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5leHQuc2V0KCJhcmNoaXZlc05hbWUiLCByb290UHJvamVjdC5nZXROYW1lKCkgKyAiLWJldGEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVPcHRpb25zTWVudShtZW51KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5leHQuc2V0KCJhcmNoaXZlc05hbWUiLCByb290UHJvamVjdC5nZXROYW1lKCkgKyAiLWZvcm1hbCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5leHQuc2V0KCJhcmNoaXZlc0Jhc2VOYW1lIiwgcm9vdFByb2plY3QuZ2V0TmFtZSgpICsgImZvcm1hbCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25NZW51VGV4dENvbG9yIj5AYW5kcm9pZDpjb2xvci9ibGFjazwvaXRlbT4K</text>
       </register>
       <register name="-" type="4">
-        <text>Dark</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
