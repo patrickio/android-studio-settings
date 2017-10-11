@@ -181,11 +181,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1507706785127">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="227" column="69" />
-        <mark key="^" line="227" column="68" />
-        <mark key="." line="227" column="33" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1507709271219">
+        <mark key="[" line="239" column="27" />
+        <mark key="]" line="239" column="27" />
+        <mark key="^" line="239" column="59" />
+        <mark key="." line="239" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/styles.xml" timestamp="1507706494404">
         <mark key="[" line="20" column="0" />
@@ -642,8 +642,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4b6e8877dfcc2462bedb37dcf66b6d87</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGFwcGxpY2EK</text>
@@ -670,7 +670,7 @@
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25NZW51VGV4dENvbG9yIj5AYW5kcm9pZDpjb2xvci9ibGFjazwvaXRlbT4K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>4b6e8877dfcc2462bedb37dcf66b6d87</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
