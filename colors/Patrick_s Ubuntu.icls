@@ -1,11 +1,11 @@
-<scheme name="Patrick" version="142" parent_scheme="Darcula">
+<scheme name="Patrick's Ubuntu" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2017-09-11T22:03:08</property>
+    <property name="created">2017-10-11T11:39:29</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.0.0.13</property>
-    <property name="modified">2017-09-25T11:36:11</property>
-    <property name="originalScheme">Finke</property>
+    <property name="ideVersion">3.0.0.15</property>
+    <property name="modified">2017-10-11T11:39:48</property>
+    <property name="originalScheme">Patrick</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -16,7 +16,6 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
