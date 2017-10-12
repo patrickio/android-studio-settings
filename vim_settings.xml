@@ -442,8 +442,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1507703998713">
-        <mark key="[" line="68" column="80" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1507791004674">
+        <mark key="[" line="70" column="9" />
         <mark key="]" line="68" column="83" />
         <mark key="^" line="68" column="83" />
         <mark key="." line="68" column="83" />
@@ -483,7 +483,7 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/gradle.properties" timestamp="1507778733388">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/gradle.properties" timestamp="1507790650896">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -651,37 +651,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDgwCg==</text>
+        <text encoding="base64">LT4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDgwCg==</text>
+        <text encoding="base64">LT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLm5vblByb3h5SG9zdHM9Ki5kcmVhbS5jbgo=</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDgwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEK</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLm5vblByb3h5SG9zdHM9Ki5kcmVhbS5jbgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtZW51SW5mbGF0ZXIuaW5mbGF0ZShSLm1lbnUubWVudV9tYWluLCBtZW51KQogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnUpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgbWVudT8ucnVuIHsKICAgICAgICAgICAgZmluZEl0ZW0oUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSk/LnJ1biB7CiAgICAgICAgICAgICAgICBpc1Zpc2libGUgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgICAgICBpc0VuYWJsZWQgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSAtPiAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
                 PgyUpdateManager.setIsForced(true) //设置是否强制更新。true为强制更新；false为不强制更新（默认值）。
                 PgyUpdateManager.register(this, &quot;cn.dream.live.education.fileprovider&quot;)
             }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpdGVpb249Im5ldmVyIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">5oKo6Ieq5a6a5LmJcHJvdmlkZXIg</text>
