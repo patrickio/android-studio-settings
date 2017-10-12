@@ -109,6 +109,9 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/dependencies.gradle" timestamp="1507800411434">
+        <mark key="[" line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="29" />
@@ -276,8 +279,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507719452768">
-        <mark key="[" line="153" column="45" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507800607981">
+        <mark key="[" line="154" column="9" />
         <mark key="]" line="153" column="45" />
         <mark key="." line="153" column="45" />
         <mark key="^" line="152" column="44" />
@@ -427,6 +430,13 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" timestamp="1507801122735">
+        <mark key="'" line="12" column="0" />
+        <mark key="i" line="51" column="12" />
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1505894521239">
         <mark key="[" line="98" column="57" />
         <mark key="]" line="98" column="57" />
@@ -463,11 +473,12 @@
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1507705049105">
         <mark key="[" line="369" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1507712741681">
-        <mark key="[" line="26" column="124" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1507800394455">
+        <mark key="'" line="66" column="1" />
+        <mark key="[" line="115" column="4" />
+        <mark key="]" line="115" column="17" />
+        <mark key="." line="115" column="17" />
+        <mark key="^" line="115" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1506061623922">
         <mark key="[" line="218" column="0" />
@@ -548,9 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="1" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/HomeworkBean.kt" />
-      <jump line="151" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveService.kt" />
-      <jump line="57" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveService.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
       <jump line="225" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="29" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
@@ -648,43 +656,72 @@
       <jump line="153" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
       <jump line="163" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="227" column="50" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
+      <jump line="66" column="1" filename="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" />
+      <jump line="37" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGtnSW5mbyA9IGNvbnRleHQucGFja2FnZU1hbmFnZXIuZ2V0UGFja2FnZUluZm8oY29udGV4dC5wYWNrYWdlTmFtZSwgMCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LT4K</text>
+      <register name="&quot;" type="4">
+        <text>context.packageManager.getPackageInfo(context.packageName, 0)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDgwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGtnSW5mbyA9IGNvbnRleHQucGFja2FnZU1hbmFnZXIuZ2V0UGFja2FnZUluZm8oY29udGV4dC5wYWNrYWdlTmFtZSwgMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLm5vblByb3h5SG9zdHM9Ki5kcmVhbS5jbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGtnSW5mbyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGtnSW5mbzogUGFja2FnZUluZm8/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51SW5mbGF0ZXIuaW5mbGF0ZShSLm1lbnUubWVudV9tYWluLCBtZW51KQogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgbWVudT8ucnVuIHsKICAgICAgICAgICAgZmluZEl0ZW0oUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSk/LnJ1biB7CiAgICAgICAgICAgICAgICBpc1Zpc2libGUgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgICAgICBpc0VuYWJsZWQgPSBCdWlsZENvbmZpZy5CRVRBCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHZlcnNpb246IEludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUi5pZC5hY3Rpb25fYmFyX2NoZWNrX2Zvcl9iZXRhX3VwZGF0ZSAtPiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBrZ0luZm86IFBhY2thZ2VJbmZvPwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-                PgyUpdateManager.setIsForced(true) //设置是否强制更新。true为强制更新；false为不强制更新（默认值）。
-                PgyUpdateManager.register(this, &quot;cn.dream.live.education.fileprovider&quot;)
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">awo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>public class CheckUpdate {
+
+    /**
+     * 检测更新
+     * @param context
+     * @param isClick true 代表用户点击检测更新按钮，false代表后台检测
+     */
+    public static CheckImpl checkVersion(Context context,boolean isClick,CheckImpl.OnCheckListener listener){
+        PackageManager manager = context.getPackageManager();
+        PackageInfo info;
+        int version = 0;
+        try {
+            info = manager.getPackageInfo(context.getPackageName(), 0);
+            version = info.versionCode;
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        }
+        CheckImpl check = new ApUpdateFactory().createSpecifyCheck(new ApInfo()
+                .setPackageName(context.getPackageName())
+                .setVersionCode(version)
+                .setDevice(&quot;android&quot;)
+                .setIsClickCheck(isClick)
+                .setEnforceCheck(true));
+
+        check.setOnCheckListener(listener);
+        check.startCheck((Activity)context);
+
+        return check;
+    }
+}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">5oKo6Ieq5a6a5LmJcHJvdmlkZXIg</text>
+        <text>context.packageManager.getPackageInfo(context.packageName, 0)</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
