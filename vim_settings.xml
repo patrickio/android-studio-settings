@@ -280,11 +280,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507800607981">
-        <mark key="[" line="154" column="9" />
-        <mark key="]" line="153" column="45" />
-        <mark key="." line="153" column="45" />
-        <mark key="^" line="152" column="44" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1507858822635">
+        <mark key="'" line="114" column="32" />
+        <mark key="[" line="134" column="20" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="116" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
@@ -360,12 +361,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1506325640256">
-        <mark key="'" line="204" column="8" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507537934006">
         <mark key="'" line="669" column="56" />
         <mark key="[" line="785" column="59" />
@@ -407,12 +402,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/build.gradle" timestamp="1506065647909">
-        <mark key="'" line="3" column="3" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="52" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1505976798944">
         <mark key="[" line="51" column="41" />
         <mark key="]" line="54" column="37" />
@@ -431,17 +420,18 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857218451">
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="44" column="31" />
-        <mark key="^" line="44" column="31" />
-        <mark key="." line="44" column="31" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857498452">
+        <mark key="[" line="53" column="19" />
+        <mark key="]" line="53" column="26" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" timestamp="1507856905761">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" timestamp="1507858268497">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="51" column="28" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="51" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1505894521239">
         <mark key="[" line="98" column="57" />
@@ -526,12 +516,6 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" timestamp="1507538485149">
-        <mark key="'" line="227" column="50" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -565,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
       <jump line="225" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="29" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
       <jump line="45" column="71" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" />
@@ -665,53 +648,48 @@
       <jump line="66" column="1" filename="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" />
       <jump line="37" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
+      <jump line="114" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9ob21ld29ya19zdWJtaXR0ZWQudmlldy4qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9ob21ld29ya19zdWJtaXR0ZWQudmlldy4qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQkVUQeeJiOacrOi1sOiSsuWFrOiLsQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>if (!TextUtils.isEmpty(teacher.F_avatar)) {
-            Picasso.with(context).load(teacher.F_avatar).placeholder(R.drawable.ic_default_avatar)
-                    .transform(CircleImageTransform).into(img)
-        }
-        else {
-            
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtTGl2ZVN0dWRlbnRQcmVzZW50ZXI/LmRldGFjaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyKFIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1MaXYK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>fun checkUpdate(context: Context, isForce: Boolean): CheckImpl {
-        val version: Int
-        try {
-        } catch (e: PackageManager.NameNotFoundException) {
-            Timber.e(&quot;package ${context.packageName} not found!&quot;)
-        }
+      <register name="5" type="4">
+        <text>eStudentView = object : ILiveStudentView {
 
+        override fun onStudentInfo(info: CachedStudentBean) {
+            debug { &quot;onStudentInfo: info $info&quot; }
+            // Should fetch live course info after resolving cached student info ?!
+        }
     }</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1MaXZTdHVkZW50UHJlc2VudGVyOiBJTGl2ZVN0dWRlbnRQcmVzZW50ZXI/ID0gbnVsbAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbiA9IHBrZ0luZm8udmVyc2lvbkNvZGUK</text>
+        <text encoding="base64">ICAgIHZhciBncmFkZTogU3RyaW5nPyBieSBQcmVmZXJlbmNlLmdyYWRlKHRoaXMpCiAgICB2YXIgZ3JhZGVzOiBTdHJpbmc/IGJ5IFByZWZlcmVuY2UuZ3JhZGVzKHRoaXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGtnSW5mbyA9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1MaXZTdHVkZW50UHJlc2VudGVyOiBJTGl2ZVN0dWRlbnRQcmVzZW50ZXI/ID0gbnVsbAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGtnSW5mbyA9IGNvbnRleHQucGFja2FnZU1hbmFnZXIuZ2V0UGFja2FnZUluZm8oY29udGV4dC5wYWNrYWdlTmFtZSwgMCkK</text>
+      <register name="9" type="4">
+        <text>eStudentModel: ILiveStudentModel? = null
+    private var mLive</text>
       </register>
       <register name="-" type="4">
-        <text>context.packageManager.getPackageInfo(context.packageName, 0)</text>
+        <text>// BETA版本走蒲公英</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
