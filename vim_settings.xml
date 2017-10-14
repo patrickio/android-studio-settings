@@ -669,7 +669,7 @@
         <text encoding="base64">Ym9keURhdGFNRDUg</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>life</text>
       </register>
       <register name="0" type="4">
         <text>private fun Request.getAuthPwd(): String {
@@ -708,9 +708,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>life</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>life</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -718,7 +718,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exercise</entry>
         <entry>ExerciseLayout</entry>
         <entry>intent</entry>
         <entry encoding="base64">XDx1c2VzXD4=</entry>
@@ -738,6 +737,7 @@
         <entry>pushlong</entry>
         <entry>exception</entry>
         <entry>test</entry>
+        <entry>life</entry>
       </history-search>
       <history-cmd />
       <history-expr />
