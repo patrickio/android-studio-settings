@@ -38,6 +38,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1507950763379">
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="50" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1505552394355">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="58" />
@@ -136,8 +142,11 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1507945013800">
-        <mark key="[" line="144" column="49" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1507946905004">
+        <mark key="[" line="134" column="8" />
+        <mark key="]" line="138" column="8" />
+        <mark key="^" line="128" column="70" />
+        <mark key="." line="128" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -199,7 +208,7 @@
         <mark key="." line="35" column="8" />
         <mark key="^" line="35" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/styles.xml" timestamp="1507706494404">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/styles.xml" timestamp="1507947292018">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="45" column="76" />
@@ -471,7 +480,7 @@
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1507705049105">
         <mark key="[" line="369" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1507878061044">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1507947168856">
         <mark key="'" line="66" column="1" />
         <mark key="[" line="115" column="4" />
         <mark key="]" line="115" column="17" />
@@ -551,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="34" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="29" column="30" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveExerciseModel.kt" />
       <jump line="45" column="71" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" />
       <jump line="171" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
@@ -651,50 +659,52 @@
       <jump line="37" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
       <jump line="114" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
+      <jump line="127" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQkVUQeeJiOacrOi1sOiSsuWFrOiLsQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtTGl2ZVN0dWRlbnRQcmVzZW50ZXI/LmRldGFjaCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1MaXYK</text>
-      </register>
-      <register name="5" type="4">
-        <text>eStudentView = object : ILiveStudentView {
-
-        override fun onStudentInfo(info: CachedStudentBean) {
-            debug { &quot;onStudentInfo: info $info&quot; }
-            // Should fetch live course info after resolving cached student info ?!
-        }
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1MaXZTdHVkZW50UHJlc2VudGVyOiBJTGl2ZVN0dWRlbnRQcmVzZW50ZXI/ID0gbnVsbAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBncmFkZTogU3RyaW5nPyBieSBQcmVmZXJlbmNlLmdyYWRlKHRoaXMpCiAgICB2YXIgZ3JhZGVzOiBTdHJpbmc/IGJ5IFByZWZlcmVuY2UuZ3JhZGVzKHRoaXMpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1MaXZTdHVkZW50UHJlc2VudGVyOiBJTGl2ZVN0dWRlbnRQcmVzZW50ZXI/ID0gbnVsbAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>eStudentModel: ILiveStudentModel? = null
-    private var mLive</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5NRDUK</text>
       </register>
       <register name="-" type="4">
-        <text>// BETA版本走蒲公英</text>
+        <text encoding="base64">Ym9keURhdGFNRDUg</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
+      </register>
+      <register name="0" type="4">
+        <text>private fun Request.getAuthPwd(): String {
+            val authBody = (url().query() ?: &quot;&quot;) + API_AUTH_KEY
+            val authPwd = &quot;$API_AUTH_PREFIX:${authBody.MD5().toLowerCase()}&quot;
+            return authPwd
+        }</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5NRDUK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKFRleHRVdGlscy5pc0VtcHR5KHBhcmFtcykpIHsKICAgICAgICAgICAgICAgIHBhcmFtcyArPSAiJiIKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKCFUZXh0VXRpbHMuaXNFbXB0eSh1cmwoKS5xdWVyeSgpKSkgewogICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkocGFyYW1zKSkgewogICAgICAgICAgICAgICAgcGFyYW1zICs9ICImIgogICAgICAgICAgICB9CiAgICAgICAgICAgIHBhcmFtcyArPSB1cmwoKS5xdWVyeSgpCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEVTVCIsICJwYXJhbXM6IiArIHBhcmFtb0xvd2VyQ2FzZSgpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>s)
+        val bodyDataMD5 = params.MD5().t</text>
       </register>
     </registers>
     <search>
