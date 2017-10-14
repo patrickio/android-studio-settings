@@ -65,6 +65,12 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CachedUserService.kt" timestamp="1507952331966">
+        <mark key="[" line="30" column="46" />
+        <mark key="]" line="30" column="101" />
+        <mark key="." line="30" column="101" />
+        <mark key="^" line="30" column="101" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_main.xml" timestamp="1507705569541">
         <mark key="[" line="61" column="63" />
         <mark key="]" line="62" column="43" />
@@ -195,6 +201,12 @@
         <mark key="]" line="53" column="4" />
         <mark key="." line="53" column="4" />
         <mark key="^" line="53" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1507952436156">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1505393436982">
         <mark key="[" line="2" column="26" />
@@ -662,11 +674,11 @@
       <jump line="127" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5NRDUK</text>
+      <register name="&quot;" type="4">
+        <text>ENDPOINT_ZH_USER_CACHE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9keURhdGFNRDUg</text>
+        <text>ENDPOINT_ZH_USER_CACHE</text>
       </register>
       <register name="/" type="4">
         <text>life</text>
@@ -679,32 +691,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5NRDUK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUoQ2FjaGVkVXNlclNlcnZlcjo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0uY3JlYXRlKENhY2hlZFVzZXJTZXJ2ZXI6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldFJldHJvZml0KEVORFBPSU5UX1pIX1VTRVJfQ0FDSEUpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKFRleHRVdGlscy5pc0VtcHR5KHBhcmFtcykpIHsKICAgICAgICAgICAgICAgIHBhcmFtcyArPSAiJiIKICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5NRDUK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCFUZXh0VXRpbHMuaXNFbXB0eSh1cmwoKS5xdWVyeSgpKSkgewogICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkocGFyYW1zKSkgewogICAgICAgICAgICAgICAgcGFyYW1zICs9ICImIgogICAgICAgICAgICB9CiAgICAgICAgICAgIHBhcmFtcyArPSB1cmwoKS5xdWVyeSgpCiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEVTVCIsICJwYXJhbXM6IiArIHBhcmFtb0xvd2VyQ2FzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>s)
-        val bodyDataMD5 = params.MD5().t</text>
+        <text encoding="base64">aWYgKFRleHRVdGlscy5pc0VtcHR5KHBhcmFtcykpIHsKICAgICAgICAgICAgICAgIHBhcmFtcyArPSAiJiIKICAgICAgICAgICAgfQ==</text>
       </register>
     </registers>
     <search>
