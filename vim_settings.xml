@@ -60,6 +60,12 @@
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508289651127">
+        <mark key="[" line="254" column="48" />
+        <mark key="]" line="356" column="85" />
+        <mark key="^" line="356" column="85" />
+        <mark key="." line="356" column="85" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -383,6 +389,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1508289687396" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507537934006">
         <mark key="'" line="669" column="56" />
         <mark key="[" line="785" column="59" />
