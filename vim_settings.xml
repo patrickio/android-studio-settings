@@ -68,7 +68,8 @@
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508289651127">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508311467286">
+        <mark key="'" line="257" column="11" />
         <mark key="[" line="254" column="48" />
         <mark key="]" line="356" column="85" />
         <mark key="^" line="356" column="85" />
@@ -588,7 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
       <jump line="383" column="35" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
       <jump line="314" column="32" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="384" column="12" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
@@ -688,6 +688,7 @@
       <jump line="161" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="229" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="242" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="257" column="11" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -697,7 +698,7 @@
         <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text encoding="base64">YmVmb3JlIGxpdmUg</text>
       </register>
       <register name="0" type="4">
         <text>private fun Request.getAuthPwd(): String {
@@ -735,9 +736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search encoding="base64">YmVmb3JlIGxpdmUg</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern encoding="base64">YmVmb3JlIGxpdmUg</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -745,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>intent</entry>
         <entry encoding="base64">XDx1c2VzXD4=</entry>
         <entry>Nested</entry>
         <entry>WX</entry>
@@ -765,6 +765,7 @@
         <entry>test</entry>
         <entry>life</entry>
         <entry>toast</entry>
+        <entry encoding="base64">YmVmb3JlIGxpdmUg</entry>
       </history-search>
       <history-cmd />
       <history-expr />
