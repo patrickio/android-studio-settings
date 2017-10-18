@@ -325,6 +325,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508307878856">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
         <mark key="]" line="2" column="35" />
@@ -398,7 +403,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1508289687396" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1507537934006">
         <mark key="'" line="669" column="56" />
         <mark key="[" line="785" column="59" />
@@ -486,7 +490,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1508298749924" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -683,10 +686,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BneWVyL212bl9yZXBvX3BneWVyL21hc3RlciIgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaXRlbSA9IG1lbnU/LmZpbmRJdGVtKFIuaWQuZXhwYW5kZWRfbWVudSkK</text>
       </register>
       <register name="-" type="4">
-        <text>maven { url &quot;https://raw.githubusercontent.com/Pgyer/mvn_repo_pgyer/master&quot; }</text>
+        <text>Personal</text>
       </register>
       <register name="/" type="4">
         <text>toast</text>
@@ -699,31 +702,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BneWVyL212bl9yZXBvX3BneWVyL21hc3RlciIgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaXRlbSA9IG1lbnU/LmZpbmRJdGVtKFIuaWQuZXhwYW5kZWRfbWVudSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BneWVyL212bl9yZXBvX3BneWVyL21hc3RlciIgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtPy5wbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCAwNGRkODRmMmVmZjk1MTI4NWNiMGZlY2UzMmMyZDk5MDA3MGNkM2Y5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWlQdXNoQ2xpZW50LnNldEFsaWFzKHRoaXMsIFBlcnNvbmFsLmdldEluc3RhbmNlKCkudXNlckJhc2VJbmZvPy51aWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BneWVyL212bl9yZXBvX3BneWVyL21hc3RlciIgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PQogICAgICAgICAgICBob2xkZXI/Lm9sZFByaWNlPy50ZXh0ID0gZGF0YXMuZl9wcmljZS50b1N0cmluZygpCiAgICAgICAgICAgIGhvbGRlcj8ubm93UHJpY2U/LnRleHQgPSBkYXRhcy5mX29yaWdpbl9wcmljZS50b1N0cmluZygpCiAgICAgICAgICAgIGhvbGRlcj8uc3ViamVjdE5hbWU/LnRleHQgPSByZXNvdXJjZXMuZ2V0U3RyaW5nQXJyYXkoUi5hcnJheS5jb3Vyc2VzKVtkYXRhcy5mX3N1YmplY3RfaWQgLSAxXS5zdWJzdHJpbmcoMCwgMSkKPj4+Pj4+PiBGaXggbWlycm9yIGNyYXNoIGlzc3Vlcy4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BneWVyL212bl9yZXBvX3BneWVyL21hc3RlciIgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUi5pZC4K</text>
+        <text encoding="base64">PDw8PDw8PCAwNGRkODRmMmVmZjk1MTI4NWNiMGZlY2UzMmMyZDk5MDA3MGNkM2Y5Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YWN0aW9uX2Jhcl9vcmRlciAtPiB7CgogICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09Cg==</text>
       </register>
     </registers>
     <search>
