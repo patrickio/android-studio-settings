@@ -14,8 +14,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1508292484523">
-        <mark key="'" line="336" column="12" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1508293604666">
+        <mark key="'" line="242" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
         <mark key="[" line="46" column="41" />
@@ -596,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="70" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
-      <jump line="67" column="39" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
       <jump line="236" column="15" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
       <jump line="383" column="35" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/course/BaseLiveCourseInfoBean.java" />
       <jump line="314" column="32" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
@@ -696,6 +694,8 @@
       <jump line="105" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="159" column="64" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="161" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
+      <jump line="229" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
+      <jump line="242" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
