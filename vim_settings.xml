@@ -333,12 +333,13 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508398019079">
-        <mark key="i" line="90" column="15" />
-        <mark key="[" line="93" column="56" />
-        <mark key="]" line="93" column="57" />
-        <mark key="." line="93" column="57" />
-        <mark key="^" line="93" column="65" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508399225741">
+        <mark key="'" line="101" column="45" />
+        <mark key="i" line="91" column="15" />
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="102" column="35" />
+        <mark key="." line="102" column="35" />
+        <mark key="^" line="101" column="80" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/im/Constant.kt" timestamp="1505802801707">
         <mark key="[" line="7" column="0" />
@@ -675,10 +676,11 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/OnFragmentInteractionListener.kt" timestamp="1508383520124">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="55" />
-        <mark key="." line="17" column="55" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/OnFragmentInteractionListener.kt" timestamp="1508399045110">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="80" />
+        <mark key="." line="17" column="80" />
+        <mark key="^" line="17" column="80" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
@@ -713,7 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="236" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="345" column="12" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="346" column="40" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
@@ -813,46 +814,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" />
       <jump line="50" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
       <jump line="151" column="104" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
+      <jump line="101" column="45" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>名师课堂</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGlmIChjb250ZXh0IGlzIE9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyKSB7CiAgICAgICAgICAgIG1MaXN0ZW5lciA9IGNvbnRleHQKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIHRocm93IFJ1bnRpbWVFeGNlcHRpb24oY29udGV4dCEhLnRvU3RyaW5nKCkgKyAiIG11c3QgaW1wbGVtZW50IE9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyIikKICAgICAgICB9</text>
+        <text>mNetworkDialog = EducationAlertDialog.Builder(context).apply {
+                    message = getString(R.string.connectivity_none)
+                    positiveText = getString(R.string.go_to_settings)
+                    onPositive = { startActivity(Intent(Settings.ACTION_WIRELESS_SETTINGS))}
+                    negativeText = getString((R.string.cancel))
+                }.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLm5ldHdvcmtfbm90X3JlYWNoYWJsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblBvc2l0aXZlID0geyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtSGFuZGxlcjogSGFuZGxlciA9IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLm5ldHdvcmtfbm90X3JlYWNoYWJsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtSGFuZGxlcjogSGFuZGxlciA9IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXZlUHJlc2VudGVyPy5hdHRhY2godGhpcywgbUxpdmVNb2RlbCkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobUxpdmVQcmVzZW50ZXI/LmlzQSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtTGl2ZVByZXNlbnRlcj8uYXR0YWNoKHRoaXMsIG1MaXZlTW9kZWwpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5uZXQuQ29ubmVjdGl2aXR5TWFuYWdlckNvbXBhdAo=</text>
+        <text encoding="base64">ICAgICAgICBtTGl2ZVByZXNlbnRlcj8uYXR0YWNoKHRoaXMsIG1MaXZlTW9kZWwpCg==</text>
       </register>
     </registers>
     <search>
