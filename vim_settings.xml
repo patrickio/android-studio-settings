@@ -95,11 +95,11 @@
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1508411456476">
-        <mark key="[" line="309" column="26" />
-        <mark key="]" line="310" column="49" />
-        <mark key="^" line="310" column="49" />
-        <mark key="." line="310" column="49" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1508414171412">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="160" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508385234694">
         <mark key="[" line="599" column="0" />
@@ -318,12 +318,12 @@
         <mark key="." line="39" column="36" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1508411035125">
-        <mark key="'" line="54" column="45" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1508413649380">
+        <mark key="'" line="56" column="45" />
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1507531730577">
         <mark key="[" line="65" column="41" />
@@ -540,11 +540,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_bottom_bar.xml" timestamp="1508405369564">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="5" column="27" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_bottom_bar.xml" timestamp="1508413070479">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1505976798944">
         <mark key="[" line="51" column="41" />
@@ -673,13 +672,14 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" timestamp="1508405882462">
-        <mark key="'" line="57" column="45" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="57" column="45" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="18" column="45" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" timestamp="1508413197076">
+        <mark key="'" line="59" column="45" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/transition/26.1.0/bf675688e3ad5a0b68c627efa77de94822af2610/transition-26.1.0-sources.jar!/android/support/transition/TransitionSet.java" timestamp="1508414063860" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/OnFragmentInteractionListener.kt" timestamp="1508399045110">
         <mark key="[" line="17" column="74" />
         <mark key="]" line="17" column="80" />
@@ -822,10 +822,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIm9mZiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyaW5nID0gVHJhbnNpdGlvblNldC5PUkRFUklOR19UT0dFVEhFUgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ynkg</text>
+        <text>alpha</text>
       </register>
       <register name="/" type="4">
         <text>mTimer</text>
@@ -834,31 +834,52 @@
         <text>ConstraintSet().apply { clone(this@LiveActivity, R.layout.activity_live_fullscreen) }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIm9mZiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyaW5nID0gVHJhbnNpdGlvblNldC5PUkRFUklOR19UT0dFVEhFUgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIm9uIikK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIwLjMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIgLz4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9hY3Rpb25fYmFyX2hlaWdodCIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICA8RnJhbWVMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ZsX3JpZ2h0X2NvbnRhaW5lciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzQ3ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgYW5kcm9pZDphbHBoYT0iMC4zIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii8+CgogICAgPGluY2x1ZGUKICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2xpdmVfYm90dG9tX2JhciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iOTJkcCIKICAgICAgICBhbmRyb2lkOmFscGhhPSIwLjMiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL2ZsX3JpZ2h0X2NvbnRhaW5lciIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmE=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVRpbWVyLmNhbmNlbCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIwLjMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbHBoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      <register name="9" type="4">
+        <text>private val mTransitionListener = object : Transition.TransitionListener {
+            override fun onTransitionEnd(transition: Transition) {
+                Timber.d(&quot;onTransitionEnd&quot;)
+                isAnimating = false
+            }
+
+            override fun onTransitionResume(transition: Transition) {
+            }
+
+            override fun onTransitionPause(transition: Transition) {
+            }
+
+            override fun onTransitionCancel(transition: Transition) {
+                isAnimating = false
+            }
+
+            override fun onTransitionStart(transition: Transition) {
+                Timber.d(&quot;onTransitionStart&quot;)
+                isAnimating = true
+            }
+
+        }</text>
       </register>
     </registers>
     <search>
