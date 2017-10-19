@@ -36,6 +36,12 @@
         <mark key="^" line="46" column="38" />
         <mark key="." line="46" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1508397620793">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
         <mark key="]" line="58" column="27" />
@@ -59,6 +65,11 @@
         <mark key="]" line="50" column="16" />
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/BaseFragment.kt" timestamp="1508397756822">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1505552394355">
         <mark key="[" line="35" column="0" />
@@ -270,6 +281,11 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/Presenter.kt" timestamp="1508397673063">
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="65" column="39" />
+        <mark key="." line="65" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1505393436982">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="26" />
@@ -317,11 +333,12 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508396621190">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="106" column="36" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508398019079">
+        <mark key="i" line="90" column="15" />
+        <mark key="[" line="93" column="56" />
+        <mark key="]" line="93" column="57" />
+        <mark key="." line="93" column="57" />
+        <mark key="^" line="93" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/im/Constant.kt" timestamp="1505802801707">
         <mark key="[" line="7" column="0" />
@@ -798,11 +815,11 @@
       <jump line="151" column="104" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>名师课堂</text>
@@ -811,36 +828,31 @@
         <text encoding="base64">IGlmIChjb250ZXh0IGlzIE9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyKSB7CiAgICAgICAgICAgIG1MaXN0ZW5lciA9IGNvbnRleHQKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIHRocm93IFJ1bnRpbWVFeGNlcHRpb24oY29udGV4dCEhLnRvU3RyaW5nKCkgKyAiIG11c3QgaW1wbGVtZW50IE9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyIikKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLm5ldHdvcmtfbm90X3JlYWNoYWJsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtSGFuZGxlcjogSGFuZGxlciA9IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtTmV0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQK</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-            
-        }</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (intent.extras != null) {
-                person = extras.getParcelable(EXTRA_PERSON)
-                courseId = extras.getString(EXTRA_COURSE_ID)
-            }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4dHJhcyA9IGludGVudC5leHRyYXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXZlUHJlc2VudGVyPy5hdHRhY2godGhpcywgbUxpdmVNb2RlbCkK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUxpdmVQcmVzZW50ZXI/LmlzQSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtTGl2ZVByZXNlbnRlcj8uYXR0YWNoKHRoaXMsIG1MaXZlTW9kZWwpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKHBlcnNvbiAhPSBudWxsICYmIGNvdXJzZUlkICE9IG51bGwpIHsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5uZXQuQ29ubmVjdGl2aXR5TWFuYWdlckNvbXBhdAo=</text>
       </register>
     </registers>
     <search>
