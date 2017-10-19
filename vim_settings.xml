@@ -81,11 +81,11 @@
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1508403685480">
-        <mark key="[" line="298" column="69" />
-        <mark key="]" line="298" column="67" />
-        <mark key="." line="298" column="80" />
-        <mark key="^" line="298" column="67" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1508404604908">
+        <mark key="[" line="321" column="34" />
+        <mark key="]" line="322" column="48" />
+        <mark key="." line="322" column="48" />
+        <mark key="^" line="322" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508385234694">
         <mark key="[" line="599" column="0" />
@@ -759,11 +759,11 @@
       <jump line="228" column="39" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>FullScreenAnimator1</text>
       </register>
       <register name="-" type="4">
-        <text>Listener</text>
+        <text>FullScreenAnimator1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtTGlzdGVuZXJcPg==</text>
@@ -772,35 +772,33 @@
         <text>setOnSystemUiVisibilityChangeListener</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1GdWxsU2NyZWVuQW5pbWF0b3I6IEZ1bGxTY3JlZW5BbmltYXRvcj8gPSBudWxsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsX2xlZnRfY29udGFpbmVyLmFuaW1hdGUoKS5zY2FsZVgoMS41Zikuc2NhbGVZKDEuNWYpLnNldC5zZXRMaXN0ZW5lcigpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>fl_left_container.animate().apply { 
                                     
                                 },</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCAxOTUxciBidWdzIGZpeGVkIGFuZCBtb2RpZnkuCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">MDU4ZDM3NmFlOTNiNWY0MTQzNzcxMTQ5MThmOTA1ZWNlMDE2Cj09PT09PT0KLy8gICAgICAgICAgICBpZiAoZ3JhZGUuaXNOdWxsT3JFbXB0eSgpKQo+Pj4+Pj4+IG1pcnJv</text>
-      </register>
-      <register name="6" type="4">
-        <text>Personal.getInstance().userBaseInfo?.uid?.toString()?.run {
-                MiPushClient.setAlias(this@MainActivity, this, null)
-            }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCA4ODJmIExvZy5pKCJrbGl2aXRhbSIsICJ1aWRjaGFuZ2UgLS0gJGdyYWRlIikK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">OTJmNmQyODZiNWJjMzVlY2RhNTYzMTJmMWM0NTJkNTFlMjAyCiAgICAgICAgICAgIHZhbCB1aWQgPSBQZXJzb25hbC5nZXRJbnN0YW5jZSgpLnVzZXJCYXNlSW5mbz8udWlkLnRvU3RyaW5nKCkKICAgICAgICAgICAgTWlQdXNoQ2xpZW50LnNldEFsaWFzKGFwcGxpY2F0aW9uLHVpZCxudWxsKQo9PT09PT09Ci8vICAgICAgICAgICAgaWYgKGdyYWRlLmlzTnVsbE9yRW1wdHkoKSkKLy8gICAgICAgICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgTWlQdXNoIGFsaWFzLgo=</text>
       </register>
     </registers>
     <search>
