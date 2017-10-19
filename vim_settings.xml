@@ -101,21 +101,21 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508385234694">
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="599" column="0" />
-        <mark key="." line="599" column="0" />
-        <mark key="^" line="309" column="41" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508414866485">
+        <mark key="[" line="488" column="0" />
+        <mark key="]" line="488" column="0" />
+        <mark key="." line="488" column="0" />
+        <mark key="^" line="488" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1508383045187">
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="54" column="27" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1508414449711">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CachedUserService.kt" timestamp="1507952331966">
         <mark key="[" line="30" column="46" />
@@ -343,6 +343,12 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508414818614">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="62" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/im/Constant.kt" timestamp="1505802801707">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -484,8 +490,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1508383268079">
+      <file name="/fragment.kt" timestamp="1508414613613">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1505467598789">
         <mark key="[" line="3" column="4" />
@@ -656,6 +664,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1508414429418">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/core/Network.kt" timestamp="1505801732881">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -672,12 +685,12 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" timestamp="1508413197076">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" timestamp="1508415111795">
         <mark key="'" line="59" column="45" />
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="13" column="23" />
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="43" />
         <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+        <mark key="." line="34" column="43" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/transition/26.1.0/bf675688e3ad5a0b68c627efa77de94822af2610/transition-26.1.0-sources.jar!/android/support/transition/TransitionSet.java" timestamp="1508414063860" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/OnFragmentInteractionListener.kt" timestamp="1508399045110">
@@ -821,11 +834,11 @@
       <jump line="75" column="19" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyaW5nID0gVHJhbnNpdGlvblNldC5PUkRFUklOR19UT0dFVEhFUgo=</text>
+      <register name="&quot;" type="4">
+        <text>white</text>
       </register>
       <register name="-" type="4">
-        <text>alpha</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
         <text>mTimer</text>
@@ -834,52 +847,31 @@
         <text>ConstraintSet().apply { clone(this@LiveActivity, R.layout.activity_live_fullscreen) }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyaW5nID0gVHJhbnNpdGlvblNldC5PUkRFUklOR19UT0dFVEhFUgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXREaXNwbGF5KHZpZXc/LmdldFN1cmZhY2UoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIwLjMiCg==</text>
+        <text encoding="base64">ICAgICAgICBzdl9saXZlX3ZpZGVvLmhvbGRlci5hZGRDYWxsYmFjayhtU3VyZmFjZUhvbGRlckNhbGxiYWNrKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICA8RnJhbWVMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ZsX3JpZ2h0X2NvbnRhaW5lciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzQ3ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgYW5kcm9pZDphbHBoYT0iMC4zIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii8+CgogICAgPGluY2x1ZGUKICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2xpdmVfYm90dG9tX2JhciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iOTJkcCIKICAgICAgICBhbmRyb2lkOmFscGhhPSIwLjMiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL2ZsX3JpZ2h0X2NvbnRhaW5lciIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmE=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCBtU3VyZmFjZUhvbGRlckNhbGxiYWNrID0gb2JqZWN0IDogU3VyZmFjZUhvbGRlci5DYWxsYmFjayB7CiAgICAgICAgb3ZlcnJpZGUgZnVuIHN1cmZhY2VDaGFuZ2VkKHAwOiBTdXJmYWNlSG9sZGVyLCBwMTogSW50LCBwMjogSW50LCBwMzogSW50KSB7fQoKICAgICAgICBvdmVycmlkZSBmdW4gc3VyZmFjZURlc3Ryb3llZChwMDogU3VyZmFjZUhvbGRlcikgewogICAgICAgICAgICBtTGl2ZVByZXNlbnRlcj8uZGV0YWNoU3VyZmFjZUhvbGRlcigpCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gc3VyZmFjZUNyZWF0ZWQocDA6IFN1cmZhY2VIb2xkZXIpIHsKICAgICAgICAgICAgbUxpdmVQcmVzZW50ZXI/LmF0dGFjaFN1cmZhY2VIb2xkZXIocDApCiAgICAgICAgfQoKICAgIH0=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIwLjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbHBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>private val mTransitionListener = object : Transition.TransitionListener {
-            override fun onTransitionEnd(transition: Transition) {
-                Timber.d(&quot;onTransitionEnd&quot;)
-                isAnimating = false
-            }
-
-            override fun onTransitionResume(transition: Transition) {
-            }
-
-            override fun onTransitionPause(transition: Transition) {
-            }
-
-            override fun onTransitionCancel(transition: Transition) {
-                isAnimating = false
-            }
-
-            override fun onTransitionStart(transition: Transition) {
-                Timber.d(&quot;onTransitionStart&quot;)
-                isAnimating = true
-            }
-
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
     </registers>
     <search>
