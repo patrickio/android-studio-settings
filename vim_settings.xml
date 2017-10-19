@@ -86,10 +86,11 @@
         <mark key="]" line="80" column="5" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1508406658097">
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="62" />
-        <mark key="." line="312" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1508410254867">
+        <mark key="[" line="308" column="70" />
+        <mark key="]" line="336" column="41" />
+        <mark key="^" line="336" column="25" />
+        <mark key="." line="336" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508385234694">
         <mark key="[" line="599" column="0" />
@@ -811,54 +812,44 @@
       <jump line="64" column="45" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmJlZ2luRGVsYXllZFRyYW5zaXRpb24odGhpcykK</text>
+      <register name="&quot;" type="4">
+        <text>onTransitionEnd</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>onTransitionEnd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtTGlzdGVuZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>(contentView as? ConstraintLayout)?.run {
-                TransitionManager.beginDelayedTransition(this)
-                constraintSet1.applyTo(this)
-            }</text>
+        <text>onTransitionEnd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmJlZ2luRGVsYXllZFRyYW5zaXRpb24odGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmdvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmJlZ2luRGVsYXllZFRyYW5zaXRpb24odGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if (fl_left_container != null) {
-                fl_left_container.animate().run {
-                    scaleX(1f)
-                    scaleY(1f)
-                    duration = 300
-                    setListener(mAnimatorListener)
-                }
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBtQW5pbWF0b3JMaXN0ZW5lciA9IG9iamVjdDogQW5pbWF0b3IuQW5pbWF0b3JMaXN0ZW5lcgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNpdGlvbk1hbmFnZXIuYmVnaW5EZWxheWVkVHJhbnNpdGlvbihjb250ZW50VmlldyBhcz8gQ29uc3RyYWludExheW91dCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQW5pbWF0aW9uUmVwZWF0KGFuaW1hdGlvbjogQW5pbWF0b3I/KSB7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFuaW1hdGlvbkVuZChhbmltYXRpb246IEFuaW1hdG9yPykgewogICAgICAgICAgICAgICAgaXNBbmltYXRpbmcgPSBmYWxzZQogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BbmltYXRpb25DYW5jZWwoYW5pbWF0aW9uOiBBbmltYXRvcj8pIHsKICAgICAgICAgICAgICAgIGlzQW5pbWF0aW5nID0gZmFsc2UKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQW5pbWF0aW9uU3RhcnQoYW5pbWF0aW9uOiBBbmltYXRvcj8pIHsKICAgICAgICAgICAgICAgIGlzQW5pbWF0aW5nID0gdHJ1ZQogICAgICAgICAgICB9CgogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmJlZ2luRGVsYXllZFRyYW5zaXRpb24odGhpcykK</text>
       </register>
     </registers>
     <search>
