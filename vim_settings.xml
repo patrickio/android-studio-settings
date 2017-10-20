@@ -149,12 +149,12 @@
         <mark key="^" line="83" column="66" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1508483348489">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1508490112010">
         <mark key="'" line="120" column="32" />
-        <mark key="[" line="262" column="64" />
-        <mark key="]" line="262" column="58" />
-        <mark key="." line="262" column="58" />
-        <mark key="^" line="262" column="58" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="62" column="70" />
+        <mark key="." line="62" column="70" />
+        <mark key="^" line="62" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveStatusFeature.kt" timestamp="1505874106523">
         <mark key="[" line="28" column="23" />
@@ -432,13 +432,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508480989994">
-        <mark key="'" line="200" column="8" />
-        <mark key="[" line="218" column="80" />
-        <mark key="]" line="218" column="67" />
-        <mark key="." line="218" column="67" />
-        <mark key="^" line="218" column="67" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
         <mark key="]" line="2" column="35" />
@@ -482,6 +475,12 @@
         <mark key="[" line="83" column="38" />
         <mark key="]" line="83" column="39" />
         <mark key="." line="83" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1508490646259">
+        <mark key="[" line="130" column="80" />
+        <mark key="]" line="131" column="36" />
+        <mark key="." line="131" column="36" />
+        <mark key="^" line="131" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/build.gradle" timestamp="1506065608708">
         <mark key="[" line="4" column="18" />
@@ -886,8 +885,8 @@
       <jump line="115" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgIExpdmVFeGVyY2lzZVN0YXRlLlNVQk1JVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiY=</text>
@@ -898,50 +897,35 @@
       <register name="0" type="4">
         <text encoding="base64">ZmluZExhc3RWaXNpYmxlSXRlbVBvc2l0aW9uKCkgPT0gbU1lc3NhZ2VBZGFwdGVyLm1lc3NhZ2VMaXN0LnNpemUgLSAxICYmIHNjcm9sbFRvQm90dG9t</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgIExpdmVFeGVyY2lzZVN0YXRlLlNVQk1JVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKElNRXhjZXB0aW9uKHZhcjEsIHZhcjIpKQo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgIExpdmVFeGVyY2lzZVN0YXRlLlNVQk1JVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>if (value == LiveExerciseState.STATISTIC) {
                 }
                 else {
                 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9wU3RhdGlzdGljUG9sbGluZygpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydFN0YXRpc3RpY1BvbGxpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9wU3RhdGlzdGljUG9sbGluZygpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzdGFydEV4ZXJjaXNlQ291bnREb3duKCkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydFN0YXRpc3RpY1BvbGxpbmcoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        // invoke counting down into main thread
-        countdownConsumer?.disposeIfNot()
-        countdownConsumer = Observable.intervalRange(1L, ILiveExercisePresenter.EXERCISE_DURATION, 0L, 1L, TimeUnit.SECONDS, AndroidSchedulers.mainThread())
-                .subscribeBy (
-                        onNext = {
-                            val remainTime = ILiveExercisePresenter.EXERCISE_DURATION - it
-                            view?.onExerciseCountdown(formatRemainTime(remainTime))
-                        },
-                        onComplete = {
-                            debug { &quot;exercise countdown end.&quot; }
-                            mState = LiveExerciseState.SUBMIT
-                            view?.onExerciseTimeUp()
-                        }
-                )
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
