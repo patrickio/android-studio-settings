@@ -412,12 +412,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508465142786">
-        <mark key="'" line="76" column="43" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="137" column="25" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508465751015">
+        <mark key="'" line="79" column="43" />
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="73" column="31" />
+        <mark key="." line="73" column="31" />
+        <mark key="^" line="73" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
@@ -599,11 +599,11 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/config/Personal.kt" timestamp="1508465341839">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="18" column="48" />
-        <mark key="^" line="18" column="48" />
-        <mark key="." line="18" column="48" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/config/Personal.kt" timestamp="1508465815623">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="41" column="5" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="41" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1505459373546">
         <mark key="[" line="17" column="35" />
@@ -842,33 +842,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>init {
-        Log.d(Personal::class.simpleName!!, &quot;init Personal&quot;)
-//        updateUserInfo()
-    }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHVpZDogSW50PyA9IG51bGwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKEJ1aWxkQ29uZmlnLkJFVEEpIHsgLy8gQkVUQeeJiOacrOi1sOiSsuWFrOiLsQogICAgICAgICAgICAgICAgLy8g6Ieq5a6a5LmJ5pGH5LiA5pGH55qE54G15pWP5bqm77yM6buY6K6k5Li6OTUw77yM5pWw5YC86LaK5bCP54G15pWP5bqm6LaK6auY44CCCiAgICAgICAgICAgICAgICBQZ3lGZWVkYmFja1NoYWtlTWFuYWdlci5zZXRTaGFraW5nVGhyZXNob2xkKDEwMDApCgogICAgICAgICAgICAgICAgLy8g5Lul5a+56K+d5qGG55qE5b2i5byP5by55Ye677yM5a+56K+d5qGG5Y+q5pSv5oyB56uW5bGPCi8vICAgICAgICAgICAgUGd5RmVlZGJhY2tTaGFrZU1hbmFnZXIucmVnaXN0ZXIodGhpcykKCiAgICAgICAgICAgICAgICAvLyDku6VBY3Rpdml0eeeahOW9ouW8j+aJk+W8gO+8jOi/meenjeaDheWGteS4i+W/hemhu+WcqEFuZHJvaWRNYW5pZmVzdC54bWzphY3nva5GZWVkYmFja0FjdGl2aXR5CiAgICAgICAgICAgICAgICAvLyDmiZPlvIDmsonmtbjlvI8s6buY6K6k5Li6ZmFsc2UKICAgICAgICAgICAgICAgIC8vIEZlZWRiYWNrQWN0aXZpdHkuc2V0QmFySW1tZXJzaXZlKHRydWUpOwovLyAgICAgICAgICAgIFBneUZlZWRiYWNrU2hha2VNYW5hZ2VyLnJlZ2lzdGVyKE1haW5BY3Rpdml0eS50aGlzLCB0cnVlKTsg55u45b2T5LqO5L2/55SoRGlhbG9n55qE5pa55byP77ybCiAgICAgICAgICAgICAgICBQZ3lGZWVkYmFja1NoYWtlTWFuYWdlci5yZWdpc3Rlcih0aGlzLCBmYWxzZSkKCiAgICAgICAgICAgICAgICAvLyDlnKjlj43ppojnlYzpnaLmt7vliqDoh6rlrprkuYnkv6Hmga8KICAgICAgICAgICAgICAgIFBneUZlZWRiYWNrLmdldEluc3RhbmNlKCkuc2V0TW9yZVBhcmFtKCJGbGF2b3IiLCBCdWlsZENvbmZpZy5GTEFWT1IpCgogICAgICAgICAgICAgICAgUGd5VXBkYXRlTWFuYWdlci5zZXRJc0ZvcmNlZChmYWxzZSkgLy/orr7nva7mmK/lkKblvLrliLbmm7TmlrDjgIJ0cnVl5Li65by65Yi25pu05paw77ybZmFsc2XkuLrkuI3lvLrliLbmm7TmlrDvvIjpu5jorqTlgLzvvInjgIIKICAgICAgICAgICAgICAgIFBneVVwZGF0ZU1hbmFnZXIucmVnaXN0ZXIodGhpcywgImNuLmRyZWFtLmxpdmUuZWR1Y2F0aW9uLmZpbGVwcm92aWRlciIpCiAgICAgICAgICAgIH0gZWxzZSB7IC8vIEZPUk1BTOeJiOacrOi1sOWQjuWPsAogICAgICAgICAgICAgICAgaWYgKEhlbHBlci5pc05ldHdvcmtSZWFjaGFibGUodGhpcykpIHsKICAgICAgICAgICAgICAgICAgICBVcGRhdGVUb29sLmNoZWNrVXBkYXRlKHRoaXMsIGZhbHNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gKGl0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDaGVja0ltcGwuQ0hFQ0tfSVNMQVNURVNUIC0+IFRpbWJlci5kKCJZb3VyIGFwcCBhbHJlYWR5IGlzIHRoZSBsYXN0ZXN0IHZlcnNpb24iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2hlY2tJbXBsLkNIRUNLX05FRURfVVBEQVRFIC0+IFRpbWJlci5kKCJBIG5ldyB2ZXJzaW9uIGhhcyBiZWVuIHJlbGVhc2UsIHlvdSBjYW4gdXBkYXRlIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoZWNrSW1wbC5DSEVDS19FUlJPUiAtPiBUaW1iZXIuZSgiY2hlY2tVcGRhdGU6IGVycm9yIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="3" type="4">
         <text>Personal.getInstance().userBaseInfo?.uid?.toString()?.run {
-            MiPushClient.setAlias(this@MainActivity, this, null)
+                MiPushClient.setAlias(this@MainActivity, this, null)
+            }</text>
+      </register>
+      <register name="4" type="4">
+        <text>else {
+            //
+            
         }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51SXRlbQo=</text>
+      <register name="5" type="4">
+        <text>Personal.getInstance().userBaseInfo?.uid?.toString()?.run {
+                MiPushClient.setAlias(this@MainActivity, this, null)
+            }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGluaXQgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>{
+        Log.d(Personal::class.simpleName!!, &quot;constructor Personal&quot;)
+    }</text>
       </register>
     </registers>
     <search>
