@@ -412,12 +412,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508465751015">
-        <mark key="'" line="79" column="43" />
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="73" column="31" />
-        <mark key="." line="73" column="31" />
-        <mark key="^" line="73" column="31" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508466821552">
+        <mark key="'" line="78" column="43" />
+        <mark key="[" line="145" column="17" />
+        <mark key="]" line="147" column="104" />
+        <mark key="." line="147" column="104" />
+        <mark key="^" line="147" column="104" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
@@ -599,11 +599,11 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/config/Personal.kt" timestamp="1508465815623">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="41" column="5" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="41" column="5" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/config/Personal.kt" timestamp="1508466085324">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_living.xml" timestamp="1505459373546">
         <mark key="[" line="17" column="35" />
@@ -827,52 +827,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>else</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
         <text>btn_grade</text>
       </register>
       <register name="0" type="4">
-        <text>ConstraintSet().apply { clone(this@LiveActivity, R.layout.activity_live_fullscreen) }</text>
+        <text encoding="base64">IC8vIG9ubHkgY2hlY2sgb25jZQogICAgICAgICAgICBpZiAoIWNoZWNrTG9naW4pIHsKICAgICAgICAgICAgICAgIGNoZWNrTG9naW4gPSB0cnVlCiAgICAgICAgICAgICAgICBIZWxwZXIuc2hvd0xvZ2luRGlhbG9nKHRoaXMpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzaG93TG9naW5FbGVtZW50cyh0cnVlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>{
+                }</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCFQZXJzb25hbC5nZXRJbnN0YW5jZSgpLmlzTG9nZ2VkKSB7CiAgICAgICAgICAgIC8vIG9ubHkgY2hlY2sgb25jZQogICAgICAgICAgICBpZiAoIWNoZWNrTG9naW4pIHsKICAgICAgICAgICAgICAgIGNoZWNrTG9naW4gPSB0cnVlCiAgICAgICAgICAgICAgICBIZWxwZXIuc2hvd0xvZ2luRGlhbG9nKHRoaXMpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzaG93TG9naW5FbGVtZW50cyh0cnVlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG93TG9naW5FbGVtZW50cyh0cnVlKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Personal.getInstance().userBaseInfo?.uid?.toString()?.run {
-                MiPushClient.setAlias(this@MainActivity, this, null)
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0UGVyc29uYWxHcgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-            //
-            
-        }</text>
-      </register>
-      <register name="5" type="4">
-        <text>Personal.getInstance().userBaseInfo?.uid?.toString()?.run {
-                MiPushClient.setAlias(this@MainActivity, this, null)
-            }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">YWRlKCkKICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5mcmFnbWVudHMuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICB3aGVuIChpdCkgewogICAgICAgICAgICAgICAgICAgIGlzIENvdXJzZUdyb3VwRnJhZ21lbnQgLT4gaXQuZ2V0RGV0YWlsTGlzdERhdGFzKGdzb24uZnJvbUpzb24oZ3JhZGUsIEdyYWRlOjpjbGFzcy5qYXZhKS5GX2lkLCAxKQogICAgICAgICAgICAgICAgICAgIGlzIE15Q291cnNlRnJhZ21lbnQgLT4gaXQucmVmcmVzaCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlciBub3QgY2hhbmdlCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>else {
+            // User changed
+        }</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGluaXQgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-        Log.d(Personal::class.simpleName!!, &quot;constructor Personal&quot;)
-    }</text>
       </register>
     </registers>
     <search>
