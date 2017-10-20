@@ -149,10 +149,12 @@
         <mark key="^" line="83" column="66" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1508382620662">
-        <mark key="[" line="242" column="47" />
-        <mark key="]" line="242" column="47" />
-        <mark key="." line="242" column="47" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1508483348489">
+        <mark key="'" line="120" column="32" />
+        <mark key="[" line="262" column="64" />
+        <mark key="]" line="262" column="58" />
+        <mark key="." line="262" column="58" />
+        <mark key="^" line="262" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveStatusFeature.kt" timestamp="1505874106523">
         <mark key="[" line="28" column="23" />
@@ -247,11 +249,11 @@
         <mark key="." line="260" column="38" />
         <mark key="^" line="260" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1508382609943">
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-        <mark key="^" line="65" column="36" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1508482895598">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="63" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
@@ -777,9 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="28" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
-      <jump line="146" column="24" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
-      <jump line="147" column="38" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
       <jump line="21" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="23" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" />
@@ -877,54 +876,73 @@
       <jump line="337" column="17" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="91" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="200" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="66" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="115" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWZpbHRlck1lc3NhZ2VFbmFibGVkKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgIExpdmVFeGVyY2lzZVN0YXRlLlNVQk1JVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>btn_grade</text>
+        <text>mState</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZmluZExhc3RWaXNpYmxlSXRlbVBvc2l0aW9uKCkgPT0gbU1lc3NhZ2VBZGFwdGVyLm1lc3NhZ2VMaXN0LnNpemUgLSAxICYmIHNjcm9sbFRvQm90dG9t</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWZpbHRlck1lc3NhZ2VFbmFibGVkKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgIExpdmVFeGVyY2lzZVN0YXRlLlNVQk1JVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWZpbHRlck1lc3NhZ2VFbmFibGVkKQo=</text>
+      <register name="3" type="4">
+        <text>if (value == LiveExerciseState.STATISTIC) {
+                }
+                else {
+                }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ub25OZXdNZXNzYWdlcyhhcnJheU9mKGl0KSwgZ2V0TWVzc2FnZXNMaXN0KCkuaW5kZXhPZihpdCksIDEsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9wU3RhdGlzdGljUG9sbGluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHJjdl9tZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YWdlc19saXN0LmxheW91dE1hbmFnZXIgYXM/IExpbmVhckxheW91dE1hbmFnZXIpPy5ydW4gewogICAgICAgICAgICAgICAgaWYgKGZpbmRMYXN0VmlzaWJsZUl0ZW1Qb3NpdGlvbigpID09IG1NZXNzYWdlQWRhcHRlci5tZXNzYWdlTGlzdC5zaXplIC0gMSAmJiBzY3JvbGxUb0JvdHRvbSkgewogICAgICAgICAgICAgICAgICAgIHNjcm9sbE1lc3NhZ2VMaXN0MkJvdHRvbSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydFN0YXRpc3RpY1BvbGxpbmcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjcm9sbFRvQm90dG9tKSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzdGFydEV4ZXJjaXNlQ291bnREb3duKCkgCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
-                scrollMessageList2Bottom()
-            }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1QYWdlckFkYXB0ZXI/LmlzTG9naW4gPSBQZXJzb25hbC5nZXRJbnN0YW5jZSgpLmlzTG9nZ2VkCg==</text>
+        // invoke counting down into main thread
+        countdownConsumer?.disposeIfNot()
+        countdownConsumer = Observable.intervalRange(1L, ILiveExercisePresenter.EXERCISE_DURATION, 0L, 1L, TimeUnit.SECONDS, AndroidSchedulers.mainThread())
+                .subscribeBy (
+                        onNext = {
+                            val remainTime = ILiveExercisePresenter.EXERCISE_DURATION - it
+                            view?.onExerciseCountdown(formatRemainTime(remainTime))
+                        },
+                        onComplete = {
+                            debug { &quot;exercise countdown end.&quot; }
+                            mState = LiveExerciseState.SUBMIT
+                            view?.onExerciseTimeUp()
+                        }
+                )
+    }</text>
       </register>
     </registers>
     <search>
-      <last-search>btn_grade</last-search>
+      <last-search>mState</last-search>
       <last-offset />
-      <last-pattern>btn_grade</last-pattern>
+      <last-pattern>mState</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -932,7 +950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ToolBarTheme</entry>
         <entry>custom</entry>
         <entry>Login</entry>
         <entry>adapter</entry>
@@ -952,6 +969,7 @@
         <entry>mTimer</entry>
         <entry>AVOption</entry>
         <entry>btn_grade</entry>
+        <entry>mState</entry>
       </history-search>
       <history-cmd />
       <history-expr />
