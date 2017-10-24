@@ -4,21 +4,18 @@
     <property name="created">2017-10-11T11:39:29</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.15</property>
-    <property name="modified">2017-10-20T10:19:47</property>
+    <property name="modified">2017-10-24T16:22:59</property>
     <property name="originalScheme">Patrick</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <console-font>
+  <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
+  </font>
+  <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
