@@ -60,7 +60,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormula.java" timestamp="1508817229216" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormula.java" timestamp="1508824927408" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/.gitignore" timestamp="1507712488132">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="10" />
@@ -198,6 +198,7 @@
         <mark key="^" line="195" column="60" />
         <mark key="." line="195" column="60" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormulaSettingsParser.java" timestamp="1508817702690" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="29" />
@@ -359,7 +360,7 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/span/MathLatexSpan.java" timestamp="1508817191229" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/span/MathLatexSpan.java" timestamp="1508817606036" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508414818614">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -911,7 +912,7 @@
         <text>mThread</text>
       </register>
       <register name="/" type="4">
-        <text>mState</text>
+        <text>getNext</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgKGlzUHVzaGluZykgeyAvLyBhdHRlbXB0IHRvIHBsYXkgdGhlIGZpcnN0IGxpdmUKICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiAobUxpdmVTdGFnZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLkJFRk9SRV9MSVZFIC0+IExpdmVTdGFnZS5QUkVQQVJFX0xJVkUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5QUkVQQVJFX0xJVkUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHByZXBhcmUgbGl2aW5nIGlzIGNvdW50aW5nIGRvd24gY29tcGxldGVkLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwcmVwYXJlQ291bnRkb3duQ29uc3VtZXI/LmlzRGlzcG9zZWQgPT0gdHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLkxJVklORwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLlBSRVBBUkVfTElWRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBMaXZlU3RhZ2UuTElWSU5HCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgeyAvLyB0aGUgZmlyc3QgbGl2ZSBoYXMgYmVlbiBlbmRlZAogICAgICAgICAgICAgICAgICAgICAgICB3aGVuIChtTGl2ZVN0YWdlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTElWSU5HIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc1BsYXlpbmdMaXZlKCkgLT4gTGl2ZVN0YWdlLkxJVklORyAvLyBkb2Vzbid0IGZvcmNlIHRvIGNsb3NlIGl0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRXhhbUJlZ2luIC0+IExpdmVTdGFnZS5QUkVQQVJFX0VYRVJDSVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgLT4gTGl2ZVN0YWdlLk1JRERMRV9SRVNUCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9SRVNUIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNFeGFtQmVnaW4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLlBSRVBBUkVfRVhFUkNJU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuUFJFUEFSRV9FWEVSQ0lTRSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByZXBhcmVDb3VudGRvd25Db25zdW1lcj8uaXNEaXNwb3NlZCA9PSB0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX0VYRVJDSVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuUFJFUEFSRV9FWEVSQ0lTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9FWEVSQ0lTRSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzRXhhbUJlZ2luKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5NSURETEVfRVhFUkNJU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IExpdmVTdGFnZS5NSURETEVfUkVTVAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
@@ -945,9 +946,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mState</last-search>
+      <last-search>getNext</last-search>
       <last-offset />
-      <last-pattern>mState</last-pattern>
+      <last-pattern>getNext</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -955,8 +956,6 @@
     </search>
     <history>
       <history-search>
-        <entry>custom</entry>
-        <entry>Login</entry>
         <entry>adapter</entry>
         <entry>WXApi</entry>
         <entry>liveLong</entry>
@@ -975,6 +974,8 @@
         <entry>AVOption</entry>
         <entry>btn_grade</entry>
         <entry>mState</entry>
+        <entry>SpanSet</entry>
+        <entry>getNext</entry>
       </history-search>
       <history-cmd />
       <history-expr />
