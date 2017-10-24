@@ -584,10 +584,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" timestamp="1508842628558">
-        <mark key="[" line="114" column="8" />
-        <mark key="]" line="117" column="63" />
-        <mark key="." line="114" column="8" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" timestamp="1508843269744">
+        <mark key="[" line="114" column="105" />
+        <mark key="]" line="114" column="105" />
+        <mark key="." line="114" column="105" />
         <mark key="^" line="114" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/MyCourseFragment.kt" timestamp="1508469375403">
@@ -966,13 +966,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinearLayout.LayoutParams linearlayout = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                    Util.dp2px(context, 48));
-            linearlayout.weight = 1f;
-            linearlayout.rightMargin = Util.dp2px(context, 70);</text>
+        <text>WRAP_CONTENT</text>
       </register>
       <register name="-" type="4">
-        <text>RadioGroup</text>
+        <text>WRAP_CONTENT</text>
       </register>
       <register name="/" type="4">
         <text>startAc</text>
@@ -980,35 +977,35 @@
       <register name="0" type="4">
         <text encoding="base64">PFJhZGlvQnV0dG9uCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>LinearLayout.LayoutParams linearlayout = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
                     Util.dp2px(context, 48));
             linearlayout.weight = 1f;
             linearlayout.rightMargin = Util.dp2px(context, 70);</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgIGFuX3JhZGlvR3JvdXA7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGluZWFybGF5b3V0LnNldE1hcmdpbkVuZChVdGlsLmRwMnB4KGNvbnRleHQsIDcwKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFkaW9CdXR0b24uZ2V0Vmlldwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFkaW9CdXR0b24uc2V0TGF5b3V0UGFyYW1zKGxpbmVhcmxheW91dCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGluZWFybGF5b3V0LnNldE1hcmdpbnMoMCwwLFV0aWwuZHAycHgoY29udGV4dCwgNzApLCAwKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsbF9yYWRpb0dyb3VwLnNldExheW91dFBhcmFtcygpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULCBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsbF9yYWRpb0dyb3VwID0gbmV3IExpbmVhckxheW91dChjb250ZXh0LCApOwo=</text>
+        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULCBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCkK</text>
       </register>
     </registers>
     <search>
