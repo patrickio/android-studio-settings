@@ -153,12 +153,12 @@
         <mark key="^" line="83" column="66" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1508829009397">
-        <mark key="'" line="120" column="32" />
-        <mark key="[" line="200" column="51" />
-        <mark key="]" line="200" column="51" />
-        <mark key="." line="200" column="51" />
-        <mark key="^" line="200" column="51" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1508831635668">
+        <mark key="'" line="121" column="32" />
+        <mark key="[" line="273" column="20" />
+        <mark key="]" line="272" column="59" />
+        <mark key="." line="272" column="59" />
+        <mark key="^" line="272" column="59" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveStatusFeature.kt" timestamp="1505874106523">
         <mark key="[" line="28" column="23" />
@@ -931,11 +931,11 @@
       <jump line="77" column="48" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvYnRuX2xhc3RfcXVlc3Rpb24iCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>packed</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>Recy</text>
