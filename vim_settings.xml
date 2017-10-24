@@ -36,6 +36,13 @@
         <mark key="^" line="165" column="20" />
         <mark key="." line="204" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1508836548169">
+        <mark key="'" line="30" column="26" />
+        <mark key="[" line="168" column="108" />
+        <mark key="]" line="168" column="108" />
+        <mark key="." line="168" column="108" />
+        <mark key="^" line="168" column="114" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
         <mark key="[" line="46" column="41" />
         <mark key="]" line="46" column="38" />
@@ -714,10 +721,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1508722690239">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1508836493617">
         <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="]" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+        <mark key="^" line="74" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
@@ -836,8 +844,6 @@
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java" timestamp="1508827597796" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/BabyPlan/app/src/main/AndroidManifest.xml" />
       <jump line="90" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="16" column="3" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/wxapi/WXEntryActivity.kt" />
       <jump line="3" column="3" filename="$USER_HOME$/AndroidStudioProjs/Education/build.gradle" />
@@ -936,16 +942,18 @@
       <jump line="115" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
       <jump line="77" column="48" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="47" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
+      <jump line="29" column="26" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>retry</text>
+        <text>startAc</text>
       </register>
       <register name="0" type="4">
         <text>val questions = model?.getLivePractices()</text>
@@ -979,9 +987,9 @@
       </register>
     </registers>
     <search>
-      <last-search>retry</last-search>
+      <last-search>startAc</last-search>
       <last-offset />
-      <last-pattern>retry</last-pattern>
+      <last-pattern>startAc</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -989,7 +997,6 @@
     </search>
     <history>
       <history-search>
-        <entry>liveLong</entry>
         <entry>pushlong</entry>
         <entry>exception</entry>
         <entry>test</entry>
@@ -1009,6 +1016,7 @@
         <entry>getNext</entry>
         <entry>Recy</entry>
         <entry>retry</entry>
+        <entry>startAc</entry>
       </history-search>
       <history-cmd />
       <history-expr />
