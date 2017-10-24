@@ -73,16 +73,16 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/BaseFragment.kt" timestamp="1508400798177">
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1505552394355">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="58" />
         <mark key="^" line="23" column="48" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" timestamp="1508826272257">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" timestamp="1507531303309">
         <mark key="[" line="95" column="0" />
@@ -199,7 +199,7 @@
         <mark key="^" line="195" column="60" />
         <mark key="." line="195" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormulaSettingsParser.java" timestamp="1508817702690" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormulaSettingsParser.java" timestamp="1508826459774" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="29" />
@@ -260,6 +260,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/Android/Sdk/sources/android-26/javax/xml/parsers/DocumentBuilderFactory.java" timestamp="1508826479538" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="47" />
@@ -442,6 +443,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1508826990982">
+        <mark key="[" line="275" column="61" />
+        <mark key="]" line="275" column="64" />
+        <mark key="^" line="275" column="64" />
+        <mark key="." line="275" column="64" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1508722771624">
         <mark key="[" line="265" column="30" />
         <mark key="]" line="264" column="36" />
@@ -487,10 +494,12 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1508484012859">
-        <mark key="[" line="83" column="38" />
-        <mark key="]" line="83" column="39" />
-        <mark key="." line="83" column="39" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1508827554923">
+        <mark key="'" line="76" column="48" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
+        <mark key="^" line="212" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1508490646259">
         <mark key="[" line="130" column="80" />
@@ -720,6 +729,9 @@
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1508826852851">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="15" />
@@ -797,14 +809,8 @@
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/FragmentAdapter.kt" timestamp="1508472015337">
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="23" column="5" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/AppBarLayout.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/BabyPlan/app/src/main/AndroidManifest.xml" />
@@ -904,52 +910,56 @@
       <jump line="58" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
       <jump line="66" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
       <jump line="115" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
+      <jump line="77" column="48" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>debug { &quot;music stop playing&quot; }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>debug { &quot;music stop playing&quot; }</text>
+        <text>rcv_answer_statistic</text>
       </register>
       <register name="/" type="4">
-        <text>getNext</text>
+        <text>Recy</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgKGlzUHVzaGluZykgeyAvLyBhdHRlbXB0IHRvIHBsYXkgdGhlIGZpcnN0IGxpdmUKICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiAobUxpdmVTdGFnZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLkJFRk9SRV9MSVZFIC0+IExpdmVTdGFnZS5QUkVQQVJFX0xJVkUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5QUkVQQVJFX0xJVkUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHByZXBhcmUgbGl2aW5nIGlzIGNvdW50aW5nIGRvd24gY29tcGxldGVkLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwcmVwYXJlQ291bnRkb3duQ29uc3VtZXI/LmlzRGlzcG9zZWQgPT0gdHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLkxJVklORwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLlBSRVBBUkVfTElWRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBMaXZlU3RhZ2UuTElWSU5HCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgeyAvLyB0aGUgZmlyc3QgbGl2ZSBoYXMgYmVlbiBlbmRlZAogICAgICAgICAgICAgICAgICAgICAgICB3aGVuIChtTGl2ZVN0YWdlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTElWSU5HIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc1BsYXlpbmdMaXZlKCkgLT4gTGl2ZVN0YWdlLkxJVklORyAvLyBkb2Vzbid0IGZvcmNlIHRvIGNsb3NlIGl0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRXhhbUJlZ2luIC0+IExpdmVTdGFnZS5QUkVQQVJFX0VYRVJDSVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgLT4gTGl2ZVN0YWdlLk1JRERMRV9SRVNUCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9SRVNUIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNFeGFtQmVnaW4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLlBSRVBBUkVfRVhFUkNJU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuUFJFUEFSRV9FWEVSQ0lTRSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByZXBhcmVDb3VudGRvd25Db25zdW1lcj8uaXNEaXNwb3NlZCA9PSB0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX0VYRVJDSVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuUFJFUEFSRV9FWEVSQ0lTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9FWEVSQ0lTRSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzRXhhbUJlZ2luKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5NSURETEVfRVhFUkNJU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IExpdmVTdGFnZS5NSURETEVfUkVTVAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text>fl_answer_statistic</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuQUZURVJfTElWRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNjFkcCIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcmN2X2Fuc3dlcl9zdGF0aXN0aWMiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTMwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNjFkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfYW5zd2VyX3NoZWxsIiAvPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLkFGVEVSX0xJVkUK</text>
+      <register name="4" type="4">
+        <text>app:layout_constraintBottom_toTopOf=&quot;@+id/tv_correct_answer&quot;
+            app:layout_constraintEnd_toEndOf=&quot;parent&quot;
+            app:layout_constraintStart_toStartOf=&quot;parent&quot;
+            app:layout_constraintTop_toBottomOf=&quot;@id/tv_answer_statistic&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTY4ZHAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjE2OGRwIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUHVzaGluZykgewogICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTElWSU5HCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2Ug</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIxNjhkcCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKGlzUHVzaGluZykgeyAvLyBhdHRlbXB0IHRvIHBsYXkgdGhlIGZpcnN0IGxpdmUKICAgICAgICAgICAgICAgIHdoZW4gKG1MaXZlU3RhZ2UpIHsKICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuQkVGT1JFX0xJVkUgLT4gTGl2ZVN0YWdlLlBSRVBBUkVfTElWRQogICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5QUkVQQVJFX0xJVkUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAvLyBwcmVwYXJlIGxpdmluZyBpcyBjb3VudGluZyBkb3duIGNvbXBsZXRlZC4KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByZXBhcmVDb3VudGRvd25Db25zdW1lcj8uaXNEaXNwb3NlZCA9PSB0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLkxJVklORwogICAgICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuUFJFUEFSRV9MSVZFCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsc2UgLT4gTGl2ZVN0YWdlLkxJVklORwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGVsc2UgeyAvLyB0aGUgZmlyc3QgbGl2ZSBoYXMgYmVlbiBlbmRlZAogICAgICAgICAgICAgICAgd2hlbiAobUxpdmVTdGFnZSkgewogICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5MSVZJTkcgLT4gewogICAgICAgICAgICAgICAgICAgICAgICB3aGVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc1BsYXlpbmdMaXZlKCkgLT4gTGl2ZVN0YWdlLkxJVklORyAvLyBkb2Vzbid0IGZvcmNlIHRvIGNsb3NlIGl0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc0V4YW1CZWdpbiAtPiBMaXZlU3RhZ2UuUFJFUEFSRV9FWEVSQ0lTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX1JFU1QgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNFeGFtQmVnaW4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5QUkVQQVJFX0VYRVJDSVNFCiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBMaXZlU3RhZ2UuUFJFUEFSRV9FWEVSQ0lTRSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwcmVwYXJlQ291bnRkb3duQ29uc3VtZXI/LmlzRGlzcG9zZWQgPT0gdHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpdmVTdGFnZS5NSURETEVfRVhFUkNJU0UKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLlBSRVBBUkVfRVhFUkNJU0UKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9FWEVSQ0lTRSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc0V4YW1CZWdpbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9FWEVSQ0lTRQogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZVN0YWdlLk1JRERMRV9SRVNUCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBMaXZlU3RhZ2UuTUlERExFX1JFU1QKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>getNext</last-search>
+      <last-search>Recy</last-search>
       <last-offset />
-      <last-pattern>getNext</last-pattern>
+      <last-pattern>Recy</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -957,7 +967,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adapter</entry>
         <entry>WXApi</entry>
         <entry>liveLong</entry>
         <entry>pushlong</entry>
@@ -977,6 +986,7 @@
         <entry>mState</entry>
         <entry>SpanSet</entry>
         <entry>getNext</entry>
+        <entry>Recy</entry>
       </history-search>
       <history-cmd />
       <history-expr />
