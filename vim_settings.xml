@@ -60,7 +60,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormula.java" timestamp="1508824927408" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/jlatexmath/src/main/java/maximsblog/blogspot/com/jlatexmath/core/TeXFormula.java" timestamp="1508825513091" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/.gitignore" timestamp="1507712488132">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="10" />
@@ -101,11 +101,12 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508744981311">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508825918498">
         <mark key="'" line="7" column="31" />
-        <mark key="[" line="698" column="0" />
-        <mark key="]" line="698" column="0" />
-        <mark key="." line="698" column="0" />
+        <mark key="[" line="459" column="22" />
+        <mark key="]" line="459" column="49" />
+        <mark key="." line="459" column="49" />
+        <mark key="^" line="459" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
@@ -905,11 +906,11 @@
       <jump line="115" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>debug { &quot;music stop playing&quot; }</text>
       </register>
       <register name="-" type="4">
-        <text>mThread</text>
+        <text>debug { &quot;music stop playing&quot; }</text>
       </register>
       <register name="/" type="4">
         <text>getNext</text>
