@@ -14,11 +14,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1508469531910">
-        <mark key="[" line="215" column="8" />
-        <mark key="]" line="215" column="8" />
-        <mark key="." line="215" column="8" />
-        <mark key="^" line="215" column="46" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1508894978174">
+        <mark key="[" line="263" column="43" />
+        <mark key="]" line="263" column="43" />
+        <mark key="." line="263" column="43" />
+        <mark key="^" line="263" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_top_bar.xml" timestamp="1508405243151">
         <mark key="[" line="6" column="0" />
@@ -579,10 +579,11 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1508314221645">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1508894804771">
+        <mark key="[" line="152" column="35" />
+        <mark key="]" line="152" column="35" />
+        <mark key="." line="152" column="35" />
+        <mark key="^" line="152" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/fragment_course_group.xml" timestamp="1506325550183">
         <mark key="[" line="26" column="0" />
@@ -975,10 +976,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>38</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>38</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">VXNlcmFuc3dlciA9IA==</text>
@@ -987,41 +988,33 @@
         <text encoding="base64">PGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxOGRwIgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIxOGRwIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxOGRwIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjMwZHAiCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGJ0biA9IEJ1dHRvbih0aGlzCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>)
             btn.layoutParams = linearlayout
             an_radioGroup.addView(btn)</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFkaW9CdXR0b24uc2V0VGV4dENvbG9yKHRoaXMuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5kcmF3YWJsZS5ob21ld29ya19hbndlcnNfdHh0X3NlbGVjdCkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsbF9yYWRpb0dyb3VwLmFkZFZpZXcobVZpZXdzKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfZXJiW3NpemVdID0gZXhlcmNpc2VSYWRpb0J1dHRvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfYW5zW3NpemVdID0gcmFkaW9CdXR0b24K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4ZXJjaXNlUmFkaW9CdXQoZXhlcmNpc2VSYWRpb0J1dHRvbi52aWV3KQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>ton = ExerciseRadioButton(this)
-            exerciseRadioButton.setRadioImage(R.drawable.exerciseanalysis_single_choice_selector)
-            exerciseRadioButton.setText(order, option)
-            exerciseRadioButton.setTextColor(color)
-            exerciseRadioButton.setOnCheckedListener(this)
-            exerciseRadioButton.id = order.toInt()
-            exerciseRadioButton.view.layoutParams = params
-
-            ll_radioGroup.addView</text>
       </register>
     </registers>
     <search>
