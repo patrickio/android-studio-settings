@@ -357,11 +357,11 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/Helper.kt" timestamp="1508399292524">
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="36" />
-        <mark key="." line="39" column="36" />
-        <mark key="^" line="39" column="36" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/Helper.kt" timestamp="1508919837767">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="9" />
+        <mark key="." line="76" column="9" />
+        <mark key="^" line="118" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1508413649380">
         <mark key="'" line="56" column="45" />
@@ -388,11 +388,11 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508414818614">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="62" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1508919934069">
+        <mark key="[" line="240" column="17" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="244" column="15" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/im/Constant.kt" timestamp="1505802801707">
         <mark key="[" line="7" column="0" />
@@ -972,44 +972,50 @@
       <jump line="131" column="80" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>任性</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoSGVscGVyLmdldENvbm5lY3Rpdml0eVR5cGUoY29udGV4dCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>任性</text>
+        <text>getC</text>
       </register>
       <register name="/" type="4">
         <text>isPaused</text>
       </register>
       <register name="0" type="4">
-        <text>context.getString(R.string.live_start_time_prefix, timeLeft.formatToCountdownString())</text>
+        <text>mLivePresenter?.attach(this, mLiveModel)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoSGVscGVyLmdldENvbm5lY3Rpdml0eVR5cGUoY29udGV4dCkpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgMC8qQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX05PTkUqLyAtPiB7CiAgICAgICAgICAgICAgICAgICAgbU5ldHdvcmtEaWFsb2cgPSBFZHVjYXRpb25BbGVydERpYWxvZy5CdWlsZGVyKGNvbnRleHQpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25uZWN0aXZpdHlfbm9uZSkKICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpdmVUZXh0ID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmdvX3RvX3NldHRpbmdzKQogICAgICAgICAgICAgICAgICAgICAgICBvblBvc2l0aXZlID0geyBzdGFydEFjdGl2aXR5KEludGVudChTZXR0aW5ncy5BQ1RJT05fV0lGSV9TRVRUSU5HUykpIH0KICAgICAgICAgICAgICAgICAgICAgICAgbmVnYXRpdmVUZXh0ID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmNhbmNlbCkKICAgICAgICAgICAgICAgICAgICAgICAgaGlkZVN5c3RlbVVJID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0uc2hvdygpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfTU9CSUxFIC0+IHsKICAgICAgICAgICAgICAgICAgICBpZiAoIWNhblVzaW5nTW9iaWxlRGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBtTmV0d29ya0RpYWxvZyA9IEVkdWNhdGlvbkFsZXJ0RGlhbG9nLkJ1aWxkZXIoY29udGV4dCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25uZWN0aXZpdHlfbW9iaWxlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpdmVUZXh0ID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbnRpbnVlX3VzaW5nX21vYmlsZV9kYXRhKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25Qb3NpdGl2ZSA9IHsgY2FuVXNpbmdNb2JpbGVEYXRhID0gdHJ1ZSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZWdhdGl2ZVRleHQgPSBnZXRTdHJpbmcoKFIuc3RyaW5nLmxlYXZlKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uTmVnYXRpdmUgPSB7IG1MaXN0ZW5lcj8ub25GcmFnbWVudEludGVyYWN0aW9uKExpdmluZ0ZyYWdtZW50OjpjbGFzcy5qYXZhLm5hbWUsIEFDVElPTl9IT01FX1VQKSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWRlU3lzdGVtVUkgPSB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgIH0uc2hvdygpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkgLT4gewogICAgICAgICAgICAgICAgICAgIG1MaXZlUHJlc2VudGVyPy5hdHRhY2godGhpcywgbUxpdmVNb2RlbCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImlzQXR0YWNoZWQ6IG1MaXZlIikK</text>
+      <register name="3" type="4">
+        <text>{
+                
+            }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1ZyB7ICJmZXRjaCBsaXZlIGxvbmc6ICRpdCIgfQo=</text>
+      <register name="4" type="4">
+        <text>if (Helper.getNetworkType(context) == &quot;WIFI&quot;) {
+                    
+                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvciB7ICJmZXRjaCBsaXZlIGxvbmcgZXJyb3I6ICRpdCIgfQo=</text>
+        <text encoding="base64">ICAgIGVudW0gY2xhc3MgTgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+      <register name="6" type="4">
+        <text>etworkType {
+        WIFI, , 
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicHJlc2VudCB3aGl0ZWJvYXJkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaHR0cDovL2JhaWtlLmJhaWR1LmNvbS9pdGVtL1RELVNDRE1BIOS4reWbveenu+WKqCDogZTpgJog55S15L+hIOS4ieenjTNH5Yi25byPCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZyB7ICJwcmVzZW50IHdoaXRlYm9hcmQ6ICR7bW9kZWw/LmdldExpdmVDb3Vyc2VJbmZvKCl9IiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yIHsgInN0b3AgcGxheWluZyBsaXZlIGVycm9yOiAke2UubG9jYWxpemVkTWVzc2FnZX0iIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBORVRXT1JLX1RZUAo=</text>
       </register>
     </registers>
     <search>
