@@ -478,8 +478,8 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1508828824055">
-        <mark key="[" line="119" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1508918674006">
+        <mark key="[" line="154" column="9" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
@@ -653,9 +653,6 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" timestamp="1508844246776">
-        <mark key="'" line="76" column="19" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_order.xml" timestamp="1505982463368">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -772,11 +769,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="71" column="88" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1508467686742">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1508918126979">
         <mark key="'" line="50" column="33" />
-        <mark key="[" line="379" column="39" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="37" column="17" />
+        <mark key="[" line="380" column="48" />
+        <mark key="]" line="380" column="48" />
+        <mark key="." line="380" column="48" />
         <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1508296807478">
@@ -793,9 +790,6 @@
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508844581364">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
@@ -978,11 +972,11 @@
       <jump line="131" column="80" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>任性</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>任性</text>
       </register>
       <register name="/" type="4">
         <text>isPaused</text>
