@@ -181,6 +181,12 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_grade_choose.xml" timestamp="1508893225409">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/SettingsActivity.kt" timestamp="1505734957271">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -332,7 +338,6 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1508844741215" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_answer_shell.xml" timestamp="1508832601677">
         <mark key="[" line="71" column="56" />
         <mark key="]" line="69" column="31" />
@@ -970,10 +975,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinearLayout</text>
+        <text>38</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>38</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">VXNlcmFuc3dlciA9IA==</text>
