@@ -130,11 +130,11 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508912891900">
-        <mark key="[" line="783" column="15" />
-        <mark key="]" line="783" column="16" />
-        <mark key="." line="783" column="16" />
-        <mark key="^" line="622" column="52" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508928824391">
+        <mark key="[" line="189" column="24" />
+        <mark key="]" line="190" column="37" />
+        <mark key="." line="190" column="37" />
+        <mark key="^" line="190" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
@@ -176,11 +176,11 @@
         <mark key="^" line="83" column="66" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/ReactiveXExt.kt" timestamp="1508924946720">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/ReactiveXExt.kt" timestamp="1508928406105">
         <mark key="[" line="93" column="0" />
-        <mark key="]" line="89" column="49" />
-        <mark key="." line="89" column="49" />
-        <mark key="^" line="89" column="49" />
+        <mark key="]" line="89" column="39" />
+        <mark key="." line="89" column="39" />
+        <mark key="^" line="89" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveStatusFeature.kt" timestamp="1505874106523">
         <mark key="[" line="28" column="23" />
@@ -629,6 +629,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1508928989596" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1508915945854">
         <mark key="'" line="55" column="52" />
         <mark key="[" line="187" column="66" />
