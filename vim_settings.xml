@@ -9,11 +9,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1508894978174">
-        <mark key="[" line="263" column="43" />
-        <mark key="]" line="263" column="43" />
-        <mark key="." line="263" column="43" />
-        <mark key="^" line="263" column="42" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1508898723377">
+        <mark key="[" line="292" column="118" />
+        <mark key="]" line="292" column="118" />
+        <mark key="." line="292" column="118" />
+        <mark key="^" line="263" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1508833328250">
         <mark key="[" line="202" column="13" />
@@ -240,7 +240,7 @@
         <mark key="." line="53" column="4" />
         <mark key="^" line="53" column="4" />
       </file>
-      <file name="/CourseDetailActivity.kt" timestamp="1508896603017" />
+      <file name="/CourseDetailActivity.kt" timestamp="1508898174707" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1508815045116">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="11" column="51" />
@@ -435,11 +435,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1508894804771">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1508897702516">
         <mark key="[" line="152" column="35" />
-        <mark key="]" line="152" column="35" />
-        <mark key="." line="152" column="35" />
-        <mark key="^" line="152" column="42" />
+        <mark key="]" line="90" column="39" />
+        <mark key="." line="90" column="39" />
+        <mark key="^" line="90" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" timestamp="1508845618606">
         <mark key="'" line="95" column="8" />
@@ -737,10 +737,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>30</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">VXNlcmFuc3dlciA9IA==</text>
