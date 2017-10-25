@@ -214,7 +214,7 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" timestamp="1508292677165">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" timestamp="1508923249352">
         <mark key="'" line="161" column="24" />
         <mark key="[" line="194" column="59" />
         <mark key="]" line="195" column="60" />
@@ -641,6 +641,12 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/LifecycleEventsObservable.kt" timestamp="1508923073235">
+        <mark key="[" line="39" column="64" />
+        <mark key="]" line="40" column="57" />
+        <mark key="^" line="40" column="57" />
+        <mark key="." line="40" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LIveStudentFeature.kt" timestamp="1505874167263">
         <mark key="[" line="2" column="0" />
