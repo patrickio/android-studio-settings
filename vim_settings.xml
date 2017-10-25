@@ -124,12 +124,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508900716844">
-        <mark key="'" line="7" column="31" />
-        <mark key="[" line="781" column="58" />
-        <mark key="]" line="782" column="40" />
-        <mark key="^" line="782" column="40" />
-        <mark key="." line="782" column="40" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1508902953283">
+        <mark key="'" line="221" column="8" />
+        <mark key="[" line="173" column="57" />
+        <mark key="]" line="142" column="61" />
+        <mark key="." line="142" column="61" />
+        <mark key="^" line="142" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/CourseDatasBean.java" timestamp="1506061993824">
         <mark key="[" line="119" column="0" />
@@ -660,6 +660,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/libs/pldroid-player-2.0.1.jar!/com/pili/pldroid/player/PLMediaPlayer.class" timestamp="1508902106281" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/LoginLayout.kt" timestamp="1508469084851">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -868,10 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="4" filename="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" />
-      <jump line="30" column="8" filename="$USER_HOME$/AndroidStudioProjs/Education/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/HomeworkActivity.kt" />
-      <jump line="129" column="31" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="227" column="27" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="226" column="37" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="73" column="45" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
@@ -968,52 +965,58 @@
       <jump line="463" column="35" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="128" column="13" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="76" column="19" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
+      <jump line="56" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="91" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="199" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="220" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timeLeft</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>timeLeft</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">VXNlcmFuc3dlciA9IA==</text>
+        <text>isPaused</text>
       </register>
       <register name="0" type="4">
         <text>context.getString(R.string.live_start_time_prefix, timeLeft.formatToCountdownString())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkJlZm9yZUxpdmVDb3VudGluZ0Rvd24oZHVyYXRpb24uZm9ybWF0VG9Db3VudGRvd25TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5pKCJMaXZlUGxheWVyOiBpbmZvIikK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkJlZm9yZUxpdmVDb3VudGluZ0Rvd24oZHVyYXRpb24uZm9ybWF0VG9Db3VudGRvd25TdHJpbmcoKSkK</text>
+      <register name="2" type="4">
+        <text>else {
+                    stopPlayingLive()
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpb25fYmFyX2hlaWdodCIK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkJlZm9yZUxpdmVDb3VudGluZ0Rvd24oZHVyYXRpb24uZm9ybWF0VG9Db3VudGRvd25TdHJpbmcoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI0MGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkJlZm9yZUxpdmVDb3VudGluZ0Rvd24oZHVyYXRpb24uZm9ybWF0VG9Db3VudGRvd25TdHJpbmcoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpb25fYmFyX2hlaWdodCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIxOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI0MGRwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxOGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IjMwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIxOGRwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJ0biA9IEJ1dHRvbih0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxOGRwIgo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">VXNlcmFuc3dlciA9IA==</last-search>
+      <last-search>isPaused</last-search>
       <last-offset />
-      <last-pattern encoding="base64">VXNlcmFuc3dlciA9IA==</last-pattern>
+      <last-pattern>isPaused</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1021,7 +1024,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toast</entry>
         <entry encoding="base64">YmVmb3JlIGxpdmUg</entry>
         <entry>live_is_coming</entry>
         <entry>refresh</entry>
@@ -1041,6 +1043,7 @@
         <entry>array_erb</entry>
         <entry encoding="base64">VXNlckFuc3dlciA9IA==</entry>
         <entry encoding="base64">VXNlcmFuc3dlciA9IA==</entry>
+        <entry>isPaused</entry>
       </history-search>
       <history-cmd />
       <history-expr />
