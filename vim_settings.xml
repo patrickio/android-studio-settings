@@ -642,6 +642,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/RabbitMqManager.java" timestamp="1509529258673">
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857498452">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="53" column="26" />
