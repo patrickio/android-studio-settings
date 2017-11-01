@@ -248,6 +248,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/HomeworkActivity.kt" timestamp="1509522827708">
+        <mark key="'" line="87" column="14" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="47" />
@@ -516,6 +519,12 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" timestamp="1509523136064">
+        <mark key="'" line="95" column="8" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/MyCourseFragment.kt" timestamp="1509517267465">
         <mark key="[" line="28" column="53" />
         <mark key="]" line="28" column="53" />
@@ -534,6 +543,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1509523077553">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="28" />
@@ -551,6 +565,13 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" timestamp="1509523848346">
+        <mark key="'" line="448" column="13" />
+        <mark key="[" line="462" column="57" />
+        <mark key="]" line="462" column="54" />
+        <mark key="^" line="462" column="54" />
+        <mark key="." line="462" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_order.xml" timestamp="1505982463368">
         <mark key="[" line="35" column="0" />
@@ -686,10 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
-      <jump line="163" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
-      <jump line="227" column="50" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
-      <jump line="66" column="1" filename="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" />
       <jump line="37" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" />
       <jump line="114" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
@@ -786,53 +803,57 @@
       <jump line="2" column="26" filename="$USER_HOME$/AndroidWorkspace/Education/dependencies.gradle" />
       <jump line="49" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="95" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
+      <jump line="87" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/HomeworkActivity.kt" />
+      <jump line="80" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
+      <jump line="81" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
+      <jump line="448" column="13" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
+        <text encoding="base64">ICAgICAgICBhbl9yYWRpb0dyb3VwLnNldEJhY2tncm91bmQobmV3IENvbG9yRHJhd2FibGUoQ29sb3IuVFJBTlNQQVJFTlQpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>mAlertDialog</text>
+        <text>drawAnswer</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bUFsZXJ0RGlhbG9nID0gRWR1Y2F0aW9uQWxlcnREaWFsb2cuQnVpbGRlcihjb250ZXh0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25maXJtX3N1Ym1pdF9hbnN3ZXIpCiAgICAgICAgICAgICAgICAgICAgb25Qb3NpdGl2ZSA9IHsgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXRBbnN3ZXJzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY2FuY2VsYWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICBoaWRlU3lzdGVtVUkgPSB0cnVlCiAgICAgICAgICAgICAgICB9LnNob3coKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
+        <text encoding="base64">ICAgICAgICBhbl9yYWRpb0dyb3VwLnNldEJhY2tncm91bmQobmV3IENvbG9yRHJhd2FibGUoQ29sb3IuVFJBTlNQQVJFTlQpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bUFsZXJ0RGlhbG9nID0gRWR1Y2F0aW9uQWxlcnREaWFsb2cuQnVpbGRlcihjb250ZXh0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25maXJtX3N1Ym1pdF9hbnN3ZXIpCiAgICAgICAgICAgICAgICAgICAgb25Qb3NpdGl2ZSA9IHsgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXRBbnN3ZXJzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY2FuY2VsYWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICBoaWRlU3lzdGVtVUkgPSB0cnVlCiAgICAgICAgICAgICAgICB9LnNob3coKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">bUFsZXJ0RGlhbG9nID0gRWR1Y2F0aW9uQWxlcnREaWFsb2cuQnVpbGRlcihjb250ZXh0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25maXJtX3N1Ym1pdF9hbnN3ZXIpCiAgICAgICAgICAgICAgICAgICAgb25Qb3NpdGl2ZSA9IHsgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXRBbnN3ZXJzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY2FuY2VsYWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICBoaWRlU3lzdGVtVUkgPSB0cnVlCiAgICAgICAgICAgICAgICB9LnNob3coKQ==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9InYxLjIuMWRkZGRkZGRkZGRkZGRkZGRkZGRkIgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>arguments.putStringArrayList(ARG_URLS, urls)
                 arguments.putInt(ARG_PERSON, person)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ29ubmVjdGl2aXR5Q2hhbmdlZChuZXR3b3JrSW5mbykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>mAlertDialog</last-search>
+      <last-search>drawAnswer</last-search>
       <last-offset />
-      <last-pattern>mAlertDialog</last-pattern>
+      <last-pattern>drawAnswer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -840,8 +861,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
-        <entry>mTimer.cancel</entry>
         <entry>mTimer</entry>
         <entry>AVOption</entry>
         <entry>btn_grade</entry>
@@ -860,6 +879,8 @@
         <entry>newMessage</entry>
         <entry>fetchChat</entry>
         <entry>mAlertDialog</entry>
+        <entry>fragment</entry>
+        <entry>drawAnswer</entry>
       </history-search>
       <history-cmd />
       <history-expr />
