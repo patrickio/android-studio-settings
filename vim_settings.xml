@@ -9,7 +9,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1509516511157">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1509520668405">
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="42" />
         <mark key="." line="63" column="42" />
@@ -26,10 +26,10 @@
         <mark key="^" line="420" column="15" />
         <mark key="." line="421" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1508896390098">
-        <mark key="[" line="15" column="108" />
-        <mark key="]" line="15" column="108" />
-        <mark key="." line="15" column="108" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1509520749293">
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="25" />
+        <mark key="." line="88" column="25" />
         <mark key="^" line="15" column="114" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
@@ -290,6 +290,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1509521694317">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1505467598789">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -434,11 +439,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1509516757583">
-        <mark key="[" line="230" column="38" />
-        <mark key="]" line="230" column="41" />
-        <mark key="^" line="230" column="41" />
-        <mark key="." line="230" column="41" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1509521268718">
+        <mark key="'" line="95" column="16" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
@@ -681,8 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
-      <jump line="118" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
       <jump line="153" column="14" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" />
       <jump line="163" column="16" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
       <jump line="227" column="50" filename="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/AndroidManifest.xml" />
@@ -781,77 +784,55 @@
       <jump line="35" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="48" column="18" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" />
       <jump line="2" column="26" filename="$USER_HOME$/AndroidWorkspace/Education/dependencies.gradle" />
+      <jump line="49" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
+      <jump line="95" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>60</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
       </register>
       <register name="-" type="4">
-        <text>60</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>fetchChat</text>
+        <text>mAlertDialog</text>
       </register>
       <register name="0" type="4">
-        <text>person = getParcelable(LivingFragment.ARG_PERSON)
-            courseId = getString(LivingFragment.ARG_COURSE_ID)</text>
+        <text encoding="base64">bUFsZXJ0RGlhbG9nID0gRWR1Y2F0aW9uQWxlcnREaWFsb2cuQnVpbGRlcihjb250ZXh0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25maXJtX3N1Ym1pdF9hbnN3ZXIpCiAgICAgICAgICAgICAgICAgICAgb25Qb3NpdGl2ZSA9IHsgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXRBbnN3ZXJzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY2FuY2VsYWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICBoaWRlU3lzdGVtVUkgPSB0cnVlCiAgICAgICAgICAgICAgICB9LnNob3coKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9InYxLjIuMWRkZGRkZGRkZGRkZGRkZGRkZGRkIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">bUFsZXJ0RGlhbG9nID0gRWR1Y2F0aW9uQWxlcnREaWFsb2cuQnVpbGRlcihjb250ZXh0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhSLnN0cmluZy5jb25maXJtX3N1Ym1pdF9hbnN3ZXIpCiAgICAgICAgICAgICAgICAgICAgb25Qb3NpdGl2ZSA9IHsgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXRBbnN3ZXJzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY2FuY2VsYWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICBoaWRlU3lzdGVtVUkgPSB0cnVlCiAgICAgICAgICAgICAgICB9LnNob3coKQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9InYxLjIuMWRkZGRkZGRkZGRkZGRkZGRkZGRkIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>arguments.putStringArrayList(ARG_URLS, urls)
                 arguments.putInt(ARG_PERSON, person)</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ29ubmVjdGl2aXR5Q2hhbmdlZChuZXR3b3JrSW5mbykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmFkZEphdmFzY3JpcHRJbnRlcmZhY2UoV2ViQXBwSW50ZXJmYWNlKGNvbnRleHQpLCJBbmRyb2lkIikK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKG1MaXZlUHJlc2VudGVyPy5pc0F0dGFjaGVkKCkgPT0gZmFsc2UgJiYgY29udGV4dCAhPSBudWxsKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (!Helper.isNetworkReachable(context!!)) {
-                mNetworkDialog = EducationAlertDialog.Builder(context!!).apply {
-                    message = getString(R.string.connectivity_none)
-                    positiveText = getString(R.string.go_to_settings)
-                    onPositive = { startActivity(Intent(Settings.ACTION_WIFI_SETTINGS)) }
-                    negativeText = getString(R.string.cancel)
-                    hideSystemUI = true
-                }.show()
-            } else if (Helper.getNetworkType(context) != &quot;WIFI&quot;) {
-                if (!canUsingMobileData) {
-                    mNetworkDialog = EducationAlertDialog.Builder(context).apply {
-                        message = getString(R.string.connectivity_mobile)
-                        positiveText = getString(R.string.continue_using_mobile_data)
-                        onPositive = { canUsingMobileData = true }
-                        negativeText = getString((R.string.leave))
-                        onNegative = { mListener?.onFragmentInteraction(LivingFragment::class.java.name, ACTION_HOME_UP) }
-                        hideSystemUI = true
-                    }.show()
-                } else {
-                    mLivePresenter?.attach(this, mLiveModel)
-                }
-            } else {
-                mLivePresenter?.attach(this, mLiveModel)
-            }</text>
       </register>
     </registers>
     <search>
-      <last-search>fetchChat</last-search>
+      <last-search>mAlertDialog</last-search>
       <last-offset />
-      <last-pattern>fetchChat</last-pattern>
+      <last-pattern>mAlertDialog</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -859,7 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>名师课堂</entry>
         <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
         <entry>mTimer.cancel</entry>
         <entry>mTimer</entry>
@@ -879,6 +859,7 @@
         <entry>fetchPra</entry>
         <entry>newMessage</entry>
         <entry>fetchChat</entry>
+        <entry>mAlertDialog</entry>
       </history-search>
       <history-cmd />
       <history-expr />
