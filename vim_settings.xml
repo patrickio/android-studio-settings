@@ -325,10 +325,10 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1509589834674">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="34" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_live_scoring.xml" timestamp="1509592713082">
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1505467598789">
         <mark key="[" line="3" column="4" />
@@ -643,6 +643,13 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" timestamp="1509592596740">
+        <mark key="'" line="450" column="13" />
+        <mark key="[" line="541" column="0" />
+        <mark key="]" line="541" column="0" />
+        <mark key="^" line="539" column="15" />
+        <mark key="." line="541" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_order.xml" timestamp="1505982463368">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -690,11 +697,6 @@
         <mark key="]" line="2" column="3" />
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/RabbitMqManager.java" timestamp="1509529258673">
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857498452">
         <mark key="[" line="53" column="19" />
@@ -764,6 +766,13 @@
         <mark key="]" line="21" column="39" />
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/res/drawable/homeword_anwers_select.xml" timestamp="1509592403288">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/live_exam_answers_sel.xml" timestamp="1509526523440">
         <mark key="[" line="16" column="37" />
@@ -896,47 +905,49 @@
       <jump line="126" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>58</text>
       </register>
       <register name="-" type="4">
-        <text>F_chatroomId</text>
+        <text>58</text>
       </register>
       <register name="/" type="4">
         <text>receive</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RVJSX0lNU0RLX1VTRVJfQUxSRUFEWV9JU19NRU1CRVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJqb2luIGNoYXRyb29tIGVycm9yOiB1c2VyIGFscmVhZHkgaXMgbWVtYmVyISIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW50ZXJMaXZlQ2hhdFJvb20oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text>RadioGroup.LayoutParams linearlayout = new RadioGroup.LayoutParams(Util.dp2px(getContext(), 148),
+                    Util.dp2px(getContext(), 48));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">RVJSX0lNU0RLX1VTRVJfQUxSRUFEWV9JU19NRU1CRVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJqb2luIGNoYXRyb29tIGVycm9yOiB1c2VyIGFscmVhZHkgaXMgbWVtYmVyISIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW50ZXJMaXZlQ2hhdFJvb20oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text>RadioGroup.LayoutParams linearlayout = new RadioGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,
+                        ViewGroup.LayoutParams.WRAP_CONTENT);</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">RVJSX0lNU0RLX1VTRVJfQUxSRUFEWV9JU19NRU1CRVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJqb2luIGNoYXRyb29tIGVycm9yOiB1c2VyIGFscmVhZHkgaXMgbWVtYmVyISIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW50ZXJMaXZlQ2hhdFJvb20oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>if (!emitter.isDisposed) {
                                         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IoSU1FeGNlcHRpb24odmFyMSwgdmFyMikpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmUoImpvaW4gY2hhdHJvb20gZXJyb3I6IHVzZXIgYWxyZWFkeSBpcyBtZW1iZXIhIikK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>if (!emitter.isDisposed) {
                                 emitter.onError(IMException(var1, var2))
                             }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRlckxpdmVDaGF0Um9vbSgpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZAo=</text>
       </register>
     </registers>
     <search>
