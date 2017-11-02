@@ -261,8 +261,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="63" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/HomeworkActivity.kt" timestamp="1509522827708">
-        <mark key="'" line="87" column="14" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" timestamp="1509586020223">
+        <mark key="'" line="53" column="38" />
+        <mark key="[" line="138" column="6" />
+        <mark key="]" line="137" column="46" />
+        <mark key="^" line="137" column="46" />
+        <mark key="." line="137" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
@@ -458,6 +462,12 @@
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/data/LiveBean.kt" timestamp="1509586008812">
+        <mark key="[" line="179" column="1" />
+        <mark key="]" line="181" column="74" />
+        <mark key="^" line="181" column="74" />
+        <mark key="." line="181" column="74" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1509527102989">
         <mark key="'" line="95" column="16" />
@@ -683,12 +693,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="71" column="88" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1509528236510">
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="132" column="19" />
-        <mark key="." line="132" column="19" />
-        <mark key="^" line="132" column="19" />
-      </file>
       <file name="/Dummy.txt" timestamp="1509524743052">
         <mark key="[" line="0" column="0" />
       </file>
@@ -752,8 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
-      <jump line="336" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="328" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="48" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
@@ -852,6 +854,8 @@
       <jump line="282" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
       <jump line="284" column="15" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
       <jump line="55" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="133" column="3" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
+      <jump line="53" column="38" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -861,7 +865,7 @@
         <text>rabbitm</text>
       </register>
       <register name="/" type="4">
-        <text>decoders</text>
+        <text>pushlong</text>
       </register>
       <register name="0" type="4">
         <text>if (decoder.isHaveReply) {
@@ -900,9 +904,9 @@
       </register>
     </registers>
     <search>
-      <last-search>decoders</last-search>
+      <last-search>pushlong</last-search>
       <last-offset />
-      <last-pattern>decoders</last-pattern>
+      <last-pattern>pushlong</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -910,7 +914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AVOption</entry>
         <entry>btn_grade</entry>
         <entry>mState</entry>
         <entry>SpanSet</entry>
@@ -930,6 +933,7 @@
         <entry>fragment</entry>
         <entry>drawAnswer</entry>
         <entry>decoders</entry>
+        <entry>pushlong</entry>
       </history-search>
       <history-cmd />
       <history-expr />
