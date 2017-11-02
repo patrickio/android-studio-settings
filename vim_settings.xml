@@ -519,10 +519,10 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="89" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/build.gradle" timestamp="1509518903060">
-        <mark key="[" line="11" column="55" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/build.gradle" timestamp="1509593045600">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/dimens.xml" timestamp="1506307762117">
         <mark key="[" line="1" column="11" />
@@ -905,8 +905,8 @@
       <jump line="126" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>58</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>58</text>
@@ -919,35 +919,32 @@
                     Util.dp2px(getContext(), 48));</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>RadioGroup.LayoutParams linearlayout = new RadioGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,
                         ViewGroup.LayoutParams.WRAP_CONTENT);</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">RVJSX0lNU0RLX1VTRVJfQUxSRUFEWV9JU19NRU1CRVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJqb2luIGNoYXRyb29tIGVycm9yOiB1c2VyIGFscmVhZHkgaXMgbWVtYmVyISIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW50ZXJMaXZlQ2hhdFJvb20oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (!emitter.isDisposed) {
-                                        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IoSU1FeGNlcHRpb24odmFyMSwgdmFyMikpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmUoImpvaW4gY2hhdHJvb20gZXJyb3I6IHVzZXIgYWxyZWFkeSBpcyBtZW1iZXIhIikK</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (!emitter.isDisposed) {
-                                emitter.onError(IMException(var1, var2))
-                            }</text>
       </register>
     </registers>
     <search>
