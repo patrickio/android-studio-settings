@@ -222,11 +222,11 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/ci.gradle" timestamp="1508933271443">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/ci.gradle" timestamp="1509622021230">
         <mark key="[" line="2" column="75" />
-        <mark key="]" line="2" column="81" />
-        <mark key="^" line="2" column="81" />
-        <mark key="." line="2" column="81" />
+        <mark key="]" line="2" column="73" />
+        <mark key="^" line="2" column="73" />
+        <mark key="." line="2" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1507946905004">
         <mark key="[" line="134" column="8" />
