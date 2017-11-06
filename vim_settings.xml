@@ -561,7 +561,6 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_order.xml" timestamp="1509776357070" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
@@ -620,7 +619,6 @@
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/OrderActivity.kt" timestamp="1509669203472" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="28" />
@@ -694,6 +692,7 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/RabbitMqManager.java" timestamp="1509952954999" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857498452">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="53" column="26" />
@@ -718,6 +717,7 @@
         <mark key="." line="74" column="33" />
         <mark key="^" line="74" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/data/PayBean.kt" timestamp="1509952572448" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -729,6 +729,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="71" column="88" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1509952746338">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="128" column="3" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
@@ -896,7 +902,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ua2luZ2phLmxvYWRzaXI6bG9hZHNpcjoxLjIuMCcK</text>
       </register>
       <register name="-" type="4">
         <text>58</text>
@@ -909,32 +915,31 @@
                     Util.dp2px(getContext(), 48));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ua2luZ2phLmxvYWRzaXI6bG9hZHNpcjoxLjIuMCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">PDw8PDw8PCAwMDYyZDdiMWQzMTE3MzkwNTAyMGJkYTY0YmJhNGVmOWVlZjhhMGU4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udWJlci5hdXRvZGlzcG9zZTphdXRvZGlzcG9zZS1hbmRyb2lkOjAuMi4wJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8uZHJlYW0uY24vcmVsZWFzZSIgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uamFrZXdoYXJ0b24udGltYmVyOnRpbWJlcjo0LjUuMScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udGVuY2VudC5tbS5vcGVuc2RrOndlY2hhdC1zZGstYW5kcm9pZC13aXRoLW10YTorJwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>RadioGroup.LayoutParams linearlayout = new RadioGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,
-                        ViewGroup.LayoutParams.WRAP_CONTENT);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvenhpbmctNC43LjMuamFyJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL01pUHVzaF9TREtfU2VydmVyXzJfMl8xOC5qYXInKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">RVJSX0lNU0RLX1VTRVJfQUxSRUFEWV9JU19NRU1CRVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJqb2luIGNoYXRyb29tIGVycm9yOiB1c2VyIGFscmVhZHkgaXMgbWVtYmVyISIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW50ZXJMaXZlQ2hhdFJvb20oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2pzb24tc2ltcGxlLTEuMS4xLmphcicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PT09PT09Cg==</text>
       </register>
     </registers>
     <search>
