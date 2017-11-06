@@ -122,11 +122,11 @@
         <mark key="." line="54" column="14" />
         <mark key="^" line="54" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1509955441622">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1509957858495">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CachedUserService.kt" timestamp="1507952331966">
         <mark key="[" line="30" column="46" />
@@ -207,6 +207,7 @@
         <mark key="^" line="86" column="69" />
         <mark key="." line="86" column="69" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" timestamp="1509957186418" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="29" />
@@ -706,11 +707,11 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1509955710445">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1509958784935">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/ILiveBaseFeature.kt" timestamp="1508313880930">
         <mark key="[" line="10" column="35" />
@@ -914,45 +915,50 @@
       <jump line="126" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Deliver</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1EZWxpdmVyeTogRGVsaXZlcnk/ID0gbnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Deliver</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>gradeBtn</text>
       </register>
       <register name="0" type="4">
-        <text>RadioGroup.LayoutParams linearlayout = new RadioGroup.LayoutParams(Util.dp2px(getContext(), 148),
-                    Util.dp2px(getContext(), 48));</text>
+        <text>try {
+                    close()
+                } catch (e: IOException) {
+                    Timber.e(&quot;Close channel failure with io exception!&quot;)
+                } catch (e: TimeoutException) {
+                    Timber.e(&quot;Close channel failure with timeout exception!&quot;)
+                }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1EZWxpdmVyeTogRGVsaXZlcnk/ID0gbnVsbAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZmlua2Ugb24gMTctMTEtNi4KIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS02Lgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ua2luZ2phLmxvYWRzaXI6bG9hZHNpcjoxLjIuMCcK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUNoYW5uZWwgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCAwMDYyZDdiMWQzMTE3MzkwNTAyMGJkYTY0YmJhNGVmOWVlZjhhMGU4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnN1bWVyID0gRGVmYXVsdENvbnN1bWVyKG1DaGFubmVsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udWJlci5hdXRvZGlzcG9zZTphdXRvZGlzcG9zZS1hbmRyb2lkOjAuMi4wJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uamFrZXdoYXJ0b24udGltYmVyOnRpbWJlcjo0LjUuMScK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29uc3VtZXIgPSBEZWZhdWx0Q29uc3VtZXIobUNoYW5uZWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udGVuY2VudC5tbS5vcGVuc2RrOndlY2hhdC1zZGstYW5kcm9pZC13aXRoLW10YTorJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVldWVCaW5kKCkK</text>
       </register>
     </registers>
     <search>
