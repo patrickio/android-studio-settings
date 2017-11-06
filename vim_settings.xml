@@ -122,6 +122,12 @@
         <mark key="." line="54" column="14" />
         <mark key="^" line="54" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1509955441622">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CachedUserService.kt" timestamp="1507952331966">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="30" column="101" />
@@ -380,11 +386,6 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/LiveAlertDialog.kt" timestamp="1509590168957">
-        <mark key="]" line="24" column="44" />
-        <mark key="^" line="24" column="44" />
-        <mark key="." line="24" column="44" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1507531730577">
         <mark key="[" line="65" column="41" />
         <mark key="]" line="67" column="41" />
@@ -438,6 +439,12 @@
         <mark key="]" line="12" column="3" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/RabbitMQManager.kt" timestamp="1509955252455">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveStudentPresenter.kt" timestamp="1508931978447">
         <mark key="[" line="15" column="23" />
@@ -692,12 +699,18 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/RabbitMqManager.java" timestamp="1509952954999" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/RabbitMqManager.java" timestamp="1509954876919" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857498452">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="53" column="26" />
         <mark key="^" line="53" column="26" />
         <mark key="." line="53" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1509955710445">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/ILiveBaseFeature.kt" timestamp="1508313880930">
         <mark key="[" line="10" column="35" />
@@ -901,11 +914,11 @@
       <jump line="126" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ua2luZ2phLmxvYWRzaXI6bG9hZHNpcjoxLjIuMCcK</text>
+      <register name="&quot;" type="4">
+        <text>Deliver</text>
       </register>
       <register name="-" type="4">
-        <text>58</text>
+        <text>Deliver</text>
       </register>
       <register name="/" type="4">
         <text>gradeBtn</text>
@@ -915,31 +928,31 @@
                     Util.dp2px(getContext(), 48));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ua2luZ2phLmxvYWRzaXI6bG9hZHNpcjoxLjIuMCcK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCAwMDYyZDdiMWQzMTE3MzkwNTAyMGJkYTY0YmJhNGVmOWVlZjhhMGU4Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZmlua2Ugb24gMTctMTEtNi4KIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udWJlci5hdXRvZGlzcG9zZTphdXRvZGlzcG9zZS1hbmRyb2lkOjAuMi4wJwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS02Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uamFrZXdoYXJ0b24udGltYmVyOnRpbWJlcjo0LjUuMScK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udGVuY2VudC5tbS5vcGVuc2RrOndlY2hhdC1zZGstYW5kcm9pZC13aXRoLW10YTorJwo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ua2luZ2phLmxvYWRzaXI6bG9hZHNpcjoxLjIuMCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvenhpbmctNC43LjMuamFyJykK</text>
+        <text encoding="base64">PDw8PDw8PCAwMDYyZDdiMWQzMTE3MzkwNTAyMGJkYTY0YmJhNGVmOWVlZjhhMGU4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL01pUHVzaF9TREtfU2VydmVyXzJfMl8xOC5qYXInKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udWJlci5hdXRvZGlzcG9zZTphdXRvZGlzcG9zZS1hbmRyb2lkOjAuMi4wJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2pzb24tc2ltcGxlLTEuMS4xLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uamFrZXdoYXJ0b24udGltYmVyOnRpbWJlcjo0LjUuMScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udGVuY2VudC5tbS5vcGVuc2RrOndlY2hhdC1zZGstYW5kcm9pZC13aXRoLW10YTorJwo=</text>
       </register>
     </registers>
     <search>
