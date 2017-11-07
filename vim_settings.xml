@@ -836,11 +836,11 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/DeviceUuidHelper.kt" timestamp="1510043635917">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="23" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/DeviceUuidHelper.kt" timestamp="1510044903115">
+        <mark key="[" line="28" column="79" />
+        <mark key="]" line="50" column="43" />
+        <mark key="." line="50" column="43" />
+        <mark key="^" line="50" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
@@ -973,68 +973,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdXVpZDogVVVJRAo=</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">dXVpZCA=</text>
       </register>
       <register name="/" type="4">
-        <text>gradeBtn</text>
+        <text>utf</text>
       </register>
       <register name="0" type="4">
-        <text>if (!emitter.isDisposed) {
-            emitter.onNext(true)
-            emitter.onComplete()
-        }</text>
+        <text>if (!TextUtils.isEmpty(deviceId)) {
+                            UUID.nameUUIDFromBytes(deviceId!!.toByteArray(Charset.forName(&quot;utf8&quot;)))
+                        } else {
+                            UUID.randomUUID()
+                        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS03Lgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXVpZDogVVVJRAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkhhcmR3YXJlSWRzIikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgc3luY2hyb25pemVkKHRoaXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciBhbgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">dmFsIHByZWZzID0gY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcyhQUkVGU19GSUxFLCAwLypNT0RFX1BSSVZBVEUqLykKICAgICAgICAgICAgdmFsIGlkID0gcHJlZnMuZ2V0U3RyaW5nKEtFWV9ERVZJQ0VfSUQsIG51bGwpCiAgICAgICAgICAgIHZhbCBhbmRyb2lkSWQgPSBTZXR0aW5ncy5TZWN1cmUuZ2V0U3RyaW5nKGNvbnRleHQuY29udGVudFJlc29sdmVyLCBTZXR0aW5ncy5TZWN1cmUuQU5EUk9JRF9JRCkKICAgICAgICAgICAgdmFsIGRldmljZUlkID0gZ2V0RGV2aWNlSWQoY29udGV4dCkKCiAgICAgICAgICAgIHV1aWQgPSBpZiAoIVRleHRVdGlscy5pc0VtcHR5KGlkKSkgewogICAgICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKGlkKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KGFuZHJvaWRJZCkgJiYgRkFLRV9BTkRST0lEX0lEICE9IGFuZHJvaWRJZCkgewogICAgICAgICAgICAgICAgICAgICAgICBVVUlELm5hbWVVVUlERnJvbUJ5dGVzKGFuZHJvaWRJZC50b0J5dGVBcnJheShDaGFyc2V0LmZvck5hbWUoInV0ZjgiKSkpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmICghVGV4dFV0aWxzLmlzRW1wdHkoZGV2aWNlSWQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFVVSUQubmFtZVVVSURGcm9tQnl0ZXMoZGV2aWNlSWQhIS50b0J5dGVBcnJheShDaGFyc2V0LmZvck5hbWUoInV0ZjgiKSkpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgVVVJRC5yYW5kb21VVUlEKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgVVVJRC5yYW5kb21VVUlEKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHJlZnMuZWRpdCgpLnB1dFN0cmluZyhLRVlfREVWSUNFX0lELCB1dWlkLnRvU3RyaW5nKCkpLmFwcGx5KCk=</text>
       </register>
-      <register name="4" type="4">
-        <text>droidId = Settings.Secure.getString(context.contentResolver, Settings.Secure.ANDROID_ID)
-//        return androidId
-        // not work for Build.VersonCode.N_MR1
-//        val serial = android.os.Build.SERIAL
-//        if (!TextUtils.isEmpty(serial)) {
-//            return UUID.fromString(serial).toString()
-//        }
-
-        (context.applicationContext.getSystemService(Context.WIFI_SERVICE) as? WifiManager)?.run {
-            val macAddress = connectionInfo.macAddress
-            if (!TextUtils.isEmpty(macAddress)) {
-                return macAddress
-            }
-        }
-
-        return &quot;&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHV1aWQ6IFVVSUQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVVUlELmZyb21TdHJpbmcobWFjQWRkcmVzcykudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdXVpZDogVVVJRAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRRdWVyeVBhcmFtZXRlcigiZGV2aWNlX2lkIiwgKQo=</text>
+      <register name="8" type="4">
+        <text>val androidId = Settings.Secure.getString(context.contentResolver, Settings.Secure.ANDROID_ID)
+                val deviceId = getDeviceId(context)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGV2aWNlSWQgPSAoY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuVEVMRVBIT05ZX1NFUlZJQ0UpIGFzPyBUZWxlcGhvbnlNYW5hZ2VyKT8uZGV2aWNlSWQK</text>
+      <register name="9" type="4">
+        <text>{
+                        
+                    }</text>
       </register>
     </registers>
     <search>
-      <last-search>gradeBtn</last-search>
+      <last-search>utf</last-search>
       <last-offset />
-      <last-pattern>gradeBtn</last-pattern>
+      <last-pattern>utf</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1031,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SpanSet</entry>
         <entry>getNext</entry>
         <entry>Recy</entry>
         <entry>retry</entry>
@@ -1062,6 +1050,7 @@
         <entry>pushlong</entry>
         <entry>receive</entry>
         <entry>gradeBtn</entry>
+        <entry>utf</entry>
       </history-search>
       <history-cmd />
       <history-expr />
