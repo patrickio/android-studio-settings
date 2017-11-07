@@ -123,12 +123,6 @@
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510019388330">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1509957858495">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="39" />
@@ -208,17 +202,11 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" timestamp="1509517282937">
-        <mark key="[" line="86" column="68" />
-        <mark key="]" line="86" column="69" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" timestamp="1510025443365">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
         <mark key="^" line="86" column="69" />
-        <mark key="." line="86" column="69" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" timestamp="1510020156214">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
@@ -334,11 +322,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/Presenter.kt" timestamp="1508924854844">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="19" column="64" />
-        <mark key="^" line="19" column="64" />
-        <mark key="." line="19" column="64" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/Presenter.kt" timestamp="1510026701130">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="89" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1505393436982">
         <mark key="[" line="2" column="26" />
@@ -579,11 +567,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510024731779">
-        <mark key="[" line="214" column="9" />
-        <mark key="]" line="215" column="50" />
-        <mark key="." line="215" column="50" />
-        <mark key="^" line="215" column="50" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510025863781">
+        <mark key="[" line="57" column="53" />
+        <mark key="]" line="216" column="50" />
+        <mark key="." line="216" column="50" />
+        <mark key="^" line="216" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/build.gradle" timestamp="1506065608708">
         <mark key="[" line="4" column="18" />
@@ -655,12 +643,12 @@
         <mark key="^" line="199" column="19" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510024831505">
-        <mark key="'" line="121" column="20" />
-        <mark key="[" line="163" column="72" />
-        <mark key="]" line="147" column="108" />
-        <mark key="." line="147" column="108" />
-        <mark key="^" line="147" column="108" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510025828262">
+        <mark key="'" line="122" column="20" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="50" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -981,66 +969,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>ON_PAUSE</text>
       </register>
       <register name="/" type="4">
         <text>gradeBtn</text>
       </register>
       <register name="0" type="4">
-        <text>if (loading) {
-            view?.onLoadingStream(true, context.getString(R.string.live_loading))
-        } else {
-            view?.onLoadingStream(false)
+        <text>synchronized(mLocker) {
+            mOnAttachStateChangedListeners.forEach { it.onStateChanged(this, Event.ON_PAUSE) }
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udmVyc2F0aW9uICE9IG51bGwpCg==</text>
+      <register name="2" type="4">
+        <text>if (mOnAttachStateChangedListeners.contains(listener))
+            mOnAttachStateChangedListeners.remove(listener)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>if (!mOnAttachStateChangedListeners.contains(listener))
+            mOnAttachStateChangedListeners.add(listener)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>//        val sharePrefs = context.getSharedPreferences(&quot;${context.packageName}.UserSig&quot;, Context.MODE_PRIVATE)
-//        val userSig = sharePrefs.getString(PREFS_KEY_USER_SIG, &quot;&quot;)
-//        return if (TextUtils.isEmpty(userSig) || refreshSig) {
-//            // UserSig is empty, attempt to fetch it from server
-//            val ucid = person.ucid
-//            LiveApis.server.fetchChatroomInfo(ucid, courseId)
-//                    .concatData()
-//                    .doOnNext {
-//                        // Save the useSig in local
-//                        if (!TextUtils.isEmpty(it.F_userSig)) {
-//                            sharePrefs.edit().putString(ucid.toString(), it.F_userSig).apply()
-//                        }
-//                        //  Store the chatroom id
-//                        mChatRoomId = it.F_chatroomId
-//                    }.map {
-//                it.F_userSig
-//            }
-//        } else {
-//            Observable.just(userSig)
-//        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtT25BdHRhY2hTdGF0ZUNoYW5nZWRMaXN0ZW5lcnMuZm9yRWFjaCB7IGl0Lm9uU3RhdGVDaGFuZ2VkKHRoaXMsIFByZXNlbnRlckxpZmVjeWNsZS5FdmVudC5ERVRBQ0gpIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgUFJFRlNfS0VZX1VTRVJfU0lHOiBTdHJpbmcgPSAiJHtMaXZlQ2hhdE1vZGVsOjpjbGFzcy5qYXZhLm5hbWV9LmtleS5VU0VSX1NJRyIK</text>
+        <text encoding="base64">ICAgICAgICBtT25BdHRhY2hTdGF0ZUNoYW5nZWRMaXN0ZW5lcnMuY2xlYXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5kaXNwb3NhYmxlcy5EaXNwb3NhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICBtT25BdHRhY2hTdGF0ZUNoYW5nZWRMaXN0ZW5lcnMuZm9yRWFjaCB7IGl0Lm9uU3RhdGVDaGFuZ2VkKHRoaXMsIFByZXNlbnRlckxpZmVjeWNsZS5FdmVudC5PTl9QQVVTRSkgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9ImRzZmtqZHNsZmpkc2tsamZsIgo=</text>
+        <text encoding="base64">ICAgICAgICBtT25BdHRhY2hTdGF0ZUNoYW5nZWRMaXN0ZW5lcnMuZm9yRWFjaCB7IGl0Lm9uU3RhdGVDaGFuZ2VkKHRoaXMsIEV2ZW50Lk9OX1JFU1VNRSkgfQo=</text>
       </register>
     </registers>
     <search>
