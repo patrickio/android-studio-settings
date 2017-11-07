@@ -26,11 +26,11 @@
         <mark key="^" line="250" column="0" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveChatFeature.kt" timestamp="1509591554626">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="50" column="3" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveChatFeature.kt" timestamp="1510024591472">
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1509520749293">
         <mark key="[" line="88" column="25" />
@@ -579,11 +579,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1509591746544">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="153" column="28" />
-        <mark key="." line="150" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510024731779">
+        <mark key="[" line="214" column="9" />
+        <mark key="]" line="215" column="50" />
+        <mark key="." line="215" column="50" />
+        <mark key="^" line="215" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/build.gradle" timestamp="1506065608708">
         <mark key="[" line="4" column="18" />
@@ -655,6 +655,13 @@
         <mark key="^" line="199" column="19" />
         <mark key="." line="206" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510024831505">
+        <mark key="'" line="121" column="20" />
+        <mark key="[" line="163" column="72" />
+        <mark key="]" line="147" column="108" />
+        <mark key="." line="147" column="108" />
+        <mark key="^" line="147" column="108" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="28" />
@@ -703,11 +710,6 @@
         <mark key="]" line="18" column="38" />
         <mark key="." line="18" column="38" />
         <mark key="^" line="15" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/ReplayActivity.kt" timestamp="1510018657533">
-        <mark key="[" line="366" column="0" />
-        <mark key="]" line="366" column="0" />
-        <mark key="." line="366" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/ChatInputView.kt" timestamp="1508828731643">
         <mark key="[" line="15" column="0" />
@@ -819,6 +821,11 @@
       <file name="/SubjectDetailActivity.kt" timestamp="1510021038956">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="207" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_tip_message.xml" timestamp="1510024340022">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/bg_live_scoring.xml" timestamp="1509590051751">
         <mark key="[" line="8" column="75" />
@@ -974,7 +981,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>context</text>
@@ -990,31 +997,50 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udmVyc2F0aW9uICE9IG51bGwpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PEJ1dHRvbgogICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tcGF0QnV0dG9uLkxpdmVSZXRyeSIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9jaGF0X3JldHJ5IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3JldHJ5IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA8UHJvZ3Jlc3NCYXIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3BiX2NoYXRfbG9hZGluZyIKICAgICAgICBzdHlsZT0iQHN0eWxlL0xvYWRpbmdCYXIiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkxvYWRpbmdTdHJlYW0odHJ1ZSkK</text>
+      <register name="6" type="4">
+        <text>//        val sharePrefs = context.getSharedPreferences(&quot;${context.packageName}.UserSig&quot;, Context.MODE_PRIVATE)
+//        val userSig = sharePrefs.getString(PREFS_KEY_USER_SIG, &quot;&quot;)
+//        return if (TextUtils.isEmpty(userSig) || refreshSig) {
+//            // UserSig is empty, attempt to fetch it from server
+//            val ucid = person.ucid
+//            LiveApis.server.fetchChatroomInfo(ucid, courseId)
+//                    .concatData()
+//                    .doOnNext {
+//                        // Save the useSig in local
+//                        if (!TextUtils.isEmpty(it.F_userSig)) {
+//                            sharePrefs.edit().putString(ucid.toString(), it.F_userSig).apply()
+//                        }
+//                        //  Store the chatroom id
+//                        mChatRoomId = it.F_chatroomId
+//                    }.map {
+//                it.F_userSig
+//            }
+//        } else {
+//            Observable.just(userSig)
+//        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXc/Lm9uTG9hZGluZ1N0cmVhbShmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgUFJFRlNfS0VZX1VTRVJfU0lHOiBTdHJpbmcgPSAiJHtMaXZlQ2hhdE1vZGVsOjpjbGFzcy5qYXZhLm5hbWV9LmtleS5VU0VSX1NJRyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkxvYWRpbmdTdHJlYW0odHJ1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5kaXNwb3NhYmxlcy5EaXNwb3NhYmxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXc/Lm9uTG9hZGluZ1N0cmVhbShmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9ImRzZmtqZHNsZmpkc2tsamZsIgo=</text>
       </register>
     </registers>
     <search>
