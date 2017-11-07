@@ -243,11 +243,10 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510040812282">
-        <mark key="[" line="113" column="46" />
-        <mark key="]" line="113" column="44" />
-        <mark key="^" line="113" column="44" />
-        <mark key="." line="113" column="44" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510041154519">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/res/drawable/live_answers_sel.xml" timestamp="1509524692557">
         <mark key="[" line="5" column="30" />
@@ -526,6 +525,12 @@
         <mark key="]" line="17" column="6" />
         <mark key="." line="17" column="6" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1510041143086">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="55" />
+        <mark key="^" line="82" column="55" />
+        <mark key="." line="82" column="55" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
         <mark key="]" line="2" column="35" />
@@ -589,6 +594,12 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510042893447">
+        <mark key="[" line="54" column="38" />
+        <mark key="]" line="54" column="38" />
+        <mark key="." line="54" column="38" />
+        <mark key="^" line="54" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
@@ -957,10 +968,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>serial</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>serial</text>
       </register>
       <register name="/" type="4">
         <text>gradeBtn</text>
@@ -972,31 +983,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTmVnYXRpdmUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVVUlELmZyb21TdHJpbmcobWFjQWRkcmVzcykudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVDaGF0Um9vbSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRRdWVyeVBhcmFtZXRlcigiZGV2aWNlX2lkIiwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZGV2aWNlSWQgPSAoY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuVEVMRVBIT05ZX1NFUlZJQ0UpIGFzPyBUZWxlcGhvbnlNYW5hZ2VyKT8uZGV2aWNlSWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29uZmlnID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTmVnYXRpdmUgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluaXNoKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVDaGF0Um9vbSgpCg==</text>
       </register>
     </registers>
     <search>
