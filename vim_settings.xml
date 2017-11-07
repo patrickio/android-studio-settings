@@ -104,11 +104,12 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1509587087177">
-        <mark key="[" line="427" column="61" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510018810949">
+        <mark key="'" line="446" column="4" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="86" column="33" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -116,11 +117,17 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1509586747231">
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="^" line="54" column="35" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510019425753">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510019388330">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1509957858495">
         <mark key="[" line="10" column="20" />
@@ -410,11 +417,11 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1509587070661">
-        <mark key="[" line="215" column="86" />
-        <mark key="]" line="216" column="52" />
-        <mark key="." line="216" column="52" />
-        <mark key="^" line="216" column="52" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1510018594370">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="211" column="52" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/im/Constant.kt" timestamp="1505802801707">
         <mark key="[" line="7" column="0" />
@@ -445,6 +452,9 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LivePlayFeature.kt" timestamp="1510019116409">
+        <mark key="[" line="55" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveStudentPresenter.kt" timestamp="1508931978447">
         <mark key="[" line="15" column="23" />
@@ -487,12 +497,6 @@
         <mark key="]" line="181" column="55" />
         <mark key="^" line="181" column="74" />
         <mark key="." line="181" column="55" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1509527102989">
-        <mark key="'" line="95" column="16" />
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/EducationAlertDialog.kt" timestamp="1509590149679">
         <mark key="[" line="17" column="6" />
@@ -580,12 +584,6 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" timestamp="1509523136064">
-        <mark key="'" line="95" column="8" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMManager.kt" timestamp="1509589614490">
         <mark key="[" line="58" column="88" />
         <mark key="]" line="58" column="88" />
@@ -619,12 +617,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1509591757596">
-        <mark key="'" line="121" column="20" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -675,11 +667,22 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="15" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/ReplayActivity.kt" timestamp="1510018657533">
+        <mark key="[" line="366" column="0" />
+        <mark key="]" line="366" column="0" />
+        <mark key="." line="366" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/ChatInputView.kt" timestamp="1508828731643">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="123" column="68" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_bottom_bar.xml" timestamp="1510017833509">
+        <mark key="[" line="57" column="44" />
+        <mark key="]" line="59" column="37" />
+        <mark key="." line="59" column="37" />
+        <mark key="^" line="59" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1505976798944">
         <mark key="[" line="51" column="41" />
@@ -740,6 +743,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="71" column="88" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1510018645300">
+        <mark key="[" line="189" column="38" />
+        <mark key="]" line="189" column="38" />
+        <mark key="." line="189" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1509952746338">
         <mark key="[" line="129" column="0" />
@@ -810,9 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
-      <jump line="48" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
-      <jump line="158" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="196" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="28" column="37" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
       <jump line="105" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
@@ -910,46 +915,52 @@
       <jump line="133" column="3" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
       <jump line="53" column="38" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
       <jump line="126" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
+      <jump line="66" column="3" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
+      <jump line="70" column="3" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
+      <jump line="461" column="4" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS03Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text>mConnection</text>
+        <text>countdown</text>
       </register>
       <register name="/" type="4">
         <text>gradeBtn</text>
       </register>
       <register name="0" type="4">
-        <text>createChannel(connection = it, queueName = queueName, routingKey = courseId)</text>
+        <text>&quot;onFragmentInteraction: tag $tag, action $action&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS03Lgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYW5uZWwgPSBudWxsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGZpbmtlIG9uIDE3LTExLTcuCiAqLw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoaWRlU3lzdGVtVUkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR2X2Fzc2lzdGFudF9sYWJlbC52aXNpYmlsaXR5ID0gaWYgKGl0LmlzTm90RW1wdHkoKSkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5JTlZJU0lCTEUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">YnkgbGF6eSB7CiAgICAgICAgUHVibGlzaFN1YmplY3QuY3JlYXRlPFN0cmluZz4oKQogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0dl9hc3Npc3RhbnRfbGFiZWwudmlzaWJpbGl0eSA9IFZpZXcuSU5WSVNJQkxFCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5kaXNwb3NhYmxlcy5EaXNwb3NhYmxlCg==</text>
+      <register name="6" type="4">
+        <text>rcv_assistants.apply {
+            layoutManager = LinearLayoutManager(this@ReplayActivity, LinearLayoutManager.HORIZONTAL, false)
+            adapter = mAssistantsAdapter
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1DcmVhdGVEaXM6IERpc3Bvc2FibGU/ID0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5yeGtvdGxpbi5zdWJzY3JpYmVCeQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5hbmRyb2lkLnNjaGVkdWxlcnMuQW5kcm9pZFNjaGVkdWxlcnMK</text>
+      <register name="9" type="4">
+        <text encoding="base64">b3ZlcnJpZGUgZnVuIG9uQXNzaXN0YW50c0RhdGFTZXRDaGFuZ2VkKGFzc2lzdGFudEJlYW46IEFycmF5PExpdmVBc3Npc3RhbnRCZWFuPikgewogICAgICAgIChjb250ZXh0IGFzPyBMaXZlQWN0aXZpdHkpPy5vbkFzc2lzdGFudHNEYXRhU2V0Q2hhbmdlZChhc3Npc3RhbnRCZWFuLnRvQ29sbGVjdGlvbihhcnJheUxpc3RPZigpKSkKICAgIH0=</text>
       </register>
     </registers>
     <search>
