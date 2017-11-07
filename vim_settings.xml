@@ -595,11 +595,11 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510042893447">
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="54" column="38" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="54" column="38" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510043182461">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
@@ -836,6 +836,12 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/DeviceUuidHelper.kt" timestamp="1510043635917">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1505802742634">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -968,10 +974,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>serial</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>serial</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>gradeBtn</text>
@@ -983,31 +989,46 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS03Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVVUlELmZyb21TdHJpbmcobWFjQWRkcmVzcykudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkhhcmR3YXJlSWRzIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk5fCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhciBhbgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRRdWVyeVBhcmFtZXRlcigiZGV2aWNlX2lkIiwgKQo=</text>
+      <register name="4" type="4">
+        <text>droidId = Settings.Secure.getString(context.contentResolver, Settings.Secure.ANDROID_ID)
+//        return androidId
+        // not work for Build.VersonCode.N_MR1
+//        val serial = android.os.Build.SERIAL
+//        if (!TextUtils.isEmpty(serial)) {
+//            return UUID.fromString(serial).toString()
+//        }
+
+        (context.applicationContext.getSystemService(Context.WIFI_SERVICE) as? WifiManager)?.run {
+            val macAddress = connectionInfo.macAddress
+            if (!TextUtils.isEmpty(macAddress)) {
+                return macAddress
+            }
+        }
+
+        return &quot;&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGV2aWNlSWQgPSAoY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuVEVMRVBIT05ZX1NFUlZJQ0UpIGFzPyBUZWxlcGhvbnlNYW5hZ2VyKT8uZGV2aWNlSWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTmVnYXRpdmUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVVUlELmZyb21TdHJpbmcobWFjQWRkcmVzcykudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk5fCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRRdWVyeVBhcmFtZXRlcigiZGV2aWNlX2lkIiwgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVDaGF0Um9vbSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZGV2aWNlSWQgPSAoY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuVEVMRVBIT05ZX1NFUlZJQ0UpIGFzPyBUZWxlcGhvbnlNYW5hZ2VyKT8uZGV2aWNlSWQK</text>
       </register>
     </registers>
     <search>
