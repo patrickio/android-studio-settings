@@ -249,10 +249,10 @@
         <mark key="." line="2" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510046421274">
-        <mark key="[" line="114" column="43" />
-        <mark key="]" line="114" column="43" />
-        <mark key="." line="114" column="43" />
-        <mark key="^" line="114" column="65" />
+        <mark key="[" line="112" column="43" />
+        <mark key="]" line="112" column="43" />
+        <mark key="." line="112" column="43" />
+        <mark key="^" line="112" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/res/drawable/live_answers_sel.xml" timestamp="1509524692557">
         <mark key="[" line="5" column="30" />
@@ -278,7 +278,6 @@
         <mark key="^" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a41fa3b9a66f3bdd41f98013a1688e969072aaf2/common-1.0.0-sources.jar!/android/arch/core/internal/SafeIterableMap.java" timestamp="1510036728376" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1507537781354">
         <mark key="[" line="81" column="69" />
         <mark key="]" line="81" column="68" />
@@ -543,7 +542,6 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Android/Sdk/sources/android-26/java/util/concurrent/locks/ReentrantLock.java" timestamp="1510036093480" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/item_emoticon.xml" timestamp="1505391554924">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="5" column="50" />
@@ -796,7 +794,6 @@
         <mark key="^" line="131" column="3" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Android/Sdk/sources/android-26/android/net/wifi/WifiInfo.java" timestamp="1510045761413" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="15" />
@@ -877,7 +874,7 @@
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
       </file>
-      <file name="/fragment.java" timestamp="1510037112087">
+      <file name="/fragment.java" timestamp="1510101809734">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
