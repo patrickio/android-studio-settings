@@ -794,6 +794,9 @@
         <mark key="^" line="131" column="3" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1510103246128">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="15" />
@@ -809,6 +812,12 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="32" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_connect_message.xml" timestamp="1510104794674">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="36" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/PresenterLifecycleScopeProvider.kt" timestamp="1510027092094">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -821,10 +830,11 @@
         <mark key="." line="98" column="38" />
         <mark key="^" line="98" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_tip_message.xml" timestamp="1510024340022">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_tip_message.xml" timestamp="1510104487825">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/bg_live_scoring.xml" timestamp="1509590051751">
         <mark key="[" line="8" column="75" />
@@ -981,11 +991,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IiI=</text>
       </register>
       <register name="-" type="4">
-        <text>zj</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -993,34 +1003,34 @@
       <register name="0" type="4">
         <text encoding="base64">aWYgKCFUZXh0VXRpbHMuaXNFbXB0eShpZCkpIHsKICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKGlkKQogICAgICAgIH0g</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gZmFsc2UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IiI=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkNoZWNrQm94Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCI=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjEwZHAiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gZmFsc2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkNoZWNrQm94Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJvdmlkZXIuU2V0dGluZwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>s
 import android.telephony.TelephonyManager
 import android.text.TextUtils</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LndpZmkuV2lmaU1hbmFnZXIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5TdXBwcmVzc0xpbnQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB1dWlkOiBVVUlEPyA9IG51bGwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVVSUQubmFtZVVVSURGcm9tQnl0ZXMoZGV2aWNlSWQhIS50b0J5dGVBcnJheShDaGFyc2V0LmZvck5hbWUoInV0ZjgiKSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5TdXBwcmVzc0xpbnQK</text>
       </register>
     </registers>
     <search>
