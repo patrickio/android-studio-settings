@@ -121,6 +121,11 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510130795884">
+        <mark key="[" line="102" column="42" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510126213254">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1013,46 +1018,44 @@
       <jump line="112" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiIikK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>CMD_1ST_START</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
       </register>
       <register name="0" type="4">
-        <text>if (!emitter.isDisposed) {
-                emitter.onError(e)
-            }</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBMaXZlQ21kLkNNRF8xU1RfU1RBUlQgLT4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm1xLkxpdmVDbWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBvblJlY2VpdmVMaXZlQ21kKGNtZDogTGl2ZUNtZCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLm1xLkxpdmVDbWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY29ubmVjdGlvbiBlbmQtLS0tLSIpCg==</text>
+        <text encoding="base64">ICAgIGZ1biBvblJlY2VpdmVMaXZlQ21kKGNtZDogTGl2ZUNtZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5pKCJjb25uZWN0aW9uIGhhcyBiZWVuIGNsb3NlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY29ubmVjdGlvbiBlbmQtLS0tLSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY29ubmVjdGlvbiBiZWdpbi0tLS0tIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5pKCJjb25uZWN0aW9uIGhhcyBiZWVuIGNsb3NlZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiY2hhbm5lbCBoYXMgYmVlbiBjbG9zZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY29ubmVjdGlvbiBiZWdpbi0tLS0tIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY2hhbm5lbCBiZWdpbi0tLS0tIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiY2hhbm5lbCBoYXMgYmVlbiBjbG9zZWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU9uQXR0YWNoU3RhdGVDaGFuZ2VkTGlzdGVuZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY2hhbm5lbCBiZWdpbi0tLS0tIikK</text>
       </register>
     </registers>
     <search>
