@@ -15,6 +15,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_push_message.xml" timestamp="1510128373609">
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="47" />
+        <mark key="^" line="44" column="56" />
+        <mark key="." line="52" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1509520668405">
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="42" />
@@ -156,11 +162,6 @@
         <mark key="]" line="109" column="37" />
         <mark key="." line="109" column="37" />
         <mark key="^" line="109" column="37" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/StarsView.kt" timestamp="1510107859120">
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1509526799627">
         <mark key="[" line="88" column="20" />
@@ -1012,11 +1013,11 @@
       <jump line="112" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>back_up</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;-----</text>
+        <text>back_up</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
