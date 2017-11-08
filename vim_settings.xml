@@ -16,10 +16,9 @@
         <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_push_message.xml" timestamp="1510128373609">
-        <mark key="[" line="52" column="47" />
-        <mark key="]" line="52" column="47" />
-        <mark key="^" line="44" column="56" />
-        <mark key="." line="52" column="47" />
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1509520668405">
         <mark key="[" line="63" column="42" />
@@ -752,6 +751,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Channel.java" timestamp="1510130181852" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_splash.xml" timestamp="1505959043750">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="2" column="3" />
@@ -770,11 +770,11 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510126165292">
-        <mark key="[" line="173" column="13" />
-        <mark key="]" line="174" column="29" />
-        <mark key="." line="174" column="29" />
-        <mark key="^" line="174" column="29" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510130220881">
+        <mark key="[" line="109" column="89" />
+        <mark key="]" line="109" column="89" />
+        <mark key="." line="109" column="89" />
+        <mark key="^" line="109" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/ILiveBaseFeature.kt" timestamp="1508313880930">
         <mark key="[" line="10" column="35" />
@@ -1014,10 +1014,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>back_up</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>back_up</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
