@@ -761,11 +761,11 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510121201213">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="223" column="58" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510121870556">
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="171" column="46" />
+        <mark key="." line="171" column="46" />
+        <mark key="^" line="171" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/ILiveBaseFeature.kt" timestamp="1508313880930">
         <mark key="[" line="10" column="35" />
@@ -802,11 +802,11 @@
         <mark key="]" line="214" column="31" />
         <mark key="." line="214" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510110001980">
-        <mark key="[" line="62" column="5" />
-        <mark key="]" line="64" column="26" />
-        <mark key="^" line="64" column="26" />
-        <mark key="." line="64" column="26" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510122542198">
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="13" />
+        <mark key="." line="136" column="13" />
+        <mark key="^" line="136" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
@@ -996,82 +996,46 @@
       <jump line="112" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>routingKey</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
       </register>
       <register name="0" type="4">
-        <text>val channel = connection.createChannel().apply {
-                // Create the specified queue if necessary
-                queueDeclare(queueName, true, false, false, null)
-                // Bind the specified queue
-                queueBind(queueName, RabbitMQConf.exchange, routingKey)
-                basicQos(0, 1, false)
-                basicConsume(queueName, false, object : DefaultConsumer(this) {
-                    override fun handleDelivery(consumerTag: String?, envelope: Envelope?, properties: AMQP.BasicProperties?, body: ByteArray?) {
-                        // consumerTag and envelope are used for ack
-                        // Create a message publisher if it isn't existed
-                        if (msgPublisher == null) {
-                            msgPublisher = PublishSubject.create()
-                        }
-                        // Publish the message
-                        if (body != null) {
-                            val msg = String(body)
-                            mainHandler.post { msgPublisher?.onNext(msg) }
-                        }
-                    }
-                })
+        <text>if (!emitter.isDisposed) {
+                emitter.onError(e)
             }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvLyByYWJiaXRtcTphbXFwLWNsaWVudDo1LjAuMCBvbmx5IGNvbXBpbGVkIGZvciBqZGsgOAogICAgY29tcGlsZU9wdGlvbnMgewogICAgICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgMS44CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSAxLjgKICAgIH0=</text>
       </register>
-      <register name="3" type="4">
-        <text>.subscribeOn(mScheduler).concatMap {
-        close()
-    }.concatMap {
-        createConnection()
-    }.doOnNext {
-        mConnection = it
-        Timber.d(&quot;connection: $it&quot;)
-    }.concatMap {
-        createChannel(connection = it, queueName = queueName, routingKey = courseId)
-    }.doOnNext {
-        mChannel = it
-        Timber.d(&quot;channel: $it&quot;)
-    }.map { Unit }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY29ubmVjdGlvbiBiZWdpbi0tLS0tIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY2hhbm5lbCBiZWdpbi0tLS0tIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcXVldWVOYW1lID0gImxpdmVfJHt1Y2lkfV8kY291cnNlSWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY2hhbm5lbC0tLS0tIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>}
-            if (!emitter.isDisposed) {
-                emitter.onNext(connection)
-                emitter.onComplete()
-            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIi0tLS0tY2xvc2UgY2hhbm5lbC0tLS0tIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1TY2hlZHVsZXI6IFNjaGVkdWxlciBieSBsYXp5IHsgU2NoZWR1bGVycy5uZXdUaHJlYWQoKSB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>mConnection = mDefaultFactory.newConnection(&quot;live_client&quot;).apply {
-            addShutdownListener(mShutdownListener)
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSBjb25uZWN0aW9uIHRvIFJhYmJpdE1RIHNlcnZlcgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW4gY3JlYXRlQ29ubmVjdGlvbigpOiBPYnNlcnZhYmxlPENvbm5lY3Rpb24+ID0gT2JzZXJ2YWJsZS5jcmVhdGUgeyBlbWl0dGVyIC0+CiAgICAgICAgLy8gQ3JlYXRlIFJhYmJpdE1RIGNvbm5lY3Rpb24KICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgY29ubmVjdGlvbiA9IG1EZWZhdWx0RmFjdG9yeS5uZXdDb25uZWN0aW9uKCJsaXZlX2NsaWVudCIpLmFwcGx5IHsKICAgICAgICAgICAgICAgIGFkZFNodXRkb3duTGlzdGVuZXIobVNodXRkb3duTGlzdGVuZXIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KGNvbm5lY3Rpb24pCiAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKGUpCiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChlOiBUaW1lb3V0RXhjZXB0aW9uKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIGNsb3NlQ29ubmVjdGlvbigpOiBPYnNlcnZhYmxlPFVuaXQ+ID0gT2JzZXJ2YWJsZS5jcmVhdGUgeyBlbWl0dGVyIC0+CiAgICAgICAgVGltYmVyLmQoIi0tLS0tLWNsb3NlIGNvbm5lY3Rpb24tLS0tLS0iKQogICAgICAgIC8vIENsb3NlIHRoZSBvcGVuaW5nIGNvbm5lY3Rpb24KICAgICAgICBtQ29ubmVjdGlvbj8ucnVuIHsKICAgICAgICAgICAgaWYgKGlzT3BlbikgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBjbG9zZSgpCiAgICAgICAgICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZW1pdHRlci5vbk5leHQoVW5pdCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBJT0V4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IoZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuQGNyZWF0ZQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIC8vIFJlbW92ZSB0aGUgc2h1dGRvd24gY2FsbGJhY2sKICAgICAgICAgICAgICAgIHJlbW92ZVNodXRkb3duTGlzdGVuZXIobVNodXRkb3duTGlzdGVuZXIpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIG1Db25uZWN0aW9uID0gbnVsbAogICAgICAgIGlmICghZW1pdHRlci5pc0Rpc3Bvc2VkKSB7CiAgICAgICAgICAgIGVtaXR0ZXIub25Db21wbGV0ZSgpCiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIGNyZWF0ZUNoYW5uZWwoY29ubmVjdGlvbjogQ29ubmVjdGlvbiwgcXVldWVOYW1lOiBTdHJpbmcsIHJvdXRpbmdLZXk6IFN0cmluZyk6IE9ic2VydmFibGU8Q2hhbm5lbD4gPSBPYnNlcnZhYmxlLmNyZWF0ZSB7IGVtaXR0ZXIgLT4KICAgICAgICBUaW1iZXIuZCgiLS0tLS0tY3JlYXRlIGNvbm5lY3Rpb24tLS0tLS0iKQogICAgICAgIC8vIENyZWF0ZSBSYWJiaXRNUSBjaGFubmVsCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIGNoYW5uZWwgPSBjb25uZWN0aW9uLmNyZWF0ZUNoYW5uZWwoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAvLyBDcmVhdGUgdGhlIHNwZWNpZmllZCBxdWV1ZSBpZiBuZWNlc3NhcnkKICAgICAgICAgICAgICAgIHF1ZXVlRGVjbGFyZShxdWV1ZU5hbWUsIHRydWUsIGZhbHNlLCBmYWxzZSwgbnVsbCkKICAgICAgICAgICAgICAgIC8vIEJpbmQgdGhlIHNwZWNpZmllZCBxdWV1ZQogICAgICAgICAgICAgICAgcXVldWVCaW5kKHF1ZXVlTmFtZSwgUmFiYml0TVFDb25mLmV4Y2hhbmdlLCByb3V0aW5nS2V5KQogICAgICAgICAgICAgICAgYmFzaWNRb3MoMCwgMSwgZmFsc2UpCiAgICAgICAgICAgICAgICBiYXNpY0NvbnN1bWUocXVldWVOYW1lLCBmYWxzZSwgb2JqZWN0IDogRGVmYXVsdENvbnN1bWVyKHRoaXMpIHsKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gaGFuZGxlRGVsaXZlcnkoY29uc3VtZXJUYWc6IFN0cmluZz8sIGVudmVsb3BlOiBFbnZlbG9wZT8sIHByb3BlcnRpZXM6IEFNUVAuQmFzaWNQcm9wZXJ0aWVzPywgYm9keTogQnl0ZUFycmF5PykgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zdW1lclRhZyBhbmQgZW52ZWxvcGUgYXJlIHVzZWQgZm9yIGFjawogICAgICAgICAgICAgICAgICAgICAgICAvLyBDcmVhdGUgYSBtZXNzYWdlIHB1Ymxpc2hlciBpZiBpdCBpc24ndCBleGlzdGVkCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtc2dQdWJsaXNoZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbXNnUHVibGlzaGVyID0gUHVibGlzaFN1YmplY3QuY3JlYXRlKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAvLyBQdWJsaXNoIHRoZSBtZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChib2R5ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBTdHJpbmcoYm9keSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1haW5IYW5kbGVyLnBvc3QgeyBtc2dQdWJsaXNoZXI/Lm9uTmV4dChtc2cpIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KGNoYW5uZWwpCiAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKGUpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gY2xvc2VDaGFubmVsKCk6IE9ic2VydmFibGU8VW5pdD4gPSBPYnNlcnZhYmxlLmNyZWF0ZSB7IGVtaXR0ZXIgLT4KICAgICAgICBUaW1iZXIuaSgiLS0tLS0tY2xvc2UgY29ubmVjdGlvbi0tLS0tLSIpCiAgICAgICAgLy8gQ2xvc2UgdGhlIG9wZW5pbmcgY2hhbm5lbAogICAgICAgIG1DaGFubmVsPy5ydW4gewogICAgICAgICAgICBpZiAoaXNPcGVuKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGNsb3NlKCkKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJDbG9zZSBjaGFubmVsIGZhaWx1cmUgd2l0aCBpbyBleGNlcHRpb24hIikKICAgICAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IoZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuQGNyZWF0ZQogICAgICAgICAgICAgICAgfSBjYXRjaCAoZTogVGltZW91dEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZSgiQ2xvc2UgY2hhbm5lbCBmYWlsdXJlIHdpdGggdGltZW91dCBleGNlcHRpb24hIikKICAgICAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IoZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuQGNyZWF0ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBtQ2hhbm5lbCA9IG51bGwKICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICBlbWl0dGVyLm9uTmV4dChVbml0KQogICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQogICAgICAgIH0KICAgIH0=</text>
       </register>
     </registers>
     <search>
