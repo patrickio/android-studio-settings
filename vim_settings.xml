@@ -98,12 +98,12 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510040792318">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510110997058">
         <mark key="'" line="476" column="4" />
-        <mark key="[" line="212" column="57" />
-        <mark key="]" line="213" column="34" />
-        <mark key="." line="213" column="34" />
-        <mark key="^" line="213" column="34" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="109" column="64" />
+        <mark key="." line="109" column="64" />
+        <mark key="^" line="109" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -111,11 +111,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510109200981">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-        <mark key="^" line="18" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510110806162">
+        <mark key="'" line="77" column="16" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="46" />
+        <mark key="." line="94" column="46" />
+        <mark key="^" line="94" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510019388330">
         <mark key="[" line="11" column="33" />
@@ -123,11 +124,11 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1509957858495">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CachedUserService.kt" timestamp="1507952331966">
         <mark key="[" line="30" column="46" />
@@ -217,6 +218,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" timestamp="1510112081117">
+        <mark key="'" line="112" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
@@ -394,11 +398,11 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510023502376">
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="283" column="32" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510111556461">
+        <mark key="[" line="455" column="77" />
+        <mark key="]" line="455" column="70" />
+        <mark key="." line="455" column="70" />
+        <mark key="^" line="455" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/LiveAlertDialog.kt" timestamp="1510040020116">
         <mark key="[" line="90" column="41" />
@@ -633,9 +637,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMMessage.kt" timestamp="1510105097891">
-        <mark key="[" line="58" column="26" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/MyCourseFragment.kt" timestamp="1509517267465">
         <mark key="[" line="28" column="53" />
         <mark key="]" line="28" column="53" />
@@ -760,8 +761,8 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510015336512">
-        <mark key="[" line="105" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510112639991">
+        <mark key="[" line="47" column="44" />
         <mark key="]" line="106" column="25" />
         <mark key="." line="106" column="25" />
         <mark key="^" line="106" column="25" />
@@ -807,17 +808,11 @@
         <mark key="^" line="64" column="26" />
         <mark key="." line="64" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510103246128">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/UUIDHelper.kt" timestamp="1510046477892">
-        <mark key="[" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/TeacherFragment.kt" timestamp="1509517061091">
         <mark key="[" line="36" column="31" />
@@ -897,24 +892,8 @@
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
       </file>
-      <file name="/fragment.java" timestamp="1510101809734">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="37" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
-      <jump line="105" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
-      <jump line="159" column="64" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
-      <jump line="161" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayChatFragment.kt" />
-      <jump line="229" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
-      <jump line="242" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
-      <jump line="257" column="11" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
-      <jump line="262" column="47" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" />
-      <jump line="50" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
-      <jump line="151" column="104" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
-      <jump line="101" column="45" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" />
-      <jump line="228" column="39" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" />
       <jump line="57" column="45" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" />
       <jump line="64" column="45" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" />
@@ -1002,16 +981,29 @@
       <jump line="461" column="4" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/colors.xml" />
+      <jump line="65" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="69" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="146" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="670" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="671" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="675" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="676" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="680" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="681" column="52" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="684" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="685" column="36" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="985" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
+      <jump line="112" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>drSS6sCVLiveSeABBA10</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>drSS6sCVLiveSeABBA10</text>
       </register>
       <register name="/" type="4">
-        <text>dialog</text>
+        <text>level</text>
       </register>
       <register name="0" type="4">
         <text>mLiveScoringDialog = LiveScoringDialog(context, liveDuration, liveDuration).setOnNaturalButtonListener {
@@ -1022,40 +1014,61 @@
             setCanceledOnTouchOutside(false)
         }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9TdGFydE9mPSJAK2lkL2J0bl9yZXRyeSIK</text>
+      <register name="1" type="4">
+        <text>RabbitMQManager.connect(context, person.ucid, courseId)
+                .observeOn(AndroidSchedulers.mainThread())
+                .autoDispose(this, PresenterLifecycle.Event.DETACH)
+                .subscribeBy(
+                        onError = {
+                            Timber.e(&quot;RabbitMQManager connect error: $it&quot;)
+                        },
+                        onComplete = {
+                            Timber.i(&quot;RabbitMQManager connect success.&quot;)
+                            // Observe the message publisher from RabbitMQ
+                            RabbitMQManager.msgPublisher?.run {
+                                observeOn(AndroidSchedulers.mainThread())
+                                        .subscribeBy(
+                                                onError = {
+                                                    Timber.e(&quot;RabbitMQManager publish message error: $it&quot;)
+                                                },
+                                                onNext = {
+                                                    receiveRabbitMQMessage(it)
+                                                }
+                                        )
+                            }
+
+                        }
+                )</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgIFRpbWJlci5kKCJkZXZpY2VJRDogJHtVVUlESGVscGVyLnV1aWR9IikKPj4+Pj4+PiBBZGQgdXVpZCBxdWVyeSBmaWVsZCBpbiBldmVyeSByZXF1ZXN0Lg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25OZXh0ID0ge2l0fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCA1OThlODUyYzk5MmRmYjBiOWQ3NmRlZDA5MThhMDc5OWE3NWFhMjQxCg==</text>
+        <text encoding="base64">ICAgICAgICBSYWJiaXRNUU1hbmFnZXIuY29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0JhY2tncm91bmQiPiM4MDAwMDAwMDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9TdGFydE9mPSJAK2lkL2J0bl9yZXRyeSIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICAgIFRpbWJlci5kKCJkZXZpY2VJRDogJHtVVUlESGVscGVyLnV1aWR9IikKPj4+Pj4+PiBBZGQgdXVpZCBxdWVyeSBmaWVsZCBpbiBldmVyeSByZXF1ZXN0Lg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgbUxpdmVTY29yaW5nRGlhbG9nPy5kaXNtaXNzKCkKICAgICAgICBtTGl2ZVNjb3JpbmdEaWFsb2cgPSBMaXZlU2NvcmluZ0RpYWxvZyhjb250ZXh0LCAiIiwgIiIpLnNldE9uTmF0dXJhbEJ1dHRvbkxpc3RlbmVyIHsKICAgICAgICAgICAgbUxpdmVQbGF5UHJlc2VudGVyPy5zdWJtaXRMaXZlU2NvcmluZyhpdCkKICAgICAgICAgICAgbUxpc3RlbmVyPy5vbkZyYWdtZW50SW50ZXJhY3Rpb24oTGl2ZVBsYXlGcmFnbWVudDo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lLCBBQ1RJT05fSE9NRV9VUCwgbnVsbCkKICAgICAgICB9LnNob3dEaWFsb2coKS5hcHBseSB7CiAgICAgICAgICAgIHNldENhbmNlbGFibGUoZmFsc2UpCiAgICAgICAgICAgIHNldENhbmNlbGVkT25Ub3VjaE91dHNpZGUoZmFsc2UpCiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCA1OThlODUyYzk5MmRmYjBiOWQ3NmRlZDA5MThhMDc5OWE3NWFhMjQxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0JhY2tncm91bmQiPiM4MDAwMDAwMDwvaXRlbT4K</text>
       </register>
-      <register name="8" type="4">
-        <text>if (!emitter.isDisposed) {
-                                emitter.onError(IMException(1, &quot;&quot;))
-                            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihJTUV4Y2VwdGlvbigxLCAiIikpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgbUxpdmVTY29yaW5nRGlhbG9nPy5kaXNtaXNzKCkKICAgICAgICBtTGl2ZVNjb3JpbmdEaWFsb2cgPSBMaXZlU2NvcmluZ0RpYWxvZyhjb250ZXh0LCAiIiwgIiIpLnNldE9uTmF0dXJhbEJ1dHRvbkxpc3RlbmVyIHsKICAgICAgICAgICAgbUxpdmVQbGF5UHJlc2VudGVyPy5zdWJtaXRMaXZlU2NvcmluZyhpdCkKICAgICAgICAgICAgbUxpc3RlbmVyPy5vbkZyYWdtZW50SW50ZXJhY3Rpb24oTGl2ZVBsYXlGcmFnbWVudDo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lLCBBQ1RJT05fSE9NRV9VUCwgbnVsbCkKICAgICAgICB9LnNob3dEaWFsb2coKS5hcHBseSB7CiAgICAgICAgICAgIHNldENhbmNlbGFibGUoZmFsc2UpCiAgICAgICAgICAgIHNldENhbmNlbGVkT25Ub3VjaE91dHNpZGUoZmFsc2UpCiAgICAgICAgfQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>dialog</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern>dialog</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1063,8 +1076,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Recy</entry>
-        <entry>retry</entry>
         <entry>startAc</entry>
         <entry>array_ans</entry>
         <entry>array_erb</entry>
@@ -1083,6 +1094,8 @@
         <entry>gradeBtn</entry>
         <entry>utf</entry>
         <entry>dialog</entry>
+        <entry>log</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd />
       <history-expr />
