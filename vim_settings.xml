@@ -121,11 +121,12 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510277496145">
-        <mark key="'" line="539" column="4" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510286210713">
+        <mark key="'" line="516" column="4" />
+        <mark key="[" line="242" column="20" />
+        <mark key="]" line="235" column="9" />
+        <mark key="." line="235" column="9" />
+        <mark key="^" line="235" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -133,11 +134,10 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510277844152">
-        <mark key="[" line="118" column="38" />
-        <mark key="]" line="120" column="25" />
-        <mark key="." line="120" column="25" />
-        <mark key="^" line="120" column="25" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510286530636">
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="47" />
+        <mark key="." line="374" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510199985134">
         <mark key="[" line="84" column="0" />
@@ -289,11 +289,11 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1510210559187">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1510286271506">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="88" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -449,10 +449,11 @@
         <mark key="^" line="67" column="41" />
         <mark key="." line="67" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1510276531314">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="38" column="73" />
-        <mark key="." line="38" column="73" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1510285243572">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/DecoderInterface.java" timestamp="1505380190663">
         <mark key="[" line="23" column="61" />
@@ -1045,46 +1046,67 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGVsYXkoZGVsYXksIHVuaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmV0cnkoREVGQVVMVF9SRVRSWV9USU1FUykK</text>
       </register>
       <register name="-" type="4">
-        <text>delay</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>resume play</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgKG1pbnV0ZSA8IDEwKSB7CiAgICAgICAgICAgICAgICAgICAgYXBwZW5kKCIwJG1pbnV0ZToiKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBhcHBlbmQoIiRtaW51dGU6IikKICAgICAgICAgICAgICAgIH0=</text>
+        <text>if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGVsYXkoZGVsYXksIHVuaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmV0cnkoREVGQVVMVF9SRVRSWV9USU1FUykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>mLiveExecutor.submitOnAny {
-            mLiveExecutor.shutdown()
-        }</text>
+        <text>.hide(mLiveFragment)
+                    .hide(mExerciseFragment)
+                    .run {
+                        if (findFragmentByTag(mWhiteboardFragment?.TAG) == null) {
+                            add(R.id.fl_left_container, mWhiteboardFragment, mWhiteboardFragment?.TAG)
+                        } else {
+                            show(mWhiteboardFragment)
+                        }
+                    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGV0YWNoKG1XaGl0ZWJvYXJkRnJhZ21lbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGV0YWNoKG1FeGVyY2lzZUZyYWdtZW50KQo=</text>
       </register>
       <register name="6" type="4">
-        <text>mHandler.postDelayed({
-            }, 1000)</text>
+        <text>.hide(mLiveFragment)
+                    .hide(mWhiteboardFragment)
+                    .run {
+                        if (findFragmentByTag(mExerciseFragment?.TAG) == null) {
+                            add(R.id.fl_left_container, mExerciseFragment, mExerciseFragment?.TAG)
+                        } else {
+                            show(mExerciseFragment)
+                        }
+                    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR2X3ByZXBhcmVfY291bnRkb3duLnZpc2liaWxpdHkgPSBWaWV3LklOVklTSUJMRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYXR0YWNoKG1MaXZlRnJhZ21lbnQpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmV4dGVuc2lvbi5mb3JtYXQK</text>
+      <register name="8" type="4">
+        <text>.hide(mExerciseFragment)
+                    .hide(mWhiteboardFragment)
+                    .run {
+                        if (findFragmentByTag(mLiveFragment?.TAG) == null) {
+                            add(R.id.fl_left_container, mLiveFragment, mLiveFragment?.TAG)
+                        } else {
+                            show(mLiveFragment)
+                        }
+                    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZChSLmlkLmZsX2xlZnRfY29udGFpbmVyLCBtRXhlcmNpc2VGcmFnbWVudCwgbUV4ZXJjaXNlRnJhZ21lbnQ/LlRBRykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVW5pdAo=</text>
       </register>
     </registers>
     <search>
