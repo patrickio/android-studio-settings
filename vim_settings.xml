@@ -188,7 +188,7 @@
         <mark key="." line="109" column="37" />
         <mark key="^" line="109" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1510562333428">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1510564947233">
         <mark key="[" line="283" column="43" />
         <mark key="]" line="283" column="42" />
         <mark key="." line="283" column="42" />
@@ -680,10 +680,11 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510562994309">
-        <mark key="[" line="252" column="58" />
-        <mark key="]" line="57" column="43" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510565212721">
+        <mark key="[" line="239" column="35" />
+        <mark key="]" line="243" column="54" />
+        <mark key="." line="243" column="54" />
+        <mark key="^" line="243" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1509524263550">
         <mark key="[" line="30" column="0" />
@@ -1139,11 +1140,11 @@
       <jump line="41" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNmRwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>tv_exercise_countdown</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
