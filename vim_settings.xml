@@ -338,10 +338,10 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_chat.xml" timestamp="1510208037021">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_chat.xml" timestamp="1510545612732">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="35" />
+        <mark key="." line="57" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" timestamp="1510302839476">
         <mark key="'" line="0" column="0" />
@@ -639,10 +639,11 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1509524868351">
-        <mark key="[" line="80" column="41" />
-        <mark key="]" line="80" column="42" />
-        <mark key="." line="80" column="42" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510545721177">
+        <mark key="[" line="240" column="15" />
+        <mark key="]" line="243" column="50" />
+        <mark key="." line="243" column="50" />
+        <mark key="^" line="243" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1509524263550">
         <mark key="[" line="30" column="0" />
@@ -1094,10 +1095,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=&quot;</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>=&quot;</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
