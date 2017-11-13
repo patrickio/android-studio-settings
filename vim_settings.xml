@@ -680,11 +680,10 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510562367179">
-        <mark key="[" line="73" column="70" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="117" column="33" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510562994309">
+        <mark key="[" line="252" column="58" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1509524263550">
         <mark key="[" line="30" column="0" />
@@ -936,6 +935,9 @@
         <mark key="." line="133" column="3" />
         <mark key="^" line="133" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1510562632082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="15" />
@@ -1029,6 +1031,9 @@
         <mark key="]" line="21" column="81" />
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
+      </file>
+      <file name="/fragment.java" timestamp="1510302441181">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1135,10 +1140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90dl9leGVyY2lzZV90aXRsZSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNmRwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>tv_exercise_countdown</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
@@ -1148,32 +1153,32 @@
             linearlayout.setMarginEnd(10);</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNmRwIgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90dl9leGVyY2lzZV90aXRsZSIgLz4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>SpannableStringBuilder().append(index.toString(), RelativeSizeSpan(2f), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE)
                 .append(&quot;/$totalNum&quot;).append(&quot;($typeStr)&quot;)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcucXVlc3Rpb25faW5kZXgsIGluZGV4ICsgMSwgdG90YWxOdW0sIHR5cGVTdHIpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGluZWFybGF5b3V0LnNldE1hcmdpbkVuZCg3MCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icXVlc3Rpb25faW5kZXgiPjx4bGlmZjpnPiUxJHM8L3hsaWZmOmc+Lzx4bGlmZjpnPiUyJGQ8L3hsaWZmOmc+77yIPHhsaWZmOmc+JTIkczwveGxpZmY6Zz7vvIk8L3N0cmluZz4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXZpbmdTdGFnZS5BRlRFUl9MSVZFCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2RlbAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3Py5vblByZXNlbnRDb3Vyc2VRckNvZGUobW9kZWw/LmdldExpdmVDb3Vyc2VJbmZvKCk/LkZfc3ViamVjdCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3Py5vblByZXNlbnRDb3Vyc2VRckNvZGUobW9kZWw/LmdldExpdmVDb3Vyc2VJbmZvKCk/LkZfc3ViamVjdCkK</text>
       </register>
     </registers>
     <search>
