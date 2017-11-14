@@ -778,10 +778,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1510021101845">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1510660653880">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
-        <mark key="^" line="199" column="19" />
+        <mark key="^" line="207" column="15" />
         <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510543542856">
@@ -1146,8 +1146,8 @@
       <jump line="266" column="21" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewovLyAgICAgICAgICAgICAgICAgICAgQ291cnNlQ2VudGVyQXBpLnBvc3RTaWduVXAoUGVyc29uYWwudXNlckJhc2VJbmZvISEudWlkLCBjb3Vyc2VJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLmF1dG9EaXNwb3NlKHRoaXMsIExpZmVjeWNsZS5FdmVudC5PTl9ERVNUUk9ZKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEZJWE1FOiBIYW5kbGUgaXQuRl9kYXRhIGlzIG51bGwgY29uZGl0aW9uCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXQuRl9kYXRhPy5GX2RhdGEgPT0gbnVsbCkgcmV0dXJuQHN1YnNjcmliZQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU291cmNlRnJhZ21lbnQub3JkZXJOZXcgPSB0cnVlCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KGJhc2VDb250ZXh0LCBTaWduVXBTdWNBY3Rpdml0eTo6Y2xhc3MuamF2YSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVudC5wdXRFeHRyYShSRUNFTlRfQ0xBU1NfVElNRSwgaXQuRl9kYXRhISEuRl9kYXRhKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LCB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChiYXNlQ29udGV4dCwgT3JkZXJBY3Rpdml0eTo6Y2xhc3MuamF2YSkuYXBwbHkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHB1dEV4dHJhKCJjb3Vyc2VfaWQiLCBjb3Vyc2VJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICBwdXRFeHRyYSgib3JkZXJfZGV0YWlsIiwgZGF0YXMucnVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgT3JkZXJEZXRhaWwoRl90aXRsZSwgRl9wcmljZSwgMCwgRl9leHBpcnlfZGF0ZSwgRl9zdGFydF90aW1lLCAiIiwgIiIsICIiKQovLyAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICB9KQovLyAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>LivingStage.MIDDLE_REST</text>
@@ -1156,35 +1156,40 @@
         <text>LiveActivity</text>
       </register>
       <register name="0" type="4">
-        <text>LiveCmd.CMD_CLOSE</text>
+        <text>startActivity(Intent(baseContext, OrderActivity::class.java).apply {
+                        putExtra(&quot;course_id&quot;, courseId)
+                        putExtra(&quot;order_detail&quot;, datas.run {
+                            OrderDetail(F_title, F_price, 0, F_expiry_date, F_start_time, &quot;&quot;, &quot;&quot;, &quot;&quot;)
+                        })
+                    })</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewovLyAgICAgICAgICAgICAgICAgICAgQ291cnNlQ2VudGVyQXBpLnBvc3RTaWduVXAoUGVyc29uYWwudXNlckJhc2VJbmZvISEudWlkLCBjb3Vyc2VJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLmF1dG9EaXNwb3NlKHRoaXMsIExpZmVjeWNsZS5FdmVudC5PTl9ERVNUUk9ZKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEZJWE1FOiBIYW5kbGUgaXQuRl9kYXRhIGlzIG51bGwgY29uZGl0aW9uCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXQuRl9kYXRhPy5GX2RhdGEgPT0gbnVsbCkgcmV0dXJuQHN1YnNjcmliZQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU291cmNlRnJhZ21lbnQub3JkZXJOZXcgPSB0cnVlCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KGJhc2VDb250ZXh0LCBTaWduVXBTdWNBY3Rpdml0eTo6Y2xhc3MuamF2YSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVudC5wdXRFeHRyYShSRUNFTlRfQ0xBU1NfVElNRSwgaXQuRl9kYXRhISEuRl9kYXRhKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LCB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChiYXNlQ29udGV4dCwgT3JkZXJBY3Rpdml0eTo6Y2xhc3MuamF2YSkuYXBwbHkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHB1dEV4dHJhKCJjb3Vyc2VfaWQiLCBjb3Vyc2VJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICBwdXRFeHRyYSgib3JkZXJfZGV0YWlsIiwgZGF0YXMucnVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgT3JkZXJEZXRhaWwoRl90aXRsZSwgRl9wcmljZSwgMCwgRl9leHBpcnlfZGF0ZSwgRl9zdGFydF90aW1lLCAiIiwgIiIsICIiKQovLyAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICB9KQovLyAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXZpbmdTdGFnZS5NSURETEVfUkVTVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXZpbmdTdGFnZS5NSURETEVfUkVTVAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">d2hlbiAobUxpdmluZ1N0YWdlKSB7CiAgICAgICAgICAgIExpdmluZ1N0YWdlLkJFRk9SRV9MSVZFLCBMaXZpbmdTdGFnZS5NSURETEVfUkVTVCwgTGl2aW5nU3RhZ2UuQUZURVJfTElWRSAtPiBwYXVzZVBsYXlpbmdNdXNpYygpCiAgICAgICAgICAgIGVsc2UgLT4gewogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExpdmVDbWQuQ01EX0NMT1NFIC0+IGhhbmRsZUxpdmVTdGF0dXMoMiwgZmFsc2UsIGZhbHNlKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNmRwIgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90dl9leGVyY2lzZV90aXRsZSIgLz4K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SpannableStringBuilder().append(index.toString(), RelativeSizeSpan(2f), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE)
                 .append(&quot;/$totalNum&quot;).append(&quot;($typeStr)&quot;)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcucXVlc3Rpb25faW5kZXgsIGluZGV4ICsgMSwgdG90YWxOdW0sIHR5cGVTdHIpCg==</text>
       </register>
     </registers>
     <search>
