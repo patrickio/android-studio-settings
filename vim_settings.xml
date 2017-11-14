@@ -361,6 +361,11 @@
         <mark key="]" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" timestamp="1510632035381">
+        <mark key="[" line="145" column="41" />
+        <mark key="]" line="145" column="41" />
+        <mark key="." line="145" column="41" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="47" />
@@ -454,10 +459,11 @@
         <mark key="^" line="64" column="11" />
         <mark key="." line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/PayApis.kt" timestamp="1510302833919">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/PayApis.kt" timestamp="1510632042071">
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="45" />
+        <mark key="." line="54" column="45" />
+        <mark key="^" line="54" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1509517178302">
         <mark key="[" line="75" column="48" />
@@ -582,10 +588,10 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/HomeworkApis.kt" timestamp="1510302825713">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="85" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/HomeworkApis.kt" timestamp="1510632027215">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/btn_exercise_submit_pressed.xml" timestamp="1510560636398">
         <mark key="[" line="3" column="48" />
@@ -873,10 +879,10 @@
         <mark key="^" line="9" column="115" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CourseCenterApi.kt" timestamp="1510302810068">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="85" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CourseCenterApi.kt" timestamp="1510632019493">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510212044965">
         <mark key="[" line="61" column="77" />
@@ -1140,11 +1146,11 @@
       <jump line="41" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpdmVDbWQuQ01EX0NMT1NFIC0+IGhhbmRsZUxpdmVTdGF0dXMoMiwgZmFsc2UsIGZhbHNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>BETA</text>
       </register>
       <register name="-" type="4">
-        <text>handleLiveCmd</text>
+        <text>BETA</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
