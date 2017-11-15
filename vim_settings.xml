@@ -184,11 +184,11 @@
         <mark key="." line="109" column="37" />
         <mark key="^" line="109" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1510708591215">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="150" column="97" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1510709478722">
+        <mark key="[" line="134" column="66" />
+        <mark key="]" line="134" column="67" />
+        <mark key="." line="134" column="67" />
+        <mark key="^" line="138" column="92" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMThread.kt" timestamp="1508722184403">
         <mark key="[" line="4" column="15" />
@@ -661,8 +661,8 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510565212721">
-        <mark key="[" line="239" column="35" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510709667036">
+        <mark key="[" line="260" column="35" />
         <mark key="]" line="243" column="54" />
         <mark key="." line="243" column="54" />
         <mark key="^" line="243" column="54" />
@@ -758,6 +758,9 @@
         <mark key="]" line="206" column="0" />
         <mark key="^" line="207" column="15" />
         <mark key="." line="206" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510709821587">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -1012,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="43" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="92" column="93" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="216" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="217" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
@@ -1112,13 +1114,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
       <jump line="41" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" />
       <jump line="266" column="21" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZldGNoU3RhdGlzdGljQ29uc3VtZXI6IERpc3Bvc2FibGU/ID0gbnVsbAo=</text>
+      <register name="&quot;" type="4">
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmV0Y2hTdGF0aXN0aWNDb25zdW1lciA=</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
@@ -1127,31 +1130,31 @@
         <text encoding="base64">dmFsIHVzZXJBbnN3ZXJzID0gbW9kZWw/LmdldFVzZXJBbnN3ZXIoKQogICAgICAgIHZhbCBxdWVzdGlvbnMgPSBtb2RlbD8uZ2V0TGl2ZVByYWN0aWNlcygpCiAgICAgICAgaWYgKG1EZWNvZGVyICE9IG51bGwgJiYgdXNlckFuc3dlcnMgIT0gbnVsbCkgewogICAgICAgICAgICBtRGVjb2Rlcj8uZm9yRWFjaEluZGV4ZWQgeyBpbmRleCwgZGVjb2RlciAtPgogICAgICAgICAgICAgICAgdmFsIGFuc3dlciA9IHVzZXJBbnN3ZXJzLmZpcnN0T3JOdWxsIHsgaXQuRl9yZXNvdXJjZV9pZCA9PSBkZWNvZGVyLnVzZXJBbnN3ZXIuaWQgfT8uRl9hbnN3ZXIKICAgICAgICAgICAgICAgIHZhbCBzdGF0dXMgPSBhbnN3ZXI/LmVxdWFscyhkZWNvZGVyLnJpZ2h0QW5zd2VyKSA/OiBmYWxzZQogICAgICAgICAgICAgICAgdmFsIHF1ZXN0aW9uID0gcXVlc3Rpb25zPy5maXJzdE9yTnVsbCB7IGl0LmlkID09IGRlY29kZXIudXNlckFuc3dlci5pZC50b0ludE9yTnVsbCgpIH0KICAgICAgICAgICAgICAgIGl0ZW1zLmFkZChBbnN3ZXJTaGVsbEl0ZW0oaW5kZXggKyAxLCBmb3JtYXRBbnN3ZXIoYW5zd2VyLCBxdWVzdGlvbj8udHlwZSksIHN0YXR1cykpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZldGNoU3RhdGlzdGljQ29uc3VtZXI6IERpc3Bvc2FibGU/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoTnVtICs9IGlmICghVGV4dFV0aWxzLmlzRW1wdHkoYW5zd2VyKSkgMSBlbHNlIDAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BTdGF0aXN0aWNQb2xsaW5nKCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">bWFwLmZvckVhY2ggeyBrZXksIHZhbHVlIC0+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZldGNoU3RhdGlzdGljQ29uc3VtZXI6IERpc3Bvc2FibGU/ID0gbnVsbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc3RvcFN0YXRpc3RpY1BvbGxpbmcoKSB7CiAgICAgICAgVGltYmVyLmQoInN0b3Agc3RhdGlzdGljIHBvbGxpbmciKQogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BTdGF0aXN0aWNQb2xsaW5nKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBzdG9wU3RhdGlzdGljUG9sbGluZygpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc3RvcFN0YXRpc3RpY1BvbGxpbmcoKSB7CiAgICAgICAgVGltYmVyLmQoInN0b3Agc3RhdGlzdGljIHBvbGxpbmciKQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaFN0YXRpc3RpY0NvbnN1bWVyPy5kaXNwb3NlSWZOb3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hTdGF0aXN0aWNDb25zdW1lcj8uZGlzcG9zZUlmTm90KCkK</text>
+        <text encoding="base64">ICAgIGZ1biBzdG9wU3RhdGlzdGljUG9sbGluZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaFN0YXRpc3RpY0NvbnN1bWVyPy5kaXNwb3NlSWZOb3QoKQo=</text>
       </register>
     </registers>
     <search>
