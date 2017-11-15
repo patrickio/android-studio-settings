@@ -184,11 +184,11 @@
         <mark key="." line="109" column="37" />
         <mark key="^" line="109" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1510706438319">
-        <mark key="[" line="114" column="44" />
-        <mark key="]" line="114" column="42" />
-        <mark key="." line="114" column="42" />
-        <mark key="^" line="114" column="42" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1510708591215">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="150" column="97" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMThread.kt" timestamp="1508722184403">
         <mark key="[" line="4" column="15" />
@@ -333,11 +333,11 @@
         <mark key="." line="260" column="38" />
         <mark key="^" line="260" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1510561322835">
-        <mark key="[" line="32" column="82" />
-        <mark key="]" line="32" column="82" />
-        <mark key="." line="32" column="82" />
-        <mark key="^" line="64" column="36" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1510708575315">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="36" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/bg_live_chat_retry.xml" timestamp="1510553416311">
         <mark key="[" line="0" column="0" />
@@ -1115,72 +1115,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZUFkYXB0ZXI8TWFwPFN0cmluZywgU3RyaW5nPj4oKSB7fWRkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZldGNoU3RhdGlzdGljQ29uc3VtZXI6IERpc3Bvc2FibGU/ID0gbnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">ZmV0Y2hTdGF0aXN0aWNDb25zdW1lciA=</text>
       </register>
       <register name="/" type="4">
         <text>LiveActivity</text>
       </register>
       <register name="0" type="4">
-        <text>private fun prepareInternal() {
-        mNetworkDialog?.dismiss()
-        if (mLivePlayPresenter?.isAttached() == false) {
-            if (!Helper.isNetworkReachable(context)) {
-                mNetworkDialog = LiveAlertDialog.Builder(context).apply {
-                    message = getString(R.string.connectivity_none)
-                    positiveText = getString(R.string.go_to_settings)
-                    onPositive = { startActivity(Intent(Settings.ACTION_WIFI_SETTINGS)) }
-                    negativeText = getString(R.string.cancel)
-                    hideSystemUI = true
-                }.show()
-            } else if (Helper.getNetworkType(context) != &quot;WIFI&quot;) {
-                if (!canUsingMobileData) {
-                    mNetworkDialog = LiveAlertDialog.Builder(context).apply {
-                        message = getString(R.string.connectivity_mobile)
-                        positiveText = getString(R.string.continue_using_mobile_data)
-                        onPositive = { canUsingMobileData = true }
-                        negativeText = getString((R.string.leave))
-                        onNegative = { mListener?.onFragmentInteraction(LivePlayFragment::class.java.name, ACTION_HOME_UP) }
-                        hideSystemUI = true
-                    }.show()
-                } else {
-                    mLivePlayPresenter?.attach(this, mLivePlayModel)
-                }
-            } else {
-                mLivePlayPresenter?.attach(this, mLivePlayModel)
-            }
-        }
-    }</text>
+        <text encoding="base64">dmFsIHVzZXJBbnN3ZXJzID0gbW9kZWw/LmdldFVzZXJBbnN3ZXIoKQogICAgICAgIHZhbCBxdWVzdGlvbnMgPSBtb2RlbD8uZ2V0TGl2ZVByYWN0aWNlcygpCiAgICAgICAgaWYgKG1EZWNvZGVyICE9IG51bGwgJiYgdXNlckFuc3dlcnMgIT0gbnVsbCkgewogICAgICAgICAgICBtRGVjb2Rlcj8uZm9yRWFjaEluZGV4ZWQgeyBpbmRleCwgZGVjb2RlciAtPgogICAgICAgICAgICAgICAgdmFsIGFuc3dlciA9IHVzZXJBbnN3ZXJzLmZpcnN0T3JOdWxsIHsgaXQuRl9yZXNvdXJjZV9pZCA9PSBkZWNvZGVyLnVzZXJBbnN3ZXIuaWQgfT8uRl9hbnN3ZXIKICAgICAgICAgICAgICAgIHZhbCBzdGF0dXMgPSBhbnN3ZXI/LmVxdWFscyhkZWNvZGVyLnJpZ2h0QW5zd2VyKSA/OiBmYWxzZQogICAgICAgICAgICAgICAgdmFsIHF1ZXN0aW9uID0gcXVlc3Rpb25zPy5maXJzdE9yTnVsbCB7IGl0LmlkID09IGRlY29kZXIudXNlckFuc3dlci5pZC50b0ludE9yTnVsbCgpIH0KICAgICAgICAgICAgICAgIGl0ZW1zLmFkZChBbnN3ZXJTaGVsbEl0ZW0oaW5kZXggKyAxLCBmb3JtYXRBbnN3ZXIoYW5zd2VyLCBxdWVzdGlvbj8udHlwZSksIHN0YXR1cykpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZUFkYXB0ZXI8TWFwPFN0cmluZywgU3RyaW5nPj4oKSB7fWRkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZldGNoU3RhdGlzdGljQ29uc3VtZXI6IERpc3Bvc2FibGU/ID0gbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBtYXAgPSBtYXBPZjxTdHJpbmcsIFN0cmluZz4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BTdGF0aXN0aWNQb2xsaW5nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBtYXAgPSBtYXBPZjxTdHJpbmcsIFN0cmluZz4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>p
-                        }</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc3RvcFN0YXRpc3RpY1BvbGxpbmcoKSB7CiAgICAgICAgVGltYmVyLmQoInN0b3Agc3RhdGlzdGljIHBvbGxpbmciKQogICAgfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8vICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKLy8gICAgICAgIHN1cGVyLm9uUmVzdW1lKCkKLy8gICAgICAgIHN0YXJ0U3RhdGlzdGljUG9sbGluZygpCi8vICAgIH0KLy8KLy8gICAgb3ZlcnJpZGUgZnVuIG9uUGF1c2UoKSB7Ci8vICAgICAgICBzdXBlci5vblBhdXNlKCkKLy8gICAgICAgIHN0b3BTdGF0aXN0aWNQb2xsaW5nKCkKLy8gICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZ1biBzdG9wU3RhdGlzdGljUG9sbGluZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVByZXNlbnRlcj8uYXR0YWNoKHRoaXMsIG1Nb2RlbCkK</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaFN0YXRpc3RpY0NvbnN1bWVyPy5kaXNwb3NlSWZOb3QoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewovLyAgICAgICAgICAgICAgICAgICAgQ291cnNlQ2VudGVyQXBpLnBvc3RTaWduVXAoUGVyc29uYWwudXNlckJhc2VJbmZvISEudWlkLCBjb3Vyc2VJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLmF1dG9EaXNwb3NlKHRoaXMsIExpZmVjeWNsZS5FdmVudC5PTl9ERVNUUk9ZKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEZJWE1FOiBIYW5kbGUgaXQuRl9kYXRhIGlzIG51bGwgY29uZGl0aW9uCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXQuRl9kYXRhPy5GX2RhdGEgPT0gbnVsbCkgcmV0dXJuQHN1YnNjcmliZQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU291cmNlRnJhZ21lbnQub3JkZXJOZXcgPSB0cnVlCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KGJhc2VDb250ZXh0LCBTaWduVXBTdWNBY3Rpdml0eTo6Y2xhc3MuamF2YSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVudC5wdXRFeHRyYShSRUNFTlRfQ0xBU1NfVElNRSwgaXQuRl9kYXRhISEuRl9kYXRhKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LCB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChiYXNlQ29udGV4dCwgT3JkZXJBY3Rpdml0eTo6Y2xhc3MuamF2YSkuYXBwbHkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHB1dEV4dHJhKCJjb3Vyc2VfaWQiLCBjb3Vyc2VJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICBwdXRFeHRyYSgib3JkZXJfZGV0YWlsIiwgZGF0YXMucnVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgT3JkZXJEZXRhaWwoRl90aXRsZSwgRl9wcmljZSwgMCwgRl9leHBpcnlfZGF0ZSwgRl9zdGFydF90aW1lLCAiIiwgIiIsICIiKQovLyAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICB9KQovLyAgICAgICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hTdGF0aXN0aWNDb25zdW1lcj8uZGlzcG9zZUlmTm90KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQo=</text>
       </register>
     </registers>
     <search>
