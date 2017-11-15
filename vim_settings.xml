@@ -478,11 +478,11 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510730481050">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510733762368">
         <mark key="[" line="255" column="25" />
-        <mark key="]" line="255" column="24" />
-        <mark key="^" line="255" column="24" />
-        <mark key="." line="255" column="24" />
+        <mark key="]" line="268" column="49" />
+        <mark key="^" line="268" column="49" />
+        <mark key="." line="268" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
