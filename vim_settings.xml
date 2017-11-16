@@ -68,6 +68,12 @@
         <mark key="^" line="46" column="38" />
         <mark key="." line="46" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaBox.kt" timestamp="1510801420239">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/proguard-rules.pro" timestamp="1505784784946">
         <mark key="[" line="48" column="19" />
         <mark key="]" line="58" column="27" />
@@ -122,6 +128,12 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="29" column="18" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" timestamp="1510801547444">
+        <mark key="[" line="231" column="23" />
+        <mark key="]" line="232" column="7" />
+        <mark key="." line="232" column="7" />
+        <mark key="^" line="232" column="7" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseCenterFragment.kt" timestamp="1509414764047">
         <mark key="[" line="30" column="112" />
         <mark key="]" line="30" column="64" />
@@ -140,11 +152,11 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510800223205">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="252" column="7" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510801789645">
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="293" column="16" />
+        <mark key="^" line="293" column="16" />
+        <mark key="." line="293" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -1015,11 +1027,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1510711101844">
-        <mark key="[" line="99" column="12" />
-        <mark key="]" line="99" column="12" />
-        <mark key="^" line="89" column="11" />
-        <mark key="." line="99" column="12" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1510801199427">
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="14" />
+        <mark key="^" line="77" column="14" />
+        <mark key="." line="77" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1505872387099">
         <mark key="[" line="21" column="78" />
@@ -1029,10 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
-      <jump line="336" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
-      <jump line="337" column="17" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
-      <jump line="91" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="200" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="58" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
       <jump line="66" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" />
@@ -1129,13 +1137,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
       <jump line="259" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="263" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" />
+      <jump line="230" column="58" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" />
+      <jump line="229" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" />
+      <jump line="232" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" />
+      <jump line="248" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>submitOnAny {
+        var success = false
+
+        debug { &quot;attempt to stop playing: isPrepare $isPrepared, isPlaying ${mediaPlayer.isPlaying}&quot; }
+        if (!mediaPlayer.isPlaying) {
+            debug { &quot;the player does not in playing show.&quot; }
+            success = true
+        } else if (isPrepared) {
+            try {
+                // player's show changes to Stopped
+                mediaPlayer.stop()
+                debug { &quot;stop playing success.&quot; }
+                success = true
+            } catch (e: IllegalStateException) {
+                error { &quot;stop playing error, the player does not is prepared show!&quot; }
+                e.printStackTrace()
+            }
+        }
+
+        cancelPlayingTask()
+        submitOnMain {
+            callback?.invoke(success)
+            if (success) {
+                playerListener?.onStopPlaying(false)
+            } else {
+                playerListener?.onError(ERROR_MEDIA_PLAYER_INTERNAL,
+                        context.getString(R.string.mpb_error_stop_playing))
+            }
+        }
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>mAlertDialog?.dismiss(</text>
+        <text encoding="base64">RmV0Y2gg</text>
       </register>
       <register name="/" type="4">
         <text>pause playing live</text>
@@ -1152,43 +1193,157 @@
                 hideSystemUI = true
             }.show()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>submitOnAny {
+        var success = false
+
+        debug { &quot;attempt to stop playing: isPrepare $isPrepared, isPlaying ${mediaPlayer.isPlaying}&quot; }
+        if (!mediaPlayer.isPlaying) {
+            debug { &quot;the player does not in playing show.&quot; }
+            success = true
+        } else if (isPrepared) {
+            try {
+                // player's show changes to Stopped
+                mediaPlayer.stop()
+                debug { &quot;stop playing success.&quot; }
+                success = true
+            } catch (e: IllegalStateException) {
+                error { &quot;stop playing error, the player does not is prepared show!&quot; }
+                e.printStackTrace()
+            }
+        }
+
+        cancelPlayingTask()
+        submitOnMain {
+            callback?.invoke(success)
+            if (success) {
+                playerListener?.onStopPlaying(false)
+            } else {
+                playerListener?.onError(ERROR_MEDIA_PLAYER_INTERNAL,
+                        context.getString(R.string.mpb_error_stop_playing))
+            }
+        }
+    }</text>
       </register>
       <register name="2" type="4">
-        <text>// Stop current playing music.
-            stopPlayingMusic()</text>
+        <text>submitOnAny {
+        var success = false
+
+        debug { &quot;attempt to pause playing: isPrepare $isPrepared, isPlaying ${mediaPlayer.isPlaying}&quot; }
+        if (!mediaPlayer.isPlaying) {
+            debug { &quot;the player does not in Start show.&quot; }
+            success = true
+        } else if (isPrepared) {
+            try {
+                // player's show changes to paused
+                mediaPlayer.pause()
+                debug { &quot;pause playing success.&quot; }
+                success = true
+            } catch (e: IllegalStateException) {
+                error { &quot;pause playing error, the player does not is prepared show!&quot; }
+                e.printStackTrace()
+            }
+        }
+
+        cancelPlayingTask()
+        submitOnMain {
+            callback?.invoke(success)
+            if (success) {
+                playerListener?.onStopPlaying(false)
+            } else {
+                playerListener?.onError(ERROR_MEDIA_PLAYER_INTERNAL,
+                        context.getString(R.string.mpb_error_stop_playing))
+            }
+        }
+    }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>submitOnAny {
+        debug { &quot;attempt to start playing...&quot; }
+        var success = false
+        if (isPrepared) {
+            try {
+                // player's show changes to started
+                mediaPlayer.start()
+                debug { &quot;start playing success, the player is playing now&quot; }
+                success = true
+            } catch (e: IllegalStateException) {
+                error { &quot;startPlaying error, the player does not is prepared show!&quot; }
+                e.printStackTrace()
+            }
+        }
+
+        cancelPlayingTask()
+        submitOnMain {
+            callback?.invoke(success)
+            if (success) {
+                schedulePlayingTask()
+                playerListener?.onStartPlaying()
+            } else {
+                playerListener?.onError(ERROR_MEDIA_PLAYER_INTERNAL,
+                        context.getString(R.string.mpb_error_start_playing))
+            }
+        }
+    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>submitOnAny {
+        // avoid invoking player in wrong show, reset it when playing new sound.
+        // player's show change to idle
+        resetPlayer()
+        var success = false
+
+        try {
+            mediaPlayer.isLooping = isLooping
+            // set data source for playing
+            // player's show changes to initialized.
+            mediaPlayer.setDataSource(context, uri)
+            // prepare it's buffers, the player is ready to play when success
+            // player's show changes to prepared
+            preparePlayer()
+            debug {&quot;prepare player success&quot; }
+            success = true
+        } catch (e: IllegalStateException) {
+            error { &quot;preparePlayer error, invoke method in wrong show!&quot; }
+            e.printStackTrace()
+        } catch (e: IOException) {
+            error { &quot;preparePlayer error, the sound file does not existed!&quot; }
+            e.printStackTrace()
+        }
+
+        if (success) {
+            // fires the callback and listener to notify player is prepared
+            val duration = mediaPlayer.duration
+            submitOnMain {
+                callback?.invoke(true, duration.toLong())
+                playerListener?.onPreparedPlaying(duration.toLong())
+            }
+        } else {
+            submitOnMain {
+                callback?.invoke(false, 0)
+                playerListener?.onError(ERROR_MEDIA_PLAYER_INTERNAL,
+                        context.getString(R.string.mpb_error_prepare))
+            }
+        }
+
+    }</text>
       </register>
-      <register name="5" type="4">
-        <text>// Stop current playing music.
-            stopPlayingMusic()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVRpbWVyLnB1cmdlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>mAlertDialog?.dismiss()
-            mAlertDialog = LiveAlertDialog.Builder(this).apply {
-                message = getString(R.string.leave_living_alert)
-                positiveText = getString(R.string.confirm)
-                onPositive = {
-                    finish()
-                }
-                negativeText = getString(R.string.cancel)
-                hideSystemUI = true
-            }.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGlzQ291bnRpbmdEb3duKCk6IEJvb2xlYW4gPSBwcmVwYXJlQ291bnRkb3duQ29uc3VtZXIgIT0gbnVsbCAmJiBwcmVwYXJlQ291bnRkb3duQ29uc3VtZXI/LmlzRGlzcG9zZWQgPT0gZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkKICAgICAgICAgICAgbUFsZXJ0RGlhbG9nID0gTGl2ZUFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpcykuYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkK</text>
+      <register name="9" type="4">
+        <text>!isCountingDown()) { // There is no countdown scheduling
+                        
+                    }</text>
       </register>
     </registers>
     <search>
