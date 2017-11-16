@@ -292,6 +292,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="48" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" timestamp="1510821844192">
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="57" column="53" />
+        <mark key="." line="57" column="53" />
+        <mark key="^" line="57" column="53" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510296738570">
         <mark key="[" line="114" column="41" />
         <mark key="]" line="114" column="39" />
@@ -488,12 +494,11 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510815993754">
-        <mark key="'" line="264" column="20" />
-        <mark key="[" line="254" column="61" />
-        <mark key="]" line="255" column="47" />
-        <mark key="." line="255" column="47" />
-        <mark key="^" line="255" column="47" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510822043372">
+        <mark key="'" line="259" column="20" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -688,9 +693,10 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510802471056">
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1510821786627">
+        <mark key="'" line="40" column="16" />
+        <mark key="[" line="168" column="8" />
+        <mark key="]" line="177" column="73" />
         <mark key="^" line="217" column="34" />
         <mark key="." line="242" column="0" />
       </file>
@@ -1044,7 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
       <jump line="29" column="26" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
       <jump line="25" column="6" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="156" column="7" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
@@ -1144,65 +1149,53 @@
       <jump line="133" column="91" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
       <jump line="86" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
       <jump line="118" column="35" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
+      <jump line="40" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFsIEVORFBPSU5UX0xJVkUgPSAiaHR0cDovL2R0ZWFjaGVyLmRyZWFtLmNuOjc1NDAvIgo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>false</text>
-      </register>
-      <register name="/" type="4">
-        <text>log</text>
-      </register>
-      <register name="0" type="4">
-        <text>if (answer?.equals(decoder.rightAnswer) != true) {
-                        // display question index started from 1
-                        append(index + 1).append(&quot;. &quot;).append(formatAnswer(decoder.rightAnswer, question?.type))
-                        if (index != mDecoder?.size) append(&quot;    ;    &quot;)
-                    }</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">dmFsIEVORFBPSU5UX0xJVkUgPSAiaHR0cDovL2R0ZWFjaGVyLmRyZWFtLmNuOjc1NDAvIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFsIEVORFBPSU5UX0xJVkUgPSAiaHR0cDovL2R0ZWFjaGVyLmRyZWFtLmNuOjc1NDAvIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzogb25seSBnZW5lcmF0ZSB0aGUgY29ycmVjdCBhbnN3ZXIgc3RyaW5nIG9uY2UuCgo=</text>
+      <register name="-" type="4">
+        <text>tv_submit_content</text>
+      </register>
+      <register name="/" type="4">
+        <text>retry</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PEJ1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9zdWJtaXRfcmV0cnkiCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tcGF0QnV0dG9uLkxpdmVSZXRyeSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjEwMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMzdkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3JldHJ5IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90dl9zdWJtaXRfY29udGVudCIgLz4=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic3RhcnQgcGxheWluZyBsaXZlIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicmVzdW1lIHBsYXlpbmcgbGl2ZSIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicGF1c2UgcGxheWluZyBsaXZlIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic3RvcCBwbGF5aW5nIGxpdmUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiIikK</text>
       </register>
-      <register name="7" type="4">
-        <text>mPresenter?.generateAnswerShellItems()?.run {
-
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0icGFyZW50IiAvPgo=</text>
       </register>
       <register name="8" type="4">
-        <text>mAnswerShellAdapter.answerResults = this
-                mAnswerShellAdapter.notifyDataSetChanged()</text>
+        <text encoding="base64">IAogICAgPEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiIC8+</text>
       </register>
-      <register name="9" type="4">
-        <text>tv_correct_answer.text = getString(R.string.correct_answer_prefix, mPresenter?.generateCorrectAnswer() ?: &quot;&quot;)
-
-        if (mAnswerShellAdapter.answerResults.isEmpty())
-            mPresenter?.generateAnswerShellItems()?.run {
-                mAnswerShellAdapter.answerResults = this
-                mAnswerShellAdapter.notifyDataSetChanged()
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmV0cnkoKSAvLyBXZSBkb24ndCB3YW50IHRoaXMgcmVxdWVzdCB3b3VsZCBmYWlsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>retry</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>retry</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,7 +1203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drawAnswer</entry>
         <entry>decoders</entry>
         <entry>pushlong</entry>
         <entry>receive</entry>
@@ -1230,6 +1222,7 @@
         <entry>textColor</entry>
         <entry>TextColor</entry>
         <entry>log</entry>
+        <entry>retry</entry>
       </history-search>
       <history-cmd />
       <history-expr />
