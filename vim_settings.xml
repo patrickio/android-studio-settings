@@ -478,11 +478,12 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510733762368">
-        <mark key="[" line="255" column="25" />
-        <mark key="]" line="268" column="49" />
-        <mark key="^" line="268" column="49" />
-        <mark key="." line="268" column="49" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510796078394">
+        <mark key="'" line="262" column="20" />
+        <mark key="[" line="253" column="58" />
+        <mark key="]" line="253" column="58" />
+        <mark key="." line="253" column="58" />
+        <mark key="^" line="253" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1029,7 +1030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="325" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="336" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
       <jump line="337" column="17" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" />
@@ -1129,54 +1129,62 @@
       <jump line="37" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
       <jump line="259" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="263" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>onCount</text>
+        <text>pause playing live</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZmluaXNoTnVtICs9IGVudHJ5LnZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuayArPSBpZiAoZW50cnkua2V5ID49IGNvcnJlY3ROdW0pIGVudHJ5LnZhbHVlIGVsc2UgMA==</text>
+        <text>Timber.i(&quot;create live player with default options&quot;)
+                    mLivePlayer = PLMediaPlayer(context, DEFAULT_LIVE_OPTION)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
+        <text>if (mLivePlayer == null) {
+                    Timber.i(&quot;create live player with default options&quot;)
+                    mLivePlayer = PLMediaPlayer(context, DEFAULT_LIVE_OPTION)
+                } else {
+                    // reset when stream url changed
+                    mLivePlayer?.reset()
+                }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>// TODO: Play music when exercise submitted
                             if (state == LiveExerciseState.STATISTIC) {
                             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtUHJlc2VudGVyPy5vbkV4ZXJjaXNlU3RhdGVDaGFuZ2VkKHN0YXRlKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">bWFwLmZvckVhY2ggeyBlbnRyeSAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaE51bSArPSBlbnRyeS52YWx1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhbmsgKz0gaWYgKGVudHJ5LmtleSA+PSBjb3JyZWN0TnVtKSBlbnRyeS52YWx1ZSBlbHNlIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZmluaXNoTnVtICs9IGVudHJ5LnZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuayArPSBpZiAoZW50cnkua2V5ID49IGNvcnJlY3ROdW0pIGVudHJ5LnZhbHVlIGVsc2UgMA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">bWFwLnRvU29ydGVkTWFwKGtvdGxpbi5Db21wYXJhdG9yIHsgbzEsIG8yIC0+IG8xIC0gbzIgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoaSBpbiAwLi5tYXAuc2l6ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yRWFjaCB7IGVudHJ5IC0+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcC50b1NvcnRlZE1hcCgpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>onCount</last-search>
+      <last-search>pause playing live</last-search>
       <last-offset />
-      <last-pattern>onCount</last-pattern>
+      <last-pattern>pause playing live</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1184,7 +1192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newMessage</entry>
         <entry>fetchChat</entry>
         <entry>mAlertDialog</entry>
         <entry>fragment</entry>
@@ -1204,6 +1211,7 @@
         <entry>getLoad</entry>
         <entry>onCountdown</entry>
         <entry>onCount</entry>
+        <entry>pause playing live</entry>
       </history-search>
       <history-cmd />
       <history-expr />
