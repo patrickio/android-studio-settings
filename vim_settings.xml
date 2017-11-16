@@ -26,7 +26,7 @@
         <mark key="]" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1510710771891">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1510813908749">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="66" />
@@ -784,11 +784,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1510660653880">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="207" column="15" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1510813382507">
+        <mark key="[" line="267" column="54" />
+        <mark key="]" line="267" column="53" />
+        <mark key="^" line="267" column="53" />
+        <mark key="." line="267" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510798088395">
         <mark key="'" line="0" column="0" />
