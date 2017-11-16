@@ -140,12 +140,11 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510797563033">
-        <mark key="'" line="280" column="24" />
-        <mark key="[" line="435" column="89" />
-        <mark key="]" line="435" column="87" />
-        <mark key="." line="435" column="87" />
-        <mark key="^" line="435" column="87" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510799576177">
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="^" line="252" column="7" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -1133,7 +1132,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>mAlertDialog?.dismiss(</text>
@@ -1154,9 +1153,26 @@
             }.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
+        <text>// Stop current playing music.
+            stopPlayingMusic()</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>// Stop current playing music.
+            stopPlayingMusic()</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>mAlertDialog?.dismiss()
             mAlertDialog = LiveAlertDialog.Builder(this).apply {
                 message = getString(R.string.leave_living_alert)
@@ -1168,26 +1184,11 @@
                 hideSystemUI = true
             }.</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkKICAgICAgICAgICAgbUFsZXJ0RGlhbG9nID0gTGl2ZUFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpcykuYXBwbHkgewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVDaGF0Um9vbSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkK</text>
       </register>
     </registers>
     <search>
