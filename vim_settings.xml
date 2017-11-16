@@ -414,11 +414,11 @@
         <mark key="." line="53" column="4" />
         <mark key="^" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1510729284987">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="51" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1510816162146">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/Presenter.kt" timestamp="1510126026280">
         <mark key="[" line="99" column="59" />
@@ -488,12 +488,12 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510796078394">
-        <mark key="'" line="262" column="20" />
-        <mark key="[" line="253" column="58" />
-        <mark key="]" line="253" column="58" />
-        <mark key="." line="253" column="58" />
-        <mark key="^" line="253" column="58" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510815993754">
+        <mark key="'" line="264" column="20" />
+        <mark key="[" line="254" column="61" />
+        <mark key="]" line="255" column="47" />
+        <mark key="." line="255" column="47" />
+        <mark key="^" line="255" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1146,11 +1146,11 @@
       <jump line="118" column="35" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Color</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFsIEVORFBPSU5UX0xJVkUgPSAiaHR0cDovL2R0ZWFjaGVyLmRyZWFtLmNuOjc1NDAvIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Color</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1163,27 +1163,33 @@
                     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmFsIEVORFBPSU5UX0xJVkUgPSAiaHR0cDovL2R0ZWFjaGVyLmRyZWFtLmNuOjc1NDAvIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIEVORFBPSU5UX0xJVkUgPSAiaHR0cDovL2R0ZWFjaGVyLmRyZWFtLmNuOjc1NDAvIgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzogb25seSBnZW5lcmF0ZSB0aGUgY29ycmVjdCBhbnN3ZXIgc3RyaW5nIG9uY2UuCgo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzogb25seSBnZW5lcmF0ZSB0aGUgY29ycmVjdCBhbnN3ZXIgc3RyaW5nIG9uY2UuCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>mPresenter?.generateAnswerShellItems()?.run {
 
             }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>mAnswerShellAdapter.answerResults = this
                 mAnswerShellAdapter.notifyDataSetChanged()</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>tv_correct_answer.text = getString(R.string.correct_answer_prefix, mPresenter?.generateCorrectAnswer() ?: &quot;&quot;)
 
         if (mAnswerShellAdapter.answerResults.isEmpty())
@@ -1191,24 +1197,6 @@
                 mAnswerShellAdapter.answerResults = this
                 mAnswerShellAdapter.notifyDataSetChanged()
             }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZXJhdGVTdGF0aXN0aWNBbnN3ZXJzKCkK</text>
-      </register>
-      <register name="9" type="4">
-        <text>private fun formatAnswer(answer: String?, questionType: Int?): String? {
-        var newAnswer: String? = answer
-        if (questionType == Constant.QUESTION_JUDGE) {
-            answer?.toIntOrNull()?.run {
-                newAnswer = if (this == 0) { // user select correct item
-                    context.getString(R.string.right)
-                } else {
-                    context.getString(R.string.wrong)
-                }
-            }
-        }
-        return newAnswer
-    }</text>
       </register>
     </registers>
     <search>
