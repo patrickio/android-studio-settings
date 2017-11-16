@@ -494,11 +494,11 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510822043372">
-        <mark key="'" line="259" column="20" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="." line="247" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510825930149">
+        <mark key="'" line="258" column="20" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1153,7 +1153,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
       </register>
       <register name="-" type="4">
         <text>tv_submit_content</text>
@@ -1165,31 +1165,31 @@
         <text encoding="base64">PEJ1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9zdWJtaXRfcmV0cnkiCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tcGF0QnV0dG9uLkxpdmVSZXRyeSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjEwMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMzdkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3JldHJ5IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90dl9zdWJtaXRfY29udGVudCIgLz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic3RhcnQgcGxheWluZyBsaXZlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicmVzdW1lIHBsYXlpbmcgbGl2ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic3RhcnQgcGxheWluZyBsaXZlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicGF1c2UgcGxheWluZyBsaXZlIikK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicmVzdW1lIHBsYXlpbmcgbGl2ZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic3RvcCBwbGF5aW5nIGxpdmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicGF1c2UgcGxheWluZyBsaXZlIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiIikK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic3RvcCBwbGF5aW5nIGxpdmUiKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuaSgiIikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0icGFyZW50IiAvPgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IAogICAgPEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiIC8+</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmV0cnkoKSAvLyBXZSBkb24ndCB3YW50IHRoaXMgcmVxdWVzdCB3b3VsZCBmYWlsCg==</text>
       </register>
     </registers>
     <search>
