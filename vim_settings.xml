@@ -128,11 +128,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510717263122">
-        <mark key="'" line="542" column="4" />
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="362" column="0" />
-        <mark key="." line="362" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1510798384901">
+        <mark key="'" line="548" column="4" />
+        <mark key="[" line="305" column="40" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -140,12 +140,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510717335567">
-        <mark key="'" line="275" column="24" />
-        <mark key="[" line="125" column="48" />
-        <mark key="]" line="125" column="46" />
-        <mark key="." line="125" column="46" />
-        <mark key="^" line="125" column="46" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1510797563033">
+        <mark key="'" line="280" column="24" />
+        <mark key="[" line="435" column="89" />
+        <mark key="]" line="435" column="87" />
+        <mark key="." line="435" column="87" />
+        <mark key="^" line="435" column="87" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -153,11 +153,11 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510717241328">
-        <mark key="[" line="87" column="70" />
-        <mark key="]" line="48" column="68" />
-        <mark key="^" line="48" column="68" />
-        <mark key="." line="48" column="68" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1510797962154">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/CachedUserService.kt" timestamp="1507952331966">
         <mark key="[" line="30" column="46" />
@@ -777,11 +777,11 @@
         <mark key="^" line="207" column="15" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510714089497">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1510798088395">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="49" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -1133,52 +1133,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>mAlertDialog?.dismiss(</text>
       </register>
       <register name="/" type="4">
         <text>pause playing live</text>
       </register>
       <register name="0" type="4">
-        <text>Timber.i(&quot;create live player with default options&quot;)
-                    mLivePlayer = PLMediaPlayer(context, DEFAULT_LIVE_OPTION)</text>
+        <text>mAlertDialog?.dismiss()
+            mAlertDialog = LiveAlertDialog.Builder(this).apply {
+                message = getString(R.string.leave_living_alert)
+                positiveText = getString(R.string.confirm)
+                onPositive = {
+                    finish()
+                }
+                negativeText = getString(R.string.cancel)
+                hideSystemUI = true
+            }.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>mAlertDialog?.dismiss()
+            mAlertDialog = LiveAlertDialog.Builder(this).apply {
+                message = getString(R.string.leave_living_alert)
+                positiveText = getString(R.string.confirm)
+                onPositive = {
+                    finish()
+                }
+                negativeText = getString(R.string.cancel)
+                hideSystemUI = true
+            }.</text>
       </register>
-      <register name="3" type="4">
-        <text>if (mLivePlayer == null) {
-                    Timber.i(&quot;create live player with default options&quot;)
-                    mLivePlayer = PLMediaPlayer(context, DEFAULT_LIVE_OPTION)
-                } else {
-                    // reset when stream url changed
-                    mLivePlayer?.reset()
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkKICAgICAgICAgICAgbUFsZXJ0RGlhbG9nID0gTGl2ZUFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpcykuYXBwbHkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFsZXJ0RGlhbG9nPy5kaXNtaXNzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>// TODO: Play music when exercise submitted
-                            if (state == LiveExerciseState.STATISTIC) {
-                            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVDaGF0Um9vbSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtUHJlc2VudGVyPy5vbkV4ZXJjaXNlU3RhdGVDaGFuZ2VkKHN0YXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bWFwLmZvckVhY2ggeyBlbnRyeSAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaE51bSArPSBlbnRyeS52YWx1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhbmsgKz0gaWYgKGVudHJ5LmtleSA+PSBjb3JyZWN0TnVtKSBlbnRyeS52YWx1ZSBlbHNlIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZmluaXNoTnVtICs9IGVudHJ5LnZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuayArPSBpZiAoZW50cnkua2V5ID49IGNvcnJlY3ROdW0pIGVudHJ5LnZhbHVlIGVsc2UgMA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
