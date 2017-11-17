@@ -869,11 +869,10 @@
         <mark key="." line="314" column="15" />
         <mark key="^" line="314" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510898319083">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510900675716">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510834308092">
         <mark key="[" line="0" column="0" />
@@ -1066,8 +1065,8 @@
       <jump line="173" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LivePlayerBox</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjEiCg==</text>
       </register>
       <register name="-" type="4">
         <text>LivePlayerBox</text>
@@ -1079,7 +1078,7 @@
         <text>AppConfig.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjEiCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1087,25 +1086,25 @@
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>private val APP_ID = &quot;2882303761517618582&quot;
     private val APP_KEY = &quot;5631761812582&quot;
     private var FLAG_USER_ID = &quot;flag_user_id&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25Db25uZWN0aXZpdHlDaGFuZ2VkKG5ldHdvcmtJbmZvOiBOZXR3b3JrSW5mbykgewogICAgICAgIHN1cGVyLm9uQ29ubmVjdGl2aXR5Q2hhbmdlZChuZXR3b3JrSW5mbykKICAgICAgICBpZiAobmV0d29ya0luZm8uaXNDb25uZWN0ZWQpIHsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUXVlcnkgdGhlIGxpdmluZyBzdHJlYW0gd2hlbiBjb25uZWN0aXZpdHkgY2hhbmdlZAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmZXRjaFJUTVBTdHJlYW1VcmwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUXVlcnkgdGhlIGxpdmluZyBzdHJlYW0gd2hlbiBjb25uZWN0aXZpdHkgY2hhbmdlZAo=</text>
       </register>
     </registers>
     <search>
