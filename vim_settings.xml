@@ -426,11 +426,11 @@
         <mark key="." line="54" column="45" />
         <mark key="^" line="54" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1510887193393">
-        <mark key="[" line="61" column="77" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="58" column="54" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1510888820725">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="83" column="69" />
+        <mark key="." line="83" column="69" />
+        <mark key="^" line="83" column="69" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1509517178302">
         <mark key="[" line="75" column="48" />
@@ -456,12 +456,11 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510886554755">
-        <mark key="'" line="263" column="20" />
-        <mark key="[" line="250" column="4" />
-        <mark key="]" line="309" column="4" />
-        <mark key="^" line="304" column="33" />
-        <mark key="." line="304" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510888787472">
+        <mark key="'" line="329" column="20" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1067,103 +1066,44 @@
       <jump line="173" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJlc2VudFN0cmVhbUxvYWRpbmcoZmFsc2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>mLivePlayer?.setSurface(null)</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>mLivePlayer?.setSurface(null)</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
       </register>
       <register name="0" type="4">
-        <text>private fun startPlayingLive(streamUrl: String) {
-        // present progress bar indicate loading stream, it would hide in video start renderer
-        presentStreamLoading(true)
-        mLiveExecutor.submitOnAny {
-            try {
-                if (mLivePlayer == null) { // create mLivePlayer if it's not existed
-                    Timber.i(&quot;create live player with default options&quot;)
-                    mLivePlayer = PLMediaPlayer(context, DEFAULT_LIVE_OPTION)
-                }
-
-                mLivePlayer?.run {
-                    setOnPreparedListener(mLivePrepareListener)
-                    setOnInfoListener(mLiveInfoListener)
-                    setOnVideoSizeChangedListener(mVideoSizeChangedListener)
-                    setOnBufferingUpdateListener(mLiveBufferListener)
-                    setOnErrorListener(mLiveErrorListener)
-                    setOnCompletionListener(mLiveCompletionListener)
-                    Timber.i(&quot;config live player with listeners&quot;)
-                    setSurface(view?.getSurface())
-                    Timber.i(&quot;config live player with surface holder: ${view?.getSurface()}&quot;)
-                    dataSource = streamUrl
-                    Timber.i(&quot;config live player with data source&quot;)
-                    prepareAsync()
-                    setDebugLoggingEnabled(false) // remove the annoying log
-                }
-            } catch (e: IllegalStateException) {
-                Timber.e(&quot;start playing live error: $e&quot;)
-            }
-        }
-    }
-
-    private fun resumePlayingLive() {
-        mLiveExecutor.submitOnAny {
-            try {
-                mLivePlayer?.start()
-            } catch (e: IllegalStateException) {
-                Timber.e(&quot;resume playing live error: $e&quot;)
-            }
-        }
-    }
-
-    private fun pausePlayingLive() {
-        mLiveExecutor.submitOnAny {
-            try {
-                mLivePlayer?.pause()
-            } catch (e: IllegalStateException) {
-                Timber.e(&quot;pause playing live error: $e&quot;)
-            }
-        }
-    }
-
-    private fun stopPlayingLive() {
-        mLiveExecutor.submitOnAny {
-            try {
-                mLivePlayer?.stop()
-            } catch (e: IllegalStateException) {
-                Timber.e(&quot;stop playing live error: $e&quot;)
-            }
-        }
-    }</text>
+        <text>presentStreamLoading(false)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJlc2VudFN0cmVhbUxvYWRpbmcoZmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJlc2VudFN0cmVhbUxvYWRpbmcoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoU3VyZmFjZSh2aWV3Py5nZXRTdXJmYWNlKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJlc2VudFN0cmVhbUxvYWRpbmcodHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1MaXZlUGxheWVyOiBMaXZlUGxheWVyQm94IGJ5IGxhenkgeyBMaXZlUGxheWVyQm94KGNvbnRleHQpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJlc2VudFN0cmVhbUxvYWRpbmcoZmFsc2UpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnV0aWwuVGhyZWFkUG9vbFByb3h5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uSW5mb0xpc3RlbmVyPy5vbkJ1ZmZlcmluZyh0cnVlKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZlYXR1cmUuSUxpdmVQbGF5UHJlc2VudGVyLkNvbXBhbmlvbi5ERUZBVUxUX0xJVkVfT1BUSU9OCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gb25CdWZmZXJpbmdFbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdW1lUGxheWluZ0xpdmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnV0aWwuSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF1c2VQbGF5aW5nTGl2ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkVkdWNhdGlvbkFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZ0xpdmUoKQo=</text>
       </register>
     </registers>
     <search>
