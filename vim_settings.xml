@@ -426,11 +426,11 @@
         <mark key="." line="54" column="45" />
         <mark key="^" line="54" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1510888820725">
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="83" column="69" />
-        <mark key="." line="83" column="69" />
-        <mark key="^" line="83" column="69" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1510889501286">
+        <mark key="[" line="146" column="30" />
+        <mark key="]" line="147" column="25" />
+        <mark key="." line="147" column="25" />
+        <mark key="^" line="147" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1509517178302">
         <mark key="[" line="75" column="48" />
@@ -456,11 +456,10 @@
         <mark key="." line="76" column="9" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510888787472">
-        <mark key="'" line="329" column="20" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="." line="309" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510889261340">
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -668,11 +667,11 @@
         <mark key="^" line="129" column="45" />
         <mark key="." line="131" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510046745660">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="41" />
-        <mark key="^" line="42" column="41" />
-        <mark key="." line="42" column="41" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510889145819">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
@@ -707,6 +706,7 @@
         <mark key="^" line="82" column="19" />
         <mark key="." line="28" column="53" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/libs/pldroid-player-2.0.3.jar!/com/pili/pldroid/player/PLMediaPlayer.class" timestamp="1510889480161" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_login.xml" timestamp="1508479891064">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="36" column="39" />
@@ -845,11 +845,11 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1508836493617">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="74" column="33" />
-        <mark key="." line="74" column="33" />
-        <mark key="^" line="74" column="33" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1510889219324">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="31" column="76" />
+        <mark key="." line="31" column="76" />
+        <mark key="^" line="31" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
@@ -869,11 +869,11 @@
         <mark key="." line="314" column="15" />
         <mark key="^" line="314" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510296307632">
-        <mark key="[" line="132" column="49" />
-        <mark key="]" line="133" column="3" />
-        <mark key="." line="133" column="3" />
-        <mark key="^" line="133" column="3" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510890078801">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="136" column="3" />
+        <mark key="." line="136" column="3" />
+        <mark key="^" line="136" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1510834308092">
         <mark key="[" line="0" column="0" />
@@ -1067,43 +1067,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mLivePlayer?.setSurface(null)</text>
+        <text>LivePlayerBox</text>
       </register>
       <register name="-" type="4">
-        <text>mLivePlayer?.setSurface(null)</text>
+        <text>LivePlayerBox</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
       </register>
       <register name="0" type="4">
-        <text>presentStreamLoading(false)</text>
+        <text>AppConfig.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoU3VyZmFjZSh2aWV3Py5nZXRTdXJmYWNlKCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1MaXZlUGxheWVyOiBMaXZlUGxheWVyQm94IGJ5IGxhenkgeyBMaXZlUGxheWVyQm94KGNvbnRleHQpIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnV0aWwuVGhyZWFkUG9vbFByb3h5Cg==</text>
+      <register name="4" type="4">
+        <text>private val APP_ID = &quot;2882303761517618582&quot;
+    private val APP_KEY = &quot;5631761812582&quot;
+    private var FLAG_USER_ID = &quot;flag_user_id&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmZlYXR1cmUuSUxpdmVQbGF5UHJlc2VudGVyLkNvbXBhbmlvbi5ERUZBVUxUX0xJVkVfT1BUSU9OCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdW1lUGxheWluZ0xpdmUoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF1c2VQbGF5aW5nTGl2ZSgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25Db25uZWN0aXZpdHlDaGFuZ2VkKG5ldHdvcmtJbmZvOiBOZXR3b3JrSW5mbykgewogICAgICAgIHN1cGVyLm9uQ29ubmVjdGl2aXR5Q2hhbmdlZChuZXR3b3JrSW5mbykKICAgICAgICBpZiAobmV0d29ya0luZm8uaXNDb25uZWN0ZWQpIHsKICAgICAgICB9CiAgICB9</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUXVlcnkgdGhlIGxpdmluZyBzdHJlYW0gd2hlbiBjb25uZWN0aXZpdHkgY2hhbmdlZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZ0xpdmUoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmZXRjaFJUTVBTdHJlYW1VcmwoKQo=</text>
       </register>
     </registers>
     <search>
