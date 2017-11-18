@@ -10,10 +10,10 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/androidTest/java/com/readboy/live/education/ExampleInstrumentedTest.kt" timestamp="1510276385282">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="160" column="41" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="161" column="41" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQCmd.kt" timestamp="1510125606777">
         <mark key="[" line="6" column="46" />
@@ -210,10 +210,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="31" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1510986394698">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1510987499605">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_grade_choose.xml" timestamp="1508897228878">
         <mark key="[" line="17" column="26" />
@@ -294,10 +294,10 @@
         <mark key="^" line="49" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510296738570">
-        <mark key="[" line="114" column="41" />
-        <mark key="]" line="114" column="39" />
-        <mark key="." line="114" column="39" />
-        <mark key="^" line="114" column="39" />
+        <mark key="[" line="115" column="41" />
+        <mark key="]" line="115" column="39" />
+        <mark key="." line="115" column="39" />
+        <mark key="^" line="115" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/res/drawable/live_answers_sel.xml" timestamp="1509524692557">
         <mark key="[" line="5" column="30" />
@@ -389,17 +389,22 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/Helper.kt" timestamp="1510987302167">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/proguard-rules.pro" timestamp="1507704470435">
         <mark key="[" line="40" column="2" />
         <mark key="]" line="53" column="4" />
         <mark key="." line="53" column="4" />
         <mark key="^" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1510816162146">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="21" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1510987427445">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="68" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1505393436982">
         <mark key="[" line="2" column="26" />
@@ -455,11 +460,11 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/Helper.kt" timestamp="1508919837767">
-        <mark key="[" line="76" column="8" />
-        <mark key="]" line="76" column="9" />
-        <mark key="." line="76" column="9" />
-        <mark key="^" line="118" column="4" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/Helper.kt" timestamp="1510987308167">
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="153" column="5" />
+        <mark key="." line="123" column="4" />
+        <mark key="^" line="123" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510889261340">
         <mark key="[" line="38" column="53" />
@@ -657,11 +662,10 @@
         <mark key="^" line="129" column="45" />
         <mark key="." line="131" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510985068907">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConfig.kt" timestamp="1510987283782">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/gradle.properties" timestamp="1505445657846">
         <mark key="[" line="0" column="0" />
@@ -714,9 +718,9 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConfig.kt" timestamp="1510985916492">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="31" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConfig.kt" timestamp="1510986749181">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="39" />
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="29" />
       </file>
@@ -816,11 +820,11 @@
         <mark key="^" line="9" column="115" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510662843595">
-        <mark key="[" line="61" column="77" />
-        <mark key="]" line="61" column="78" />
-        <mark key="^" line="61" column="78" />
-        <mark key="." line="61" column="78" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1510986881460">
+        <mark key="[" line="107" column="37" />
+        <mark key="]" line="107" column="37" />
+        <mark key="^" line="49" column="46" />
+        <mark key="." line="107" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/ILiveBaseFeature.kt" timestamp="1508313880930">
         <mark key="[" line="10" column="35" />
@@ -840,10 +844,11 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1510985131111">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1510987253559">
+        <mark key="[" line="90" column="66" />
+        <mark key="]" line="90" column="66" />
+        <mark key="." line="90" column="66" />
+        <mark key="^" line="85" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
@@ -943,17 +948,20 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1510801199427">
-        <mark key="[" line="77" column="14" />
-        <mark key="]" line="77" column="14" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1510987345247">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="77" column="14" />
-        <mark key="." line="77" column="14" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/LiveExerciseFeature.kt" timestamp="1505872387099">
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="81" />
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
+      </file>
+      <file name="/fragment.java" timestamp="1510986474945">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1060,65 +1068,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEp2bVN0YXRpYwo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>AppConfig</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
       </register>
       <register name="0" type="4">
-        <text>val DEFAULT_LIVE_OPTION by lazy {
-            AVOptions().apply {
-                // 准备超时时间，包括创建资源、建立连接、请求码流等，单位是 ms
-                setInteger(AVOptions.KEY_PREPARE_TIMEOUT, 15 * 1000)
-                // 解码方式:
-                // codec＝AVOptions.MEDIA_CODEC_HW_DECODE，硬解
-                // codec=AVOptions.MEDIA_CODEC_SW_DECODE, 软解
-                // codec=AVOptions.MEDIA_CODEC_AUTO, 硬解优先，失败后自动切换到软解
-                // 默认值是：MEDIA_CODEC_SW_DECODE
-                setInteger(AVOptions.KEY_MEDIACODEC, AVOptions.MEDIA_CODEC_AUTO)
-                // 默认的缓存大小，单位是 ms
-                // 默认值是：500
-                setInteger(AVOptions.KEY_CACHE_BUFFER_DURATION, 500)
-                // 最大的缓存大小，单位是 ms
-                // 默认值是：2000
-                setInteger(AVOptions.KEY_MAX_CACHE_BUFFER_DURATION, 4000)
-                // 首屏秒开
-                setInteger(AVOptions.KEY_FAST_OPEN, 1)
-                // 减少延迟效果
-                // 直播场景设置后，会避免缓冲加载
-                setInteger(AVOptions.KEY_LIVE_STREAMING, 1)
-            }
-        }</text>
+        <text>val ENDPOINT_LIVE_BETA = &quot;http://120.76.243.212:7050/&quot;
+val ENDPOINT_LIVE = &quot;http://dteacher.dream.cn:7540/&quot;
+
+val ENDPOINT_ZH_USER_CACHE_BETA = &quot;http://dreamtest.strongwind.cn:7060/&quot;
+val ENDPOINT_ZH_USER_CACHE = &quot;http://rbxuexiquan.strongwind.cn:7060/&quot;
+
+val API_AUTH_PREFIX: String = &quot;4G&quot;
+val API_AUTH_KEY: String = &quot;4fbfc9b4d58838f1757b68c8eff5b5564ba2c7fb&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEp2bVN0YXRpYwo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBSYWJiaXRNUURvbWFpbjogU3RyaW5nID0gIiIK</text>
+        <text encoding="base64">Ly92YWwgRU5EUE9JTlRfTElWRV9CRVRBID0gImh0dHA6Ly8xNzIuMTYuMS4zNDo2MDUwIiAvLyBpbnRlcm5hbCB0ZXN0IHNlcnZlcgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8qKgogKiAKICov</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly92YWwgRU5EUE9JTlRfTElWRV9CRVRBID0gImh0dHA6Ly9kdGVhY2hlci5kcmVhbS5jbjo3NTQwLyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMS0xOC4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkhlbHBlcgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci8qKgogKgogKiBAYXV0aG9yIGZpbmtlCiAqLw==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICogU3RvcmFnZSB0aGUgYXBwbGljYXRpb24gYW5kIG1hY2hpbmUgY29uZmlndXJhdGlvbi4K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKCiAgICAgICAgdmFsIERFRkFVTFRfTElWRV9PUFRJT04gYnkgbGF6eSB7CiAgICAgICAgICAgIEFWT3B0aW9ucygpLmFwcGx5IHsKICAgICAgICAgICAgICAgIC8vIOWHhuWkh+i2heaXtuaXtumXtO+8jOWMheaLrOWIm+W7uui1hOa6kOOAgeW7uueri+i/nuaOpeOAgeivt+axgueggea1geetie+8jOWNleS9jeaYryBtcwogICAgICAgICAgICAgICAgc2V0SW50ZWdlcihBVk9wdGlvbnMuS0VZX1BSRVBBUkVfVElNRU9VVCwgMTUgKiAxMDAwKQogICAgICAgICAgICAgICAgLy8g6Kej56CB5pa55byPOgogICAgICAgICAgICAgICAgLy8gY29kZWPvvJ1BVk9wdGlvbnMuTUVESUFfQ09ERUNfSFdfREVDT0RF77yM56Gs6KejCiAgICAgICAgICAgICAgICAvLyBjb2RlYz1BVk9wdGlvbnMuTUVESUFfQ09ERUNfU1dfREVDT0RFLCDova/op6MKICAgICAgICAgICAgICAgIC8vIGNvZGVjPUFWT3B0aW9ucy5NRURJQV9DT0RFQ19BVVRPLCDnoazop6PkvJjlhYjvvIzlpLHotKXlkI7oh6rliqjliIfmjaLliLDova/op6MKICAgICAgICAgICAgICAgIC8vIOm7mOiupOWAvOaYr++8mk1FRElBX0NPREVDX1NXX0RFQ09ERQogICAgICAgICAgICAgICAgc2V0SW50ZWdlcihBVk9wdGlvbnMuS0VZX01FRElBQ09ERUMsIEFWT3B0aW9ucy5NRURJQV9DT0RFQ19BVVRPKQogICAgICAgICAgICAgICAgLy8g6buY6K6k55qE57yT5a2Y5aSn5bCP77yM5Y2V5L2N5pivIG1zCiAgICAgICAgICAgICAgICAvLyDpu5jorqTlgLzmmK/vvJo1MDAKICAgICAgICAgICAgICAgIHNldEludGVnZXIoQVZPcHRpb25zLktFWV9DQUNIRV9CVUZGRVJfRFVSQVRJT04sIDUwMCkKICAgICAgICAgICAgICAgIC8vIOacgOWkp+eahOe8k+WtmOWkp+Wwj++8jOWNleS9jeaYryBtcwogICAgICAgICAgICAgICAgLy8g6buY6K6k5YC85piv77yaMjAwMAogICAgICAgICAgICAgICAgc2V0SW50ZWdlcihBVk9wdGlvbnMuS0VZX01BWF9DQUNIRV9CVUZGRVJfRFVSQVRJT04sIDQwMDApCiAgICAgICAgICAgICAgICAvLyDpppblsY/np5LlvIAKICAgICAgICAgICAgICAgIHNldEludGVnZXIoQVZPcHRpb25zLktFWV9GQVNUX09QRU4sIDEpCiAgICAgICAgICAgICAgICAvLyDlh4/lsJHlu7bov5/mlYjmnpwKICAgICAgICAgICAgICAgIC8vIOebtOaSreWcuuaZr+iuvue9ruWQju+8jOS8mumBv+WFjee8k+WGsuWKoOi9vQogICAgICAgICAgICAgICAgc2V0SW50ZWdlcihBVk9wdGlvbnMuS0VZX0xJVkVfU1RSRUFNSU5HLCAxKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHBDb25mOiBBcHBDb25maWcgYnkgbGF6eSB7ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBGTEFHX1VTRVJfSUQgPSAiZmxhZ191c2VyX2lkIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjEiCg==</text>
+        <text encoding="base64">ICAgIHZhbCBBUFBfS0VZID0gIjU2MzE3NjE4MTI1ODIiCg==</text>
       </register>
     </registers>
     <search>
