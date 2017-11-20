@@ -153,12 +153,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511160725987">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511163101022">
         <mark key="'" line="14" column="37" />
-        <mark key="[" line="265" column="12" />
-        <mark key="]" line="266" column="70" />
-        <mark key="." line="265" column="12" />
-        <mark key="^" line="265" column="11" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
+        <mark key="^" line="190" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -323,11 +323,10 @@
         <mark key="^" line="84" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/LiveCmd.kt" timestamp="1511160019048">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="43" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/LiveCmd.kt" timestamp="1511163105270">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1510298213417">
         <mark key="[" line="29" column="29" />
@@ -491,10 +490,11 @@
         <mark key="." line="123" column="4" />
         <mark key="^" line="123" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511159438747">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511164005046">
+        <mark key="[" line="178" column="30" />
+        <mark key="]" line="178" column="31" />
+        <mark key="." line="178" column="31" />
+        <mark key="^" line="178" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -732,7 +732,7 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511159457669">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511163673457">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
@@ -918,10 +918,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="71" column="88" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511158913694">
-        <mark key="[" line="302" column="59" />
-        <mark key="]" line="302" column="66" />
-        <mark key="." line="302" column="59" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511163841298">
+        <mark key="[" line="302" column="52" />
+        <mark key="]" line="302" column="52" />
+        <mark key="." line="302" column="52" />
         <mark key="^" line="300" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510900675716">
@@ -1126,56 +1126,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGl2ZUNtZC5DTURfU0lMRU5DRSAtPiB2aWV3Py5vbkxpdmVTaWxlbmNlVG9nZ2xlZCh0cnVlKQogICAgICAgICAgICAgICAgTGl2ZUNtZC5DTURfTk9JU0UgLT4gdmlldz8ub25MaXZlU2lsZW5jZVRvZ2dsZWQoZmFsc2Up</text>
+        <text>it</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHT05FVmlld1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TGl2ZUNtZC5DTURfU0lMRU5DRSAtPiB2aWV3Py5vbkxpdmVTaWxlbmNlVG9nZ2xlZCh0cnVlKQogICAgICAgICAgICAgICAgTGl2ZUNtZC5DTURfTk9JU0UgLT4gdmlldz8ub25MaXZlU2lsZW5jZVRvZ2dsZWQoZmFsc2Up</text>
+        <text>if (mLivingStage == LivingStage.EXERCISE) {
+                        mLivingStage
+                    } else {
+                        LivingStage.MIDDLE_REST
+                    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGl2ZUNtZC5DTUQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmVra2tra2tra2tra2tra2tra2siCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVzZW50TGl2ZVByZXBhcmluZyhmYWxzZSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVwYXJlUlRNUFN0cmVhbShtb2RlbD8uZ2V0UlRNUEluZm8oKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgQ01EX1NUUkVBTV9TVEFSVCA9ICJzdHJlYW1fc3RhcnQiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgQ01EX1NUUkVBTV9TVE9QID0gInN0cmVhbV9zdG9wIgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsbHZfbG9hZGluZy5zdGFydExvYWRpbmcoaGludCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>btn_retry.text = getString(R.string.watch_live_using_mobile_data)
-                tv_loading_hint.text = getString(R.string.using_mobile_data_hint)
-                btn_retry.setOnClickListener {
-                    btn_retry.visibility = View.INVISIBLE
-                    pb_live_loading.visibility = View.VISIBLE
-                    tv_loading_hint.visibility = View.VISIBLE
-                    mLivePlayPresenter?.fetchStreamUrls(true)
-                }</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW4gaGFuZGxlTGl2ZUNtZChjbWQ6IFN0cmluZykgewogICAgICAgIFRpbWJlci5pKCJyZWNlaXZlIGxpdmUgY21kOiAkY21kIikKICAgICAgICAvLyBTdG9wIGN1cnJlbnQgcGxheWluZyBtdXNpYwogICAgICAgIHN0b3BQbGF5aW5nTXVzaWMoKQogICAgICAgIC8vIFN0b3AgYW55IGNvdW50ZG93biB0YXNrCiAgICAgICAgcHJlcGFyZUNvdW50ZG93bkNvbnN1bWVyPy5kaXNwb3NlSWZOb3QoKQogICAgICAgIHdoZW4gKGNtZCkgewogICAgICAgICAgICBMaXZlQ21kLkNNRF9TVFJFQU1fU1RBUlQgLT4gewogICAgICAgICAgICAgICAgd2hlbiAobUxpdmluZ1N0YWdlKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTGl2ZUNtZC5DTURfU1RSRUFNX1NUT1AgLT4gewoKICAgICAgICAgICAgfQogICAgICAgICAgICBMaXZlQ21kLkNNRF9FWEFNX1NUQVJUIC0+IHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgTGl2ZUNtZC5DTURfQ0xPU0UgLT4gewoKICAgICAgICAgICAgfQogICAgICAgICAgICBMaXZlQ21kLkNNRF9TSUxFTkNFIC0+IHZpZXc/Lm9uTGl2ZVNpbGVuY2VUb2dnbGVkKHRydWUpCiAgICAgICAgICAgIExpdmVDbWQuQ01EX05PSVNFIC0+IHZpZXc/Lm9uTGl2ZVNpbGVuY2VUb2dnbGVkKGZhbHNlKQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlTGl2ZVN0YXR1cyhjb3VudCwgaXNQdXNoLCBpc0V4YW1CZWdpbikK</text>
       </register>
-      <register name="9" type="4">
-        <text>btn_retry.text = getString(R.string.retry)
-                tv_loading_hint.text = getString(R.string.network_connect_failure)
-                btn_retry.setOnClickListener {
-                    btn_retry.visibility = View.INVISIBLE
-                    pb_live_loading.visibility = View.VISIBLE
-                    tv_loading_hint.visibility = View.VISIBLE
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
