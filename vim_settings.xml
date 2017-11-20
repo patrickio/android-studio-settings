@@ -471,11 +471,10 @@
         <mark key="." line="123" column="4" />
         <mark key="^" line="123" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1510993024174">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-        <mark key="^" line="207" column="78" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511140102822">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -555,10 +554,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LivePlayFeature.kt" timestamp="1510993023037">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LivePlayFeature.kt" timestamp="1511140141298">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveStudentPresenter.kt" timestamp="1508931978447">
         <mark key="[" line="15" column="23" />
@@ -699,11 +699,12 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1510831192735">
-        <mark key="[" line="166" column="4" />
-        <mark key="]" line="166" column="4" />
-        <mark key="." line="166" column="4" />
-        <mark key="^" line="167" column="54" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511140512091">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="146" column="41" />
+        <mark key="]" line="146" column="41" />
+        <mark key="^" line="146" column="41" />
+        <mark key="." line="146" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/FastSafeIterableMap.java" timestamp="1510037148299">
         <mark key="[" line="19" column="0" />
@@ -987,10 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="26" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
-      <jump line="96" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
-      <jump line="142" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
-      <jump line="270" column="42" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
       <jump line="323" column="42" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
       <jump line="344" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
       <jump line="49" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
@@ -1087,56 +1084,57 @@
       <jump line="573" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
       <jump line="173" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
       <jump line="139" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" />
+      <jump line="143" column="54" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
+      <jump line="146" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
+      <jump line="211" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
+      <jump line="207" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbT7otoXmuIU8L2l0ZW0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>View.INVISIBLE</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>View.INVISIBLE</text>
       </register>
       <register name="/" type="4">
         <text>RTMP</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGF0YSBjbGFzcyBBcGlFeGNlcHRpb24odmFsIGNvZGU6IEludCwgdmFsIG1zZzogU3RyaW5nKSA6IEV4Y2VwdGlvbigpIHsKCiAgICBjb25zdHJ1Y3RvcihyZXNwb25zZTogQmFzZVJlc3BvbnNlPCo+KTogdGhpcyhyZXNwb25zZS5GX3Jlc3BvbnNlTm8sIHJlc3BvbnNlLkZfcmVzcG9uc2VNc2cpCgp9</text>
+        <text>if (success) View.INVISIBLE else  View.VISIBLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbT7otoXmuIU8L2l0ZW0+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAyIC0+IExpdmVTdHJlYW1RdWFsaXR5LkhJR0gK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXZlU3RyZWFtUXVhbGl0eS5ISUdIIC0+IHByZXBhcmVQbGF5aW5nTGl2ZShSdG1wTGl2ZVVybHMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXJsczogTWFwPFN0cmluZywgU3RyaW5nPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmFwaXMuQVBJX0NPVVJTRV9TVFVEWUlORwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmFwaXMuQVBJX0NPVVJTRV9TVFVESUVECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWwgQVBJX0FVVEhfS0VZOiBTdHJpbmcgPSAiNGZiZmM5YjRkNTg4MzhmMTc1N2I2OGM4ZWZmNWI1NTY0YmEyYzdmYiIK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>import com.readboy.live.education.data.BaseResponse
-
-
-val ENDPOINT_LIVE_BETA = &quot;http://120.76.243.212:7050/&quot;
-val ENDPOINT_LIVE = &quot;http://dteacher.dream.cn:7540/&quot;
-
-val ENDPOINT_ZH_USER_CACHE_BETA = &quot;http://dreamtest.strongwind.cn:7060/&quot;
-val ENDPOINT_ZH_USER_CACHE = &quot;http://rbxuexiquan.strongwind.cn:7060/&quot;
-
-val API_AUTH_PREFIX: String = &quot;4G&quot;
-v</text>
+      <register name="3" type="4">
+        <text>override fun onLoadStreamFail() {
+        btn_retry.visibility = View.VISIBLE
+        pb_live_loading.visibility = View.INVISIBLE
+        tv_loading_hint.visibility = View.INVISIBLE
+    }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBwcmVwYXJlUGxheWluZ1JUTVBTdHJlYW0oKSAK</text>
+      </register>
+      <register name="6" type="4">
+        <text>{
+        debug { &quot;preparePlayingRTMPStream&quot; }
+        pb_live_loading.visibility = View.VISIBLE
+    }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZ1biBwcmVwYXJlUGxheWluZ1JUTVBTdHJlYW0oKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ucHJlcGFyZVBsYXlpbmdSVE1QU3RyZWFtKCkK</text>
       </register>
     </registers>
     <search>
