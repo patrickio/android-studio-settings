@@ -490,10 +490,10 @@
         <mark key="." line="123" column="4" />
         <mark key="^" line="123" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511149978860">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511159111954">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -640,11 +640,10 @@
         <mark key="^" line="178" column="112" />
         <mark key="." line="178" column="112" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_loading.xml" timestamp="1511158024735">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_loading.xml" timestamp="1511159196905">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/anim/dialog_fade_out_anim.xml" timestamp="1505394528751">
         <mark key="[" line="2" column="68" />
@@ -917,11 +916,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="71" column="88" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511144728091">
-        <mark key="[" line="313" column="0" />
-        <mark key="]" line="313" column="0" />
-        <mark key="." line="313" column="0" />
-        <mark key="^" line="313" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511158913694">
+        <mark key="[" line="302" column="59" />
+        <mark key="]" line="302" column="66" />
+        <mark key="." line="302" column="59" />
+        <mark key="^" line="300" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1510900675716">
         <mark key="[" line="28" column="0" />
@@ -1125,27 +1124,33 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmVra2tra2tra2tra2tra2tra2siCg==</text>
       </register>
       <register name="-" type="4">
-        <text>network_connect_failure</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHT05FVmlld1w+</text>
       </register>
       <register name="0" type="4">
-        <text>using_mobile_data_hint</text>
+        <text encoding="base64">JiM4MjMwOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmVra2tra2tra2tra2tra2tra2siCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsbHZfbG9hZGluZy5zdGFydExvYWRpbmcoaGludCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVzZW50TGl2ZVByZXBhcmluZyhmYWxzZSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsbHZfbG9hZGluZy5zdGFydExvYWRpbmcoaGludCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>btn_retry.text = getString(R.string.watch_live_using_mobile_data)
                 tv_loading_hint.text = getString(R.string.using_mobile_data_hint)
                 btn_retry.setOnClickListener {
@@ -1155,10 +1160,10 @@
                     mLivePlayPresenter?.fetchStreamUrls(true)
                 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>btn_retry.text = getString(R.string.retry)
                 tv_loading_hint.text = getString(R.string.network_connect_failure)
                 btn_retry.setOnClickListener {
@@ -1167,14 +1172,8 @@
                     tv_loading_hint.visibility = View.VISIBLE
                 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsbHZfbG9hZGluZy5zdGFydExvYWRpbmcoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGl2ZVBsYXlQcmVzZW50ZXI/LmZldGNoU3RyZWFtVXJscyhmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsbHZfbG9hZGluZy5zdGFydExvYWRpbmcoKQo=</text>
       </register>
     </registers>
     <search>
