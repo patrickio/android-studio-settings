@@ -291,11 +291,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" timestamp="1511141415770">
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="53" column="28" />
-        <mark key="^" line="55" column="37" />
-        <mark key="." line="53" column="28" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" timestamp="1511142518819">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="51" column="42" />
+        <mark key="^" line="51" column="42" />
+        <mark key="." line="51" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510988791306">
         <mark key="[" line="137" column="28" />
@@ -483,11 +483,11 @@
         <mark key="." line="123" column="4" />
         <mark key="^" line="123" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511141432699">
-        <mark key="[" line="192" column="55" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="93" column="72" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511142407050">
+        <mark key="[" line="193" column="74" />
+        <mark key="]" line="193" column="74" />
+        <mark key="." line="193" column="74" />
+        <mark key="^" line="194" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -706,18 +706,24 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1511141836936">
+        <mark key="[" line="265" column="23" />
+        <mark key="]" line="265" column="21" />
+        <mark key="^" line="265" column="21" />
+        <mark key="." line="265" column="21" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1508899982563">
         <mark key="[" line="64" column="38" />
         <mark key="]" line="64" column="39" />
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511141261228">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511142231783">
         <mark key="'" line="85" column="12" />
-        <mark key="[" line="132" column="56" />
-        <mark key="]" line="132" column="59" />
-        <mark key="^" line="132" column="59" />
-        <mark key="." line="132" column="59" />
+        <mark key="[" line="129" column="63" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="132" column="90" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/FastSafeIterableMap.java" timestamp="1510037148299">
         <mark key="[" line="19" column="0" />
@@ -1107,45 +1113,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>invisible</text>
+        <text>60dp</text>
       </register>
       <register name="-" type="4">
-        <text>invisible</text>
+        <text>60dp</text>
       </register>
       <register name="/" type="4">
         <text>pb_live_loading</text>
       </register>
       <register name="0" type="4">
-        <text>btn_retry.visibility = if (success) View.INVISIBLE else  View.VISIBLE
-        pb_live_loading.visibility = if (!success) View.INVISIBLE else  View.VISIBLE
-        tv_loading_hint.visibility = if (!success) View.INVISIBLE else  View.VISIBLE</text>
+        <text>result == LoadStreamResult.SUCCESS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICBwYl9saXZlX2xvYWRpbmcudmlzaWJpbGl0eSA9IGlmIChyZXN1bHQgIT0gTG9hZFN0cmVhbVJlc3VsdC5GQUlMVVJFKSBWaWV3LkdPTkUgZWxzZSAgVmlldy5WSVNJQkxFCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3VjY2VzcyA9IHJlc3VsdCA9PSBMb2FkU3RyZWFtUmVzdWx0LlNVQ0NFU1MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNYXNrIHRoZSBmbGFnIHRvIExpdmVTdGFnZS5FUlIK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ub25Mb2FkU3RyZWFtRmFpbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aWV3Py5vbkxvYWRTdHJlYW1GYWlsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNYXNrIHRoZSBmbGFnIHRvIExpdmVTdGFnZS5FUlIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3Py5vbkxvYWRTdHJlYW1SZXN1bHQoTG9hZFN0cmVhbVJlc3VsdC5TVUNDRVNTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ub25Mb2FkU3RyZWFtRmFpbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aWV3Py5vbkxvYWRTdHJlYW1GYWlsKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">b3ZlcnJpZGUgZnVuIG9uTG9hZFN0cmVhbVJlc3VsdChzdWNjZXNzOiBCb29sZWFuKSB7CiAgICAgICAgYnRuX3JldHJ5LnZpc2liaWxpdHkgPSBpZiAoc3VjY2VzcykgVmlldy5JTlZJU0lCTEUgZWxzZSAgVmlldy5WSVNJQkxFCiAgICAgICAgcGJfbGl2ZV9sb2FkaW5nLnZpc2liaWxpdHkgPSBpZiAoIXN1Y2Nlc3MpIFZpZXcuSU5WSVNJQkxFIGVsc2UgIFZpZXcuVklTSUJMRQogICAgICAgIHR2X2xvYWRpbmdfaGludC52aXNpYmlsaXR5ID0gaWYgKCFzdWNjZXNzKSBWaWV3LklOVklTSUJMRSBlbHNlICBWaWV3LlZJU0lCTEUKICAgIH0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3Py5vbkxvYWRTdHJlYW1SZXN1bHQoTG9hZFN0cmVhbVJlc3VsdC5TVUNDRVNTKQo=</text>
       </register>
     </registers>
     <search>
