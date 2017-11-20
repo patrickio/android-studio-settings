@@ -436,6 +436,12 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1511179586930">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="41" />
+        <mark key="]" line="66" column="41" />
+        <mark key="." line="66" column="41" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_answer_shell.xml" timestamp="1508832601677">
         <mark key="[" line="71" column="56" />
         <mark key="]" line="69" column="31" />
@@ -1084,7 +1090,6 @@
       <jump line="230" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" />
       <jump line="41" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/colors.xml" />
       <jump line="77" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/colors.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
       <jump line="41" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" />
       <jump line="266" column="21" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
@@ -1124,16 +1129,17 @@
       <jump line="14" column="37" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LivePlayFeature.kt" />
       <jump line="27" column="72" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/LiveLoadingView.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stateHidden</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>stateHidden</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHT05FVmlld1w+</text>
+        <text>LiveActivity</text>
       </register>
       <register name="0" type="4">
         <text>if (mLivingStage == LivingStage.EXERCISE) {
@@ -1143,41 +1149,41 @@
                     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICA8IS0tPFByb2dyZXNzQmFyLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvcGJfbGl2ZV9sb2FkaW5nIi0tPgogICAgICAgIDwhLS1zdHlsZT0iQHN0eWxlL0xvYWRpbmdCYXIiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6ZWxldmF0aW9uPSIzZHAiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvc3ZfbGl2ZV92aWRlbyItLT4KICAgICAgICA8IS0tYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9IkBpZC9zdl9saXZlX3ZpZGVvIi0tPgogICAgICAgIDwhLS1hcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9zdl9saXZlX3ZpZGVvIi0tPgogICAgICAgIDwhLS1hcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3N2X2xpdmVfdmlkZW8iLS0+CiAgICAgICAgPCEtLXRvb2xzOnRhcmdldEFwaT0ibG9sbGlwb3AiIC8+LS0+CgogICAgPCEtLTxUZXh0Vmlldy0tPgogICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL3R2X2xvYWRpbmdfaGludCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmdfbG9hZGluZ190eHQiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6c2hhZG93Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2JsYWNrIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOnNoYWRvd0R5PSIyIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOnNoYWRvd1JhZGl1cz0iMyItLT4KICAgICAgICA8IS0tYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2xpdmVfcHJlcGFyaW5nIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS1hcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3BiX2xpdmVfbG9hZGluZyIgLz4tLT4KCiAgICA8IS0tPEJ1dHRvbi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL2J0bl9yZXRyeSItLT4KICAgICAgICA8IS0tc3R5bGU9IkBzdHlsZS9Db21wYXRCdXR0b24uTGl2ZVJldHJ5Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6dGV4dD0iQHN0cmluZy9yZXRyeSItLT4KICAgICAgICA8IS0tYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjEwZHAiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdHZfbG9hZGluZ19oaW50Ii0tPgogICAgICAgIDwhLS1hcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS1hcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIgLz4tLT4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>view?.onLoadStreamResult(LoadStreamResult.SUCCESS)
                     startLivePlaying(getRTMPInfo())</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmVwYXJlUlRNUFN0cmVhbShtb2RlbD8uZ2V0UlRNUEluZm8oKSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgQ01EX1NUUkVBTV9TVEFSVCA9ICJzdHJlYW1fc3RhcnQiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgQ01EX1NUUkVBTV9TVE9QID0gInN0cmVhbV9zdG9wIgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgQ01EX1NUUkVBTV9TVEFSVCA9ICJzdHJlYW1fc3RhcnQiCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHT05FVmlld1w+</last-search>
+      <last-search>LiveActivity</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHT05FVmlld1w+</last-pattern>
+      <last-pattern>LiveActivity</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1186,7 +1192,6 @@
         <entry>now</entry>
         <entry>resume play</entry>
         <entry>top</entry>
-        <entry>LiveActivity</entry>
         <entry>getLoad</entry>
         <entry>onCountdown</entry>
         <entry>onCount</entry>
@@ -1202,6 +1207,7 @@
         <entry>Rabbit</entry>
         <entry>fetch live</entry>
         <entry encoding="base64">XDxHT05FVmlld1w+</entry>
+        <entry>LiveActivity</entry>
       </history-search>
       <history-cmd />
       <history-expr />
