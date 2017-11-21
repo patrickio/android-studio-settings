@@ -129,11 +129,11 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511181600496">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511224565920">
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="50" column="9" />
+        <mark key="." line="50" column="9" />
+        <mark key="^" line="50" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" timestamp="1510801547444">
         <mark key="[" line="231" column="23" />
@@ -644,6 +644,7 @@
         <mark key="." line="56" column="32" />
         <mark key="^" line="56" column="32" />
       </file>
+      <file name="$USER_HOME$/Android/Sdk/sources/android-26/android/inputmethodservice/InputMethodService.java" timestamp="1511224671235" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_loading.xml" timestamp="1511164204842">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -686,10 +687,11 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511181634016">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511224108730">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510714257928">
         <mark key="[" line="159" column="56" />
@@ -829,7 +831,7 @@
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/AndroidManifest.xml" timestamp="1511181890743">
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/AndroidManifest.xml" timestamp="1511224346415">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="52" />
         <mark key="^" line="12" column="66" />
@@ -1028,7 +1030,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1510987345247">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1511182742986">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="77" column="14" />
@@ -1151,49 +1153,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>screenHeight</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>screenHeight</text>
       </register>
       <register name="/" type="4">
-        <text>LiveActivity</text>
+        <text>boardcast</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3IvYmxhY2siPgogICAgICAgIAogICAgPC9hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0iZmFsc2UiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iSGVsbG8gV29ybGQhIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LnJlcXVlc3RMYXlvdXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3VHJlZU9ic2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LmxheW91dFBhcmFtcyA9IENvbnN0cmFpbnRMYXlvdXQuTGF5b3V0UGFyYW1zKHdpZHRoLCBDb25zdHJhaW50TGF5b3V0LkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmRyZWFtLmFuZHJvaWQuc29mdGlucHV0bGlzdGVuZXJkZW1vLlIuaWQuaW5wdXRFZGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LmxheW91dFBhcmFtcyA9IENvbnN0cmFpbnRMYXlvdXQuTGF5b3V0UGFyYW1zKHdpZHRoLCBzY3JlZW5IZWlnaHQgLSBrZXlib2FyZEhlaWdodCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PEVkaXRUZXh0CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pbnB1dEVkaXQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjUwZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIvPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3BlbmdsLkVUQzEuZ2V0SGVpZ2h0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3BlbmdsLkVUQzEuZ2V0SGVpZ2h0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHZpZXcuZ2V0V2luZG93VmlzaWJsZURpc3BsYXlGcmFtZShyKQogICAgICAgICAgICAvLyByLmxlZnQsIHIudG9wLCByLnJpZ2h0LCByLmJvdHRvbQogICAgICAgICAgICBMb2cuZCh0YWcsICJyZWN0OiAkciIpCiAgICAgICAgICAgIHZhbCBoZWlnaHREaWZmID0gbVJvb3RWaWV3LmdldFJvb3RWaWV3KCkuZ2V0SGVpZ2h0KCkgLSBtUm9vdFZpZXcuZ2V0SGVpZ2h0KCkKICAgICAgICAgICAgTG9nLmQodGFnLCAiaGVpZ2h0RGlmZjogJGhlaWdodERpZmYiKQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>LiveActivity</last-search>
+      <last-search>boardcast</last-search>
       <last-offset />
-      <last-pattern>LiveActivity</last-pattern>
+      <last-pattern>boardcast</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1201,7 +1203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
         <entry>now</entry>
         <entry>resume play</entry>
         <entry>top</entry>
@@ -1221,6 +1222,7 @@
         <entry>fetch live</entry>
         <entry encoding="base64">XDxHT05FVmlld1w+</entry>
         <entry>LiveActivity</entry>
+        <entry>boardcast</entry>
       </history-search>
       <history-cmd />
       <history-expr />
