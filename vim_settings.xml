@@ -129,11 +129,10 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511224565920">
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="50" column="9" />
-        <mark key="." line="50" column="9" />
-        <mark key="^" line="50" column="9" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511228840897">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" timestamp="1510801547444">
         <mark key="[" line="231" column="23" />
@@ -687,11 +686,11 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511224108730">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511228815169">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="38" column="61" />
+        <mark key="." line="33" column="8" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510714257928">
         <mark key="[" line="159" column="56" />
@@ -1152,8 +1151,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>screenHeight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>screenHeight</text>
@@ -1165,31 +1164,31 @@
         <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3IvYmxhY2siPgogICAgICAgIAogICAgPC9hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0iZmFsc2UiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LnJlcXVlc3RMYXlvdXQoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LmxheW91dFBhcmFtcyA9IENvbnN0cmFpbnRMYXlvdXQuTGF5b3V0UGFyYW1zKHdpZHRoLCBDb25zdHJhaW50TGF5b3V0LkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LmxheW91dFBhcmFtcyA9IENvbnN0cmFpbnRMYXlvdXQuTGF5b3V0UGFyYW1zKHdpZHRoLCBzY3JlZW5IZWlnaHQgLSBrZXlib2FyZEhlaWdodCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3BlbmdsLkVUQzEuZ2V0SGVpZ2h0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3BlbmdsLkVUQzEuZ2V0SGVpZ2h0Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHZpZXcuZ2V0V2luZG93VmlzaWJsZURpc3BsYXlGcmFtZShyKQogICAgICAgICAgICAvLyByLmxlZnQsIHIudG9wLCByLnJpZ2h0LCByLmJvdHRvbQogICAgICAgICAgICBMb2cuZCh0YWcsICJyZWN0OiAkciIpCiAgICAgICAgICAgIHZhbCBoZWlnaHREaWZmID0gbVJvb3RWaWV3LmdldFJvb3RWaWV3KCkuZ2V0SGVpZ2h0KCkgLSBtUm9vdFZpZXcuZ2V0SGVpZ2h0KCkKICAgICAgICAgICAgTG9nLmQodGFnLCAiaGVpZ2h0RGlmZjogJGhlaWdodERpZmYiKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgdmFsIHJpZ2h0ID0gZmluZFZpZXdCeUlkPENvbnN0cmFpbnRMYXlvdXQ+KFIuaWQucmlnaHQpCgovLyAgICAgICAgdmFsIGxwID0gcmlnaHQubGF5b3V0UGFyYW1zCi8vICAgICAgICB2YWwgaW5wdXQgPSBmaW5kVmlld0J5SWQ8RWRpdFRleHQ+KFIuaWQuaW5wdXRFZGl0KQovLyAgICAgICAgaW5wdXQuc2V0T25Gb2N1c0NoYW5nZUxpc3RlbmVyIHsgXywgaGFzRm9jdXMgLT4KLy8gICAgICAgICAgICBpZiAoaGFzRm9jdXMpIHsKLy8gICAgICAgICAgICAgICAgcmlnaHQubGF5b3V0UGFyYW1zID0gbHAuYXBwbHkgeyBoZWlnaHQgPSBzY3JlZW5IZWlnaHQgLSBrZXlib2FyZEhlaWdodCB9Ci8vICAgICAgICAgICAgICAgIExvZy5kKHRhZywgImxheW91dFBhcmFtczogJHtyaWdodC5sYXlvdXRQYXJhbXMuaGVpZ2h0fSIpCi8vICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgcmlnaHQubGF5b3V0UGFyYW1zID0gbHAKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PEVkaXRUZXh0CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaW5wdXRFZGl0IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjUwZHAiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiLz4=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkVkaXRUZXh0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0iZmFsc2UiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LnJlcXVlc3RMYXlvdXQoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0LmxheW91dFBhcmFtcyA9IENvbnN0cmFpbnRMYXlvdXQuTGF5b3V0UGFyYW1zKHdpZHRoLCBDb25zdHJhaW50TGF5b3V0LkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQpCg==</text>
       </register>
     </registers>
     <search>
