@@ -27,12 +27,6 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_top_bar.xml" timestamp="1510832409958">
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="19" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1510717981957">
         <mark key="[" line="261" column="62" />
         <mark key="]" line="261" column="62" />
@@ -123,11 +117,11 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveHudFragment.kt" timestamp="1511256604876">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="41" column="34" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveHudFragment.kt" timestamp="1511256713994">
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="49" />
+        <mark key="^" line="38" column="70" />
+        <mark key="." line="38" column="49" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511229023176">
         <mark key="[" line="46" column="0" />
@@ -776,7 +770,6 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1511256412019" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1510718023609">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -927,11 +920,10 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511256504277">
-        <mark key="[" line="325" column="59" />
-        <mark key="]" line="325" column="60" />
-        <mark key="." line="325" column="60" />
-        <mark key="^" line="324" column="51" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511256753786">
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511253581949">
         <mark key="[" line="142" column="0" />
@@ -1153,10 +1145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiUGxheWVyU3RhdGU6ICRwbGF5ZXJTdGF0ZSwgZnBzOiAkdmlkZW9GcHMsIGJpdHJhdGU6ICR2aWRlb0JpdHJhdGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SECONDS</text>
+        <text encoding="base64">dmlkZW8g</text>
       </register>
       <register name="/" type="4">
         <text>boardcast</text>
@@ -1165,37 +1157,31 @@
         <text encoding="base64">PEZyYW1lTGF5b3V0CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mbF9sZWZ0X2NvbnRhaW5lciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iOTJkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjM0N2RwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL2FjdGlvbl9iYXJfaGVpZ2h0IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3IvYmxhY2siCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiUGxheWVyU3RhdGU6ICRwbGF5ZXJTdGF0ZSwgZnBzOiAkdmlkZW9GcHMsIGJpdHJhdGU6ICR2aWRlb0JpdHJhdGUiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJlcnJvcjogJGl0IikK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgIDxUZXh0VmlldwogICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0Vmlldy5MaXZlSHVkIgogICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl9pc19wbGF5aW5nIgogICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0dl9pc19wbGF5aW5nLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcubGl2ZV9odWRfaXNfcGxheWluZywgaWYgKGlzUGxheWluZykgInBsYXlpbmciIGVsc2UgImlkbGUiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxDaGVjawo=</text>
       </register>
-      <register name="8" type="4">
-        <text>mLivePlayerBox.mLivePlayer?.run {
-            tv_play_state.text = getString(R.string.live_hud_player_state, playerState.toString())
-            tv_video_fps.text = getString(R.string.live_hud_video_fps, videoFps)
-            tv_video_bitrate.text = getString(R.string.live_hud_video_bitrate, videoBitrate)
-            tv_video_size.text = getString(R.string.live_hud_video_size, &quot;$videoWidth x $videoHeight&quot;)
-            tv_is_playing.text = getString(R.string.live_hud_is_playing, if (isPlaying) &quot;playing&quot; else &quot;idle&quot;)
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGl2ZV9odWRfaXNfcGxheWluZyI+aXMgcGxheWluZzolMSRzPC9zdHJpbmc+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiUGxheWVyU3RhdGU6ICRwbGF5ZXJTdGF0ZSwgZnBzOiAkdmlkZW9GcHMsIGJpdHJhdGU6ICR2aWRlb0JpdHJhdGUiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJlcnJvcjogJGl0IikK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgIDxUZXh0VmlldwogICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0Vmlldy5MaXZlSHVkIgogICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl9pc19wbGF5aW5nIgogICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0dl9pc19wbGF5aW5nLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcubGl2ZV9odWRfaXNfcGxheWluZywgaWYgKGlzUGxheWluZykgInBsYXlpbmciIGVsc2UgImlkbGUiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHZfcGxheV9zdGF0ZS50ZXh0ID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmxpdmVfaHVkX3BsYXllcl9zdGF0ZSwgcGxheWVyU3RhdGUudG9TdHJpbmcoKSkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
