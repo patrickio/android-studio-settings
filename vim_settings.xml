@@ -942,11 +942,10 @@
         <mark key="]" line="323" column="0" />
         <mark key="." line="323" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511330093346">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="145" column="17" />
-        <mark key="." line="145" column="17" />
-        <mark key="^" line="145" column="17" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511333536116">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
@@ -1162,7 +1161,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjMiCg==</text>
       </register>
       <register name="-" type="4">
         <text>confirm_submit_answer</text>
@@ -1174,38 +1173,38 @@
         <text encoding="base64">aW50ZXJuYWwgZnVuIExvbmcuZm9ybWF0MlRpbWVTdHJpbmcoKTogU3RyaW5nIHsKICAgIGlmICh0aGlzID49IDApIHsKICAgICAgICB2YWwgZGF5ID0gdGhpcyAvIEM2CiAgICAgICAgdmFsIGhvdXIgPSAodGhpcyAtIGRheSAqIEM2KSAvIEM1CiAgICAgICAgdmFsIG1pbnV0ZSA9ICh0aGlzIC0gZGF5ICogQzYgLSBob3VyICogQzUpIC8gQzQKICAgICAgICB2YWwgc2Vjb25kID0gKHRoaXMgLSBkYXkgKiBDNiAtIGhvdXIgKiBDNSAtIG1pbnV0ZSAqIEM0KSAvIEMzCiAgICAgICAgcmV0dXJuIFN0cmluZ0J1aWxkZXIoKS5hcHBseSB7CiAgICAgICAgICAgIGlmIChkYXkgIT0gMEwpIHsKICAgICAgICAgICAgICAgIGFwcGVuZChkYXkpLmFwcGVuZCgi5aSpICIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGhvdXIgIT0gMEwpIHsKICAgICAgICAgICAgICAgIGFwcGVuZChob3VyKS5hcHBlbmQoIjoiKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChtaW51dGUgPCAxMCkgewogICAgICAgICAgICAgICAgYXBwZW5kKCIwJG1pbnV0ZToiKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYXBwZW5kKCIkbWludXRlOiIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHNlY29uZCA8IDEwKSB7CiAgICAgICAgICAgICAgICBhcHBlbmQoIjAkc2Vjb25kIikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGFwcGVuZCgiJHNlY29uZCIpCiAgICAgICAgICAgIH0KCiAgICAgICAgfS50b1N0cmluZygpCiAgICB9CiAgICByZXR1cm4gIiIKfQ==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjMiCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if (hour != 0L) {
                 append(hour).append(&quot;:&quot;)
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldFN0cmluZyhnLmNvbmZpcm1fc3VibWl0X2Fuc3dlcikK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT0gZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbmZpcm1fc3VibWl0X2Fuc3dlcikK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
         var done = false
         
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>forEach { 
             if (it.isHaveReply) 
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZWRpYVBsYXllci5yZXNldCgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
