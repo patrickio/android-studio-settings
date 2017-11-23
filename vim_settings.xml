@@ -152,11 +152,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1511429596321">
-        <mark key="[" line="302" column="47" />
-        <mark key="]" line="302" column="50" />
-        <mark key="." line="302" column="50" />
-        <mark key="^" line="302" column="50" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1511430425187">
+        <mark key="[" line="304" column="8" />
+        <mark key="]" line="304" column="8" />
+        <mark key="." line="304" column="8" />
+        <mark key="^" line="303" column="86" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -1187,10 +1187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>mAlertDialog</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>mAlertDialog</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Z2V0IGxpdmUg</text>
@@ -1206,33 +1206,33 @@
         }.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXN0ZW5lcj8ub25GcmFnbWVudEludGVyYWN0aW9uKExpdmVQbGF5RnJhZ21lbnQ6OmNsYXNzLmphdmEuc2ltcGxlTmFtZSwgQUNUSU9OX0hPTUVfVVAsIG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICBtQWxlcnREaWFsb2c/LmRpc21pc3MoKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1MaXZlU2NvcmluZ0RpYWxvZz8uZGlzbWlzcygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1BbGVydERpYWxvZzogTGl2ZUFsZXJ0RGlhbG9nPyA9IG51bGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXN0ZW5lcj8ub25GcmFnbWVudEludGVyYWN0aW9uKExpdmVQbGF5RnJhZ21lbnQ6OmNsYXNzLmphdmEuc2ltcGxlTmFtZSwgQUNUSU9OX0hPTUVfVVAsIG51bGwpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>it?.apply {
 //                                    view?.onExerciseStatisticChanged(F_correct_num, F_finish_num, F_rank)
 //                                }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBwcmVzZW50IHRoZSBwbGFjZWhvbGRlciBmaXJzdAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3Py5vbkV4ZXJjaXNlU3RhdGlzdGljQ2hhbmdlZCgwLCAwLCAwKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuayA9IGlmIChwYWlyLmZpcnN0ID09IGNvcnJlY3ROdW0pIGluZGV4ICsgMSBlbHNlIHJhbmsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuayA9IGlmIChwYWlyLmZpcnN0ID09IGNvcnJlY3ROdW0pIGluZGV4ICsgMSBlbHNlIHJhbmsK</text>
       </register>
     </registers>
     <search>
