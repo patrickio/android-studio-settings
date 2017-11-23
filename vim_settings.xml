@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1511319724719">
         <mark key="[" line="125" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1511317206519">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1511409739100">
         <mark key="'" line="54" column="16" />
-        <mark key="[" line="257" column="35" />
-        <mark key="]" line="258" column="7" />
-        <mark key="^" line="258" column="7" />
-        <mark key="." line="258" column="7" />
+        <mark key="[" line="197" column="49" />
+        <mark key="]" line="197" column="16" />
+        <mark key="^" line="197" column="16" />
+        <mark key="." line="197" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveChatFeature.kt" timestamp="1510712054260">
         <mark key="[" line="44" column="39" />
@@ -43,7 +43,8 @@
         <mark key="." line="40" column="37" />
         <mark key="^" line="40" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1509520749293">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1511409399854">
+        <mark key="'" line="148" column="8" />
         <mark key="[" line="88" column="25" />
         <mark key="]" line="88" column="25" />
         <mark key="." line="88" column="25" />
@@ -505,11 +506,11 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/Helper.kt" timestamp="1510987308167">
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="153" column="5" />
-        <mark key="." line="123" column="4" />
-        <mark key="^" line="123" column="3" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/Helper.kt" timestamp="1511409710652">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511164128018">
         <mark key="[" line="155" column="0" />
@@ -522,6 +523,9 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="48" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" timestamp="1511409450798">
+        <mark key="'" line="238" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ReplayApis.kt" timestamp="1510988883913">
         <mark key="[" line="35" column="0" />
@@ -1066,10 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="174" column="75" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="181" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
-      <jump line="193" column="28" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="212" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="214" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="27" column="6" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
@@ -1166,16 +1166,20 @@
       <jump line="293" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="206" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
       <jump line="51" column="15" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" />
+      <jump line="109" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
+      <jump line="148" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
+      <jump line="234" column="27" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
+      <jump line="238" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2419200</text>
+        <text>System</text>
       </register>
       <register name="-" type="4">
-        <text>2419200</text>
+        <text>System</text>
       </register>
       <register name="/" type="4">
-        <text>mOffline</text>
+        <text>button</text>
       </register>
       <register name="0" type="4">
         <text>companion object {
@@ -1188,12 +1192,24 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgb3JpZ2luYWxSZXEgPSBjaGFpbi5yZXF1ZXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm93ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbm93ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobm93IC0gbUxhc3RDbGlja1RpbWUgPCBtVmFsaWRDbGlja0ludGVydmFsKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgb3JpZ2luYWxSZXEgPSBjaGFpbi5yZXF1ZXN0KCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>if (!Helper.isNetworkReachable(context)) {
 //            request = request.newBuilder()
 //                    .cacheControl(CacheControl.FORCE_CACHE)
@@ -1217,29 +1233,17 @@
 //                    .build()
 //        }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLnQoVEFHKS53KCJubyBuZXR3b3JrIik7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAg5L2c6ICF77yabmV2ZXI2MTUKICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvOWMzYjRlYTEwOGE3CiAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCiAgICAgICAgY2hhaW4ucHJvY2VlZChvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgICAgICAvLyBBZGQgQ2FjaGUgQ29udHJvbCBvbmx5IGZvciBHRVQgbWV0aG9kcwogICAgICAgICAgICBpZiAob3JpZ2luYWxSZXEubWV0aG9kKCkgPT0gIkdFVCIpIHsKICAgICAgICAgICAgICAgIGlmIChIZWxwZXIuaXNOZXR3b3JrUmVhY2hhYmxlKGNvbnRleHQpKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gMSBkYXkKICAgICAgICAgICAgICAgICAgICBoZWFkZXIoIkNhY2hlLUNvbnRyb2wiLCAib25seS1pZi1jYWNoZWQiKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvLyA0IHdlZWtzIHN0YWxlCiAgICAgICAgICAgICAgICAgICAgaGVhZGVyKCJDYWNoZS1Db250cm9sIiwgInB1YmxpYywgbWF4LXN0YWxlPTI0MTkyMDAiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfS5idWlsZCgpKQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>mOffline</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>mOffline</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1247,8 +1251,6 @@
     </search>
     <history>
       <history-search>
-        <entry>top</entry>
-        <entry>getLoad</entry>
         <entry>onCountdown</entry>
         <entry>onCount</entry>
         <entry>pause playing live</entry>
@@ -1267,6 +1269,8 @@
         <entry>boardcast</entry>
         <entry>hide</entry>
         <entry>mOffline</entry>
+        <entry>adapter</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd />
       <history-expr />
