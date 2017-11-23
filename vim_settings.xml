@@ -231,11 +231,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="31" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511421494063">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="31" column="12" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511434189164">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="48" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_grade_choose.xml" timestamp="1508897228878">
         <mark key="[" line="17" column="26" />
@@ -1186,8 +1186,8 @@
       <jump line="391" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mAlertDialog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByYWJiaXRNUURvbWFpbiA9ICIxMTkuMjMuMTc1LjY4Igo=</text>
       </register>
       <register name="-" type="4">
         <text>mAlertDialog</text>
@@ -1206,33 +1206,33 @@
         }.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtQWxlcnREaWFsb2c/LmRpc21pc3MoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByYWJiaXRNUURvbWFpbiA9ICIxMTkuMjMuMTc1LjY4Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1MaXZlU2NvcmluZ0RpYWxvZz8uZGlzbWlzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBtQWxlcnREaWFsb2c/LmRpc21pc3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1BbGVydERpYWxvZzogTGl2ZUFsZXJ0RGlhbG9nPyA9IG51bGwK</text>
+        <text encoding="base64">Ly8gICAgICAgIG1MaXZlU2NvcmluZ0RpYWxvZz8uZGlzbWlzcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXN0ZW5lcj8ub25GcmFnbWVudEludGVyYWN0aW9uKExpdmVQbGF5RnJhZ21lbnQ6OmNsYXNzLmphdmEuc2ltcGxlTmFtZSwgQUNUSU9OX0hPTUVfVVAsIG51bGwpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1BbGVydERpYWxvZzogTGl2ZUFsZXJ0RGlhbG9nPyA9IG51bGwK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXN0ZW5lcj8ub25GcmFnbWVudEludGVyYWN0aW9uKExpdmVQbGF5RnJhZ21lbnQ6OmNsYXNzLmphdmEuc2ltcGxlTmFtZSwgQUNUSU9OX0hPTUVfVVAsIG51bGwpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>it?.apply {
 //                                    view?.onExerciseStatisticChanged(F_correct_num, F_finish_num, F_rank)
 //                                }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBwcmVzZW50IHRoZSBwbGFjZWhvbGRlciBmaXJzdAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkV4ZXJjaXNlU3RhdGlzdGljQ2hhbmdlZCgwLCAwLCAwKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuayA9IGlmIChwYWlyLmZpcnN0ID09IGNvcnJlY3ROdW0pIGluZGV4ICsgMSBlbHNlIHJhbmsK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py5vbkV4ZXJjaXNlU3RhdGlzdGljQ2hhbmdlZCgwLCAwLCAwKQo=</text>
       </register>
     </registers>
     <search>
