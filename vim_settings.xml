@@ -343,11 +343,10 @@
         <mark key="]" line="12" column="72" />
         <mark key="." line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1511422225625">
-        <mark key="[" line="47" column="44" />
-        <mark key="]" line="73" column="75" />
-        <mark key="." line="73" column="75" />
-        <mark key="^" line="73" column="75" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1511424106840">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -1168,11 +1167,11 @@
       <jump line="238" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>iv_qr_code</text>
       </register>
       <register name="-" type="4">
-        <text>nd_toEnd</text>
+        <text>iv_qr_code</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -1181,28 +1180,28 @@
         <text encoding="base64">cXJJbWdSZXMgPSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCg==</text>
+        <text encoding="base64">ICAgICAgICBpdl9xcl9jb2RlLnZpc2liaWxpdHkgPSBpZiAoc3ViamVjdCA9PSAwKSBWaWV3LklOVklTSUJMRSBlbHNlIFZpZXcuVklTSUJMRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQCtpZC9pdl9xcl9jb2RlIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL3R2X3FyX2NvZGVfaGludCIK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQCtpZC9pdl9xcl9jb2RlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Igo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">d2hlbiAoc3ViamVjdCkgewogICAgICAgICAgICBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX0NISU5FU0UgLT4gUi5kcmF3YWJsZS5pbWdfcXJfY2hpbmVzZQogICAgICAgICAgICBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX01BVEggLT4gUi5kcmF3YWJsZS5pbWdfcXJfbWF0aAogICAgICAgICAgICBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX0VOR0xJU0ggLT4gUi5kcmF3YWJsZS5pbWdfcXJfZW5nbGlzaAogICAgICAgICAgICBlbHNlIC0+IDAKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0iQGlkL3R2X3FyX2NvZGVfaGludCIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
