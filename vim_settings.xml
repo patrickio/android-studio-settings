@@ -963,10 +963,10 @@
         <mark key="." line="335" column="58" />
         <mark key="^" line="335" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511417538364">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511440044440">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
@@ -1186,7 +1186,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjQiCg==</text>
       </register>
       <register name="-" type="4">
         <text>isAdded</text>
@@ -1204,29 +1204,32 @@
         }</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjQiCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if (mWhiteboardFragment?.isVisible == true) {
             mWhiteboardFragment?.presentLiveWatchLong(liveLong, watchLong)
         } else {
             
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>mHandler.postDelayed({
                 mWhiteboardFragment?.presentLiveWatchLong(liveLong, watchLong)
             }, 500)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>mHandler.post {
             
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>layout_live_scoring?.visibility = View.VISIBLE
             progress?.visibility = View.VISIBLE
             tv_live_duration?.visibility = View.INVISIBLE
@@ -1237,14 +1240,11 @@
                 })
             }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5wb3N0IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
