@@ -91,11 +91,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511406186110">
-        <mark key="[" line="69" column="28" />
-        <mark key="]" line="69" column="28" />
-        <mark key="." line="69" column="28" />
-        <mark key="^" line="74" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511407638786">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="60" column="80" />
+        <mark key="]" line="60" column="80" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="60" column="80" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" timestamp="1508845649325">
         <mark key="[" line="93" column="51" />
@@ -1065,7 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="72" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="174" column="75" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
       <jump line="181" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" />
@@ -1165,13 +1165,14 @@
       <jump line="255" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="293" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="206" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" />
+      <jump line="51" column="15" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>2419200</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>2419200</text>
       </register>
       <register name="/" type="4">
         <text>mOffline</text>
@@ -1187,31 +1188,52 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLnQoVEFHKS53KCJubyBuZXR3b3JrIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgb3JpZ2luYWxSZXEgPSBjaGFpbi5yZXF1ZXN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAg5L2c6ICF77yabmV2ZXI2MTUKICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvOWMzYjRlYTEwOGE3CiAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCiAgICAgICAgY2hhaW4ucHJvY2VlZChvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgICAgICAvLyBBZGQgQ2FjaGUgQ29udHJvbCBvbmx5IGZvciBHRVQgbWV0aG9kcwogICAgICAgICAgICBpZiAob3JpZ2luYWxSZXEubWV0aG9kKCkgPT0gIkdFVCIpIHsKICAgICAgICAgICAgICAgIGlmIChIZWxwZXIuaXNOZXR3b3JrUmVhY2hhYmxlKGNvbnRleHQpKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gMSBkYXkKICAgICAgICAgICAgICAgICAgICBoZWFkZXIoIkNhY2hlLUNvbnRyb2wiLCAib25seS1pZi1jYWNoZWQiKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvLyA0IHdlZWtzIHN0YWxlCiAgICAgICAgICAgICAgICAgICAgaGVhZGVyKCJDYWNoZS1Db250cm9sIiwgInB1YmxpYywgbWF4LXN0YWxlPTI0MTkyMDAiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfS5idWlsZCgpKQ==</text>
+        <text>if (!Helper.isNetworkReachable(context)) {
+//            request = request.newBuilder()
+//                    .cacheControl(CacheControl.FORCE_CACHE)
+//                    .build()
+//        }
+//
+//        val response = chain.proceed(request)
+//        if (Helper.isNetworkReachable(applicationContext)) {
+//            val maxAge = 0
+//            // 有网络时 设置缓存超时时间0个小时
+//            response.newBuilder()
+//                    .header(&quot;Cache-Control&quot;, &quot;public, max-age=&quot; + maxAge)
+//                    .removeHeader(&quot;Pragma&quot;)// 清除头信息
+//                    .build()
+//        } else {
+//
+//            val maxStale = 2419200
+//            response.newBuilder()
+//                    .header(&quot;Cache-Control&quot;, &quot;public, only-if-cached, max-stale=&quot; + maxStale)
+//                    .removeHeader(&quot;Pragma&quot;)
+//                    .build()
+//        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLnQoVEFHKS53KCJubyBuZXR3b3JrIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAg5L2c6ICF77yabmV2ZXI2MTUKICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvOWMzYjRlYTEwOGE3CiAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCiAgICAgICAgY2hhaW4ucHJvY2VlZChvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkuYXBwbHkgewogICAgICAgICAgICAvLyBBZGQgQ2FjaGUgQ29udHJvbCBvbmx5IGZvciBHRVQgbWV0aG9kcwogICAgICAgICAgICBpZiAob3JpZ2luYWxSZXEubWV0aG9kKCkgPT0gIkdFVCIpIHsKICAgICAgICAgICAgICAgIGlmIChIZWxwZXIuaXNOZXR3b3JrUmVhY2hhYmxlKGNvbnRleHQpKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gMSBkYXkKICAgICAgICAgICAgICAgICAgICBoZWFkZXIoIkNhY2hlLUNvbnRyb2wiLCAib25seS1pZi1jYWNoZWQiKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvLyA0IHdlZWtzIHN0YWxlCiAgICAgICAgICAgICAgICAgICAgaGVhZGVyKCJDYWNoZS1Db250cm9sIiwgInB1YmxpYywgbWF4LXN0YWxlPTI0MTkyMDAiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfS5idWlsZCgpKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmlnaW5hbFJlcS5uZXdCdWlsZGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
     </registers>
     <search>
