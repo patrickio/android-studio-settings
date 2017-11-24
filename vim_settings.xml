@@ -190,6 +190,12 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="101" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_course_detail.xml" timestamp="1511493088558">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="34" />
+        <mark key="." line="45" column="34" />
+        <mark key="^" line="42" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_main.xml" timestamp="1508472091928">
         <mark key="[" line="112" column="39" />
         <mark key="]" line="112" column="41" />
@@ -1171,11 +1177,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>特色</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>adapter</text>
