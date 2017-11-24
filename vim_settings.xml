@@ -86,6 +86,11 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_subject_teacher.xml" timestamp="1511488343417">
+        <mark key="[" line="141" column="33" />
+        <mark key="]" line="141" column="35" />
+        <mark key="." line="141" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/.gitignore" timestamp="1507712488132">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="10" />
@@ -966,10 +971,10 @@
         <mark key="." line="335" column="58" />
         <mark key="^" line="335" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511440044440">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511488240447">
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
@@ -1188,11 +1193,11 @@
       <jump line="391" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>特色</text>
       </register>
       <register name="-" type="4">
-        <text>isAdded</text>
+        <text>特色</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Z2V0IGxpdmUg</text>
