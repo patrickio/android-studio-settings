@@ -117,10 +117,11 @@
         <mark key="." line="38" column="42" />
         <mark key="^" line="45" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/CircleImageTransform.kt" timestamp="1511496033393">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/CircleImageTransform.kt" timestamp="1511505217293">
         <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+        <mark key="]" line="15" column="64" />
+        <mark key="." line="15" column="64" />
+        <mark key="^" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1505552394355">
         <mark key="[" line="35" column="0" />
@@ -204,6 +205,11 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/dimens.xml" timestamp="1511504681527">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_main.xml" timestamp="1508472091928">
         <mark key="[" line="112" column="39" />
@@ -516,7 +522,7 @@
         <mark key="^" line="69" column="58" />
         <mark key="." line="69" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/gradle.properties" timestamp="1511483209061">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/gradle.properties" timestamp="1511505206260">
         <mark key="[" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/menu/menu_main_activity.xml" timestamp="1505878944375">
@@ -827,11 +833,11 @@
         <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SubjectDetailActivity.kt" timestamp="1511400386623">
-        <mark key="'" line="206" column="16" />
-        <mark key="[" line="267" column="54" />
-        <mark key="]" line="267" column="53" />
-        <mark key="^" line="267" column="53" />
-        <mark key="." line="267" column="53" />
+        <mark key="'" line="207" column="16" />
+        <mark key="[" line="268" column="54" />
+        <mark key="]" line="268" column="53" />
+        <mark key="^" line="268" column="53" />
+        <mark key="." line="268" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -1203,10 +1209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>adapter</text>
