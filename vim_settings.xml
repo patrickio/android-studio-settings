@@ -27,7 +27,8 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1511319724719">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1511489963383">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="125" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1511409739100">
@@ -116,6 +117,7 @@
         <mark key="." line="38" column="42" />
         <mark key="^" line="45" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/CircleImageTransform.kt" timestamp="1511490506493" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1505552394355">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="58" />
@@ -133,11 +135,6 @@
         <mark key="]" line="38" column="49" />
         <mark key="^" line="38" column="70" />
         <mark key="." line="38" column="49" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511229023176">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" timestamp="1510801547444">
         <mark key="[" line="231" column="23" />
@@ -343,11 +340,6 @@
         <mark key="^" line="84" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/LiveCmd.kt" timestamp="1511167315379">
-        <mark key="[" line="12" column="71" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="72" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1511486069347">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -437,11 +429,6 @@
         <mark key="]" line="53" column="4" />
         <mark key="." line="53" column="4" />
         <mark key="^" line="53" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApisConstrant.kt" timestamp="1510988985230">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/drawable-v21/btn_leave_live.xml" timestamp="1505393436982">
         <mark key="[" line="2" column="26" />
@@ -971,10 +958,10 @@
         <mark key="." line="335" column="58" />
         <mark key="^" line="335" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511488240447">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511491243687">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
@@ -1021,11 +1008,6 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiException.kt" timestamp="1510988759047">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/bg_live_scoring.xml" timestamp="1509590051751">
         <mark key="[" line="8" column="75" />
         <mark key="]" line="9" column="15" />
@@ -1047,11 +1029,6 @@
         <mark key="]" line="16" column="37" />
         <mark key="^" line="5" column="59" />
         <mark key="." line="16" column="37" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live.xml" timestamp="1511256057013">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/DeviceUuidHelper.kt" timestamp="1510046062299">
         <mark key="[" line="41" column="9" />
@@ -1138,7 +1115,6 @@
       <jump line="41" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" />
       <jump line="266" column="21" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="173" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="53" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
       <jump line="238" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
@@ -1191,16 +1167,17 @@
       <jump line="238" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
       <jump line="5" column="44" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_scoring.xml" />
       <jump line="391" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>特色</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
       </register>
       <register name="-" type="4">
         <text>特色</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Z2V0IGxpdmUg</text>
+        <text>adapter</text>
       </register>
       <register name="0" type="4">
         <text>if (mWhiteboardFragment?.isAdded == true) {
@@ -1212,44 +1189,40 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>title = getString(R.string.qr_hint_title_english)
                 qqNum = &quot;457029143&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>title = getString(R.string.qr_hint_title_math)
                 qqNum = &quot;348971028&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>title = getString(R.string.qr_hint_title_chinese)
                 qqNum = &quot;124721694&quot;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHFxTnVtID0gIjEyNDcyMTY5NCIK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjQiCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (mWhiteboardFragment?.isVisible == true) {
-            mWhiteboardFragment?.presentLiveWatchLong(liveLong, watchLong)
-        } else {
-            
-        }</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Z2V0IGxpdmUg</last-search>
+      <last-search>adapter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Z2V0IGxpdmUg</last-pattern>
+      <last-pattern>adapter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1274,9 +1247,9 @@
         <entry>boardcast</entry>
         <entry>hide</entry>
         <entry>mOffline</entry>
-        <entry>adapter</entry>
         <entry>button</entry>
         <entry encoding="base64">Z2V0IGxpdmUg</entry>
+        <entry>adapter</entry>
       </history-search>
       <history-cmd />
       <history-expr />
