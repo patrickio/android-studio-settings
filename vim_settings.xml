@@ -332,7 +332,7 @@
         <mark key="^" line="7" column="57" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" timestamp="1510989007215">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/SourceFragment.kt" timestamp="1511485933328">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="84" column="24" />
@@ -343,11 +343,11 @@
         <mark key="]" line="12" column="72" />
         <mark key="." line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1511438704788">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="7" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1511486069347">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="64" column="15" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/LiveBaseModel.kt" timestamp="1505804130112">
         <mark key="[" line="4" column="0" />
@@ -1189,7 +1189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>isAdded</text>
@@ -1207,47 +1207,38 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
+        <text>title = getString(R.string.qr_hint_title_english)
+                qqNum = &quot;457029143&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text>title = getString(R.string.qr_hint_title_math)
+                qqNum = &quot;348971028&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text>title = getString(R.string.qr_hint_title_chinese)
+                qqNum = &quot;124721694&quot;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHFxTnVtID0gIjEyNDcyMTY5NCIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMC4yLjQiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
         <text>if (mWhiteboardFragment?.isVisible == true) {
             mWhiteboardFragment?.presentLiveWatchLong(liveLong, watchLong)
         } else {
             
         }</text>
-      </register>
-      <register name="4" type="4">
-        <text>mHandler.postDelayed({
-                mWhiteboardFragment?.presentLiveWatchLong(liveLong, watchLong)
-            }, 500)</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>mHandler.post {
-            
-        }</text>
-      </register>
-      <register name="7" type="4">
-        <text>layout_live_scoring?.visibility = View.VISIBLE
-            progress?.visibility = View.VISIBLE
-            tv_live_duration?.visibility = View.INVISIBLE
-            tv_watch_duration?.visibility = View.INVISIBLE
-            btn_leave_live?.setOnClickListener {
-                mListener?.onFragmentInteraction(TAG, ACTION_SUBMIT_AND_LEAVE, Bundle().apply {
-                    putInt(LiveWhiteboardFragment.EXTRA_LIVE_SCORE, sv_stars.lightupStarsNum * 2)
-                })
-            }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
