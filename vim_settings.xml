@@ -98,9 +98,9 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511407638786">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511491955762">
         <mark key="'" line="52" column="15" />
-        <mark key="[" line="60" column="80" />
+        <mark key="[" line="85" column="37" />
         <mark key="]" line="60" column="80" />
         <mark key="^" line="26" column="43" />
         <mark key="." line="60" column="80" />
@@ -958,10 +958,11 @@
         <mark key="." line="335" column="58" />
         <mark key="^" line="335" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511491243687">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511492092864">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
