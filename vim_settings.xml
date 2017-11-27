@@ -493,11 +493,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="55" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1511772609314">
-        <mark key="[" line="135" column="18" />
-        <mark key="]" line="135" column="18" />
-        <mark key="^" line="128" column="7" />
-        <mark key="." line="135" column="18" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1511773532052">
+        <mark key="[" line="138" column="37" />
+        <mark key="]" line="139" column="35" />
+        <mark key="." line="139" column="35" />
+        <mark key="^" line="139" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1509517178302">
         <mark key="[" line="75" column="48" />
@@ -532,9 +532,10 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511771266417">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511772769897">
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
+        <mark key="^" line="226" column="20" />
         <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
@@ -1203,10 +1204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG1MaXZlRXhlY3V0b3Iuc3VibWl0T25Bbnk=</text>
+        <text>palyer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1MaXZlRXhlY3V0b3Iuc3VibWl0T25Bbnk=</text>
+        <text>palyer</text>
       </register>
       <register name="/" type="4">
         <text>v_bottom</text>
@@ -1220,32 +1221,22 @@
             }, 500)
         }</text>
       </register>
-      <register name="1" type="4">
-        <text>mLiveExecutor.submitOnAny {
-            
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoInJlc3VtZSBsaXZlIHBsYXllciBwbGF5aW5nIikK</text>
       </register>
-      <register name="2" type="4">
-        <text>try {
-                mLivePlayer?.stop()
-            } catch (e: IllegalStateException) {
-                Timber.e(&quot;stop playing live error: $e&quot;)
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>if (isPlaying) {
+                stopPlayingLive()
             }</text>
-      </register>
-      <register name="3" type="4">
-        <text>mLiveExecutor.submitOnAny {
-            
-        }</text>
-      </register>
-      <register name="4" type="4">
-        <text>try {
-                mLivePlayer?.pause()
-            } catch (e: IllegalStateException) {
-                Timber.e(&quot;pause playing live error: $e&quot;)
-            }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
         <text>mLiveExecutor.submitOnAny {
@@ -1254,18 +1245,22 @@
       </register>
       <register name="7" type="4">
         <text>try {
-                mLivePlayer?.start()
+                mLivePlayer?.stop()
             } catch (e: IllegalStateException) {
-                Timber.e(&quot;resume playing live error: $e&quot;)
+                Timber.e(&quot;stop playing live error: $e&quot;)
             }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>mLiveExecutor.submitOnAny {
             
         }</text>
+      </register>
+      <register name="9" type="4">
+        <text>try {
+                mLivePlayer?.pause()
+            } catch (e: IllegalStateException) {
+                Timber.e(&quot;pause playing live error: $e&quot;)
+            }</text>
       </register>
     </registers>
     <search>
