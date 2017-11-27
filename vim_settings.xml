@@ -98,7 +98,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511491955762">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511768720952">
         <mark key="'" line="52" column="15" />
         <mark key="[" line="85" column="37" />
         <mark key="]" line="60" column="80" />
@@ -176,7 +176,7 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511438722478">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511769521538">
         <mark key="'" line="386" column="41" />
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="42" />
@@ -253,11 +253,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="31" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511506522683">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511768834393">
         <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="16" />
+        <mark key="]" line="31" column="12" />
         <mark key="^" line="31" column="16" />
-        <mark key="." line="31" column="16" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_grade_choose.xml" timestamp="1508897228878">
         <mark key="[" line="17" column="26" />
@@ -498,11 +498,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="55" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1511766456213">
-        <mark key="[" line="140" column="45" />
-        <mark key="]" line="141" column="43" />
-        <mark key="." line="141" column="43" />
-        <mark key="^" line="141" column="43" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1511769216207">
+        <mark key="[" line="148" column="37" />
+        <mark key="]" line="149" column="35" />
+        <mark key="^" line="149" column="35" />
+        <mark key="." line="149" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1509517178302">
         <mark key="[" line="75" column="48" />
@@ -537,11 +537,11 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511766129559">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511769231964">
         <mark key="[" line="228" column="13" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="151" column="23" />
+        <mark key="]" line="230" column="20" />
+        <mark key="." line="230" column="20" />
+        <mark key="^" line="230" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1209,10 +1209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>v_bottom</text>
