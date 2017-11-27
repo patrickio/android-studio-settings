@@ -32,11 +32,11 @@
         <mark key="[" line="125" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1511507411027">
-        <mark key="'" line="179" column="8" />
-        <mark key="[" line="197" column="49" />
-        <mark key="]" line="197" column="16" />
-        <mark key="^" line="197" column="16" />
-        <mark key="." line="197" column="16" />
+        <mark key="'" line="184" column="8" />
+        <mark key="[" line="202" column="49" />
+        <mark key="]" line="202" column="16" />
+        <mark key="^" line="202" column="16" />
+        <mark key="." line="202" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveChatFeature.kt" timestamp="1510712054260">
         <mark key="[" line="44" column="39" />
@@ -176,12 +176,7 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511769521538">
-        <mark key="'" line="386" column="41" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="42" />
-        <mark key="." line="314" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511769521538" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="34" />
@@ -498,11 +493,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="55" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1511769216207">
-        <mark key="[" line="148" column="37" />
-        <mark key="]" line="149" column="35" />
-        <mark key="^" line="149" column="35" />
-        <mark key="." line="149" column="35" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/LivePlayerBox.kt" timestamp="1511772609314">
+        <mark key="[" line="135" column="18" />
+        <mark key="]" line="135" column="18" />
+        <mark key="^" line="128" column="7" />
+        <mark key="." line="135" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/HorizontalTabLayout.kt" timestamp="1509517178302">
         <mark key="[" line="75" column="48" />
@@ -537,11 +532,10 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511769231964">
-        <mark key="[" line="228" column="13" />
-        <mark key="]" line="230" column="20" />
-        <mark key="." line="230" column="20" />
-        <mark key="^" line="230" column="20" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511771266417">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -989,8 +983,8 @@
         <mark key="." line="335" column="58" />
         <mark key="^" line="335" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511513136192">
-        <mark key="[" line="27" column="64" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511772279250">
+        <mark key="[" line="40" column="49" />
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
@@ -1209,10 +1203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">IG1MaXZlRXhlY3V0b3Iuc3VibWl0T25Bbnk=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IG1MaXZlRXhlY3V0b3Iuc3VibWl0T25Bbnk=</text>
       </register>
       <register name="/" type="4">
         <text>v_bottom</text>
@@ -1226,34 +1220,52 @@
             }, 500)
         }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>mLiveExecutor.submitOnAny {
+            
+        }</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKHNpemUgPCAzMDApIHsKICAgICAgICAgICAgc2l6ZSA9IDMwMAogICAgICAgIH0=</text>
+        <text>try {
+                mLivePlayer?.stop()
+            } catch (e: IllegalStateException) {
+                Timber.e(&quot;stop playing live error: $e&quot;)
+            }</text>
       </register>
       <register name="3" type="4">
-        <text>app:layout_constraintEnd_toEndOf=&quot;parent&quot;
-        app:layout_constraintStart_toStartOf=&quot;parent&quot;
-        app:layout_constraintTop_toBottomOf=&quot;@id/top_bar&quot;</text>
+        <text>mLiveExecutor.submitOnAny {
+            
+        }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+      <register name="4" type="4">
+        <text>try {
+                mLivePlayer?.pause()
+            } catch (e: IllegalStateException) {
+                Timber.e(&quot;pause playing live error: $e&quot;)
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="4">
+        <text>mLiveExecutor.submitOnAny {
+            
+        }</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiI+PC9MaW5lYXJMYXlvdXQ+</text>
+        <text>try {
+                mLivePlayer?.start()
+            } catch (e: IllegalStateException) {
+                Timber.e(&quot;resume playing live error: $e&quot;)
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JlY3ljbGVyX291dGxpbmVzIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIyMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSI3ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iN2RwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYWN0aW9uYmFyX2JnX2NvbG9yIgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9iZWhhdmlvcj0iQHN0cmluZy9hcHBiYXJfc2Nyb2xsaW5nX3ZpZXdfYmVoYXZpb3IiIC8+</text>
+        <text>mLiveExecutor.submitOnAny {
+            
+        }</text>
       </register>
     </registers>
     <search>
