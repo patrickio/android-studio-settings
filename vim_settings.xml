@@ -332,11 +332,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" timestamp="1511774721638">
-        <mark key="[" line="20" column="16" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_play.xml" timestamp="1511780847039">
+        <mark key="[" line="27" column="49" />
         <mark key="]" line="27" column="49" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="8" />
+        <mark key="." line="27" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510988791306">
         <mark key="[" line="137" column="28" />
@@ -772,11 +771,10 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511776566024">
-        <mark key="[" line="181" column="139" />
-        <mark key="]" line="181" column="139" />
-        <mark key="." line="181" column="139" />
-        <mark key="^" line="181" column="106" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511781591854">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/FastSafeIterableMap.java" timestamp="1510037148299">
         <mark key="[" line="19" column="0" />
@@ -1100,7 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="95" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" />
       <jump line="87" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/HomeworkActivity.kt" />
       <jump line="80" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
@@ -1200,65 +1197,47 @@
       <jump line="163" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="178" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="179" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
+      <jump line="192" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MATCH_PARENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MATCH_PARENT</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>v_bottom</text>
       </register>
       <register name="0" type="4">
-        <text>app:layout_constraintBottom_toBottomOf=&quot;parent&quot;
-        app:layout_constraintEnd_toEndOf=&quot;parent&quot;
-        app:layout_constraintStart_toStartOf=&quot;parent&quot;
-        app:layout_constraintTop_toTopOf=&quot;parent&quot;</text>
+        <text>ConstraintLayout.LayoutParams.MATCH_CONSTRAINT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BUb1RvcCA9IENvbnN0cmFpbnRMYXlvdXQuTGF5b3V0UGFyYW1zLlBBUkVOVF9JRAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnN0cmFpbnRTZXQgPSBDb25zdHJhaW50U2V0KCkuYXBwbHkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0cmFpbldpZHRoKFIuaWQuKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if (sv_live_video != null) {
-            fl_live_container.removeView(sv_live_video)
-            sv_live_video = null
-        }
-
-        sv_live_video = TextureView(context).apply {
-            layoutParams = FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT)
-        }
-        sv_live_video?.requestFocus()
-        sv_live_video?.surfaceTextureListener = mTextureListener
-        fl_live_container.addView(sv_live_video)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ZfbGl2ZV92aWRlbz8ucmVsZWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxfbGl2ZV9jb250YWluZXIuYWRkVmlldyhzdl9saXZlX3ZpZGVvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHZpZXcgYXM/IFZpZXdHcm91cCk/LmFkZFZpZXcoc3ZfbGl2ZV92aWRlbykK</text>
       </register>
-      <register name="8" type="4">
-        <text>sv_live_video = TextureView(context).apply {
-                layoutParams = FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT)
-            }
-            sv_live_video?.requestFocus()
-            sv_live_video?.surfaceTextureListener = mTextureListener
-            fl_live_container.addView(sv_live_video)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlldz8uVgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>sv_live_video?.requestFocus()
-        sv_live_video?.surfaceTextureListener = mTextureListener</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaW1lbnNpb25SYXRpbyA9ICIxOjIiCg==</text>
       </register>
     </registers>
     <search>
