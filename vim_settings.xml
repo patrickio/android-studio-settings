@@ -27,10 +27,6 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" timestamp="1511489963383">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="125" column="20" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1511507411027">
         <mark key="'" line="184" column="8" />
         <mark key="[" line="202" column="49" />
@@ -75,11 +71,11 @@
         <mark key="^" line="37" column="36" />
         <mark key="." line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/java/cn/dream/android/softinputlistenerdemo/MainActivity.kt" timestamp="1511181596323">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/java/cn/dream/android/softinputlistenerdemo/MainActivity.kt" timestamp="1511782065146">
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/WindowExt.kt" timestamp="1505391884554">
         <mark key="[" line="16" column="4" />
@@ -141,10 +137,11 @@
         <mark key="^" line="38" column="70" />
         <mark key="." line="38" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511229023176">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511783710130">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="38" column="84" />
+        <mark key="." line="38" column="84" />
+        <mark key="^" line="38" column="84" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/MediaPlayerBox.kt" timestamp="1510801547444">
         <mark key="[" line="231" column="23" />
@@ -723,11 +720,11 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511230209867">
-        <mark key="[" line="49" column="49" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="45" column="3" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511782166409">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510714257928">
         <mark key="[" line="159" column="56" />
@@ -771,10 +768,10 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511781591854">
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1511783925101">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/FastSafeIterableMap.java" timestamp="1510037148299">
         <mark key="[" line="19" column="0" />
@@ -981,10 +978,10 @@
         <mark key="." line="335" column="58" />
         <mark key="^" line="335" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511772279250">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1511783996217">
         <mark key="[" line="40" column="49" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
+        <mark key="]" line="40" column="49" />
+        <mark key="." line="40" column="49" />
         <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
@@ -1090,11 +1087,10 @@
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/res/layout/activity_main.xml" timestamp="1511181613898">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="26" column="7" />
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/res/layout/activity_main.xml" timestamp="1511781786267">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -1200,44 +1196,54 @@
       <jump line="192" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>v_bottom</text>
       </register>
       <register name="0" type="4">
-        <text>ConstraintLayout.LayoutParams.MATCH_CONSTRAINT</text>
+        <text>val parentId = ConstraintLayout.LayoutParams.PARENT_ID
+        val set = ConstraintSet()
+        set.constrainWidth(texture.id, 0)
+        set.constrainHeight(texture.id, 0)
+        set.centerHorizontally(texture.id, parentId, LEFT, 0, parentId, RIGHT, 0, 0.5f)
+        set.centerVertically(texture.id, parentId, TOP, 0, parentId, BOTTOM, 0, 0.5f)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uUmF0aW8gPSAiMToxIgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnN0cmFpbnRTZXQgPSBDb25zdHJhaW50U2V0KCkuYXBwbHkgewo=</text>
+      <register name="2" type="4">
+        <text>.apply {
+                
+            }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>id = -1 // generate an id
+                sv_live_video?.requestFocus()
+                sv_live_video?.surfaceTextureListener = mTextureListener</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0cmFpbldpZHRoKFIuaWQuKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmxfbGl2ZV9jb250YWluZXIuYWRkVmlldyhzdl9saXZlX3ZpZGVvKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHZpZXcgYXM/IFZpZXdHcm91cCk/LmFkZFZpZXcoc3ZfbGl2ZV92aWRlbykK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldz8uVgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>sv_live_video?.requestFocus()
+            sv_live_video?.surfaceTextureListener = mTextureListener</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaW1lbnNpb25SYXRpbyA9ICIxOjIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
