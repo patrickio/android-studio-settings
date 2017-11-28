@@ -68,12 +68,11 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511856202707">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511857261916">
         <mark key="'" line="53" column="15" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="59" />
-        <mark key="^" line="38" column="32" />
-        <mark key="." line="38" column="33" />
+        <mark key="[" line="73" column="41" />
+        <mark key="]" line="73" column="41" />
+        <mark key="." line="73" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" timestamp="1508845649325">
         <mark key="[" line="93" column="51" />
@@ -274,13 +273,6 @@
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1511753259816">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="52" />
-        <mark key="]" line="66" column="52" />
-        <mark key="." line="66" column="52" />
-        <mark key="^" line="66" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_answer_shell.xml" timestamp="1508832601677">
         <mark key="[" line="71" column="56" />
@@ -707,7 +699,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511768834393">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511857677239">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
         <mark key="^" line="31" column="16" />
@@ -1214,10 +1206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>26</text>
+        <text>BuildConfig</text>
       </register>
       <register name="-" type="4">
-        <text>26</text>
+        <text>BuildConfig</text>
       </register>
       <register name="/" type="4">
         <text>onCheck</text>
@@ -1226,33 +1218,35 @@
         <text>btn_last_question.visibility = if (hasLast) View.VISIBLE else View.INVISIBLE
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvYnRuX2FuYWx5c2lzX2xhc3RfcXVlc3Rpb24iCg==</text>
+      <register name="1" type="4">
+        <text>HttpLoggingInterceptor().apply {
+                level = HttpLoggingInterceptor.Level.BODY
+            }</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5re75YqgIFN0ZXRobyDosIPor5Xmi6bmiKoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2tIdHRwQnVpbGRlci5hZGRJbnRlcmNlcHRvcihTdGV0aG9JbnRlcmNlcHRvcigpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvYnRuX2FuYWx5c2lzX2xhc3RfcXVlc3Rpb24iCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>app:questionViewHeight=&quot;223dp&quot;
         app:parseViewHeight=&quot;222dp&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGFwcDphbnN3ZXJUaXBDb2xvcj0iI2ZmZmZmZiI=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNsX2xpdmVfZXhlcmNpc2VfYW5hbHlzaXMucGFyc2VEYXRhc1ZpZXcuc2V0RGF0YXMoZGVjb2Rlci51c2VyQW5zd2VyLmFuc3dlcnMuZmlyc3QoKSwgcXVlc3Rpb24uYW5zd2VyLCBxdWVzdGlvbi5zb2x1dGlvbiwgQ29sb3IuV0hJVEUpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVN0YXRlID1MaXZlRXhlcmNpc2VTdGF0ZS5FWEVSQ0lTRQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGl2ZUV4ZXJjaXNlU3RhdGUuRVhFUkNJU0UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
       </register>
     </registers>
     <search>
