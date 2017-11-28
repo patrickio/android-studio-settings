@@ -94,12 +94,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511768720952">
-        <mark key="'" line="52" column="15" />
-        <mark key="[" line="85" column="37" />
-        <mark key="]" line="60" column="80" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="60" column="80" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511831544929">
+        <mark key="'" line="53" column="15" />
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="59" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" timestamp="1508845649325">
         <mark key="[" line="93" column="51" />
@@ -1197,10 +1197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>System.currentTimeMillis()</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>System.currentTimeMillis()</text>
       </register>
       <register name="/" type="4">
         <text>v_bottom</text>
