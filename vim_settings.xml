@@ -68,7 +68,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511831544929">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511856202707">
         <mark key="'" line="53" column="15" />
         <mark key="[" line="38" column="33" />
         <mark key="]" line="38" column="59" />
@@ -146,6 +146,9 @@
         <mark key="]" line="109" column="37" />
         <mark key="." line="109" column="37" />
         <mark key="^" line="109" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" timestamp="1511855175800">
+        <mark key="'" line="73" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/SafeIterableMap.java" timestamp="1510037095213">
         <mark key="[" line="0" column="0" />
@@ -440,6 +443,9 @@
         <mark key="]" line="64" column="39" />
         <mark key="." line="64" column="39" />
         <mark key="^" line="90" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" timestamp="1511855460175">
+        <mark key="'" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/MyCourseFragment.kt" timestamp="1509517267465">
         <mark key="[" line="28" column="53" />
@@ -980,11 +986,11 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" timestamp="1511850719432">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" timestamp="1511855799630">
         <mark key="[" line="188" column="32" />
-        <mark key="]" line="188" column="30" />
-        <mark key="^" line="188" column="30" />
-        <mark key="." line="188" column="30" />
+        <mark key="]" line="731" column="16" />
+        <mark key="^" line="731" column="16" />
+        <mark key="." line="731" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_order.xml" timestamp="1505982463368">
         <mark key="[" line="35" column="0" />
@@ -1105,8 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="14" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/HomeworkActivity.kt" />
-      <jump line="80" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="81" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="448" column="13" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="23" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/res/drawable/homeword_anwers_select.xml" />
@@ -1205,6 +1209,8 @@
       <jump line="179" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="192" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
+      <jump line="73" column="53" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ExerciseFragment.kt" />
+      <jump line="46" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1214,7 +1220,7 @@
         <text>26</text>
       </register>
       <register name="/" type="4">
-        <text>last_question</text>
+        <text>onCheck</text>
       </register>
       <register name="0" type="4">
         <text>btn_last_question.visibility = if (hasLast) View.VISIBLE else View.INVISIBLE
@@ -1250,9 +1256,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last_question</last-search>
+      <last-search>onCheck</last-search>
       <last-offset />
-      <last-pattern>last_question</last-pattern>
+      <last-pattern>onCheck</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1260,8 +1266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>textColor</entry>
-        <entry>TextColor</entry>
         <entry>log</entry>
         <entry>retry</entry>
         <entry>window</entry>
@@ -1280,6 +1284,8 @@
         <entry>civ</entry>
         <entry>v_bottom</entry>
         <entry>last_question</entry>
+        <entry>getAnswer</entry>
+        <entry>onCheck</entry>
       </history-search>
       <history-cmd />
       <history-expr />
