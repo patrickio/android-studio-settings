@@ -68,11 +68,11 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511857261916">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511858719541">
         <mark key="'" line="53" column="15" />
-        <mark key="[" line="73" column="41" />
-        <mark key="]" line="73" column="41" />
-        <mark key="." line="73" column="41" />
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="14" />
+        <mark key="." line="60" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" timestamp="1508845649325">
         <mark key="[" line="93" column="51" />
@@ -1206,7 +1206,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BuildConfig</text>
+        <text>else {
+                
+            }</text>
       </register>
       <register name="-" type="4">
         <text>BuildConfig</text>
@@ -1219,34 +1221,39 @@
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
       <register name="1" type="4">
+        <text>else {
+                
+            }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>originalResponse.newBuilder()
+                    .header(&quot;Cache-Control&quot;, cacheControl)
+                    .removeHeader(&quot;Pragma&quot;)
+                    .build()</text>
+      </register>
+      <register name="4" type="4">
         <text>HttpLoggingInterceptor().apply {
                 level = HttpLoggingInterceptor.Level.BODY
             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g5re75YqgIFN0ZXRobyDosIPor5Xmi6bmiKoK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb2tIdHRwQnVpbGRlci5hZGRJbnRlcmNlcHRvcihTdGV0aG9JbnRlcmNlcHRvcigpKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvYnRuX2FuYWx5c2lzX2xhc3RfcXVlc3Rpb24iCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>app:questionViewHeight=&quot;223dp&quot;
         app:parseViewHeight=&quot;222dp&quot;</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGFwcDphbnN3ZXJUaXBDb2xvcj0iI2ZmZmZmZiI=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
       </register>
     </registers>
     <search>
