@@ -227,10 +227,10 @@
         <mark key="." line="109" column="37" />
         <mark key="^" line="109" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1511839158508">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveExercisePresenter.kt" timestamp="1511841483984">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMThread.kt" timestamp="1508722184403">
         <mark key="[" line="4" column="15" />
@@ -510,9 +510,6 @@
         <mark key="]" line="69" column="58" />
         <mark key="^" line="69" column="58" />
         <mark key="." line="69" column="58" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/gradle.properties" timestamp="1511505206260">
-        <mark key="[" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/menu/menu_main_activity.xml" timestamp="1505878944375">
         <mark key="[" line="6" column="55" />
@@ -844,12 +841,6 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" timestamp="1511837055280">
-        <mark key="[" line="468" column="46" />
-        <mark key="]" line="469" column="36" />
-        <mark key="." line="469" column="36" />
-        <mark key="^" line="469" column="36" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_order.xml" timestamp="1505982463368">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -994,9 +985,6 @@
         <mark key="]" line="13" column="53" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="13" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1511766506420">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/network/service/CourseService.kt" timestamp="1505801929574">
         <mark key="[" line="11" column="11" />
@@ -1201,9 +1189,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>btn_last_question.visibility = if (hasLast) View.VISIBLE else View.INVISIBLE
-            btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TdGF0ZSA9IExpdmVFeGVyY2lzZVN0YXRlLkVYRVJDSVNFCg==</text>
       </register>
       <register name="-" type="4">
         <text>parent</text>
@@ -1216,12 +1203,15 @@
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TdGF0ZSA9IExpdmVFeGVyY2lzZVN0YXRlLkVYRVJDSVNFCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>if (decoder.isHaveReply) {
             val answer = decoder.userAnswer?.answers?.get(0)
             ecl_live_exercise.setUseranswer(answer)
@@ -1234,23 +1224,20 @@
         btn_last_question.visibility = if (hasLast) View.VISIBLE else View.INVISIBLE
         btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJRdWVzdGlvbklkeCA9IDAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJRdWVzdGlvbklkeCA9IDAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMGRwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibmV4dF9xdWVzdGlvbiI+5LiL5LiA6aKYPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudHMK</text>
       </register>
     </registers>
     <search>
