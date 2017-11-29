@@ -577,6 +577,12 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayFragment.kt" timestamp="1511917393354">
+        <mark key="[" line="177" column="21" />
+        <mark key="]" line="190" column="48" />
+        <mark key="^" line="190" column="48" />
+        <mark key="." line="190" column="48" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivingFragment.kt" timestamp="1510018594370">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -928,11 +934,11 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1511144213743">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="37" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1511917714886">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
         <mark key="^" line="38" column="3" />
-        <mark key="." line="38" column="37" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/ILiveBaseFeature.kt" timestamp="1508313880930">
         <mark key="[" line="10" column="35" />
@@ -1204,10 +1210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>BuildConfig</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>onCheck</text>
@@ -1217,38 +1223,38 @@
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>else {
                 
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>originalResponse.newBuilder()
                     .header(&quot;Cache-Control&quot;, cacheControl)
                     .removeHeader(&quot;Pragma&quot;)
                     .build()</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>HttpLoggingInterceptor().apply {
                 level = HttpLoggingInterceptor.Level.BODY
             }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g5re75YqgIFN0ZXRobyDosIPor5Xmi6bmiKoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2tIdHRwQnVpbGRlci5hZGRJbnRlcmNlcHRvcihTdGV0aG9JbnRlcmNlcHRvcigpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvYnRuX2FuYWx5c2lzX2xhc3RfcXVlc3Rpb24iCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2tIdHRwQnVpbGRlci5hZGRJbnRlcmNlcHRvcihTdGV0aG9JbnRlcmNlcHRvcigpKQo=</text>
       </register>
     </registers>
     <search>
