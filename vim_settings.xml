@@ -172,6 +172,7 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511921616666" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="34" />
@@ -727,11 +728,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1511859973383">
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="260" column="0" />
-        <mark key="^" line="301" column="45" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_exercise.xml" timestamp="1511922051296">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="302" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510714257928">
         <mark key="[" line="159" column="56" />
@@ -1209,11 +1210,11 @@
       <jump line="46" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=&quot;@</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>=&quot;@</text>
       </register>
       <register name="/" type="4">
         <text>onCheck</text>
