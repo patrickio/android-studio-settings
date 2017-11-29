@@ -68,11 +68,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511940100552">
-        <mark key="'" line="53" column="15" />
-        <mark key="[" line="60" column="14" />
-        <mark key="]" line="60" column="14" />
-        <mark key="." line="60" column="14" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511953539017">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="90" column="7" />
+        <mark key="." line="90" column="7" />
+        <mark key="^" line="90" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" timestamp="1508845649325">
         <mark key="[" line="93" column="51" />
@@ -408,6 +409,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="89" column="62" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/build.gradle" timestamp="1511954050828" />
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/res/layout/activity_main.xml" timestamp="1511782166409">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="6" column="27" />
@@ -868,6 +870,7 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/capture/src/main/java/cn/dream/android/capture/camera/BitmapUtils.java" timestamp="1511953976082" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/ReplayFragment.kt" timestamp="1511917393354">
         <mark key="[" line="177" column="21" />
         <mark key="]" line="190" column="48" />
@@ -1136,8 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="680" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
-      <jump line="681" column="52" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
       <jump line="684" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
       <jump line="685" column="36" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
       <jump line="985" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.0.0/c9cb5b302afe1244d8a4f5adf1ded1735ed0ea1d/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" />
@@ -1236,6 +1237,8 @@
       <jump line="99" column="9" filename="$USER_HOME$/AndroidWorkspace/Education/app/libs/pldroid-player-2.0.4.jar!/com/pili/pldroid/player/widget/PLVideoTextureView.class" />
       <jump line="118" column="9" filename="$USER_HOME$/AndroidWorkspace/Education/app/libs/pldroid-player-2.0.4.jar!/com/pili/pldroid/player/widget/PLVideoTextureView.class" />
       <jump line="145" column="40" filename="$USER_HOME$/AndroidWorkspace/Education/app/libs/pldroid-player-2.0.4.jar!/com/pili/pldroid/player/widget/PLVideoTextureView.class" />
+      <jump line="5" column="40" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
