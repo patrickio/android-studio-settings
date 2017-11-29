@@ -744,11 +744,11 @@
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1510714257928">
-        <mark key="[" line="159" column="56" />
-        <mark key="]" line="159" column="66" />
-        <mark key="." line="159" column="66" />
-        <mark key="^" line="159" column="66" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1511942040434">
+        <mark key="[" line="229" column="109" />
+        <mark key="]" line="228" column="47" />
+        <mark key="^" line="228" column="47" />
+        <mark key="." line="228" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/build.gradle" timestamp="1506065608708">
         <mark key="[" line="4" column="18" />
@@ -1221,11 +1221,11 @@
       <jump line="46" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>messages</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>messages</text>
       </register>
       <register name="/" type="4">
         <text>onCheck</text>
@@ -1235,59 +1235,35 @@
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="2" type="4">
+        <text>if (it.timMessage?.conversation?.peer == mChatRoomId) {
+                    
+                }</text>
       </register>
       <register name="3" type="4">
-        <text>run {
-            
-        }</text>
+        <text encoding="base64">aWYgKG5ld2VzdFRpbWVzdGFtcCA9PSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAoaXQudGltZXN0YW1wIC0gbmV3ZXN0VGltZXN0YW1wISEgPj0gTUVTU0FHRV9HUk9VUF9JTlRFUlZBTCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3ZXN0VGltZXN0YW1wID0gaXQudGltZXN0YW1wCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZChJTU1lc3NhZ2VGYWN0b3J5LmNyZWF0ZU1lc3NhZ2UoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKQogICAgICAgICAgICAgICAgICAgICAgICBhZGQoaXQpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkKGl0KQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text>observeOn(AndroidSchedulers.mainThread())
-                    .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
-                    .subscribeBy(
-                            onError = {
-                                Timber.e(&quot;RabbitMQManager publish message error: $it&quot;)
-                            },
-                            onNext = {
-                                Timber.d(&quot;RabbitMQManager publish message: $it&quot;)
-                                handleLiveCmd(it)
-                            }
-                    )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>// Observe the message publisher from RabbitMQ
-                            RabbitMQManager.msgPublisher.run {
-                                observeOn(AndroidSchedulers.mainThread())
-                                        .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
-                                        .subscribeBy(
-                                                onError = {
-                                                    Timber.e(&quot;RabbitMQManager publish message error: $it&quot;)
-                                                },
-                                                onNext = {
-                                                    Timber.d(&quot;RabbitMQManager publish message: $it&quot;)
-                                                    handleLiveCmd(it)
-                                                }
-                                        )
-                            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>// update the student cache info to server, and receive the user flag (normal, test or sale user)
-        mLiveStudentPresenter?.resolveStudentInfo()</text>
+        <text encoding="base64">aWYgKG5ld2VzdFRpbWVzdGFtcCA9PSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgIHx8IChpdC50aW1lc3RhbXAgLSBuZXdlc3RUaW1lc3RhbXAhISA+PSBNRVNTQUdFX0dST1VQX0lOVEVSVkFMKSkgewogICAgICAgICAgICAgICAgICAgIG5ld2VzdFRpbWVzdGFtcCA9IGl0LnRpbWVzdGFtcAogICAgICAgICAgICAgICAgICAgIGFkZChJTU1lc3NhZ2VGYWN0b3J5LmNyZWF0ZU1lc3NhZ2UoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKQogICAgICAgICAgICAgICAgICAgIGFkZChpdCkKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgYWRkKGl0KQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="4">
-        <text>override fun attach(view: ILiveStudentView?, model: ILiveStudentModel?) {
-        super.attach(view, model)
-    }</text>
+        <text>run {
+            
+        }</text>
       </register>
     </registers>
     <search>
