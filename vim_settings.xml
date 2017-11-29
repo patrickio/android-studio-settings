@@ -136,7 +136,7 @@
         <mark key="^" line="38" column="70" />
         <mark key="." line="38" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511783710130">
+      <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SofInputListenerView/app/src/main/java/cn/dream/android/sofinputlistenerview/MainActivity.kt" timestamp="1511943448221">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="38" column="84" />
         <mark key="." line="38" column="84" />
@@ -410,6 +410,11 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_chat.xml" timestamp="1511943987693">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/ci.gradle" timestamp="1505896197814">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="47" />
@@ -468,6 +473,9 @@
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1511942966881">
+        <mark key="[" line="66" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_answer_shell.xml" timestamp="1508832601677">
         <mark key="[" line="71" column="56" />
@@ -1221,11 +1229,11 @@
       <jump line="46" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>messages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>v_bottom_background</text>
       </register>
       <register name="/" type="4">
         <text>onCheck</text>
@@ -1235,35 +1243,31 @@
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>if (it.timMessage?.conversation?.peer == mChatRoomId) {
-                    
-                }</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKG5ld2VzdFRpbWVzdGFtcCA9PSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAoaXQudGltZXN0YW1wIC0gbmV3ZXN0VGltZXN0YW1wISEgPj0gTUVTU0FHRV9HUk9VUF9JTlRFUlZBTCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3ZXN0VGltZXN0YW1wID0gaXQudGltZXN0YW1wCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZChJTU1lc3NhZ2VGYWN0b3J5LmNyZWF0ZU1lc3NhZ2UoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKQogICAgICAgICAgICAgICAgICAgICAgICBhZGQoaXQpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkKGl0KQogICAgICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKG5ld2VzdFRpbWVzdGFtcCA9PSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgIHx8IChpdC50aW1lc3RhbXAgLSBuZXdlc3RUaW1lc3RhbXAhISA+PSBNRVNTQUdFX0dST1VQX0lOVEVSVkFMKSkgewogICAgICAgICAgICAgICAgICAgIG5ld2VzdFRpbWVzdGFtcCA9IGl0LnRpbWVzdGFtcAogICAgICAgICAgICAgICAgICAgIGFkZChJTU1lc3NhZ2VGYWN0b3J5LmNyZWF0ZU1lc3NhZ2UoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKQogICAgICAgICAgICAgICAgICAgIGFkZChpdCkKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgYWRkKGl0KQogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>run {
-            
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICA8IS0tPFNjcm9sbFZpZXctLT4KICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9zdiItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdl9zZXBhcmF0b3IiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiLS0+CiAgICAgICAgPCEtLWFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS1hcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Ij4tLT4KICAgICAgICA8IS0tLS0+CiAgICAgICAgPCEtLS0tPgogICAgICAgIDwhLS0tLT4KICAgIDwhLS08L1Njcm9sbFZpZXc+LS0+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjEwZHAiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3ZfYm90dG9tX2JhY2tncm91bmQiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yY3ZfbWVzc2FnZXNfbGlzdCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMGRwIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2JnX2xpdmVfY2hhdCIKICAgICAgICBhbmRyb2lkOnNjcm9sbGJhcnM9InZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6c2Nyb2xsYmFyU3R5bGU9Imluc2lkZU92ZXJsYXkiCiAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJTaXplPSIyZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvdl9ib3R0b21fYmFja2dyb3VuZCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvdl9zZXBhcmF0b3IiIC8+</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3Jjdl9tZXNzYWdlc19saXN0IiAvPgo=</text>
       </register>
     </registers>
     <search>
