@@ -245,7 +245,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511857677239">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1511918923075">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
         <mark key="^" line="31" column="16" />
@@ -517,11 +517,11 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511772769897">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="^" line="226" column="20" />
-        <mark key="." line="226" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1511920189473">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="179" column="32" />
+        <mark key="." line="179" column="32" />
+        <mark key="^" line="179" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1210,10 +1210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>onCheck</text>
@@ -1223,38 +1223,38 @@
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50U3RyZWFtTG9hZGluZyh0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>else {
                 
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>originalResponse.newBuilder()
                     .header(&quot;Cache-Control&quot;, cacheControl)
                     .removeHeader(&quot;Pragma&quot;)
                     .build()</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>HttpLoggingInterceptor().apply {
                 level = HttpLoggingInterceptor.Level.BODY
             }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5re75YqgIFN0ZXRobyDosIPor5Xmi6bmiKoK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2tIdHRwQnVpbGRlci5hZGRJbnRlcmNlcHRvcihTdGV0aG9JbnRlcmNlcHRvcigpKQo=</text>
       </register>
     </registers>
     <search>
