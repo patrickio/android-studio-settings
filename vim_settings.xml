@@ -94,7 +94,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511938738170">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1511940100552">
         <mark key="'" line="53" column="15" />
         <mark key="[" line="60" column="14" />
         <mark key="]" line="60" column="14" />
@@ -172,7 +172,11 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511921616666" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1511940954043">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="34" />
@@ -942,7 +946,7 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1511917714886">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1511941255812">
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="^" line="38" column="3" />
@@ -1217,9 +1221,8 @@
       <jump line="46" column="20" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/SingleChoiceDecoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// update the student cache info to server, and receive the user flag (normal, test or sale user)
-        mLiveStudentPresenter?.resolveStudentInfo()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -1231,37 +1234,60 @@
         <text>btn_last_question.visibility = if (hasLast) View.VISIBLE else View.INVISIBLE
             btn_next_question.visibility = if (hasNext) View.VISIBLE else View.INVISIBLE</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="3" type="4">
+        <text>run {
+            
+        }</text>
+      </register>
+      <register name="4" type="4">
+        <text>observeOn(AndroidSchedulers.mainThread())
+                    .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
+                    .subscribeBy(
+                            onError = {
+                                Timber.e(&quot;RabbitMQManager publish message error: $it&quot;)
+                            },
+                            onNext = {
+                                Timber.d(&quot;RabbitMQManager publish message: $it&quot;)
+                                handleLiveCmd(it)
+                            }
+                    )</text>
+      </register>
+      <register name="5" type="4">
+        <text>// Observe the message publisher from RabbitMQ
+                            RabbitMQManager.msgPublisher.run {
+                                observeOn(AndroidSchedulers.mainThread())
+                                        .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
+                                        .subscribeBy(
+                                                onError = {
+                                                    Timber.e(&quot;RabbitMQManager publish message error: $it&quot;)
+                                                },
+                                                onNext = {
+                                                    Timber.d(&quot;RabbitMQManager publish message: $it&quot;)
+                                                    handleLiveCmd(it)
+                                                }
+                                        )
+                            }</text>
+      </register>
+      <register name="6" type="4">
         <text>// update the student cache info to server, and receive the user flag (normal, test or sale user)
         mLiveStudentPresenter?.resolveStudentInfo()</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>override fun attach(view: ILiveStudentView?, model: ILiveStudentModel?) {
         super.attach(view, model)
     }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlU3R1ZGVudEluZm8oKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>sv_live_video?.layoutParams = (sv_live_video?.layoutParams as? ConstraintLayout.LayoutParams)?.apply {
-            dimensionRatio = &quot;${width.toFloat() / height.toFloat()} : 1&quot;
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJBbnN3ZXIsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
