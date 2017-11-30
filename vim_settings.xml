@@ -117,11 +117,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512005268906">
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="." line="500" column="0" />
-        <mark key="^" line="498" column="11" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512032587591">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="494" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -310,10 +310,11 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1512032311464">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1512033058120">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="188" column="82" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1251,11 +1252,11 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ImageButton</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ImageButton</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1264,31 +1265,33 @@
         <text>val response</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGFjaFN1cmZhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dGFjaFN1cmZhY2Uodmlldz8uZ2V0U3VyZmFjZSgpKQo=</text>
+      <register name="2" type="4">
+        <text>model?.getRTMPInfo()?.let {
+            prepareRTMPStream(it)
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3VyZmFjZShudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50U3RyZWFtTG9hZGluZyh0cnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5pbWFnZVJlc291cmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLndpZGdldC5MaXZlU2NvcmluZ0RpYWxvZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcmZvcm1PbmNlID0gZmFsc2UK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLmRhdGEuTGl2ZUNvdXJzZUJlYW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlNwaW5uZXJBZGFwdGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyZm9ybU9uY2UgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgibG9hZGluZyBzdHJlYW06ICRsb2FkaW5nIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5UZXh0VXRpbHMK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgibG9hZGluZyBzdHJlYW0uLi4iKQo=</text>
       </register>
     </registers>
     <search>
