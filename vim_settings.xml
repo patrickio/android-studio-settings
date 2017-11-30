@@ -118,10 +118,10 @@
         <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512034812837">
-        <mark key="[" line="258" column="65" />
-        <mark key="]" line="258" column="63" />
-        <mark key="^" line="258" column="63" />
-        <mark key="." line="258" column="63" />
+        <mark key="[" line="254" column="65" />
+        <mark key="]" line="254" column="63" />
+        <mark key="^" line="254" column="63" />
+        <mark key="." line="254" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -283,7 +283,7 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1512027658942">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1512043232298">
         <mark key="[" line="66" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_answer_shell.xml" timestamp="1508832601677">
@@ -956,10 +956,10 @@
         <mark key="." line="23" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SplashActivity.kt" timestamp="1512030428650">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
         <mark key="^" line="39" column="31" />
-        <mark key="." line="49" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/BabyPlan/build.gradle" timestamp="1506065608708">
         <mark key="[" line="4" column="18" />
@@ -1059,7 +1059,7 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512027638390">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512043239648">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="10" />
         <mark key="." line="47" column="10" />
