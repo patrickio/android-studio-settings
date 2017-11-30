@@ -167,11 +167,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1511439014747">
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="^" line="305" column="7" />
-        <mark key="." line="305" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512005268906">
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
+        <mark key="^" line="498" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -179,10 +179,10 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512002497782">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512005490753">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -1242,7 +1242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuQXVkaW9NYW5hZ2VyLlNUUkVBTV9NVVNJQwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5waWxpLnBsZHJvaWQucGxheWVyLlBMTmV0d29ya01hbmFnZXIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFsIA==</text>
@@ -1254,36 +1254,33 @@
         <text>val response</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuQXVkaW9NYW5hZ2VyLlNUUkVBTV9NVVNJQwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5waWxpLnBsZHJvaWQucGxheWVyLlBMTmV0d29ya01hbmFnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuQXVkaW9NYW5hZ2VyLkFVRElPRk9DVVNfR0FJTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXREZWJ1Z0xvZ2dpbmdFbmFibGVkKGZhbHNlKSAvLyByZW1vdmUgdGhlIGFubm95aW5nIGxvZwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4gKG1MaXZpbmdTdGFnZSkgewovLyAgICAgICAgICAgIExpdmluZ1N0YWdlLkJFRk9SRV9MSVZFLCBMaXZpbmdTdGFnZS5NSURETEVfUkVTVCwgTGl2aW5nU3RhZ2UuQUZURVJfTElWRSAtPiByZXN1bWVQbGF5aW5nTXVzaWMoKQovLyAgICAgICAgICAgIGVsc2UgLT4gewovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if (BuildConfig.DEBUG) {
-            //debug模式添加log信息拦截
-            
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQW5pbWF0aW5nKSByZXR1cm4KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text>okHttpBuilder.addInterceptor(HttpLoggingInterceptor().apply {
-                level = HttpLoggingInterceptor.Level.BODY
-            })</text>
+        <text>// cancel the auto hide schedule
+            autoHideDisposable?.disposeIfNot()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBva0h0dHBCdWlsZGVyLmFkZEludGVyY2VwdG9yKFN0ZXRob0ludGVyY2VwdG9yKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQW5pbWF0aW5nKSByZXR1cm4KICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5re75YqgIFN0ZXRobyDosIPor5Xmi6bmiKoK</text>
+      <register name="8" type="4">
+        <text>// cancel the auto hide schedule
+            autoHideDisposable?.disposeIfNot()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb01hbmFnZXIucmVxdWVzdEF1ZGlvRm9jdXMoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuQXVkaW9NYW5hZ2VyLlNUUkVBTV9NVVNJQwo=</text>
       </register>
     </registers>
     <search>
