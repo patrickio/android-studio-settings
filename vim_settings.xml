@@ -117,11 +117,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512034402496">
-        <mark key="[" line="228" column="5" />
-        <mark key="]" line="231" column="7" />
-        <mark key="^" line="231" column="7" />
-        <mark key="." line="231" column="7" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512034812837">
+        <mark key="[" line="258" column="65" />
+        <mark key="]" line="258" column="63" />
+        <mark key="^" line="258" column="63" />
+        <mark key="." line="258" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -212,11 +212,11 @@
         <mark key="^" line="7" column="57" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1512034606144">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveWhiteboardFragment.kt" timestamp="1512039176018">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="66" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1507537781354">
         <mark key="[" line="81" column="69" />
@@ -662,11 +662,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512034300343">
-        <mark key="[" line="78" column="76" />
-        <mark key="]" line="79" column="60" />
-        <mark key="." line="79" column="60" />
-        <mark key="^" line="79" column="60" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512034980175">
+        <mark key="[" line="199" column="35" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="124" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -674,8 +674,8 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1512034309666">
-        <mark key="[" line="58" column="123" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1512034831892">
+        <mark key="[" line="99" column="70" />
         <mark key="]" line="58" column="129" />
         <mark key="^" line="58" column="129" />
         <mark key="." line="58" column="129" />
@@ -787,6 +787,7 @@
         <mark key="^" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
+      <file name="/LiveWhiteboardFragment.kt" timestamp="1512039143681" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/strings.xml" timestamp="1507537778251">
         <mark key="[" line="260" column="35" />
         <mark key="]" line="260" column="38" />
@@ -846,11 +847,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1512033277820">
-        <mark key="[" line="90" column="49" />
-        <mark key="]" line="91" column="53" />
-        <mark key="." line="91" column="53" />
-        <mark key="^" line="91" column="53" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1512038697743">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="92" column="53" />
+        <mark key="." line="92" column="53" />
+        <mark key="^" line="92" column="53" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/java/cn/dream/android/softinputlistenerdemo/Application.kt" timestamp="1511181376634">
         <mark key="[" line="7" column="18" />
@@ -1250,10 +1251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1263,52 +1264,63 @@
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>Picasso.with(this).apply {
-            // cancel the pending or executing request
-            cancelRequest(iv_teacher_avatar)
-            if (TextUtils.isEmpty(teacherAvatar)){
-                load(R.drawable.ic_default_avatar)
-                        .transform(CircleImageTransform)
-                        .into(iv_teacher_avatar)}
-            else{} // perform new avatar loading request
-                load(Uri.parse(teacherAvatar))
-                        .placeholder(R.drawable.ic_default_avatar)
-                        .transform(CircleImageTransform)
-                        .into(iv_teacher_avatar)
-        }
-        iv_teacher_avatar.visibility = View.VISIBLE
-
-        tv_teacher_name.text = teacherName
-        tv_course_title.text = getString(R.string.course_name_prefix, courseName)
-        tv_teacher_label.visibility = View.VISIBLE</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>mWhiteboardFragment?.run {
-            this.title = title
-            this.content = content
-            this.alignCenter = alignCenter
-        }</text>
+      <register name="2" type="4">
+        <text>mHandler.postDelayed({
+            tv_whiteboard_title?.text = title
+            tv_whiteboard_content?.text = content
+            tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
+            tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
+        }, 500)</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>tv_whiteboard_title?.text = title
+        tv_whiteboard_content?.text = content
+        tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
+        tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRMaXZlU3RhdGUoKQo=</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25WaWV3Q3JlYXRlZCh2aWV3OiBWaWV3Pywgc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25WaWV3Q3JlYXRlZCh2aWV3LCBzYXZlZEluc3RhbmNlU3RhdGUpCiAgICB9</text>
+        <text>// Query the living stage when enter live room
+        getLiveState()
+        // Connect to the RabbitMQ server
+        connectMQServer()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRfbGl2ZV9zY29yaW5nLnZpc2liaWxpdHkgPSBWaWV3LklOVklTSUJMRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0dl93aGl0ZWJvYXJkX2NvbnRlbnQuZ3Jhdml0eSA9IGlmIChhbGlnbkNlbnRlcikgR3Jhdml0eS5DRU5URVIgZWxzZSBHcmF2aXR5LlNUQVJUCg==</text>
+      <register name="8" type="4">
+        <text>// Fetch current live course info
+        view?.onLoadingLiveData(true)
+        model?.run {
+            getLiveCourseInfo().subscribeOn(Schedulers.io())
+                    .retry(DEFAULT_RETRY_TIMES)
+                    .observeOn(AndroidSchedulers.mainThread())
+                    .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
+                    .subscribeBy(
+                            onError = {
+                                Timber.e(&quot;Get live course info error: $it&quot;)
+                                view?.onLiveDataChanged(false)
+                            },
+                            onNext = {
+                                Timber.d(&quot;Get live course info: $it&quot;)
+                                view?.onLoadingLiveData(false)
+                                it?.run {
+                                    view?.onLiveDataChanged(true, F_tname, F_avatar, F_name)
+                                    view?.onPresentCourseQrCode(F_subject)
+                                }
+                            }
+                    )
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0dl93aGl0ZWJvYXJkX2NvbnRlbnQudGV4dCA9IGNvbnRlbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
