@@ -283,7 +283,7 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1512009859798">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" timestamp="1512027658942">
         <mark key="[" line="66" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/item_answer_shell.xml" timestamp="1508832601677">
@@ -845,7 +845,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/PLDroidPlayer/PLDroidPlayerDemo/app/src/main/java/com/pili/pldroid/playerdemo/PLMediaPlayerActivity.java" timestamp="1512023302454" />
+      <file name="$USER_HOME$/PLDroidPlayer/PLDroidPlayerDemo/app/src/main/java/com/pili/pldroid/playerdemo/PLMediaPlayerActivity.java" timestamp="1512028064646" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1511435090943">
         <mark key="[" line="78" column="43" />
         <mark key="]" line="64" column="36" />
@@ -1062,11 +1062,11 @@
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/libs/pldroid-player-2.0.4.jar!/com/pili/pldroid/player/widget/PLVideoTextureView.class" timestamp="1511955418566">
         <mark key="'" line="145" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512008578870">
-        <mark key="[" line="90" column="66" />
-        <mark key="]" line="90" column="66" />
-        <mark key="." line="90" column="66" />
-        <mark key="^" line="85" column="73" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512027638390">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="10" />
+        <mark key="." line="47" column="10" />
+        <mark key="^" line="47" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
