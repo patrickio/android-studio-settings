@@ -751,6 +751,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="29" column="46" />
       </file>
+      <file name="$USER_HOME$/.AndroidStudio3.0/studio64.vmoptions" timestamp="1512033982480">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/ApiClient.kt" timestamp="1510988791306">
         <mark key="[" line="137" column="28" />
         <mark key="]" line="137" column="28" />
@@ -1243,11 +1249,11 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PjwvY29tLnJlYWRib3kubGl2ZS5lZHVjYXRpb24ud2lkZ2V0LkxpdmVMb2FkaW5nVmlldz4=</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
