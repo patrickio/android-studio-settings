@@ -662,10 +662,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512040115055">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512044562120">
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="281" column="0" />
+        <mark key="." line="281" column="0" />
+        <mark key="^" line="280" column="101" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -1250,10 +1251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ub25QcmVzZW50Q291cnNlUXJDb2RlKEZfc3ViamVjdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>// Perform countdown in exercise scene</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1263,63 +1264,37 @@
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ub25QcmVzZW50Q291cnNlUXJDb2RlKEZfc3ViamVjdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBQZXJmb3JtIGNvdW50ZG93biBpbiBleGVyY2lzZSBzY2VuZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>// Connect to the RabbitMQ server
+                                connectMQServer()</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRmV0Y2ggY3VycmVudCBsaXZlIGNvdXJzZSBpbmZvCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlldz8ub25QcmVzZW50Q291cnNlUXJDb2RlKEZfc3ViamVjdCkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>mHandler.postDelayed({
             tv_whiteboard_title?.text = title
             tv_whiteboard_content?.text = content
             tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
             tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
         }, 500)</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>tv_whiteboard_title?.text = title
-        tv_whiteboard_content?.text = content
-        tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
-        tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRMaXZlU3RhdGUoKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>// Query the living stage when enter live room
-        getLiveState()
-        // Connect to the RabbitMQ server
-        connectMQServer()</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>// Fetch current live course info
-        view?.onLoadingLiveData(true)
-        model?.run {
-            getLiveCourseInfo().subscribeOn(Schedulers.io())
-                    .retry(DEFAULT_RETRY_TIMES)
-                    .observeOn(AndroidSchedulers.mainThread())
-                    .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
-                    .subscribeBy(
-                            onError = {
-                                Timber.e(&quot;Get live course info error: $it&quot;)
-                                view?.onLiveDataChanged(false)
-                            },
-                            onNext = {
-                                Timber.d(&quot;Get live course info: $it&quot;)
-                                view?.onLoadingLiveData(false)
-                                it?.run {
-                                    view?.onLiveDataChanged(true, F_tname, F_avatar, F_name)
-                                    view?.onPresentCourseQrCode(F_subject)
-                                }
-                            }
-                    )
-        }</text>
       </register>
     </registers>
     <search>
