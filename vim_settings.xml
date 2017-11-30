@@ -694,8 +694,8 @@
         <mark key="." line="56" column="32" />
         <mark key="^" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1511924332198">
-        <mark key="'" line="340" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveExerciseFragment.kt" timestamp="1512006313538">
+        <mark key="'" line="341" column="0" />
         <mark key="[" line="215" column="71" />
         <mark key="]" line="215" column="71" />
         <mark key="." line="215" column="71" />
@@ -1241,11 +1241,11 @@
       <jump line="102" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5waWxpLnBsZHJvaWQucGxheWVyLlBMTmV0d29ya01hbmFnZXIK</text>
+      <register name="&quot;" type="4">
+        <text>decoder</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>decoder</text>
       </register>
       <register name="/" type="4">
         <text>okhttp</text>
