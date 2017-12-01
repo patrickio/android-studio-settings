@@ -553,12 +553,12 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1511916666926">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" timestamp="1512113820265">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="203" column="68" />
-        <mark key="]" line="203" column="69" />
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="66" column="27" />
         <mark key="^" line="335" column="58" />
-        <mark key="." line="203" column="69" />
+        <mark key="." line="66" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1512002454407">
         <mark key="[" line="145" column="0" />
@@ -566,7 +566,7 @@
         <mark key="^" line="146" column="46" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512092734099">
+      <file name="/Dummy.txt" timestamp="1512113756954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/TeacherFragment.kt" timestamp="1509517061091">
@@ -1253,11 +1253,11 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
+      <register name="&quot;" type="4">
+        <text>智慧课堂</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>智慧课堂</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
