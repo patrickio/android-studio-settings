@@ -999,6 +999,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMManager.kt" timestamp="1512127007759">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/cb_star.xml" timestamp="1511424688272">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -1256,8 +1262,10 @@
       <jump line="50" column="53" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSYWJiaXRNUU1hbmFnZXIuY2xvc2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>var userConfig = TIMUserConfig().apply {
+                userStatusListener = userStatusListener_
+            }</text>
       </register>
       <register name="-" type="4">
         <text>mFragmentListener</text>
@@ -1269,36 +1277,38 @@
         <text>tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSYWJiaXRNUU1hbmFnZXIuY2xvc2UoKQo=</text>
+      <register name="1" type="4">
+        <text>var userConfig = TIMUserConfig().apply {
+                userStatusListener = userStatusListener_
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1GcmFnbWVudExpc3RlbmVyOiBPbkZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcj8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBSYWJiaXRNUU1hbmFnZXIuY2xvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1GcmFnbWVudExpc3RlbmVyOiBPbkZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcj8gPSBudWxsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (context is OnFragmentInteractionListener) {
             mFragmentListener = context
         } else {
             throw RuntimeException(context!!.toString() + &quot; must implement OnFragmentInteractionListener&quot;)
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25uZWN0TVFTZXJ2ZXIoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImludmlzaWJsZSIK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5yeGtvdGxpbi5zdWJzY3JpYmVCeQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbD8ucnVuIHsgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
       </register>
     </registers>
     <search>
