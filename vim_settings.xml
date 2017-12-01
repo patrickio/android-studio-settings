@@ -310,10 +310,10 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1512095077248">
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="54" column="20" />
-        <mark key="." line="54" column="20" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1512118008928">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1248,8 +1248,8 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>智慧课堂</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5yeGtvdGxpbi5zdWJzY3JpYmVCeQo=</text>
       </register>
       <register name="-" type="4">
         <text>智慧课堂</text>
@@ -1262,31 +1262,31 @@
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5yeGtvdGxpbi5zdWJzY3JpYmVCeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbD8ucnVuIHsgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbD8ucnVuIHsgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IAogICAgICAgIAogICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgcHJpdmF0ZSBmdW4gdXBsb2FkTGl2ZVdhdGNoTG9uZygpIHsKICAgICAgICBUaW1iZXIuCiAgICB9</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgCiAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
       </register>
     </registers>
     <search>
