@@ -310,11 +310,10 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1512045075314">
-        <mark key="[" line="186" column="8" />
-        <mark key="]" line="188" column="21" />
-        <mark key="." line="186" column="8" />
-        <mark key="^" line="186" column="7" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePlayPresenter.kt" timestamp="1512095077248">
+        <mark key="[" line="54" column="20" />
+        <mark key="]" line="54" column="20" />
+        <mark key="." line="54" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1510300055242">
         <mark key="[" line="51" column="0" />
@@ -1259,10 +1258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>stopPlayingLive</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>stopPlayingLive</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1272,33 +1271,33 @@
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGF1KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (!RabbitMQManager.isRabbitMQConnected) {
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3RNUVNlcnZlcigpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if (!isPaused) {
                 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNvbm5lY3Rpdml0eUNoYW5nZWQobmV0d29ya0luZm8pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNvbm5lY3Rpdml0eUNoYW5nZWQobmV0d29ya0luZm8pCg==</text>
       </register>
     </registers>
     <search>
