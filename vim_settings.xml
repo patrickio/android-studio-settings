@@ -678,11 +678,11 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1512034831892">
-        <mark key="[" line="99" column="70" />
-        <mark key="]" line="58" column="129" />
-        <mark key="^" line="58" column="129" />
-        <mark key="." line="58" column="129" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1512108652280">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="34" column="60" />
+        <mark key="^" line="34" column="60" />
+        <mark key="." line="34" column="60" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/dimens.xml" timestamp="1511504681527">
         <mark key="[" line="43" column="33" />
@@ -740,6 +740,12 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" timestamp="1512108784302">
+        <mark key="[" line="53" column="143" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="29" />
@@ -796,11 +802,10 @@
         <mark key="." line="260" column="38" />
         <mark key="^" line="260" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" timestamp="1511398928774">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/apis/LiveApis.kt" timestamp="1512108445848">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/proguard-rules.pro" timestamp="1507704470435">
         <mark key="[" line="40" column="2" />
@@ -1258,10 +1263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stopPlayingLive</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>stopPlayingLive</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1270,34 +1275,33 @@
         <text>tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGF1KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if (!RabbitMQManager.isRabbitMQConnected) {
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGF1KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3RNUVNlcnZlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if (!isPaused) {
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNvbm5lY3Rpdml0eUNoYW5nZWQobmV0d29ya0luZm8pCg==</text>
+      <register name="9" type="4">
+        <text>if (!RabbitMQManager.isRabbitMQConnected) {
+            }</text>
       </register>
     </registers>
     <search>
