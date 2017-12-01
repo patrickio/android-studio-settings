@@ -74,12 +74,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1512046281476">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/compat/RetrofitManager.kt" timestamp="1512089366933">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="9" />
-        <mark key="]" line="69" column="9" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
         <mark key="^" line="72" column="8" />
-        <mark key="." line="53" column="8" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/decode/JudgeChoiceDecoder.java" timestamp="1508845649325">
         <mark key="[" line="93" column="51" />
@@ -793,7 +793,6 @@
         <mark key="^" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="/LiveWhiteboardFragment.kt" timestamp="1512039143681" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/values/strings.xml" timestamp="1507537778251">
         <mark key="[" line="260" column="35" />
         <mark key="]" line="260" column="38" />
@@ -1256,24 +1255,8 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if (Helper.isNetworkReachable(context)) {
-            // 有网络时，读接口上的@Headers里的配置
-            val cacheControl = request.cacheControl().toString()
-            if (!TextUtils.isEmpty(cacheControl)) {
-                originalResponse.newBuilder()
-                        .header(&quot;Cache-Control&quot;, cacheControl)
-                        .removeHeader(&quot;Pragma&quot;)
-                        .build()
-            } else {
-                originalResponse.newBuilder().build()
-            }
-        } else {
-            originalResponse.newBuilder()
-                    .header(&quot;Cache-Control&quot;, &quot;public, only-if-cached, max-stale=$cacheMaxStale&quot;)
-                    .removeHeader(&quot;Pragma&quot;)
-                    .build()
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -1285,7 +1268,13 @@
         <text>tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG9rSHR0cEJ1aWxkZXIucHJvdG9jb2xzKGxpc3RPZihQcm90b2NvbC5IVFRQXzFfMSkpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (Helper.isNetworkReachable(context)) {
             // 有网络时，读接口上的@Headers里的配置
             val cacheControl = request.cacheControl().toString()
@@ -1304,31 +1293,23 @@
                     .build()
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">dmFyIHFySW1nUmVzOiBJbnQgPSAtMQogICAgICAgIHZhciB0aXRsZSA9ICIiCiAgICAgICAgdmFyIHFxTnVtID0gIiIKCiAgICAgICAgd2hlbiAoc3ViamVjdCkgewogICAgICAgICAgICAwLCBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX0NISU5FU0UgLT4gewogICAgICAgICAgICAgICAgcXJJbWdSZXMgPSBSLmRyYXdhYmxlLmltZ19xcl9jaGluZXNlCiAgICAgICAgICAgICAgICB0aXRsZSA9IGdldFN0cmluZyhSLnN0cmluZy5xcl9oaW50X3RpdGxlX2NoaW5lc2UpCiAgICAgICAgICAgICAgICBxcU51bSA9ICIxMjQ3MjE2OTQiCgogICAgICAgICAgICB9CiAgICAgICAgICAgIExpdmVDb3Vyc2VCZWFuLlNVQkpFQ1RfTUFUSCAtPiB7CiAgICAgICAgICAgICAgICBxckltZ1JlcyA9IFIuZHJhd2FibGUuaW1nX3FyX21hdGgKICAgICAgICAgICAgICAgIHRpdGxlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLnFyX2hpbnRfdGl0bGVfbWF0aCkKICAgICAgICAgICAgICAgIHFxTnVtID0gIjM0ODk3MTAyOCIKICAgICAgICAgICAgfQogICAgICAgICAgICBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX0VOR0xJU0ggLT4gewogICAgICAgICAgICAgICAgcXJJbWdSZXMgPSBSLmRyYXdhYmxlLmltZ19xcl9lbmdsaXNoCiAgICAgICAgICAgICAgICB0aXRsZSA9IGdldFN0cmluZyhSLnN0cmluZy5xcl9oaW50X3RpdGxlX2VuZ2xpc2gpCiAgICAgICAgICAgICAgICBxcU51bSA9ICI0NTcwMjkxNDMiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGl2X3FyX2NvZGUudmlzaWJpbGl0eSA9IGlmIChzdWJqZWN0ID09IDApIFZpZXcuSU5WSVNJQkxFIGVsc2UgVmlldy5WSVNJQkxFCiAgICAgICAgaXZfcXJfY29kZS5pbWFnZVJlc291cmNlID0gcXJJbWdSZXMKICAgICAgICB0dl9xcl9jb2RlX2hpbnQudmlzaWJpbGl0eSA9IGlmIChzdWJqZWN0ID09IDApIFZpZXcuSU5WSVNJQkxFIGVsc2UgVmlldy5WSVNJQkxFCiAgICAgICAgdHZfcXJfY29kZV9oaW50LnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcubGl2ZV9xcl9oaW50LCB0aXRsZSwgcXFOdW0p</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNldERlYnVnTG9nZ2luZ0VuYWJsZWQoZmFsc2UpIC8vIHJlbW92ZSB0aGUgYW5ub3lpbmcgbG9nCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVwYXJlQ2hhdFJvb20oKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9hc3QobXNnKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>model?.getRTMPInfo()?.let {
-                        prepareRTMPStream(it)
-                    }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9hc3QobXNnKQo=</text>
       </register>
     </registers>
     <search>
