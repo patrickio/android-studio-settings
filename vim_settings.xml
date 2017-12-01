@@ -667,11 +667,6 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512091744182">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="34" />
@@ -680,9 +675,6 @@
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LiveFeature.kt" timestamp="1512108652280">
         <mark key="[" line="30" column="4" />
-        <mark key="]" line="34" column="60" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="34" column="60" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/dimens.xml" timestamp="1511504681527">
         <mark key="[" line="43" column="33" />
@@ -741,10 +733,9 @@
         <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveModel.kt" timestamp="1512108784302">
-        <mark key="[" line="53" column="143" />
-        <mark key="]" line="54" column="39" />
-        <mark key="." line="54" column="39" />
-        <mark key="^" line="54" column="39" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/bean/subject/CourseDatasBean.java" timestamp="1505792512120">
         <mark key="[" line="130" column="31" />
@@ -1262,11 +1253,11 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1275,33 +1266,32 @@
         <text>tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1DdXJyZW50V2F0Y2hMb25nLnRha2VJZiB7IGl0ID4gMCB9Py4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbD8ucnVuIHsgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IAogICAgICAgIAogICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGF1KQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgcHJpdmF0ZSBmdW4gdXBsb2FkTGl2ZVdhdGNoTG9uZygpIHsKICAgICAgICBUaW1iZXIuCiAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLkJ1aWxkQ29uZmlnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (!RabbitMQManager.isRabbitMQConnected) {
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
