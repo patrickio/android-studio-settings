@@ -567,7 +567,7 @@
         <mark key="^" line="146" column="46" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512002484563">
+      <file name="/Dummy.txt" timestamp="1512092734099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/TeacherFragment.kt" timestamp="1509517061091">
@@ -668,11 +668,10 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512089926323">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="." line="281" column="0" />
-        <mark key="^" line="280" column="101" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512091744182">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -714,11 +713,10 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1512045348031">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="32" column="16" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1512092686459">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_grade_choose.xml" timestamp="1508897228878">
         <mark key="[" line="17" column="26" />
@@ -906,6 +904,11 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1512091723374">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_live.xml" timestamp="1505956643274">
         <mark key="[" line="128" column="40" />
         <mark key="]" line="128" column="41" />
@@ -1059,11 +1062,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512091080649">
-        <mark key="[" line="57" column="71" />
-        <mark key="]" line="57" column="72" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="57" column="72" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512092409851">
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="104" column="30" />
+        <mark key="^" line="104" column="30" />
+        <mark key="." line="104" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512043239648">
         <mark key="[" line="47" column="8" />
@@ -1255,11 +1258,11 @@
       <jump line="213" column="34" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>mi</text>
@@ -1269,47 +1272,33 @@
         tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9rSHR0cEJ1aWxkZXIucHJvdG9jb2xzKGxpc3RPZihQcm90b2NvbC5IVFRQXzFfMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>if (Helper.isNetworkReachable(context)) {
-            // 有网络时，读接口上的@Headers里的配置
-            val cacheControl = request.cacheControl().toString()
-            if (!TextUtils.isEmpty(cacheControl)) {
-                originalResponse.newBuilder()
-                        .header(&quot;Cache-Control&quot;, cacheControl)
-                        .removeHeader(&quot;Pragma&quot;)
-                        .build()
-            } else {
-                originalResponse.newBuilder().build()
-            }
-        } else {
-            originalResponse.newBuilder()
-                    .header(&quot;Cache-Control&quot;, &quot;public, only-if-cached, max-stale=$cacheMaxStale&quot;)
-                    .removeHeader(&quot;Pragma&quot;)
-                    .build()
-        }</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">dmFyIHFySW1nUmVzOiBJbnQgPSAtMQogICAgICAgIHZhciB0aXRsZSA9ICIiCiAgICAgICAgdmFyIHFxTnVtID0gIiIKCiAgICAgICAgd2hlbiAoc3ViamVjdCkgewogICAgICAgICAgICAwLCBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX0NISU5FU0UgLT4gewogICAgICAgICAgICAgICAgcXJJbWdSZXMgPSBSLmRyYXdhYmxlLmltZ19xcl9jaGluZXNlCiAgICAgICAgICAgICAgICB0aXRsZSA9IGdldFN0cmluZyhSLnN0cmluZy5xcl9oaW50X3RpdGxlX2NoaW5lc2UpCiAgICAgICAgICAgICAgICBxcU51bSA9ICIxMjQ3MjE2OTQiCgogICAgICAgICAgICB9CiAgICAgICAgICAgIExpdmVDb3Vyc2VCZWFuLlNVQkpFQ1RfTUFUSCAtPiB7CiAgICAgICAgICAgICAgICBxckltZ1JlcyA9IFIuZHJhd2FibGUuaW1nX3FyX21hdGgKICAgICAgICAgICAgICAgIHRpdGxlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLnFyX2hpbnRfdGl0bGVfbWF0aCkKICAgICAgICAgICAgICAgIHFxTnVtID0gIjM0ODk3MTAyOCIKICAgICAgICAgICAgfQogICAgICAgICAgICBMaXZlQ291cnNlQmVhbi5TVUJKRUNUX0VOR0xJU0ggLT4gewogICAgICAgICAgICAgICAgcXJJbWdSZXMgPSBSLmRyYXdhYmxlLmltZ19xcl9lbmdsaXNoCiAgICAgICAgICAgICAgICB0aXRsZSA9IGdldFN0cmluZyhSLnN0cmluZy5xcl9oaW50X3RpdGxlX2VuZ2xpc2gpCiAgICAgICAgICAgICAgICBxcU51bSA9ICI0NTcwMjkxNDMiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGl2X3FyX2NvZGUudmlzaWJpbGl0eSA9IGlmIChzdWJqZWN0ID09IDApIFZpZXcuSU5WSVNJQkxFIGVsc2UgVmlldy5WSVNJQkxFCiAgICAgICAgaXZfcXJfY29kZS5pbWFnZVJlc291cmNlID0gcXJJbWdSZXMKICAgICAgICB0dl9xcl9jb2RlX2hpbnQudmlzaWJpbGl0eSA9IGlmIChzdWJqZWN0ID09IDApIFZpZXcuSU5WSVNJQkxFIGVsc2UgVmlldy5WSVNJQkxFCiAgICAgICAgdHZfcXJfY29kZV9oaW50LnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcubGl2ZV9xcl9oaW50LCB0aXRsZSwgcXFOdW0p</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNldERlYnVnTG9nZ2luZ0VuYWJsZWQoZmFsc2UpIC8vIHJlbW92ZSB0aGUgYW5ub3lpbmcgbG9nCg==</text>
+      <register name="4" type="4">
+        <text>if (!RabbitMQManager.isRabbitMQConnected) {
+            }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3RNUVNlcnZlcigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>if (!isPaused) {
+                }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVwYXJlQ2hhdFJvb20oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNvbm5lY3Rpdml0eUNoYW5nZWQobmV0d29ya0luZm8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9hc3QobXNnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
