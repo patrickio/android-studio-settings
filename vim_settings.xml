@@ -118,6 +118,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" timestamp="1512184737474" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512125167690">
         <mark key="'" line="50" column="53" />
         <mark key="[" line="399" column="63" />
@@ -520,6 +521,7 @@
         <mark key="^" line="54" column="37" />
         <mark key="." line="54" column="37" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Channel.java" timestamp="1512184999318" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/TeacherView.kt" timestamp="1507857498452">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="53" column="26" />
@@ -701,6 +703,9 @@
         <mark key="]" line="112" column="41" />
         <mark key="^" line="112" column="41" />
         <mark key="." line="112" column="41" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" timestamp="1512184716911">
+        <mark key="'" line="118" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
         <mark key="[" line="21" column="13" />
@@ -1066,8 +1071,8 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512125988757">
-        <mark key="[" line="96" column="13" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512184976945">
+        <mark key="[" line="115" column="40" />
         <mark key="]" line="104" column="30" />
         <mark key="^" line="104" column="30" />
         <mark key="." line="104" column="30" />
@@ -1166,8 +1171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="14" column="37" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/feature/LivePlayFeature.kt" />
       <jump line="27" column="72" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/widget/LiveLoadingView.kt" />
@@ -1266,6 +1269,8 @@
       <jump line="625" column="23" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="627" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="288" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
+      <jump line="53" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" />
+      <jump line="118" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1275,7 +1280,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>Recover</text>
       </register>
       <register name="0" type="4">
         <text>tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
@@ -1316,9 +1321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>Recover</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>Recover</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1326,7 +1331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last_question</entry>
         <entry>getAnswer</entry>
         <entry>onCheck</entry>
         <entry>reset</entry>
@@ -1346,6 +1350,7 @@
         <entry>parseDatasView</entry>
         <entry>scroll</entry>
         <entry>url</entry>
+        <entry>Recover</entry>
       </history-search>
       <history-cmd />
       <history-expr />
