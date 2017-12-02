@@ -1042,11 +1042,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512204776971">
-        <mark key="[" line="59" column="44" />
-        <mark key="]" line="59" column="44" />
-        <mark key="." line="59" column="44" />
-        <mark key="^" line="65" column="25" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512205931567">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="65" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -1281,8 +1281,8 @@
       <jump line="149" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlclRocmVhZAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1310,34 +1310,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxvZ1BhdGggPSBFbnZpcm9ubWVudC5nZXRFeHRlcm5hbFN0b3JhZ2VEaXJlY3RvcnkoKS5wYXRoICsgIi8uRWR1Y2F0aW9uLyIK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlclRocmVhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZVN0YXRlKCkgPT0gRW52aXJvbm1lbnQuTUVESUFfTU9VTlRFRCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbmZpZyB0aGUgVElNIFNESyBpZiBpdCdzIG5vdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0xldmVsID0gVElNTG9nTGV2ZWwudmFsdWVzKClbbGV2ZWxdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcmVwYXJlQ2hhdFJvb20oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBJTU1hbmFnZXIuY29uZmlnKGNvbnRleHQuYXBwbGljYXRpb25Db250ZXh0LCA0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtQ2hhdEhhbmRsZXI/Lmxvb3Blcj8ucXVpdFNhZmVseSgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxvZ1BhdGggPSBFbnZpcm9ubWVudC5nZXRFeHRlcm5hbFN0b3JhZ2VEaXJlY3RvcnkoKS5wYXRoICsgIi8uRWR1Y2F0aW9uLyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYXRIYW5kbGVyID0gSGFuZGxlcigubG9vcGVyKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZVN0YXRlKCkgPT0gRW52aXJvbm1lbnQuTUVESUFfTU9VTlRFRCApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0xldmVsID0gVElNTG9nTGV2ZWwudmFsdWVzKClbbGV2ZWxdCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>val handlerThread = HandlerThread(&quot;live_chat&quot;)
-            handlerThread.start()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.apply {
-                layoutParams = ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT)
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtQ2hhdEhhbmRsZXI/Lmxvb3Blcj8ucXVpdFNhZmVseSgpCg==</text>
       </register>
     </registers>
     <search>
