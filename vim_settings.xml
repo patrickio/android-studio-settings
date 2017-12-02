@@ -144,6 +144,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512187316801">
+        <mark key="[" line="37" column="72" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_scrolling.xml" timestamp="1506324499543">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -1077,9 +1083,9 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512186085668">
-        <mark key="[" line="115" column="40" />
-        <mark key="]" line="104" column="30" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512187267130">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="90" column="8" />
         <mark key="^" line="104" column="30" />
         <mark key="." line="104" column="30" />
       </file>
@@ -1279,51 +1285,60 @@
       <jump line="118" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>isRabbitMQConnected</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>isRabbitMQConnected</text>
       </register>
       <register name="/" type="4">
         <text>Recover</text>
       </register>
       <register name="0" type="4">
-        <text>tv_whiteboard_title?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START
-        tv_whiteboard_content?.gravity = if (alignCenter) Gravity.CENTER else Gravity.START</text>
+        <text>// Check whether the network is available
+        if (!Helper.isNetworkReachable(context)) {
+            Timber.i(&quot;Could not perform connect because network isn't reachable!&quot;)
+            if (!emitter.isDisposed) {
+                emitter.onError(RabbitMQException(&quot;网络连接不可用&quot;))
+            }
+            return@create
+        }
+
+        // Check whether the RabbitMQ is connected or not
+        if (isRabbitMQConnected) {
+            Timber.i(&quot;Could not perform connect because it is already connected!&quot;)
+            if (!emitter.isDisposed) {
+                emitter.onError(RabbitMQException(&quot;RabbitMQ is already connected!&quot;))
+            }
+            return@create
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
+        <text encoding="base64">ICAgIHZhbCBtc2dQdWJsaXNoZXI6IFB1Ymxpc2hTdWJqZWN0PExpdmVDbWQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZVRvb2wuY2hlY2tVcGRhdGUodGhpcykK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1TY2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0RGV2aWNlKCJhbmRyb2lkIikK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMi0yLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBVcGRhdGVGYWN0b3J5KCkuY3JlYXRlRGVmYXVsdENoZWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBsaXN0ZW5lciDmo4Dmn6Xnu5Pmnpzlm57osIMK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpc0NsaWNrZWQgdHJ1ZSDnlKjmiLfngrnlh7vmjInpkq7mm7TmlrDvvIxmYWxzZSDlkI7lj7Dmo4Dmn6Xmm7TmlrAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZVRvb2wuY2hlY2tVcGRhdGUodGhpcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBwVXBkYXRlRmFjdG9yeSgpLmNyZWF0ZURlZmF1bHRDaGVjaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0RGV2aWNlKCJhbmRyb2lkIikK</text>
       </register>
-      <register name="9" type="4">
-        <text>return ApUpdateFactory().createSpecifyCheck(ApInfo().apply {
-            packageName = context.packageName
-            versionCode = version
-//            setDevice(&quot;android&quot;)
-            isClickCheck = isClicked
-            setEnforceCheck(true)
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBVcGRhdGVGYWN0b3J5KCkuY3JlYXRlRGVmYXVsdENoZWNrKCkK</text>
       </register>
     </registers>
     <search>
