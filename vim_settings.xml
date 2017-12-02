@@ -638,12 +638,11 @@
         <mark key="^" line="161" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512198093558">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512198970928">
         <mark key="'" line="288" column="0" />
-        <mark key="[" line="317" column="82" />
-        <mark key="]" line="318" column="78" />
-        <mark key="." line="318" column="78" />
-        <mark key="^" line="318" column="78" />
+        <mark key="[" line="49" column="52" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1511409399854">
         <mark key="'" line="148" column="8" />
@@ -1278,7 +1277,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>isRabbitMQConnected</text>
@@ -1306,31 +1305,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0QWxsb3dpbmdTdGF0ZUxvc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0QWxsb3dpbmdTdGF0ZUxvc3MoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0QWxsb3dpbmdTdGF0ZUxvc3MoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtc2dQdWJsaXNoZXI6IFB1Ymxpc2hTdWJqZWN0PExpdmVDbWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
