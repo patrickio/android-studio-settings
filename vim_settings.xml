@@ -119,12 +119,11 @@
         <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" timestamp="1512184737474" />
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512125167690">
-        <mark key="'" line="50" column="53" />
-        <mark key="[" line="399" column="63" />
-        <mark key="]" line="50" column="52" />
-        <mark key="^" line="50" column="52" />
-        <mark key="." line="50" column="52" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512197816372">
+        <mark key="'" line="400" column="86" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
@@ -144,11 +143,10 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512187316801">
-        <mark key="[" line="37" column="72" />
-        <mark key="]" line="43" column="22" />
-        <mark key="." line="43" column="22" />
-        <mark key="^" line="43" column="22" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512197317670">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/layout/activity_scrolling.xml" timestamp="1506324499543">
         <mark key="[" line="78" column="0" />
@@ -640,12 +638,12 @@
         <mark key="^" line="161" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512141556293">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512198093558">
         <mark key="'" line="288" column="0" />
-        <mark key="[" line="317" column="26" />
-        <mark key="]" line="317" column="26" />
-        <mark key="." line="317" column="26" />
-        <mark key="^" line="317" column="26" />
+        <mark key="[" line="317" column="82" />
+        <mark key="]" line="318" column="78" />
+        <mark key="." line="318" column="78" />
+        <mark key="^" line="318" column="78" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1511409399854">
         <mark key="'" line="148" column="8" />
@@ -1083,12 +1081,6 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512187267130">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="90" column="8" />
-        <mark key="^" line="104" column="30" />
-        <mark key="." line="104" column="30" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" timestamp="1512182681806">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -1276,23 +1268,23 @@
       <jump line="289" column="19" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="184" column="28" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="298" column="32" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
-      <jump line="400" column="85" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
       <jump line="50" column="53" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
       <jump line="625" column="23" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="627" column="24" filename="$USER_HOME$/AndroidWorkspace/Education/exerciseanalalysis/src/main/java/cn/dream/exerciseanalysis/ExerciseLayout.java" />
       <jump line="288" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="53" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" />
       <jump line="118" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" />
+      <jump line="400" column="86" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isRabbitMQConnected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>isRabbitMQConnected</text>
       </register>
       <register name="/" type="4">
-        <text>Recover</text>
+        <text>scroll2</text>
       </register>
       <register name="0" type="4">
         <text>// Check whether the network is available
@@ -1314,37 +1306,37 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtc2dQdWJsaXNoZXI6IFB1Ymxpc2hTdWJqZWN0PExpdmVDbWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1TY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0QWxsb3dpbmdTdGF0ZUxvc3MoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBmaW5rZSBvbiAxNy0xMi0yLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiMS4wLjAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0QWxsb3dpbmdTdGF0ZUxvc3MoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZVRvb2wuY2hlY2tVcGRhdGUodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0RGV2aWNlKCJhbmRyb2lkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBVcGRhdGVGYWN0b3J5KCkuY3JlYXRlRGVmYXVsdENoZWNrKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBtc2dQdWJsaXNoZXI6IFB1Ymxpc2hTdWJqZWN0PExpdmVDbWQ+Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Recover</last-search>
+      <last-search>scroll2</last-search>
       <last-offset />
-      <last-pattern>Recover</last-pattern>
+      <last-pattern>scroll2</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1352,7 +1344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getAnswer</entry>
         <entry>onCheck</entry>
         <entry>reset</entry>
         <entry>.reset(</entry>
@@ -1372,6 +1363,7 @@
         <entry>scroll</entry>
         <entry>url</entry>
         <entry>Recover</entry>
+        <entry>scroll2</entry>
       </history-search>
       <history-cmd />
       <history-expr />
