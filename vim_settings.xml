@@ -1028,6 +1028,12 @@
         <mark key="^" line="268" column="53" />
         <mark key="." line="268" column="53" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManagerV2.kt" timestamp="1512186557966">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512141002142">
         <mark key="[" line="57" column="33" />
         <mark key="]" line="57" column="32" />
