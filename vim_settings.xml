@@ -136,11 +136,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512380370775">
-        <mark key="[" line="176" column="39" />
-        <mark key="]" line="176" column="37" />
-        <mark key="." line="176" column="37" />
-        <mark key="^" line="176" column="37" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512385878973">
+        <mark key="[" line="187" column="5" />
+        <mark key="]" line="187" column="5" />
+        <mark key="." line="187" column="5" />
+        <mark key="^" line="187" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -1275,8 +1275,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Timber.i(&quot;bind queue success&quot;)
-        Timber.d(&quot;bind queue($queueName) to exchange.&quot;)</text>
+        <text encoding="base64">LmNvbmNhdE1hcCB7IGNoYW5uZWwgLT4KICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>Unit</text>
@@ -1293,10 +1292,30 @@
                 }</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">LmNvbmNhdE1hcCB7IGNoYW5uZWwgLT4KICAgICAgICAKICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>//        val oldChannel = mChannels[queueName]
+//        if (oldChannel != null) {
+//
+//            mChannels.remove(queueName)
+//        }
+//        mChannels.put(queueName, channel)</text>
+      </register>
+      <register name="6" type="4">
         <text>Timber.i(&quot;bind queue success&quot;)
         Timber.d(&quot;bind queue($queueName) to exchange.&quot;)</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>catch (e: IOException) {
                 Timber.e(&quot;unbind queue error, $e&quot;)
                 if (!emitt)
@@ -1304,28 +1323,11 @@
                 
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnV0aWwuRmFzdFNhZmVJdGVyYWJsZU1hcAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>// Publish the cmd to observers
-                            msgPublisher.onNext(cmd)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJjbWQgJGNtZCIpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>else {
-                        }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJoYW5kbGVEZWxpdmVyeT09PT0+IGJvZHk6ICR7U3RyaW5nKGJvZHkpfSIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJyZWNlaXZlIGVtcHR5IGJvZHkgbWVzc2FnZS4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
