@@ -687,11 +687,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512369852093">
-        <mark key="[" line="76" column="24" />
-        <mark key="]" line="75" column="16" />
-        <mark key="." line="75" column="16" />
-        <mark key="^" line="75" column="16" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512377280144">
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="54" />
+        <mark key="." line="449" column="0" />
+        <mark key="^" line="449" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -996,10 +996,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1512375415003">
-        <mark key="'" line="95" column="27" />
-        <mark key="]" line="80" column="22" />
-        <mark key="^" line="134" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1512377029187">
+        <mark key="[" line="122" column="30" />
+        <mark key="]" line="123" column="7" />
+        <mark key="^" line="123" column="7" />
+        <mark key="." line="123" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1512141594177">
         <mark key="[" line="107" column="0" />
@@ -1288,52 +1289,50 @@
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setAudioAttributes(AudioAttributes.Builder().apply {
-                setUsage(AudioAttributes.USAGE_MEDIA)
-                setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
-            }.build())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZyB7IFRpbWJlci5pKCJzdG9wIG11c2ljIHBsYXlpbmciKSB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Timber</text>
+        <text>musicUri</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
       </register>
       <register name="0" type="4">
-        <text>val retryMsg = IMMessageFactory.createMessage(context.getString(R.string.connect_chat_server_fail), IMConnectElemType.FAILURE)
-                                            Timber.i(&quot;====CONNECT CHATROOM==== insert connect retry message($retryMsg)&quot;)
-                                            insertLocalMessage(retryMsg)</text>
+        <text>if (musicUri != mCurrentMusicUri) {
+                                        mCurrentMusicUri = musicUri
+                                        // Stop current playing music and play the new one
+                                        startPlayMusic(musicUri)
+                                    }</text>
       </register>
-      <register name="1" type="4">
-        <text>setAudioAttributes(AudioAttributes.Builder().apply {
-                setUsage(AudioAttributes.USAGE_MEDIA)
-                setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
-            }.build())</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZyB7IFRpbWJlci5pKCJzdG9wIG11c2ljIHBsYXlpbmciKSB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bU1lZGlhUGxheWVyQm94LnByZXBhcmVBbmRTdGFydFBsYXlpbmcoVXJpLnBhcnNlKG11c2ljVXJsKSwgaXNMb29waW5nID0gdHJ1ZSkgeyBzdWNjZXNzLCBfIC0+CiAgICAgICAgICAgIGlmIChzdWNjZXNzKSB7CiAgICAgICAgICAgICAgICB3aGVuIChtTGl2aW5nU3RhZ2UpIHsKICAgICAgICAgICAgICAgICAgICBMaXZpbmdTdGFnZS5MSVZJTkcgLT4gc3RvcFBsYXlpbmdNdXNpYygpCiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHZfY29ubmVjdF90eHQudGV4dENvbG9yID0gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0LCBSLmNvbG9yLm1lc3NhZ2VfY29ubmVjdGluZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU3RvcCBjdXJyZW50IHBsYXlpbmcgbXVzaWMgYW5kIHBsYXkgdGhlIG5ldyBvbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YXIgbUNoYXRIYW5kbGVyOiBIYW5kbGVyPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRQbGF5TXVzaWMobXVzaWNVcmwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0b3BQbGF5aW5nTXVzaWMoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBpZiAoIUlNTWFuYWdlci5pc0NvbmZpZykgewovLy8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyID0gSGFuZGxlcihJTVRocmVhZFByb3h5LnRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgdmFsIGhhbmRsZXJUaHJlYWQgPSBIYW5kbGVyVGhyZWFkKCJsaXZlX2NoYXQiKQovLyAgICAgICAgICAgIGhhbmRsZXJUaHJlYWQuc3RhcnQoKQovLyAgICAgICAgICAgIG1DaGF0SGFuZGxlciA9IEhhbmRsZXIoaGFuZGxlclRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyPy5wb3N0IHsKLy8gICAgICAgICAgICAgICAgLy8gY29uZmlnIHRoZSBUSU0gU0RLIGlmIGl0J3Mgbm90Ci8vICAgICAgICAgICAgICAgIGlmICghSU1NYW5hZ2VyLmlzQ29uZmlnKQovLyAgICAgICAgICAgICAgICAgICAgSU1NYW5hZ2VyLmNvbmZpZyhjb250ZXh0LmFwcGxpY2F0aW9uQ29udGV4dCkKLy8KLy8gICAgICAgICAgICAgICAgbUhhbmRsZXIucG9zdCh7Ci8vICAgICAgICAgICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZGV0YWNoKCkgewovLyAgICAgICAgbW9kZWw/LmFwcGx5IHsKLy8gICAgICAgICAgICAvLyBub3QgaGFuZGxlIHRoZSBsZWF2ZSBjaGF0cm9vbSByZXN1bHQKLy8gICAgICAgICAgICBsZWF2ZUNoYXRSb29tKCkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCi8vICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVCeSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb25FcnJvciA9IHsgVGltYmVyLmUoImxlYXZlIGNoYXRyb29tIGVycm9yOiAkaXQiKSB9LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbk5leHQgPSB7IFRpbWJlci5pKCJsZWF2ZSBjaGF0cm9vbSBzdWNjZXNzIikgfQovLyAgICAgICAgICAgICAgICAgICAgKQovLyAgICAgICAgfQovLyAgICAgICAgbUNoYXRIYW5kbGVyPy5sb29wZXI/LnF1aXRTYWZlbHkoKQoKICAgICAgICBzdXBlci5kZXRhY2goKQogICAgfQ==</text>
+        <text>// avoid invoking player in wrong state, reset it when playing new sound.
+            // player's state change to idle
+            resetPlayer()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzZXRQbGF5ZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
