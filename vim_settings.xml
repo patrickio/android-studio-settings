@@ -136,10 +136,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512387535632">
-        <mark key="[" line="127" column="6" />
-        <mark key="]" line="127" column="6" />
-        <mark key="." line="127" column="6" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512388503576">
+        <mark key="[" line="258" column="87" />
+        <mark key="]" line="258" column="87" />
+        <mark key="." line="258" column="16" />
+        <mark key="^" line="258" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -702,6 +703,9 @@
         <mark key="]" line="112" column="41" />
         <mark key="^" line="112" column="41" />
         <mark key="." line="112" column="41" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" timestamp="1512388005691">
+        <mark key="'" line="118" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/ThreadPoolProxy.kt" timestamp="1512369786730" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
@@ -1275,49 +1279,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>concatMap {
-        
-    }</text>
+        <text>// The connection is broken but the isConnected flag has not be changed</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>// The connection is broken but the isConnected flag has not be changed</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZW1pdHRlciAtPgogICAgICAgIC8vIENoZWNrIHdoZXRoZXIgdGhlIG5ldHdvcmsgaXMgYXZhaWxhYmxlCiAgICAgICAgaWYgKCFIZWxwZXIuaXNOZXR3b3JrUmVhY2hhYmxlKGNvbnRleHQpKSB7CiAgICAgICAgICAgIFRpbWJlci5pKCJDb3VsZCBub3QgcGVyZm9ybSBiaW5kUXVldWUgYmVjYXVzZSBuZXR3b3JrIGlzbid0IHJlYWNoYWJsZSEiKQogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKFJhYmJpdE1RTWFuYWdlci5SYWJiaXRNUUV4Y2VwdGlvbihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5uZXR3b3JrX2lzX3VucmVhY2hhYmxlKSkpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuQGNyZWF0ZQogICAgICAgIH0KCiAgICAgICAgaWYgKCFpc0Nvbm5lY3RlZCkgewogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKFJhYmJpdE1RTWFuYWdlci5SYWJiaXRNUUV4Y2VwdGlvbigiQ291bGQgbm90IHBlcmZvcm0gYmluZFF1ZXVlIHdpdGhvdXQgYW55IGNvbm5lY3Rpb24sIGNhbGwgY29ubmVjdCBmaXJzdCEiKSkKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm5AY3JlYXRlCiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgY2hhbm5lbCA9IG1Db25uZWN0aW9uISEuY3JlYXRlQ2hhbm5lbCgpLmFwcGx5IHsKICAgICAgICAgICAgICAgIC8vIENyZWF0ZSB0aGUgc3BlY2lmaWVkIHF1ZXVlIGlmIG5lY2Vzc2FyeQogICAgICAgICAgICAgICAgcXVldWVEZWNsYXJlKHF1ZXVlTmFtZSwgdHJ1ZS8qZHVyYWJsZSovLCBmYWxzZSwgZmFsc2UsIG51bGwpCiAgICAgICAgICAgICAgICAvLyBCaW5kIHRoZSBzcGVjaWZpZWQgcXVldWUKICAgICAgICAgICAgICAgIHF1ZXVlQmluZChxdWV1ZU5hbWUsIEFwcENvbmYucmFiYml0TVFFeGNoYW5nZSwgcm91dGluZ0tleSkKICAgICAgICAgICAgICAgIC8vIFNldCBwcmVmZXRjaENvdW50PTEsIHNvIHRoaXMgY29uc3VtZXIgd291bGQgcmVjZWl2ZSBtZXNzYWdlIG9uZSBieSBvbmUKICAgICAgICAgICAgICAgIGJhc2ljUW9zKDAvKnByZWZldGNoU2l6ZSovLCAxLypwcmVmZXRjaENvdW50Ki8sIGZhbHNlKQogICAgICAgICAgICAgICAgYmFzaWNDb25zdW1lKHF1ZXVlTmFtZSwgdHJ1ZSwgb2JqZWN0IDogRGVmYXVsdENvbnN1bWVyKHRoaXMpIHsKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gaGFuZGxlRGVsaXZlcnkoY29uc3VtZXJUYWc6IFN0cmluZz8sIGVudmVsb3BlOiBFbnZlbG9wZT8sIHByb3BlcnRpZXM6IEFNUVAuQmFzaWNQcm9wZXJ0aWVzPywgYm9keTogQnl0ZUFycmF5PykgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zdW1lclRhZyBhbmQgZW52ZWxvcGUgYXJlIHVzZWQgZm9yIGFjawogICAgICAgICAgICAgICAgICAgICAgICAvLyBQdWJsaXNoIHRoZSBtZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJoYW5kbGVEZWxpdmVyeT09PT0+IGNvbnN1bWVyVGFnOiAkY29uc3VtZXJUYWcsIGVudmVsb3BlOiAkZW52ZWxvcGUsIGJvZHk6ICR7aWYgKGJvZHkgIT0gbnVsbCkgU3RyaW5nKGJvZHkpIGVsc2UgIiJ9IikKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJvZHkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgY21kID0gR3NvbigpLmZyb21Kc29uKFN0cmluZyhib2R5KSwgTGl2ZUNtZDo6Y2xhc3MuamF2YSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBQdWJsaXNoIHRoZSBjbWQgdG8gb2JzZXJ2ZXJzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXNnUHVibGlzaGVyLm9uTmV4dChjbWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBKc29uU3ludGF4RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmUoImpzb24gcGFyc2UgTGl2ZUNtZCBlcnJvciwgJHtlLmxvY2FsaXplZE1lc3NhZ2V9IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFRpbWJlci5pKCJiaW5kIHF1ZXVlIHN1Y2Nlc3MiKQogICAgICAgICAgICBUaW1iZXIuZCgiYmluZCBxdWV1ZSgkcXVldWVOYW1lKSB0byBleGNoYW5nZS4iKQoKICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KGNoYW5uZWwpCiAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text>if (BuildConfig.DEBUG) {
+                e.printStackTrace()
+            }
+            if (!emitter.isDisposed) {
+                emitter.onError(e)
+            }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtYXJrIGlzQ29ubmVjdGVkIHRvIGZhbHNlIGlnbm9yZSB0aGUgcmVzdWx0IG9mIG1Db25uLmNsb3NlKCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KFVuaXQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGlzQ29ubmVjdGVkKSB7CiAgICAgICAgICAgIFRpbWJlci5pKCJBTVFQTWFuYWdlciBpcyBhbHJlYWR5IGNvbm5lY3RlZC4iKQogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkNvbXBsZXRlKCkKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm5AY3JlYXRlCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text>.concat {
+        
+    }</text>
+      </register>
+      <register name="6" type="4">
+        <text>takeWhile { 
+        
+    }</text>
+      </register>
+      <register name="7" type="4">
         <text>concatMap {
         
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>if (!isConnected) {
             Observable
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Y3JlYXRlPFVuaXQ+IHsgZW1pdHRlciAtPgoKICAgIH0=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uY2F0TWFwIHsKICAgICAgICBtQ2hhbm5lbHMucHV0KHF1ZXVlTmFtZSwgaXQpCiAgICAgICAgT2JzZXJ2YWJsZS5lbXB0eTxVbml0PigpCiAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVbml0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kUXVldWVJbnRlcm5hbChxdWV1ZU5hbWUsIHJvdXRpbmdLZXkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb2xkQ2hhbiA9IG1DaGFubmVsc1txdWV1ZU5hbWVdCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYW5uZWxzLnJlbW92ZShxdWV1ZU5hbWUpCg==</text>
       </register>
     </registers>
     <search>
