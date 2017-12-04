@@ -117,12 +117,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512197816372">
-        <mark key="'" line="400" column="86" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" timestamp="1512378002175" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="29" column="36" />
@@ -141,10 +136,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512197317670">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512378517342">
+        <mark key="[" line="109" column="67" />
+        <mark key="]" line="109" column="63" />
+        <mark key="." line="109" column="63" />
+        <mark key="^" line="109" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -687,12 +683,6 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512377280144">
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="449" column="54" />
-        <mark key="." line="449" column="0" />
-        <mark key="^" line="449" column="30" />
-      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="34" />
@@ -916,9 +906,9 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1512091723374">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveBasePresenter.kt" timestamp="1512377465085">
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="40" column="109" />
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMThreadProxy.kt" timestamp="1512203832468">
@@ -995,12 +985,6 @@
         <mark key="]" line="1" column="19" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1512377029187">
-        <mark key="[" line="122" column="30" />
-        <mark key="]" line="123" column="7" />
-        <mark key="^" line="123" column="7" />
-        <mark key="." line="123" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1512141594177">
         <mark key="[" line="107" column="0" />
@@ -1119,9 +1103,6 @@
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/LiveBaseMessageItemView.kt" timestamp="1512374931765">
         <mark key="[" line="140" column="28" />
-        <mark key="]" line="141" column="65" />
-        <mark key="." line="141" column="65" />
-        <mark key="^" line="141" column="65" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
@@ -1289,50 +1270,56 @@
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZyB7IFRpbWJlci5pKCJzdG9wIG11c2ljIHBsYXlpbmciKSB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>amqp</text>
       </register>
       <register name="-" type="4">
-        <text>musicUri</text>
+        <text>amqp</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
       </register>
       <register name="0" type="4">
-        <text>if (musicUri != mCurrentMusicUri) {
-                                        mCurrentMusicUri = musicUri
-                                        // Stop current playing music and play the new one
-                                        startPlayMusic(musicUri)
-                                    }</text>
+        <text>if (BuildConfig.DEBUG) {
+                e.printStackTrace()
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZyB7IFRpbWJlci5pKCJzdG9wIG11c2ljIHBsYXlpbmciKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3QoY29udGV4dCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bU1lZGlhUGxheWVyQm94LnByZXBhcmVBbmRTdGFydFBsYXlpbmcoVXJpLnBhcnNlKG11c2ljVXJsKSwgaXNMb29waW5nID0gdHJ1ZSkgeyBzdWNjZXNzLCBfIC0+CiAgICAgICAgICAgIGlmIChzdWNjZXNzKSB7CiAgICAgICAgICAgICAgICB3aGVuIChtTGl2aW5nU3RhZ2UpIHsKICAgICAgICAgICAgICAgICAgICBMaXZpbmdTdGFnZS5MSVZJTkcgLT4gc3RvcFBsYXlpbmdNdXNpYygpCiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU3RvcCBjdXJyZW50IHBsYXlpbmcgbXVzaWMgYW5kIHBsYXkgdGhlIG5ldyBvbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRQbGF5TXVzaWMobXVzaWNVcmwpCg==</text>
+      <register name="4" type="4">
+        <text>private fun onConnectivityChanged(networkInfo: NetworkInfo) {
+        
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0b3BQbGF5aW5nTXVzaWMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>val mConnectivityBroadcast = object : BroadcastReceiver() {
+            override fun onReceive(context: Context, intent: Intent) {
+                if (intent.action == ConnectivityManager.CONNECTIVITY_ACTION) {
+                    val networkInfo = ConnectivityManagerCompat
+                            .getNetworkInfoFromBroadcast(context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager, intent)
+                    onConnectivityChanged(networkInfo)
+                }
+            }
+        }</text>
       </register>
-      <register name="7" type="4">
-        <text>// avoid invoking player in wrong state, reset it when playing new sound.
-            // player's state change to idle
-            resetPlayer()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ29ubmVjdGl2aXR5Q2hhbmdlZChuZXR3b3JrSW5mbykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzZXRQbGF5ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZyB7IFRpbWJlci5pKCJzdG9wIG11c2ljIHBsYXlpbmciKSB9Cg==</text>
       </register>
     </registers>
     <search>
