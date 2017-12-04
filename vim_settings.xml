@@ -327,11 +327,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1512122580668">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="47" column="40" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/activity_live_fullscreen.xml" timestamp="1512375255014">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/SignUpSucActivity.kt" timestamp="1512127342895">
         <mark key="[" line="34" column="78" />
@@ -537,8 +537,8 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMElem.kt" timestamp="1510543403069">
-        <mark key="[" line="9" column="38" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMElem.kt" timestamp="1512374845847">
+        <mark key="[" line="12" column="34" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="115" />
         <mark key="." line="9" column="38" />
@@ -712,9 +712,6 @@
         <mark key="]" line="112" column="41" />
         <mark key="^" line="112" column="41" />
         <mark key="." line="112" column="41" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" timestamp="1512184716911">
-        <mark key="'" line="118" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/ThreadPoolProxy.kt" timestamp="1512369786730" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
@@ -999,11 +996,9 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1512370063221">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1512375415003">
         <mark key="'" line="95" column="27" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+        <mark key="]" line="80" column="22" />
         <mark key="^" line="134" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1512141594177">
@@ -1120,6 +1115,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="6" column="49" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/itemview/LiveBaseMessageItemView.kt" timestamp="1512374931765">
+        <mark key="[" line="140" column="28" />
+        <mark key="]" line="141" column="65" />
+        <mark key="." line="141" column="65" />
+        <mark key="^" line="141" column="65" />
       </file>
       <file name="$USER_HOME$/Downloads/Zhuge_Android_SDK/SoftInputListenerDemo/app/src/main/AndroidManifest.xml" timestamp="1511181689552">
         <mark key="[" line="13" column="53" />
@@ -1288,7 +1289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Timber</text>
+        <text>setAudioAttributes(AudioAttributes.Builder().apply {
+                setUsage(AudioAttributes.USAGE_MEDIA)
+                setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+            }.build())</text>
       </register>
       <register name="-" type="4">
         <text>Timber</text>
@@ -1301,32 +1305,35 @@
                                             Timber.i(&quot;====CONNECT CHATROOM==== insert connect retry message($retryMsg)&quot;)
                                             insertLocalMessage(retryMsg)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YXIgbUNoYXRIYW5kbGVyOiBIYW5kbGVyPyA9IG51bGwK</text>
+      <register name="1" type="4">
+        <text>setAudioAttributes(AudioAttributes.Builder().apply {
+                setUsage(AudioAttributes.USAGE_MEDIA)
+                setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+            }.build())</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBpZiAoIUlNTWFuYWdlci5pc0NvbmZpZykgewovLy8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyID0gSGFuZGxlcihJTVRocmVhZFByb3h5LnRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgdmFsIGhhbmRsZXJUaHJlYWQgPSBIYW5kbGVyVGhyZWFkKCJsaXZlX2NoYXQiKQovLyAgICAgICAgICAgIGhhbmRsZXJUaHJlYWQuc3RhcnQoKQovLyAgICAgICAgICAgIG1DaGF0SGFuZGxlciA9IEhhbmRsZXIoaGFuZGxlclRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyPy5wb3N0IHsKLy8gICAgICAgICAgICAgICAgLy8gY29uZmlnIHRoZSBUSU0gU0RLIGlmIGl0J3Mgbm90Ci8vICAgICAgICAgICAgICAgIGlmICghSU1NYW5hZ2VyLmlzQ29uZmlnKQovLyAgICAgICAgICAgICAgICAgICAgSU1NYW5hZ2VyLmNvbmZpZyhjb250ZXh0LmFwcGxpY2F0aW9uQ29udGV4dCkKLy8KLy8gICAgICAgICAgICAgICAgbUhhbmRsZXIucG9zdCh7Ci8vICAgICAgICAgICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHZfY29ubmVjdF90eHQudGV4dENvbG9yID0gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0LCBSLmNvbG9yLm1lc3NhZ2VfY29ubmVjdGluZykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZGV0YWNoKCkgewovLyAgICAgICAgbW9kZWw/LmFwcGx5IHsKLy8gICAgICAgICAgICAvLyBub3QgaGFuZGxlIHRoZSBsZWF2ZSBjaGF0cm9vbSByZXN1bHQKLy8gICAgICAgICAgICBsZWF2ZUNoYXRSb29tKCkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCi8vICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVCeSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb25FcnJvciA9IHsgVGltYmVyLmUoImxlYXZlIGNoYXRyb29tIGVycm9yOiAkaXQiKSB9LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbk5leHQgPSB7IFRpbWJlci5pKCJsZWF2ZSBjaGF0cm9vbSBzdWNjZXNzIikgfQovLyAgICAgICAgICAgICAgICAgICAgKQovLyAgICAgICAgfQovLyAgICAgICAgbUNoYXRIYW5kbGVyPy5sb29wZXI/LnF1aXRTYWZlbHkoKQoKICAgICAgICBzdXBlci5kZXRhY2goKQogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YXIgbUNoYXRIYW5kbGVyOiBIYW5kbGVyPyA9IG51bGwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8vICAgICAgICBpZiAoIUlNTWFuYWdlci5pc0NvbmZpZykgewovLy8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyID0gSGFuZGxlcihJTVRocmVhZFByb3h5LnRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgdmFsIGhhbmRsZXJUaHJlYWQgPSBIYW5kbGVyVGhyZWFkKCJsaXZlX2NoYXQiKQovLyAgICAgICAgICAgIGhhbmRsZXJUaHJlYWQuc3RhcnQoKQovLyAgICAgICAgICAgIG1DaGF0SGFuZGxlciA9IEhhbmRsZXIoaGFuZGxlclRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyPy5wb3N0IHsKLy8gICAgICAgICAgICAgICAgLy8gY29uZmlnIHRoZSBUSU0gU0RLIGlmIGl0J3Mgbm90Ci8vICAgICAgICAgICAgICAgIGlmICghSU1NYW5hZ2VyLmlzQ29uZmlnKQovLyAgICAgICAgICAgICAgICAgICAgSU1NYW5hZ2VyLmNvbmZpZyhjb250ZXh0LmFwcGxpY2F0aW9uQ29udGV4dCkKLy8KLy8gICAgICAgICAgICAgICAgbUhhbmRsZXIucG9zdCh7Ci8vICAgICAgICAgICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZGV0YWNoKCkgewovLyAgICAgICAgbW9kZWw/LmFwcGx5IHsKLy8gICAgICAgICAgICAvLyBub3QgaGFuZGxlIHRoZSBsZWF2ZSBjaGF0cm9vbSByZXN1bHQKLy8gICAgICAgICAgICBsZWF2ZUNoYXRSb29tKCkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCi8vICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVCeSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb25FcnJvciA9IHsgVGltYmVyLmUoImxlYXZlIGNoYXRyb29tIGVycm9yOiAkaXQiKSB9LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbk5leHQgPSB7IFRpbWJlci5pKCJsZWF2ZSBjaGF0cm9vbSBzdWNjZXNzIikgfQovLyAgICAgICAgICAgICAgICAgICAgKQovLyAgICAgICAgfQovLyAgICAgICAgbUNoYXRIYW5kbGVyPy5sb29wZXI/LnF1aXRTYWZlbHkoKQoKICAgICAgICBzdXBlci5kZXRhY2goKQogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicHVibGlzaCBuZXcgbWVzc2FnZSgkbWVzc2FnZSkgd2l0aCBtc2dQdWJsaXNoZXIoJG5ld01lc3NhZ2VQdWJsaXNoZXIpIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCg==</text>
       </register>
     </registers>
     <search>
