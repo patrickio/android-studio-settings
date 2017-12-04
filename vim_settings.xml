@@ -435,10 +435,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1512368707965">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveChatModel.kt" timestamp="1512372606841">
+        <mark key="[" line="79" column="62" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs_live_player.xml" timestamp="1505734258733">
         <mark key="[" line="3" column="4" />
@@ -642,9 +643,9 @@
         <mark key="^" line="161" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512367943648">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512371709762">
         <mark key="'" line="56" column="3" />
-        <mark key="[" line="146" column="8" />
+        <mark key="[" line="180" column="67" />
         <mark key="]" line="146" column="8" />
         <mark key="." line="146" column="8" />
         <mark key="^" line="139" column="11" />
@@ -998,12 +999,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1511948957766">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaPlayerBox.kt" timestamp="1512370063221">
         <mark key="'" line="95" column="27" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="93" column="11" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LivePlayFragment.kt" timestamp="1512141594177">
         <mark key="[" line="107" column="0" />
@@ -1047,11 +1048,10 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512369301657">
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="56" column="29" />
-        <mark key="." line="56" column="29" />
-        <mark key="^" line="56" column="29" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512372375658">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -1184,8 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" />
-      <jump line="234" column="27" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
       <jump line="238" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
       <jump line="5" column="44" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_scoring.xml" />
       <jump line="391" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
@@ -1284,60 +1282,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
       <jump line="74" column="44" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
       <jump line="185" column="43" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
+      <jump line="271" column="54" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
+      <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
-      </register>
-      <register name="-" type="4">
-        <text>,</text>
-      </register>
-      <register name="/" type="4">
-        <text>助教</text>
-      </register>
-      <register name="0" type="4">
-        <text>LiveApis.server.fetchChatroomInfo(ucid, courseId)
-                .concatData()
-                .doOnNext {
-                    Timber.d(&quot;fetchChatroomInfo doOnNext: $it&quot;)
-                    //  Store the chatroom id
-                    mChatRoomId = it.F_chatroomId
-                }.map {
-            it.F_userSig
-        }</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0xldmVsID0gVElNTG9nTGV2ZWwudmFsdWVzKClbbGV2ZWxdCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlcGFyZUVudGVyQ2hhdFJvb20oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU1NYW5hZ2VyLmNvbmZpZyhjb250ZXh0LCA0KQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>IMMessageFactory.createMessage(context.getString(R.string.connect_chat_server_success), IMConnectElemType.CONNECTED)</text>
+      </register>
+      <register name="/" type="4">
+        <text>login chat</text>
+      </register>
+      <register name="0" type="4">
+        <text>val retryMsg = IMMessageFactory.createMessage(context.getString(R.string.connect_chat_server_fail), IMConnectElemType.FAILURE)
+                                            Timber.i(&quot;====CONNECT CHATROOM==== insert connect retry message($retryMsg)&quot;)
+                                            insertLocalMessage(retryMsg)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicHVibGlzaCBuZXcgbWVzc2FnZSgkbWVzc2FnZSkgd2l0aCBtc2dQdWJsaXNoZXIoJG5ld01lc3NhZ2VQdWJsaXNoZXIpIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5pKCJyZWNlaXZlIG5ldyBtZXNzYWdlKCRpdCkgZnJvbSBtc2dQdWJsaXNoZXIiKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gZ2V0VXNlclNpZygpOiBPYnNlcnZhYmxlPFN0cmluZz4gewogICAgICAgIHZhbCB1Y2lkID0gcGVyc29uLnVjaWQKICAgICAgICByZXR1cm4gTGl2ZUFwaXMuc2VydmVyLmZldGNoQ2hhdHJvb21JbmZvKHVjaWQsIGNvdXJzZUlkKQogICAgICAgICAgICAgICAgLmNvbmNhdERhdGEoKQogICAgICAgICAgICAgICAgLmRvT25OZXh0IHsKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiZmV0Y2hDaGF0cm9vbUluZm8gZG9Pbk5leHQ6ICRpdCIpCiAgICAgICAgICAgICAgICAgICAgLy8gIFN0b3JlIHRoZSBjaGF0cm9vbSBpZAogICAgICAgICAgICAgICAgICAgIG1DaGF0Um9vbUlkID0gaXQuRl9jaGF0cm9vbUlkCiAgICAgICAgICAgICAgICB9Lm1hcCB7CiAgICAgICAgICAgIGl0LkZfdXNlclNpZwogICAgICAgIH0KICAgIH0=</text>
+        <text>Timber.i(&quot;====CONNECT CHATROOM==== insert connect retry message&quot;)
+                                    insertLocalMessage(IMMessageFactory.createMessage(context.getString(R.string.connect_chat_server_fail), IMConnectElemType.FAILURE))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICBTdG9yZSB0aGUgY2hhdHJvb20gaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>助教</last-search>
+      <last-search>login chat</last-search>
       <last-offset />
-      <last-pattern>助教</last-pattern>
+      <last-pattern>login chat</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,7 +1340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>f</entry>
         <entry>ok</entry>
         <entry>retrofit</entry>
         <entry>okhttp</entry>
@@ -1365,6 +1359,7 @@
         <entry>get live course</entry>
         <entry>scroll</entry>
         <entry>助教</entry>
+        <entry>login chat</entry>
       </history-search>
       <history-cmd />
       <history-expr />
