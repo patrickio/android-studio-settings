@@ -1017,11 +1017,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMManager.kt" timestamp="1512369251904">
-        <mark key="[" line="67" column="31" />
-        <mark key="]" line="67" column="31" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/im/IMManager.kt" timestamp="1512374158649">
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="62" column="61" />
         <mark key="^" line="70" column="87" />
-        <mark key="." line="67" column="31" />
+        <mark key="." line="62" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/drawable/cb_star.xml" timestamp="1511424688272">
         <mark key="[" line="3" column="38" />
@@ -1048,10 +1048,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512372375658">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" timestamp="1512373430848">
+        <mark key="[" line="61" column="11" />
+        <mark key="]" line="61" column="11" />
+        <mark key="." line="61" column="11" />
+        <mark key="^" line="61" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/model/BaseModel.kt" timestamp="1505370909850">
         <mark key="[" line="16" column="4" />
@@ -1286,11 +1287,11 @@
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Timber</text>
       </register>
       <register name="-" type="4">
-        <text>IMMessageFactory.createMessage(context.getString(R.string.connect_chat_server_success), IMConnectElemType.CONNECTED)</text>
+        <text>Timber</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
@@ -1301,32 +1302,31 @@
                                             insertLocalMessage(retryMsg)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YXIgbUNoYXRIYW5kbGVyOiBIYW5kbGVyPyA9IG51bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vICAgICAgICBpZiAoIUlNTWFuYWdlci5pc0NvbmZpZykgewovLy8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyID0gSGFuZGxlcihJTVRocmVhZFByb3h5LnRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgdmFsIGhhbmRsZXJUaHJlYWQgPSBIYW5kbGVyVGhyZWFkKCJsaXZlX2NoYXQiKQovLyAgICAgICAgICAgIGhhbmRsZXJUaHJlYWQuc3RhcnQoKQovLyAgICAgICAgICAgIG1DaGF0SGFuZGxlciA9IEhhbmRsZXIoaGFuZGxlclRocmVhZC5sb29wZXIpCi8vICAgICAgICAgICAgbUNoYXRIYW5kbGVyPy5wb3N0IHsKLy8gICAgICAgICAgICAgICAgLy8gY29uZmlnIHRoZSBUSU0gU0RLIGlmIGl0J3Mgbm90Ci8vICAgICAgICAgICAgICAgIGlmICghSU1NYW5hZ2VyLmlzQ29uZmlnKQovLyAgICAgICAgICAgICAgICAgICAgSU1NYW5hZ2VyLmNvbmZpZyhjb250ZXh0LmFwcGxpY2F0aW9uQ29udGV4dCkKLy8KLy8gICAgICAgICAgICAgICAgbUhhbmRsZXIucG9zdCh7Ci8vICAgICAgICAgICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCi8vICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZGV0YWNoKCkgewovLyAgICAgICAgbW9kZWw/LmFwcGx5IHsKLy8gICAgICAgICAgICAvLyBub3QgaGFuZGxlIHRoZSBsZWF2ZSBjaGF0cm9vbSByZXN1bHQKLy8gICAgICAgICAgICBsZWF2ZUNoYXRSb29tKCkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCi8vICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKLy8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVCeSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb25FcnJvciA9IHsgVGltYmVyLmUoImxlYXZlIGNoYXRyb29tIGVycm9yOiAkaXQiKSB9LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbk5leHQgPSB7IFRpbWJlci5pKCJsZWF2ZSBjaGF0cm9vbSBzdWNjZXNzIikgfQovLyAgICAgICAgICAgICAgICAgICAgKQovLyAgICAgICAgfQovLyAgICAgICAgbUNoYXRIYW5kbGVyPy5sb29wZXI/LnF1aXRTYWZlbHkoKQoKICAgICAgICBzdXBlci5kZXRhY2goKQogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicHVibGlzaCBuZXcgbWVzc2FnZSgkbWVzc2FnZSkgd2l0aCBtc2dQdWJsaXNoZXIoJG5ld01lc3NhZ2VQdWJsaXNoZXIpIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5pKCJyZWNlaXZlIG5ldyBtZXNzYWdlKCRpdCkgZnJvbSBtc2dQdWJsaXNoZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVwYXJlRW50ZXJDaGF0Um9vbSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Timber.i(&quot;====CONNECT CHATROOM==== insert connect retry message&quot;)
-                                    insertLocalMessage(IMMessageFactory.createMessage(context.getString(R.string.connect_chat_server_fail), IMConnectElemType.FAILURE))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgicHVibGlzaCBuZXcgbWVzc2FnZSgkbWVzc2FnZSkgd2l0aCBtc2dQdWJsaXNoZXIoJG5ld01lc3NhZ2VQdWJsaXNoZXIpIikK</text>
       </register>
     </registers>
     <search>
