@@ -629,11 +629,11 @@
         <mark key="^" line="161" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512357218793">
-        <mark key="[" line="72" column="39" />
-        <mark key="]" line="72" column="28" />
-        <mark key="." line="72" column="28" />
-        <mark key="^" line="72" column="28" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512358106756">
+        <mark key="[" line="66" column="67" />
+        <mark key="]" line="66" column="68" />
+        <mark key="." line="66" column="68" />
+        <mark key="^" line="169" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
         <mark key="[" line="46" column="41" />
@@ -1235,11 +1235,11 @@
       <jump line="312" column="26" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>animator</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFuaW1hdG9yLnRyYW5zbGF0aW9uWSgwZikuYWxwaGEoMGYpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>animator</text>
+        <text>floatingBtnVisible</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
@@ -1300,34 +1300,50 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFuaW1hdG9yLnRyYW5zbGF0aW9uWSgwZikuYWxwaGEoMGYpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>debug {
-                &quot;layoutManager.findLastVisibleItemPosition() ${layoutManager.findLastVisibleItemPosition()},&quot; +
-                        &quot;mMessageAdapter.messageList.size ${mMessageAdapter.messageList.size}&quot;
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFuaW1hdG9yLnRyYW5zbGF0aW9uWSh0cmFuc2xhdGlvblkpLmFscGhhKDFmKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X01hcmdpbkJvdHRvbT0iMTUwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnIHsgInNob3cgJHZhbHVlIiB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjMxZHAiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQCtpZC90dl9zaWxlbmNlIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uTGF5b3V0Q2hpbGRyZW4ocmVjeWNsZXI6IFJlY3ljbGVyVmlldy5SZWN5Y2xlcj8sIHN0YXRlOiBSZWN5Y2xlclZpZXcuU3RhdGU/KSB7CiAgICAgICAgICAgIHN1cGVyLm9uTGF5b3V0Q2hpbGRyZW4ocmVjeWNsZXIsIHN0YXRlKQogICAgICAgICAgICBkZWJ1ZyB7ICJvbkxheW91dENoaWxkcmVuOiBzdGF0ZT0kc3RhdGUiIH0KICAgICAgICB9</text>
+      <register name="5" type="4">
+        <text>//        private val floatingBtnEnterAnimatorSet: AnimatorSet by lazy {
+//            AnimatorSet().apply {
+//                playTogether(
+//                        ObjectAnimator.ofFloat(btn_new_message_floating_alert, &quot;y&quot;, floatingTranslateBottom, floatingTranslateTop),
+//                        ObjectAnimator.ofFloat(btn_new_message_floating_alert, &quot;alpha&quot;, 0f, 1f)
+//                )
+//                duration = FLOATING_BTN_ANIMATION_DURATION
+//                addListener(mListener)
+//            }
+//        }
+//        private val floatingBtnExitAnimatorSet: AnimatorSet by lazy {
+//            AnimatorSet().apply {
+//                playTogether(
+//                        ObjectAnimator.ofFloat(btn_new_message_floating_alert, &quot;y&quot;, floatingTranslateTop, floatingTranslateBottom),
+//                        ObjectAnimator.ofFloat(btn_new_message_floating_alert, &quot;alpha&quot;, 1f, 0f)
+//                )
+//                duration = FLOATING_BTN_ANIMATION_DURATION
+//                addListener(mListener)
+//            }
+//        }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBmbG9hdGluZ1RyYW5zbGF0ZUJvdHRvbTogRmxvYXQgYnkgbGF6eSB7IGJ0bl9uZXdfbWVzc2FnZV9mbG9hdGluZ19hbGVydC55ICsgYnRuX25ld19tZXNzYWdlX2Zsb2F0aW5nX2FsZXJ0LmhlaWdodCB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBmbG9hdGluZ1RyYW5zbGF0ZVRvcDogRmxvYXQgYnkgbGF6eSB7IGJ0bl9uZXdfbWVzc2FnZV9mbG9hdGluZ19hbGVydC55IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcgeyAib25MYXlvdXRDb21wbGV0ZWQ6IHN0YXRlPSRzdGF0ZSIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFuaW1hdG9yLnRyYW5zbGF0aW9uWSh0cmFuc2xhdGlvblkpLmFscGhhKDFmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFsYXN0SXRlbVZpc2libGUgfHwgKGZpcnN0SXRlbVZpc2libGUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxvYXRpbmdCdG5FeGl0QW5pbWF0b3JTZXQuc3RhcnQoKQo=</text>
       </register>
     </registers>
     <search>
