@@ -136,11 +136,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512378517342">
-        <mark key="[" line="109" column="67" />
-        <mark key="]" line="109" column="63" />
-        <mark key="." line="109" column="63" />
-        <mark key="^" line="109" column="63" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512380370775">
+        <mark key="[" line="176" column="39" />
+        <mark key="]" line="176" column="37" />
+        <mark key="." line="176" column="37" />
+        <mark key="^" line="176" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -1071,6 +1071,10 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQManager.kt" timestamp="1512379544127">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="63" column="89" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/UpdateTool.kt" timestamp="1512182681806">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -1271,55 +1275,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>amqp</text>
+        <text>Timber.i(&quot;bind queue success&quot;)
+        Timber.d(&quot;bind queue($queueName) to exchange.&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>amqp</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
       </register>
       <register name="0" type="4">
         <text>if (BuildConfig.DEBUG) {
-                e.printStackTrace()
+                    e.printStackTrace()
+                }
+                if (!emitter.isDisposed) {
+                    emitter.onError(e)
+                }</text>
+      </register>
+      <register name="1" type="4">
+        <text>Timber.i(&quot;bind queue success&quot;)
+        Timber.d(&quot;bind queue($queueName) to exchange.&quot;)</text>
+      </register>
+      <register name="2" type="4">
+        <text>catch (e: IOException) {
+                Timber.e(&quot;unbind queue error, $e&quot;)
+                if (!emitt)
+            } catch (e: TimeoutException) {
+                
             }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3QoY29udGV4dCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
-      </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnV0aWwuRmFzdFNhZmVJdGVyYWJsZU1hcAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>private fun onConnectivityChanged(networkInfo: NetworkInfo) {
-        
-    }</text>
+      <register name="5" type="4">
+        <text>// Publish the cmd to observers
+                            msgPublisher.onNext(cmd)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJjbWQgJGNtZCIpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>val mConnectivityBroadcast = object : BroadcastReceiver() {
-            override fun onReceive(context: Context, intent: Intent) {
-                if (intent.action == ConnectivityManager.CONNECTIVITY_ACTION) {
-                    val networkInfo = ConnectivityManagerCompat
-                            .getNetworkInfoFromBroadcast(context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager, intent)
-                    onConnectivityChanged(networkInfo)
-                }
-            }
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ29ubmVjdGl2aXR5Q2hhbmdlZChuZXR3b3JrSW5mbykK</text>
+      <register name="7" type="4">
+        <text>else {
+                        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJoYW5kbGVEZWxpdmVyeT09PT0+IGJvZHk6ICR7U3RyaW5nKGJvZHkpfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wUGxheWluZyB7IFRpbWJlci5pKCJzdG9wIG11c2ljIHBsYXlpbmciKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJyZWNlaXZlIGVtcHR5IGJvZHkgbWVzc2FnZS4iKQo=</text>
       </register>
     </registers>
     <search>
