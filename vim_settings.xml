@@ -136,11 +136,10 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512385878973">
-        <mark key="[" line="187" column="5" />
-        <mark key="]" line="187" column="5" />
-        <mark key="." line="187" column="5" />
-        <mark key="^" line="187" column="4" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512387535632">
+        <mark key="[" line="127" column="6" />
+        <mark key="]" line="127" column="6" />
+        <mark key="." line="127" column="6" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -479,6 +478,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512387453349" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1510718023609">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -1275,59 +1275,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LmNvbmNhdE1hcCB7IGNoYW5uZWwgLT4KICAgICAgICAKICAgIH0=</text>
+        <text>concatMap {
+        
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
       </register>
       <register name="0" type="4">
-        <text>if (BuildConfig.DEBUG) {
-                    e.printStackTrace()
-                }
-                if (!emitter.isDisposed) {
-                    emitter.onError(e)
-                }</text>
+        <text encoding="base64">ZW1pdHRlciAtPgogICAgICAgIC8vIENoZWNrIHdoZXRoZXIgdGhlIG5ldHdvcmsgaXMgYXZhaWxhYmxlCiAgICAgICAgaWYgKCFIZWxwZXIuaXNOZXR3b3JrUmVhY2hhYmxlKGNvbnRleHQpKSB7CiAgICAgICAgICAgIFRpbWJlci5pKCJDb3VsZCBub3QgcGVyZm9ybSBiaW5kUXVldWUgYmVjYXVzZSBuZXR3b3JrIGlzbid0IHJlYWNoYWJsZSEiKQogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKFJhYmJpdE1RTWFuYWdlci5SYWJiaXRNUUV4Y2VwdGlvbihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5uZXR3b3JrX2lzX3VucmVhY2hhYmxlKSkpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuQGNyZWF0ZQogICAgICAgIH0KCiAgICAgICAgaWYgKCFpc0Nvbm5lY3RlZCkgewogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkVycm9yKFJhYmJpdE1RTWFuYWdlci5SYWJiaXRNUUV4Y2VwdGlvbigiQ291bGQgbm90IHBlcmZvcm0gYmluZFF1ZXVlIHdpdGhvdXQgYW55IGNvbm5lY3Rpb24sIGNhbGwgY29ubmVjdCBmaXJzdCEiKSkKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm5AY3JlYXRlCiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgY2hhbm5lbCA9IG1Db25uZWN0aW9uISEuY3JlYXRlQ2hhbm5lbCgpLmFwcGx5IHsKICAgICAgICAgICAgICAgIC8vIENyZWF0ZSB0aGUgc3BlY2lmaWVkIHF1ZXVlIGlmIG5lY2Vzc2FyeQogICAgICAgICAgICAgICAgcXVldWVEZWNsYXJlKHF1ZXVlTmFtZSwgdHJ1ZS8qZHVyYWJsZSovLCBmYWxzZSwgZmFsc2UsIG51bGwpCiAgICAgICAgICAgICAgICAvLyBCaW5kIHRoZSBzcGVjaWZpZWQgcXVldWUKICAgICAgICAgICAgICAgIHF1ZXVlQmluZChxdWV1ZU5hbWUsIEFwcENvbmYucmFiYml0TVFFeGNoYW5nZSwgcm91dGluZ0tleSkKICAgICAgICAgICAgICAgIC8vIFNldCBwcmVmZXRjaENvdW50PTEsIHNvIHRoaXMgY29uc3VtZXIgd291bGQgcmVjZWl2ZSBtZXNzYWdlIG9uZSBieSBvbmUKICAgICAgICAgICAgICAgIGJhc2ljUW9zKDAvKnByZWZldGNoU2l6ZSovLCAxLypwcmVmZXRjaENvdW50Ki8sIGZhbHNlKQogICAgICAgICAgICAgICAgYmFzaWNDb25zdW1lKHF1ZXVlTmFtZSwgdHJ1ZSwgb2JqZWN0IDogRGVmYXVsdENvbnN1bWVyKHRoaXMpIHsKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gaGFuZGxlRGVsaXZlcnkoY29uc3VtZXJUYWc6IFN0cmluZz8sIGVudmVsb3BlOiBFbnZlbG9wZT8sIHByb3BlcnRpZXM6IEFNUVAuQmFzaWNQcm9wZXJ0aWVzPywgYm9keTogQnl0ZUFycmF5PykgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zdW1lclRhZyBhbmQgZW52ZWxvcGUgYXJlIHVzZWQgZm9yIGFjawogICAgICAgICAgICAgICAgICAgICAgICAvLyBQdWJsaXNoIHRoZSBtZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJoYW5kbGVEZWxpdmVyeT09PT0+IGNvbnN1bWVyVGFnOiAkY29uc3VtZXJUYWcsIGVudmVsb3BlOiAkZW52ZWxvcGUsIGJvZHk6ICR7aWYgKGJvZHkgIT0gbnVsbCkgU3RyaW5nKGJvZHkpIGVsc2UgIiJ9IikKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJvZHkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgY21kID0gR3NvbigpLmZyb21Kc29uKFN0cmluZyhib2R5KSwgTGl2ZUNtZDo6Y2xhc3MuamF2YSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBQdWJsaXNoIHRoZSBjbWQgdG8gb2JzZXJ2ZXJzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXNnUHVibGlzaGVyLm9uTmV4dChjbWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBKc29uU3ludGF4RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmUoImpzb24gcGFyc2UgTGl2ZUNtZCBlcnJvciwgJHtlLmxvY2FsaXplZE1lc3NhZ2V9IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFRpbWJlci5pKCJiaW5kIHF1ZXVlIHN1Y2Nlc3MiKQogICAgICAgICAgICBUaW1iZXIuZCgiYmluZCBxdWV1ZSgkcXVldWVOYW1lKSB0byBleGNoYW5nZS4iKQoKICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KGNoYW5uZWwpCiAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCFlbWl0dGVyLmlzRGlzcG9zZWQpIHsKICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LmNvbmNhdE1hcCB7IGNoYW5uZWwgLT4KICAgICAgICAKICAgIH0=</text>
+        <text>concatMap {
+        
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>if (!isConnected) {
+            Observable
+        }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y3JlYXRlPFVuaXQ+IHsgZW1pdHRlciAtPgoKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29uY2F0TWFwIHsKICAgICAgICBtQ2hhbm5lbHMucHV0KHF1ZXVlTmFtZSwgaXQpCiAgICAgICAgT2JzZXJ2YWJsZS5lbXB0eTxVbml0PigpCiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text>//        val oldChannel = mChannels[queueName]
-//        if (oldChannel != null) {
-//
-//            mChannels.remove(queueName)
-//        }
-//        mChannels.put(queueName, channel)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBVbml0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Timber.i(&quot;bind queue success&quot;)
-        Timber.d(&quot;bind queue($queueName) to exchange.&quot;)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kUXVldWVJbnRlcm5hbChxdWV1ZU5hbWUsIHJvdXRpbmdLZXkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>catch (e: IOException) {
-                Timber.e(&quot;unbind queue error, $e&quot;)
-                if (!emitt)
-            } catch (e: TimeoutException) {
-                
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWFkYm95LmxpdmUuZWR1Y2F0aW9uLnV0aWwuRmFzdFNhZmVJdGVyYWJsZU1hcAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb2xkQ2hhbiA9IG1DaGFubmVsc1txdWV1ZU5hbWVdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNoYW5uZWxzLnJlbW92ZShxdWV1ZU5hbWUpCg==</text>
       </register>
     </registers>
     <search>
