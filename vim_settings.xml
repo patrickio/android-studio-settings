@@ -629,12 +629,12 @@
         <mark key="^" line="161" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512360331728">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" timestamp="1512367168763">
         <mark key="'" line="56" column="3" />
-        <mark key="[" line="353" column="133" />
-        <mark key="]" line="353" column="134" />
-        <mark key="." line="353" column="134" />
-        <mark key="^" line="353" column="134" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="356" column="77" />
+        <mark key="." line="356" column="77" />
+        <mark key="^" line="359" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/res/xml/prefs.xml" timestamp="1505735094020">
         <mark key="[" line="46" column="41" />
@@ -1237,10 +1237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCl9LCA=</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCl9LCA=</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
@@ -1249,31 +1249,31 @@
         <text>itemCount $itemCount, firstItemVisible $firstItemVisible, lastItemVisible $lastItemVisible</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIj09PT1TQ1JPTEw9PT09IGl0ZW1Db3VudCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1OZWVkU2Nyb2xsMkJvdHRvbSA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIml0ZW1Db3VudCAkaXRlbUNvdW50LCBmaXJzdEl0ZW1WaXNpYmxlICRmaXJzdEl0ZW1WaXNpYmxlLCBsYXN0SXRlbVZpc2libGUgJGxhc3RJdGVtVmlzaWJsZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIj09PT1TQ1JPTEw9PT09IGl0ZW1Db3VudCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU5lZWRTY3JvbGwyQm90dG9tID0gbmVlZFNjcm9sbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoIml0ZW1Db3VudCAkaXRlbUNvdW50LCBmaXJzdEl0ZW1WaXNpYmxlICRmaXJzdEl0ZW1WaXNpYmxlLCBsYXN0SXRlbVZpc2libGUgJGxhc3RJdGVtVmlzaWJsZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtTmVlZFNjcm9sbDJCb3R0b20gPSBzY3JvbGxUb0JvdHRvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU5lZWRTY3JvbGwyQm90dG9tID0gbmVlZFNjcm9sbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtTmVlZFNjcm9sbDJCb3R0b20gPSBzY3JvbGxUb0JvdHRvbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5lZWRTY3JvbGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5lZWRTY3JvbGwpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJjdl9tZXNzYWdlc19saXN0LnNtb290aFNjcm9sbFRvUG9zaXRpb24obU1lc3NhZ2VBZGFwdGVyLm1lc3NhZ2VMaXN0LnNpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmkoImxhc3RJdGVtVmlzaWJsZSAkbGFzdEl0ZW1WaXNpYmxlLCBmaXJzdEl0ZW1WaXNpYmxlICRmaXJzdEl0ZW1WaXNpYmxlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJjdl9tZXNzYWdlc19saXN0LnNtb290aFNjcm9sbFRvUG9zaXRpb24obU1lc3NhZ2VBZGFwdGVyLm1lc3NhZ2VMaXN0LnNpemUpCg==</text>
       </register>
     </registers>
     <search>
