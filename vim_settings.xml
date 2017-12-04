@@ -1164,6 +1164,7 @@
         <mark key="." line="42" column="18" />
         <mark key="^" line="42" column="18" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/26.1.0/63d6891b399433c913fe91ce95a8456de02d367f/recyclerview-v7-26.1.0-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1512349918128" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/extension/PrimitivesExt.kt" timestamp="1511320763442">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
