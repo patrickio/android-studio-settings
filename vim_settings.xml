@@ -686,7 +686,7 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512139571985">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512369852093">
         <mark key="[" line="76" column="24" />
         <mark key="]" line="75" column="16" />
         <mark key="." line="75" column="16" />
@@ -715,6 +715,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" timestamp="1512184716911">
         <mark key="'" line="118" column="70" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/ThreadPoolProxy.kt" timestamp="1512369786730" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="13" />
@@ -862,6 +863,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaBox.kt" timestamp="1512369835898" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1512038697743">
         <mark key="[" line="87" column="44" />
         <mark key="]" line="92" column="53" />
