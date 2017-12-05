@@ -135,11 +135,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512435435547">
-        <mark key="[" line="241" column="27" />
-        <mark key="]" line="241" column="27" />
-        <mark key="." line="241" column="27" />
-        <mark key="^" line="245" column="16" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512437273301">
+        <mark key="[" line="287" column="21" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="16" />
+        <mark key="^" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -447,6 +447,12 @@
         <mark key="]" line="131" column="44" />
         <mark key="^" line="129" column="45" />
         <mark key="." line="131" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPChannel.kt" timestamp="1512436163935">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="72" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/course_group_item.xml" timestamp="1508899982563">
         <mark key="[" line="64" column="38" />
@@ -1273,11 +1279,11 @@
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
+      <register name="&quot;" type="4">
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGNoYW5uZWwuaXNPcGVu</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
@@ -1290,13 +1296,34 @@
                 emitter.onError(e)
             }</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGZpbmtlIG9uIDE3LTEyLTUuCiAqLw==</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+    
+    
+    
+}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjaGVja05ldHdvcmtSZWFjaGFibGUoKTogT2JzZXJ2YWJsZTxCb29sZWFuPiA9IE9ic2VydmFibGUuY3JlYXRlIHsgZW1pdHRlciAtPgogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text>.map {
+        Unit
+    }</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAnMS4wLjAnCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>try {
                 channel.close()
                 if (!emitter.isDisposed) {
@@ -1319,27 +1346,8 @@
                 }
             }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>concatMap { 
-        
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DaGFucy5yZW1vdmUocXVldWVOYW1lKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>else {
-
-        }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKCFpc0Nvbm5Db25uZWN0ZWQgJiYgaXNDb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgIC8vIFRoZSBjb25uZWN0aW9uIGlzIGJyb2tlbiBidXQgdGhlIGlzQ29ubmVjdGVkIGZsYWcgaGFzIG5vdCBiZSBjaGFuZ2VkCiAgICAgICAgICAgICAgICAvLyBBTVFQIAogICAgICAgICAgICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtYXJrIGlzQ29ubmVjdGVkIHRvIGZhbHNlIGlnbm9yZSB0aGUgcmVzdWx0IG9mIG1Db25uLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
