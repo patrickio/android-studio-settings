@@ -117,7 +117,6 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java" timestamp="1512378002175" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="29" column="36" />
@@ -136,11 +135,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512388503576">
-        <mark key="[" line="258" column="87" />
-        <mark key="]" line="258" column="87" />
-        <mark key="." line="258" column="16" />
-        <mark key="^" line="258" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512435435547">
+        <mark key="[" line="241" column="27" />
+        <mark key="]" line="241" column="27" />
+        <mark key="." line="241" column="27" />
+        <mark key="^" line="245" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -479,7 +478,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512387453349" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1510718023609">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -571,13 +569,12 @@
         <mark key="^" line="216" column="109" />
         <mark key="." line="216" column="115" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1512182741429">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/build.gradle" timestamp="1512435503366">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512182170609">
+      <file name="/Dummy.txt" timestamp="1512434545525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/TeacherFragment.kt" timestamp="1509517061091">
@@ -707,7 +704,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/4.3.0/c93ccf8bfed0ba8a196938e6c4944634f6cb06a7/amqp-client-4.3.0-sources.jar!/com/rabbitmq/client/Connection.java" timestamp="1512388005691">
         <mark key="'" line="118" column="70" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/util/ThreadPoolProxy.kt" timestamp="1512369786730" />
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/feature/IFeature.kt" timestamp="1505370682422">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="13" />
@@ -855,7 +851,6 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaBox.kt" timestamp="1512369835898" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1512038697743">
         <mark key="[" line="87" column="44" />
         <mark key="]" line="92" column="53" />
@@ -1278,11 +1273,11 @@
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// The connection is broken but the isConnected flag has not be changed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>// The connection is broken but the isConnected flag has not be changed</text>
+        <text encoding="base64">ICYmIGNoYW5uZWwuaXNPcGVu</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
@@ -1296,39 +1291,55 @@
             }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtYXJrIGlzQ29ubmVjdGVkIHRvIGZhbHNlIGlnbm9yZSB0aGUgcmVzdWx0IG9mIG1Db25uLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KFVuaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAnMS4wLjAnCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>try {
+                channel.close()
+                if (!emitter.isDisposed) {
+                    emitter.onNext(Pair(queueName, channel))
+                    emitter.onComplete()
+                }
+            } catch (e: IOException) {
+                if (BuildConfig.DEBUG) {
+                    e.printStackTrace()
+                }
+                if (!emitter.isDisposed) {
+                    emitter.onError(e)
+                }
+            } catch (e: TimeoutException) {
+                if (BuildConfig.DEBUG) {
+                    e.printStackTrace()
+                }
+                if (!emitter.isDisposed) {
+                    emitter.onError(e)
+                }
+            }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKGlzQ29ubmVjdGVkKSB7CiAgICAgICAgICAgIFRpbWJlci5pKCJBTVFQTWFuYWdlciBpcyBhbHJlYWR5IGNvbm5lY3RlZC4iKQogICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgZW1pdHRlci5vbkNvbXBsZXRlKCkKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm5AY3JlYXRlCiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>.concat {
+        <text>concatMap { 
         
     }</text>
       </register>
-      <register name="6" type="4">
-        <text>takeWhile { 
-        
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DaGFucy5yZW1vdmUocXVldWVOYW1lKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>concatMap {
-        
-    }</text>
-      </register>
-      <register name="8" type="4">
-        <text>if (!isConnected) {
-            Observable
+        <text>else {
+
         }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y3JlYXRlPFVuaXQ+IHsgZW1pdHRlciAtPgoKICAgIH0=</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCFpc0Nvbm5Db25uZWN0ZWQgJiYgaXNDb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgIC8vIFRoZSBjb25uZWN0aW9uIGlzIGJyb2tlbiBidXQgdGhlIGlzQ29ubmVjdGVkIGZsYWcgaGFzIG5vdCBiZSBjaGFuZ2VkCiAgICAgICAgICAgICAgICAvLyBBTVFQIAogICAgICAgICAgICB9</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtYXJrIGlzQ29ubmVjdGVkIHRvIGZhbHNlIGlnbm9yZSB0aGUgcmVzdWx0IG9mIG1Db25uLmNsb3NlKCkK</text>
       </register>
     </registers>
     <search>
