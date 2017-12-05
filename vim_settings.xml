@@ -727,7 +727,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1512353644343">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1512441858663">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
@@ -944,7 +944,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1512182692904">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/MainActivity.kt" timestamp="1512442122167">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
         <mark key="." line="274" column="0" />
@@ -1279,11 +1279,11 @@
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdCgpLmNvbmNhdFdpdGgoT2JzZXJ2YWJsZS5mcm9tSXRlcmFibGUoY2hhbnMudG9MaXN0KCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lm1hcCB7IFBhaXI8U3RyaW5nLCBDaGFubmVsPigpIH0=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>login chat</text>
