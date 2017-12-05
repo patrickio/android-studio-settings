@@ -142,10 +142,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512463310991">
-        <mark key="[" line="368" column="36" />
-        <mark key="]" line="368" column="44" />
-        <mark key="." line="368" column="44" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512463837591">
+        <mark key="[" line="78" column="111" />
+        <mark key="]" line="351" column="23" />
+        <mark key="." line="351" column="23" />
+        <mark key="^" line="351" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -697,11 +698,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512460725629">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="223" column="22" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512464010906">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="207" column="19" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -1296,8 +1297,8 @@
       <jump line="422" column="46" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1317,9 +1318,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>keepAliveChecker = Observable.interval(10, TimeUnit.SECONDS).subscribeOn(mScheduler).subscribeBy {
             if (Helper.isNetworkReachable(context)) {
                 if (!isConnConnected) {
@@ -1328,23 +1338,14 @@
             }
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29ubmVjdCgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgY29ubmVjdGlvbiBlcnJvcjogJHtpdC5pc0hhcmRFcnJvcn0sIGNhdXNlIGJ5IGFwcGxpY2F0aW9uIGFjdGlvbjogJHtpdC5pc0luaXRpYXRlZEJ5QXBwbGljYXRpb259LCBzaWduYWwgb2JqZWN0OiAke2l0LnJlZmVyZW5jZX0iKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgYSBjb25uZWN0aW9uIGVycm9yOiAke2l0LmlzSGFyZEVycm9yfSIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgY29ubmVjdGlvbiBlcnJvcjogJHtpdC5pc0hhcmRFcnJvcn0sIGNhdXNlIGJ5IGFwcGxpY2F0aW9uIGFjdGlvbjogJHtpdC5pc0luaXRpYXRlZEJ5QXBwbGljYXRpb259LCBzaWduYWwgb2JqZWN0OiAke2l0LnJlZmVyZW5jZX0iKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiIikK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgY29ubmVjdGlvbiBlcnJvcjogJHtpdC5pc0hhcmRFcnJvcn0sIGNhdXNlIGJ5IGFwcGxpY2F0aW9uIGFjdGlvbjogJHtpdC5pc0luaXRpYXRlZEJ5QXBwbGljYXRpb259LCBzaWduYWwgb2JqZWN0OiAke2l0LnJlZmVyZW5jZX0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic2h1dGRvd24sIHJlYXNvbjogJGl0IikK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgYSBjb25uZWN0aW9uIGVycm9yOiAke2l0LmlzSGFyZEVycm9yfSIpCg==</text>
       </register>
     </registers>
     <search>
