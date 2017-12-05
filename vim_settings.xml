@@ -142,11 +142,10 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512461228072">
-        <mark key="[" line="316" column="34" />
-        <mark key="]" line="315" column="62" />
-        <mark key="." line="315" column="62" />
-        <mark key="^" line="315" column="62" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512463310991">
+        <mark key="[" line="368" column="36" />
+        <mark key="]" line="368" column="44" />
+        <mark key="." line="368" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -1298,12 +1297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.subscribeBy(
-                        onError = {}
-                )</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Entry</text>
@@ -1316,36 +1313,38 @@
                 emitter.onError(e)
             }</text>
       </register>
-      <register name="1" type="4">
-        <text>.subscribeBy(
-                        onError = {}
-                )</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG9uTmV4dCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoIj09PT1BTVFQTWFuYWdlcj09PT0gY29ubmVjdCBhbXFwIG9uTmV4dCIpCiAgICAgICAgICAgICAgICAgICAgfSw=</text>
+        <text>keepAliveChecker = Observable.interval(10, TimeUnit.SECONDS).subscribeOn(mScheduler).subscribeBy {
+            if (Helper.isNetworkReachable(context)) {
+                if (!isConnConnected) {
+                    reconnect()
+                }
+            }
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBiaW5kUXVldWUocXVldWVOYW1lOiBTdHJpbmcsIHJvdXRpbmdLZXk6IFN0cmluZykgPSBPYnNlcnZhYmxlLmp1c3QoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29ubmVjdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9ic2VydmFibGUuanVzdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgY29ubmVjdGlvbiBlcnJvcjogJHtpdC5pc0hhcmRFcnJvcn0sIGNhdXNlIGJ5IGFwcGxpY2F0aW9uIGFjdGlvbjogJHtpdC5pc0luaXRpYXRlZEJ5QXBwbGljYXRpb259LCBzaWduYWwgb2JqZWN0OiAke2l0LnJlZmVyZW5jZX0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDb25uZWN0aW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgYSBjb25uZWN0aW9uIGVycm9yOiAke2l0LmlzSGFyZEVycm9yfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDb25uZWN0aW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiW1NIVVRET1dOXSBzaWduYWwgY29ubmVjdGlvbiBlcnJvcjogJHtpdC5pc0hhcmRFcnJvcn0sIGNhdXNlIGJ5IGFwcGxpY2F0aW9uIGFjdGlvbjogJHtpdC5pc0luaXRpYXRlZEJ5QXBwbGljYXRpb259LCBzaWduYWwgb2JqZWN0OiAke2l0LnJlZmVyZW5jZX0iKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.concatWith {
-                bindQueue(amqpQueueName, amqpRoutingKey)
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuaSgic2h1dGRvd24sIHJlYXNvbjogJGl0IikK</text>
       </register>
     </registers>
     <search>
