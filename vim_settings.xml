@@ -117,6 +117,13 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" timestamp="1512455301089">
+        <mark key="'" line="172" column="28" />
+        <mark key="[" line="175" column="4" />
+        <mark key="]" line="175" column="3" />
+        <mark key="^" line="175" column="3" />
+        <mark key="." line="175" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/model/LiveStudentModel.kt" timestamp="1508837030257">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="29" column="36" />
@@ -135,11 +142,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512440749561">
-        <mark key="[" line="289" column="30" />
-        <mark key="]" line="288" column="94" />
-        <mark key="." line="288" column="94" />
-        <mark key="^" line="288" column="94" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512455807345">
+        <mark key="[" line="192" column="74" />
+        <mark key="]" line="193" column="34" />
+        <mark key="." line="193" column="34" />
+        <mark key="^" line="193" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -484,6 +491,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512454287144" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1510718023609">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -687,6 +695,12 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512455357440">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="274" column="81" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="34" />
@@ -727,7 +741,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1512441858663">
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/AppConf.kt" timestamp="1512455180273">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
@@ -1086,11 +1100,11 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512043239648">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="10" />
-        <mark key="." line="47" column="10" />
-        <mark key="^" line="47" column="10" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/EducationApplication.kt" timestamp="1512453669270">
+        <mark key="[" line="31" column="79" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="72" />
+        <mark key="^" line="32" column="72" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjs/Education/app/src/main/java/com/readboy/live/education/util/AndroidLifecycleScopeProvider.kt" timestamp="1506059570439">
         <mark key="[" line="10" column="0" />
@@ -1177,7 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="12" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/adapter/CourseAdapter.kt" />
       <jump line="5" column="44" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_scoring.xml" />
       <jump line="391" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
@@ -1277,10 +1290,11 @@
       <jump line="185" column="43" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/values/strings.xml" />
       <jump line="271" column="54" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
+      <jump line="172" column="28" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdE1RU2VydmVyKCkK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -1297,56 +1311,46 @@
             }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdCgpLmNvbmNhdFdpdGgoT2JzZXJ2YWJsZS5mcm9tSXRlcmFibGUoY2hhbnMudG9MaXN0KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdE1RU2VydmVyKCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGZpbmtlIG9uIDE3LTEyLTUuCiAqLw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>{
-    
-    
-    
-}</text>
+        <text>if (!isForceOffline) {
+            connectMQServer()
+        }</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>if (isConnConnected) {
+                disconnect()
+            }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZSgiQU1RUE1hbmFnZXIubXNnUHVibGlzaGVyIGVycm9yIG9jY3VyOiAkaXQiKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjaGVja05ldHdvcmtSZWFjaGFibGUoKTogT2JzZXJ2YWJsZTxCb29sZWFuPiA9IE9ic2VydmFibGUuY3JlYXRlIHsgZW1pdHRlciAtPgogICAgICAgIAogICAgfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text>.map {
-        Unit
-    }</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAxMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAnMS4wLjAnCg==</text>
+      <register name="8" type="4">
+        <text>// observe the AMQPManager.msgPublisher
+            msgPublisher.observeOn(AndroidSchedulers.mainThread())
+                    .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
+                    .subscribeBy(
+                            onError = {
+                                Timber.e(&quot;AMQPManager.msgPublisher error occur: $it&quot;)
+                            },
+                            onNext = {
+                                handleLiveCmd(it)
+                            }
+                    )</text>
       </register>
       <register name="9" type="4">
-        <text>try {
-                channel.close()
-                if (!emitter.isDisposed) {
-                    emitter.onNext(Pair(queueName, channel))
-                    emitter.onComplete()
-                }
-            } catch (e: IOException) {
-                if (BuildConfig.DEBUG) {
-                    e.printStackTrace()
-                }
-                if (!emitter.isDisposed) {
-                    emitter.onError(e)
-                }
-            } catch (e: TimeoutException) {
-                if (BuildConfig.DEBUG) {
-                    e.printStackTrace()
-                }
-                if (!emitter.isDisposed) {
-                    emitter.onError(e)
-                }
+        <text>Observable.just(Unit).takeWhile {
+                isConnConnected
             }</text>
       </register>
     </registers>
