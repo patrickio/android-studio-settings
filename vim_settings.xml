@@ -142,11 +142,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512455807345">
-        <mark key="[" line="192" column="74" />
-        <mark key="]" line="193" column="34" />
-        <mark key="." line="193" column="34" />
-        <mark key="^" line="193" column="34" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512459464964">
+        <mark key="[" line="167" column="5" />
+        <mark key="]" line="167" column="15" />
+        <mark key="." line="167" column="15" />
+        <mark key="^" line="167" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -491,7 +491,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512454287144" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512459029857" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1510718023609">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -658,6 +658,9 @@
         <mark key="." line="146" column="8" />
         <mark key="^" line="139" column="11" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" timestamp="1512456918395">
+        <mark key="'" line="422" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/CourseDetailActivity.kt" timestamp="1511409399854">
         <mark key="'" line="148" column="8" />
         <mark key="[" line="88" column="25" />
@@ -695,11 +698,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512455357440">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="274" column="81" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512457835725">
+        <mark key="[" line="225" column="20" />
+        <mark key="]" line="225" column="77" />
+        <mark key="^" line="225" column="77" />
+        <mark key="." line="225" column="77" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -871,6 +874,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/media/MediaBox.kt" timestamp="1512455964789" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/fragment_live_whiteboard.xml" timestamp="1512038697743">
         <mark key="[" line="87" column="44" />
         <mark key="]" line="92" column="53" />
@@ -1191,10 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="44" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/layout_live_scoring.xml" />
-      <jump line="391" column="41" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/CourseGroupFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="253" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="163" column="16" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
       <jump line="178" column="8" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/fragment/LiveChatFragment.kt" />
@@ -1291,16 +1291,20 @@
       <jump line="271" column="54" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="179" column="33" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LiveChatPresenter.kt" />
       <jump line="172" column="28" filename="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/activity/LiveActivity.kt" />
+      <jump line="340" column="32" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" />
+      <jump line="345" column="21" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" />
+      <jump line="417" column="55" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" />
+      <jump line="422" column="46" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdE1RU2VydmVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T2JzZXJ2YWJsZS5qdXN0KG9iamVjdCA6IE1hcC5FbnRyeTxTdHJpbmcsIEFNUVBDaGFubmVsPiB7CiAgICAgICAgICAgIAogICAgICAgIH0p</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text>login chat</text>
+        <text>Entry</text>
       </register>
       <register name="0" type="4">
         <text>if (BuildConfig.DEBUG) {
@@ -1310,54 +1314,49 @@
                 emitter.onError(e)
             }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdE1RU2VydmVyKCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">T2JzZXJ2YWJsZS5qdXN0KG9iamVjdCA6IE1hcC5FbnRyeTxTdHJpbmcsIEFNUVBDaGFubmVsPiB7CiAgICAgICAgICAgIAogICAgICAgIH0p</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>if (!isForceOffline) {
-            connectMQServer()
+      <register name="4" type="4">
+        <text>if (channel != null) {
+
+        } else {
+            if (!emitter.isDisposed) {
+                emitter.onComplete()
+            }
         }</text>
       </register>
-      <register name="4" type="4">
-        <text>if (isConnConnected) {
-                disconnect()
-            }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZSgiQU1RUE1hbmFnZXIubXNnUHVibGlzaGVyIGVycm9yIG9jY3VyOiAkaXQiKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgICAgIGlmIChjaGFubmVsLmNoYW4uaXNPcGVuKSB7CiAgICAgICAgICAgICAgICAgICAgY2hhbm5lbC5jaGFuLmNsb3NlKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICghZW1pdHRlci5pc0Rpc3Bvc2VkKSB7CiAgICAgICAgICAgICAgICAgICAgZW1pdHRlci5vbk5leHQob2JqZWN0IDogTWFwLkVudHJ5PFN0cmluZywgQU1RUENoYW5uZWw+ewogICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSB2YWwga2V5OiBTdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpID0gcXVldWVOYW1lCiAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIHZhbCB2YWx1ZTogQU1RUENoYW5uZWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpID0gY2hhbm5lbAoKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25Db21wbGV0ZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChlOiBUaW1lb3V0RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KG51bGwpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>// observe the AMQPManager.msgPublisher
-            msgPublisher.observeOn(AndroidSchedulers.mainThread())
-                    .autoDispose(this@LivePresenter, PresenterLifecycle.Event.DETACH)
-                    .subscribeBy(
-                            onError = {
-                                Timber.e(&quot;AMQPManager.msgPublisher error occur: $it&quot;)
-                            },
-                            onNext = {
-                                handleLiveCmd(it)
-                            }
-                    )</text>
+        <text>if (chans[queueName] != null) {
+        Timber.d(&quot;A queue with same name($queueName) is already bind, unbind it first.&quot;)
+    } else {
+        Timber.d(&quot;empty fall thought.&quot;)
+        Observable.just(Unit)
+    }</text>
       </register>
-      <register name="9" type="4">
-        <text>Observable.just(Unit).takeWhile {
-                isConnConnected
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB1bmJpbmRRdWV1ZUludGVybmFsKHF1ZXVlTmFtZSkK</text>
       </register>
     </registers>
     <search>
-      <last-search>login chat</last-search>
+      <last-search>Entry</last-search>
       <last-offset />
-      <last-pattern>login chat</last-pattern>
+      <last-pattern>Entry</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1365,7 +1364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ok</entry>
         <entry>retrofit</entry>
         <entry>okhttp</entry>
         <entry>mi</entry>
@@ -1385,6 +1383,7 @@
         <entry>scroll</entry>
         <entry>助教</entry>
         <entry>login chat</entry>
+        <entry>Entry</entry>
       </history-search>
       <history-cmd />
       <history-expr />
