@@ -142,11 +142,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512459464964">
-        <mark key="[" line="167" column="5" />
-        <mark key="]" line="167" column="15" />
-        <mark key="." line="167" column="15" />
-        <mark key="^" line="167" column="15" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/AMQPManager.kt" timestamp="1512461228072">
+        <mark key="[" line="316" column="34" />
+        <mark key="]" line="315" column="62" />
+        <mark key="." line="315" column="62" />
+        <mark key="^" line="315" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/tinker/RecyclerViewDemo/app/src/main/res/layout/activity_main.xml" timestamp="1512353724836">
         <mark key="[" line="8" column="4" />
@@ -491,7 +491,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512459029857" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1512460454228" />
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/res/layout/dialog_education_alert.xml" timestamp="1510718023609">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -698,11 +698,11 @@
         <mark key="." line="30" column="64" />
         <mark key="^" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512457835725">
-        <mark key="[" line="225" column="20" />
-        <mark key="]" line="225" column="77" />
-        <mark key="^" line="225" column="77" />
-        <mark key="." line="225" column="77" />
+      <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/presenter/LivePresenter.kt" timestamp="1512460725629">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="223" column="22" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidWorkspace/Education/app/src/main/java/com/readboy/live/education/mq/RabbitMQConf.kt" timestamp="1510111638820">
         <mark key="[" line="10" column="20" />
@@ -1298,10 +1298,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T2JzZXJ2YWJsZS5qdXN0KG9iamVjdCA6IE1hcC5FbnRyeTxTdHJpbmcsIEFNUVBDaGFubmVsPiB7CiAgICAgICAgICAgIAogICAgICAgIH0p</text>
+        <text>.subscribeBy(
+                        onError = {}
+                )</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Entry</text>
@@ -1315,42 +1317,35 @@
             }</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">T2JzZXJ2YWJsZS5qdXN0KG9iamVjdCA6IE1hcC5FbnRyeTxTdHJpbmcsIEFNUVBDaGFubmVsPiB7CiAgICAgICAgICAgIAogICAgICAgIH0p</text>
+        <text>.subscribeBy(
+                        onError = {}
+                )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IG9uTmV4dCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoIj09PT1BTVFQTWFuYWdlcj09PT0gY29ubmVjdCBhbXFwIG9uTmV4dCIpCiAgICAgICAgICAgICAgICAgICAgfSw=</text>
       </register>
-      <register name="4" type="4">
-        <text>if (channel != null) {
-
-        } else {
-            if (!emitter.isDisposed) {
-                emitter.onComplete()
-            }
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1biBiaW5kUXVldWUocXVldWVOYW1lOiBTdHJpbmcsIHJvdXRpbmdLZXk6IFN0cmluZykgPSBPYnNlcnZhYmxlLmp1c3QoMSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgICAgIGlmIChjaGFubmVsLmNoYW4uaXNPcGVuKSB7CiAgICAgICAgICAgICAgICAgICAgY2hhbm5lbC5jaGFuLmNsb3NlKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICghZW1pdHRlci5pc0Rpc3Bvc2VkKSB7CiAgICAgICAgICAgICAgICAgICAgZW1pdHRlci5vbk5leHQob2JqZWN0IDogTWFwLkVudHJ5PFN0cmluZywgQU1RUENoYW5uZWw+ewogICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSB2YWwga2V5OiBTdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpID0gcXVldWVOYW1lCiAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIHZhbCB2YWx1ZTogQU1RUENoYW5uZWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpID0gY2hhbm5lbAoKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25Db21wbGV0ZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChlOiBUaW1lb3V0RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoIWVtaXR0ZXIuaXNEaXNwb3NlZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcihlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9ic2VydmFibGUuanVzdCgxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDb25uZWN0aW5nID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDb25uZWN0aW5nID0gZmFsc2UK</text>
       </register>
       <register name="8" type="4">
-        <text>if (chans[queueName] != null) {
-        Timber.d(&quot;A queue with same name($queueName) is already bind, unbind it first.&quot;)
-    } else {
-        Timber.d(&quot;empty fall thought.&quot;)
-        Observable.just(Unit)
-    }</text>
+        <text>.concatWith {
+                bindQueue(amqpQueueName, amqpRoutingKey)
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1bmJpbmRRdWV1ZUludGVybmFsKHF1ZXVlTmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
