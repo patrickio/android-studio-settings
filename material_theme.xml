@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.1.5-2018.1" />
     <option name="accentColor" value="616161" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
@@ -7,6 +8,6 @@
     <option name="tabsHeight" value="50" />
     <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="userId" value="49e821a:1683134445f:-7fff" />
   </component>
 </application>
